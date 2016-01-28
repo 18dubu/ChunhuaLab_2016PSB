@@ -1,0 +1,7 @@
+30	delirium	hepatic	0.12218	body location or region	EXUNIQUE	
+29	conversion-disorder	hepatic	13.95028	body location or region	INCOMMON	
+73	sleep-deprivation	hepatic	13.96	body location or region	INCOMMON	
+73	sleep-deprivation	leg	7.93333	body location or region	INCOMMON	
+21	child-behavior-disorders	kidney	0.9429	body part, organ, or organ component	EXCOMMON	
+13	asperger-syndrome	brain	1.89655	body part, organ, or organ component	INCOMMON	
+73	sleep-deprivation	kidney	2.94667	body part, organ, or organ component	INCOMMON	

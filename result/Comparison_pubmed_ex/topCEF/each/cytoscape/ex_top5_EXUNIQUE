@@ -1,0 +1,101 @@
+1	adjustment-disorders	allergy severity - severe	0.26971	finding	EXUNIQUE	
+1	adjustment-disorders	active brand of pseudoephedrine-triprolidine	0.24066	organic chemical	EXUNIQUE	
+1	adjustment-disorders	active brand of pseudoephedrine-triprolidine	0.24066	pharmacologic substance	EXUNIQUE	
+1	adjustment-disorders	gravidity	0.20747	finding	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	psychotic disorders	0.41627	mental or behavioral dysfunction	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	attention deficit hyperactivity disorder	0.31579	disease or syndrome	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	attention deficit hyperactivity disorder	0.31579	mental or behavioral dysfunction	EXUNIQUE	
+13	asperger-syndrome	psychotic disorders	0.2931	mental or behavioral dysfunction	EXUNIQUE	
+13	asperger-syndrome	schizophrenia	0.25862	mental or behavioral dysfunction	EXUNIQUE	
+13	asperger-syndrome	epilepsy	0.24138	disease or syndrome	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	bipolar disorder	0.30144	mental or behavioral dysfunction	EXUNIQUE	
+16	autistic-disorder	epilepsy	0.25926	disease or syndrome	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	epilepsy	0.25678	disease or syndrome	EXUNIQUE	
+16	autistic-disorder	autistic disorder	0.25432	mental or behavioral dysfunction	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	allergy severity - severe	0.25359	finding	EXUNIQUE	
+18	binge-eating-disorder	gravidity	0.42623	finding	EXUNIQUE	
+18	binge-eating-disorder	psychotic disorders	0.39344	mental or behavioral dysfunction	EXUNIQUE	
+18	binge-eating-disorder	ethanol	0.35246	organic chemical	EXUNIQUE	
+18	binge-eating-disorder	ethanol	0.35246	pharmacologic substance	EXUNIQUE	
+18	binge-eating-disorder	substance abuse problem	0.29508	mental or behavioral dysfunction	EXUNIQUE	
+18	binge-eating-disorder	psychotherapy	0.22951	therapeutic or preventive procedure	EXUNIQUE	
+21	child-behavior-disorders	psychotic disorders	0.30093	mental or behavioral dysfunction	EXUNIQUE	
+21	child-behavior-disorders	pervasive development disorder	0.20679	congenital abnormality	EXUNIQUE	
+21	child-behavior-disorders	pervasive development disorder	0.20679	inorganic chemical	EXUNIQUE	
+21	child-behavior-disorders	pervasive development disorder	0.20679	mental or behavioral dysfunction	EXUNIQUE	
+21	child-behavior-disorders	pervasive development disorder	0.20679	pharmacologic substance	EXUNIQUE	
+21	child-behavior-disorders	allergy severity - severe	0.1929	finding	EXUNIQUE	
+21	child-behavior-disorders	developmental disabilities	0.18827	mental or behavioral dysfunction	EXUNIQUE	
+21	child-behavior-disorders	bipolar disorder	0.18673	mental or behavioral dysfunction	EXUNIQUE	
+27	conduct-disorder	psychotic disorders	0.26976	mental or behavioral dysfunction	EXUNIQUE	
+27	conduct-disorder	ethanol	0.22647	organic chemical	EXUNIQUE	
+27	conduct-disorder	ethanol	0.22647	pharmacologic substance	EXUNIQUE	
+27	conduct-disorder	pharmacologic substance	0.21089	pharmacologic substance	EXUNIQUE	
+27	conduct-disorder	pharmacologic substance	0.21089	therapeutic or preventive procedure	EXUNIQUE	
+30	delirium	allergy severity - severe	0.26081	finding	EXUNIQUE	
+30	delirium	mental disorders	0.24295	mental or behavioral dysfunction	EXUNIQUE	
+30	delirium	depressed mood	0.18797	finding	EXUNIQUE	
+30	delirium	depressed mood	0.18797	mental or behavioral dysfunction	EXUNIQUE	
+30	delirium	cerebrovascular accident	0.17293	disease or syndrome	EXUNIQUE	
+30	delirium	cerebrovascular accident	0.17293	therapeutic or preventive procedure	EXUNIQUE	
+30	delirium	unstable status	0.16917	finding	EXUNIQUE	
+30	delirium	malignant neoplasms	0.13017	biologically active substance	EXUNIQUE	
+30	delirium	malignant neoplasms	0.13017	finding	EXUNIQUE	
+30	delirium	malignant neoplasms	0.13017	neoplastic process	EXUNIQUE	
+30	delirium	malignant neoplasms	0.13017	pharmacologic substance	EXUNIQUE	
+30	delirium	malignant neoplasms	0.13017	therapeutic or preventive procedure	EXUNIQUE	
+30	delirium	hepatic	0.12218	body location or region	EXUNIQUE	
+30	delirium	nervous system disorder	0.11889	disease or syndrome	EXUNIQUE	
+30	delirium	craniocerebral trauma	0.11607	injury or poisoning	EXUNIQUE	
+30	delirium	schizophrenia	0.1156	mental or behavioral dysfunction	EXUNIQUE	
+32	depression	psychotic disorders	0.29685	mental or behavioral dysfunction	EXUNIQUE	
+44	frontotemporal-dementia	allergy severity - severe	0.28986	finding	EXUNIQUE	
+34	developmental-disabilities	epilepsy	0.24719	disease or syndrome	EXUNIQUE	
+34	developmental-disabilities	autistic disorder	0.2382	mental or behavioral dysfunction	EXUNIQUE	
+44	frontotemporal-dementia	gravidity	0.23188	finding	EXUNIQUE	
+44	frontotemporal-dementia	frontotemporal dementia	0.21739	disease or syndrome	EXUNIQUE	
+46	gambling	psychotic disorders	0.22222	mental or behavioral dysfunction	EXUNIQUE	
+46	gambling	intravenous infusion procedures	0.20833	therapeutic or preventive procedure	EXUNIQUE	
+46	gambling	allergy severity - severe	0.19444	finding	EXUNIQUE	
+52	marijuana-abuse	marihuana	0.43913	mental or behavioral dysfunction	EXUNIQUE	
+52	marijuana-abuse	marihuana	0.43913	organic chemical	EXUNIQUE	
+52	marijuana-abuse	marihuana	0.43913	pharmacologic substance	EXUNIQUE	
+52	marijuana-abuse	gravidity	0.36522	finding	EXUNIQUE	
+52	marijuana-abuse	pharmacologic substance	0.33043	pharmacologic substance	EXUNIQUE	
+52	marijuana-abuse	pharmacologic substance	0.33043	therapeutic or preventive procedure	EXUNIQUE	
+52	marijuana-abuse	mental disorders	0.26087	mental or behavioral dysfunction	EXUNIQUE	
+52	marijuana-abuse	schizophrenia	0.22174	mental or behavioral dysfunction	EXUNIQUE	
+62	panic-disorder	active brand of pseudoephedrine-triprolidine	0.15038	organic chemical	EXUNIQUE	
+62	panic-disorder	active brand of pseudoephedrine-triprolidine	0.15038	pharmacologic substance	EXUNIQUE	
+62	panic-disorder	psychotropic drugs	0.14286	pharmacologic substance	EXUNIQUE	
+66	pick-disease-of-the-brain	allergy severity - severe	0.3	finding	EXUNIQUE	
+69	restless-legs-syndrome	restless legs syndrome	0.55814	disease or syndrome	EXUNIQUE	
+69	restless-legs-syndrome	gravidity	0.31008	finding	EXUNIQUE	
+69	restless-legs-syndrome	sleep disorders	0.30233	disease or syndrome	EXUNIQUE	
+69	restless-legs-syndrome	sleep disorders	0.30233	sign or symptom	EXUNIQUE	
+69	restless-legs-syndrome	neoplasm metastasis	0.27132	neoplastic process	EXUNIQUE	
+69	restless-legs-syndrome	contraceptive methods	0.26357	therapeutic or preventive procedure	EXUNIQUE	
+69	restless-legs-syndrome	malignant neoplasms	0.06977	biologically active substance	EXUNIQUE	
+69	restless-legs-syndrome	malignant neoplasms	0.06977	finding	EXUNIQUE	
+69	restless-legs-syndrome	malignant neoplasms	0.06977	neoplastic process	EXUNIQUE	
+69	restless-legs-syndrome	malignant neoplasms	0.06977	pharmacologic substance	EXUNIQUE	
+69	restless-legs-syndrome	malignant neoplasms	0.06977	therapeutic or preventive procedure	EXUNIQUE	
+69	restless-legs-syndrome	cardiac arrhythmia	0.06977	finding	EXUNIQUE	
+69	restless-legs-syndrome	cardiac arrhythmia	0.06977	pathologic function	EXUNIQUE	
+69	restless-legs-syndrome	liver diseases	0.06977	disease or syndrome	EXUNIQUE	
+69	restless-legs-syndrome	kidney failure chronic	0.06977	disease or syndrome	EXUNIQUE	
+69	restless-legs-syndrome	kidney failure chronic	0.06977	pharmacologic substance	EXUNIQUE	
+69	restless-legs-syndrome	psychotic disorders	0.06202	mental or behavioral dysfunction	EXUNIQUE	
+70	schizophrenia	gravidity	0.24382	finding	EXUNIQUE	
+70	schizophrenia	antipsychotic agents	0.23689	pharmacologic substance	EXUNIQUE	
+70	schizophrenia	substance abuse problem	0.22997	mental or behavioral dysfunction	EXUNIQUE	
+70	schizophrenia	intravenous infusion procedures	0.21563	therapeutic or preventive procedure	EXUNIQUE	
+70	schizophrenia	unstable status	0.2003	finding	EXUNIQUE	
+73	sleep-deprivation	sleep disorders	0.25333	disease or syndrome	EXUNIQUE	
+73	sleep-deprivation	sleep disorders	0.25333	sign or symptom	EXUNIQUE	
+73	sleep-deprivation	ethanol	0.24	organic chemical	EXUNIQUE	
+73	sleep-deprivation	ethanol	0.24	pharmacologic substance	EXUNIQUE	
+73	sleep-deprivation	mental disorders	0.18667	mental or behavioral dysfunction	EXUNIQUE	
+73	sleep-deprivation	sleep apnea syndromes	0.16	disease or syndrome	EXUNIQUE	
+73	sleep-deprivation	depressed mood	0.14667	finding	EXUNIQUE	
+73	sleep-deprivation	depressed mood	0.14667	mental or behavioral dysfunction	EXUNIQUE	

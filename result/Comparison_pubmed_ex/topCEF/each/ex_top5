@@ -1,0 +1,253 @@
+1	adjustment-disorders	allergy severity - severe	0.26971	finding
+1	adjustment-disorders	active brand of pseudoephedrine-triprolidine	0.24066	organic chemical - pharmacologic substance
+1	adjustment-disorders	gravidity	0.20747	finding
+15	attention-deficit-disorder-with-hyperactivity	psychotic disorders	0.41627	mental or behavioral dysfunction
+15	attention-deficit-disorder-with-hyperactivity	attention deficit hyperactivity disorder	0.31579	disease or syndrome - mental or behavioral dysfunction
+13	asperger-syndrome	psychotic disorders	0.2931	mental or behavioral dysfunction
+13	asperger-syndrome	schizophrenia	0.25862	mental or behavioral dysfunction
+13	asperger-syndrome	epilepsy	0.24138	disease or syndrome
+13	asperger-syndrome	substance abuse problem	0.24138	mental or behavioral dysfunction
+13	asperger-syndrome	psychotropic drugs	0.22414	pharmacologic substance
+13	asperger-syndrome	antipsychotic agents	0.2069	pharmacologic substance
+13	asperger-syndrome	bipolar disorder	0.18966	mental or behavioral dysfunction
+13	asperger-syndrome	gravidity	0.17241	finding
+13	asperger-syndrome	unstable status	0.17241	finding
+13	asperger-syndrome	suicidal	0.15517	finding
+13	asperger-syndrome	schizoaffective disorder	0.15517	mental or behavioral dysfunction
+13	asperger-syndrome	antidepressive agents	0.15517	pharmacologic substance
+13	asperger-syndrome	skills	0.13793	individual behavior
+13	asperger-syndrome	autistic disorder	0.13793	mental or behavioral dysfunction
+13	asperger-syndrome	nervous system disorder	0.13793	disease or syndrome
+13	asperger-syndrome	suicidality	0.12069	clinical attribute
+13	asperger-syndrome	injury wounds	0.10345	body substance - injury or poisoning
+13	asperger-syndrome	autism spectrum disorders	0.08621	congenital abnormality - mental or behavioral dysfunction
+15	attention-deficit-disorder-with-hyperactivity	bipolar disorder	0.30144	mental or behavioral dysfunction
+16	autistic-disorder	epilepsy	0.25926	disease or syndrome
+15	attention-deficit-disorder-with-hyperactivity	epilepsy	0.25678	disease or syndrome
+16	autistic-disorder	autistic disorder	0.25432	mental or behavioral dysfunction
+15	attention-deficit-disorder-with-hyperactivity	allergy severity - severe	0.25359	finding
+15	attention-deficit-disorder-with-hyperactivity	pervasive development disorder	0.2504	congenital abnormality - inorganic chemical - mental or behavioral dysfunction - pharmacologic substance
+15	attention-deficit-disorder-with-hyperactivity	developmental disabilities	0.23126	mental or behavioral dysfunction
+15	attention-deficit-disorder-with-hyperactivity	hypersensitivity	0.20415	clinical attribute - finding - pathologic function
+15	attention-deficit-disorder-with-hyperactivity	gravidity	0.20096	finding
+15	attention-deficit-disorder-with-hyperactivity	intravenous infusion procedures	0.19617	therapeutic or preventive procedure
+15	attention-deficit-disorder-with-hyperactivity	mental disorders	0.1866	mental or behavioral dysfunction
+15	attention-deficit-disorder-with-hyperactivity	substance abuse problem	0.18501	mental or behavioral dysfunction
+16	autistic-disorder	allergy severity - severe	0.17778	finding
+15	attention-deficit-disorder-with-hyperactivity	suicidal	0.17384	finding
+15	attention-deficit-disorder-with-hyperactivity	mental retardation	0.17384	mental or behavioral dysfunction
+16	autistic-disorder	hypersensitivity	0.1679	clinical attribute - finding - pathologic function
+15	attention-deficit-disorder-with-hyperactivity	autistic disorder	0.16427	mental or behavioral dysfunction
+15	attention-deficit-disorder-with-hyperactivity	tic disorder	0.1563	mental or behavioral dysfunction
+15	attention-deficit-disorder-with-hyperactivity	hypertensive disease	0.15311	biologically active substance - disease or syndrome - finding
+15	attention-deficit-disorder-with-hyperactivity	depressed mood	0.15311	finding - mental or behavioral dysfunction
+18	binge-eating-disorder	gravidity	0.42623	finding
+18	binge-eating-disorder	psychotic disorders	0.39344	mental or behavioral dysfunction
+18	binge-eating-disorder	ethanol	0.35246	organic chemical - pharmacologic substance
+18	binge-eating-disorder	substance abuse problem	0.29508	mental or behavioral dysfunction
+18	binge-eating-disorder	psychotherapy	0.22951	therapeutic or preventive procedure
+18	binge-eating-disorder	intravenous infusion procedures	0.22131	therapeutic or preventive procedure
+18	binge-eating-disorder	unstable status	0.19672	finding
+18	binge-eating-disorder	bipolar disorder	0.19672	mental or behavioral dysfunction
+18	binge-eating-disorder	allergy severity - severe	0.18852	finding
+18	binge-eating-disorder	body weight decreased	0.18852	finding
+18	binge-eating-disorder	mental disorders	0.18852	mental or behavioral dysfunction
+18	binge-eating-disorder	anorexia nervosa	0.18033	mental or behavioral dysfunction
+18	binge-eating-disorder	suicidal	0.17213	finding
+18	binge-eating-disorder	depressed mood	0.16393	finding - mental or behavioral dysfunction
+18	binge-eating-disorder	bulimia nervosa	0.14754	mental or behavioral dysfunction
+18	binge-eating-disorder	eating disorders	0.14754	mental or behavioral dysfunction
+18	binge-eating-disorder	suicidality	0.13934	clinical attribute
+18	binge-eating-disorder	psychotropic drugs	0.13934	pharmacologic substance
+18	binge-eating-disorder	schizophrenia	0.13115	mental or behavioral dysfunction
+18	binge-eating-disorder	binge eating disorder	0.13115	mental or behavioral dysfunction
+21	child-behavior-disorders	psychotic disorders	0.30093	mental or behavioral dysfunction
+21	child-behavior-disorders	pervasive development disorder	0.20679	congenital abnormality - inorganic chemical - mental or behavioral dysfunction - pharmacologic substance
+21	child-behavior-disorders	allergy severity - severe	0.1929	finding
+21	child-behavior-disorders	developmental disabilities	0.18827	mental or behavioral dysfunction
+21	child-behavior-disorders	bipolar disorder	0.18673	mental or behavioral dysfunction
+21	child-behavior-disorders	epilepsy	0.18056	disease or syndrome
+21	child-behavior-disorders	pharmacologic substance	0.1713	pharmacologic substance - therapeutic or preventive procedure
+21	child-behavior-disorders	autistic disorder	0.15741	mental or behavioral dysfunction
+21	child-behavior-disorders	hypersensitivity	0.14969	clinical attribute - finding - pathologic function
+21	child-behavior-disorders	attention deficit hyperactivity disorder	0.14506	disease or syndrome - mental or behavioral dysfunction
+21	child-behavior-disorders	mental retardation	0.14043	mental or behavioral dysfunction
+21	child-behavior-disorders	suicidal	0.125	finding
+21	child-behavior-disorders	mental disorders	0.12191	mental or behavioral dysfunction
+21	child-behavior-disorders	substance abuse problem	0.1142	mental or behavioral dysfunction
+21	child-behavior-disorders	psychotropic drugs	0.1142	pharmacologic substance
+21	child-behavior-disorders	schizophrenia	0.11111	mental or behavioral dysfunction
+21	child-behavior-disorders	intravenous infusion procedures	0.11111	therapeutic or preventive procedure
+21	child-behavior-disorders	depressed mood	0.11111	finding - mental or behavioral dysfunction
+21	child-behavior-disorders	gravidity	0.09877	finding
+21	child-behavior-disorders	conduct disorder	0.09259	mental or behavioral dysfunction
+27	conduct-disorder	psychotic disorders	0.26976	mental or behavioral dysfunction
+27	conduct-disorder	ethanol	0.22647	organic chemical - pharmacologic substance
+27	conduct-disorder	pharmacologic substance	0.21089	pharmacologic substance - therapeutic or preventive procedure
+30	delirium	allergy severity - severe	0.26081	finding
+30	delirium	mental disorders	0.24295	mental or behavioral dysfunction
+30	delirium	depressed mood	0.18797	finding - mental or behavioral dysfunction
+30	delirium	cerebrovascular accident	0.17293	disease or syndrome - therapeutic or preventive procedure
+30	delirium	unstable status	0.16917	finding
+30	delirium	active brand of pseudoephedrine-triprolidine	0.16541	organic chemical - pharmacologic substance
+30	delirium	hypersensitivity	0.15789	clinical attribute - finding - pathologic function
+30	delirium	magnetic resonance imaging	0.14004	diagnostic procedure
+30	delirium	substance abuse problem	0.1391	mental or behavioral dysfunction
+30	delirium	epilepsy	0.13628	disease or syndrome
+29	conversion-disorder	cardiovascular diseases	0.04972	disease or syndrome
+29	conversion-disorder	magnetic resonance imaging	0.04972	diagnostic procedure
+29	conversion-disorder	vitamins	0.04972	organic chemical - pharmacologic substance
+29	conversion-disorder	antipsychotic agents	0.04972	pharmacologic substance
+29	conversion-disorder	skin carcinoma	0.04972	neoplastic process
+29	conversion-disorder	atrophic	0.04972	disease or syndrome - pathologic function
+29	conversion-disorder	glycogen storage disease type ii	0.04972	disease or syndrome
+29	conversion-disorder	uveitis	0.04972	disease or syndrome - finding
+29	conversion-disorder	lung	0.04972	body part, organ, or organ component - disease or syndrome
+29	conversion-disorder	diabetic retinopathy	0.04972	disease or syndrome
+30	delirium	malignant neoplasms	0.13017	biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure
+30	delirium	hepatic	0.12218	body location or region
+30	delirium	nervous system disorder	0.11889	disease or syndrome
+30	delirium	craniocerebral trauma	0.11607	injury or poisoning
+30	delirium	schizophrenia	0.1156	mental or behavioral dysfunction
+30	delirium	injury wounds	0.11137	body substance - injury or poisoning
+30	delirium	dactinomycin	0.10714	antibiotic - body part, organ, or organ component - disease or syndrome - therapeutic or preventive procedure
+30	delirium	gravidity	0.10385	finding
+30	delirium	blood vessel	0.09117	body part, organ, or organ component - finding
+30	delirium	hypertensive disease	0.0907	biologically active substance - disease or syndrome - finding
+30	delirium	antipsychotic agents	0.086	pharmacologic substance
+30	delirium	unipolar depression	0.08318	mental or behavioral dysfunction
+30	delirium	investigational new drugs	0.0813	pharmacologic substance - therapeutic or preventive procedure
+30	delirium	physical assessment findings	0.0766	finding
+30	delirium	psychotic disorders	0.07472	mental or behavioral dysfunction
+30	delirium	impaired cognition	0.07284	finding - mental or behavioral dysfunction
+30	delirium	myocardial infarction	0.0719	disease or syndrome - finding
+30	delirium	bipolar disorder	0.06861	mental or behavioral dysfunction
+30	delirium	medical contraindication	0.06532	finding
+30	delirium	cerebrovascular disorders	0.06438	pathologic function
+32	depression	psychotic disorders	0.29685	mental or behavioral dysfunction
+44	frontotemporal-dementia	allergy severity - severe	0.28986	finding
+34	developmental-disabilities	epilepsy	0.24719	disease or syndrome
+34	developmental-disabilities	autistic disorder	0.2382	mental or behavioral dysfunction
+44	frontotemporal-dementia	gravidity	0.23188	finding
+44	frontotemporal-dementia	frontotemporal dementia	0.21739	disease or syndrome
+44	frontotemporal-dementia	magnetic resonance imaging	0.2029	diagnostic procedure
+44	frontotemporal-dementia	substance abuse problem	0.18841	mental or behavioral dysfunction
+44	frontotemporal-dementia	congenital abnormality	0.18841	congenital abnormality - disease or syndrome
+44	frontotemporal-dementia	mental disorders	0.18841	mental or behavioral dysfunction
+34	developmental-disabilities	allergy severity - severe	0.17753	finding
+44	frontotemporal-dementia	cerebrovascular accident	0.15942	disease or syndrome - therapeutic or preventive procedure
+34	developmental-disabilities	psychotic disorders	0.14831	mental or behavioral dysfunction
+34	developmental-disabilities	hypersensitivity	0.14831	clinical attribute - finding - pathologic function
+34	developmental-disabilities	schizophrenia	0.14607	mental or behavioral dysfunction
+44	frontotemporal-dementia	pharmaceutical preparations	0.14493	pharmacologic substance
+34	developmental-disabilities	gene therapy	0.14157	therapeutic or preventive procedure
+34	developmental-disabilities	active brand of pseudoephedrine-triprolidine	0.13483	organic chemical - pharmacologic substance
+34	developmental-disabilities	gravidity	0.13258	finding
+44	frontotemporal-dementia	epilepsy	0.13043	disease or syndrome
+44	frontotemporal-dementia	hypersensitivity	0.13043	clinical attribute - finding - pathologic function
+46	gambling	psychotic disorders	0.22222	mental or behavioral dysfunction
+46	gambling	intravenous infusion procedures	0.20833	therapeutic or preventive procedure
+46	gambling	allergy severity - severe	0.19444	finding
+52	marijuana-abuse	marihuana	0.43913	mental or behavioral dysfunction - organic chemical - pharmacologic substance
+52	marijuana-abuse	gravidity	0.36522	finding
+52	marijuana-abuse	pharmacologic substance	0.33043	pharmacologic substance - therapeutic or preventive procedure
+52	marijuana-abuse	mental disorders	0.26087	mental or behavioral dysfunction
+52	marijuana-abuse	schizophrenia	0.22174	mental or behavioral dysfunction
+52	marijuana-abuse	hypertensive disease	0.21739	biologically active substance - disease or syndrome - finding
+52	marijuana-abuse	psychotic disorders	0.19565	mental or behavioral dysfunction
+52	marijuana-abuse	pharmaceutical preparations	0.18696	pharmacologic substance
+52	marijuana-abuse	allergy severity - severe	0.18261	finding
+52	marijuana-abuse	unstable status	0.18261	finding
+52	marijuana-abuse	hypersensitivity	0.17826	clinical attribute - finding - pathologic function
+52	marijuana-abuse	intravenous infusion procedures	0.17391	therapeutic or preventive procedure
+46	gambling	unstable status	0.15278	finding
+46	gambling	gambler	0.15278	individual behavior
+52	marijuana-abuse	substance abuse problem	0.15217	mental or behavioral dysfunction
+52	marijuana-abuse	kidney	0.14783	body part, organ, or organ component
+52	marijuana-abuse	contraceptive methods	0.13913	therapeutic or preventive procedure
+46	gambling	substance abuse problem	0.13889	mental or behavioral dysfunction
+46	gambling	schizophrenia	0.13889	mental or behavioral dysfunction
+46	gambling	pharmaceutical preparations	0.13889	pharmacologic substance
+62	panic-disorder	active brand of pseudoephedrine-triprolidine	0.15038	organic chemical - pharmacologic substance
+62	panic-disorder	psychotropic drugs	0.14286	pharmacologic substance
+66	pick-disease-of-the-brain	allergy severity - severe	0.3	finding
+69	restless-legs-syndrome	restless legs syndrome	0.55814	disease or syndrome
+69	restless-legs-syndrome	gravidity	0.31008	finding
+69	restless-legs-syndrome	sleep disorders	0.30233	disease or syndrome - sign or symptom
+69	restless-legs-syndrome	neoplasm metastasis	0.27132	neoplastic process
+69	restless-legs-syndrome	contraceptive methods	0.26357	therapeutic or preventive procedure
+69	restless-legs-syndrome	sleep apnea syndromes	0.25581	disease or syndrome
+69	restless-legs-syndrome	dopamine agonists	0.21705	pharmacologic substance
+69	restless-legs-syndrome	narcolepsy	0.1938	disease or syndrome
+69	restless-legs-syndrome	active brand of pseudoephedrine-triprolidine	0.1938	organic chemical - pharmacologic substance
+69	restless-legs-syndrome	positive finding	0.16279	finding
+69	restless-legs-syndrome	hypotension orthostatic	0.15504	finding
+69	restless-legs-syndrome	allergy severity - severe	0.15504	finding
+69	restless-legs-syndrome	substance abuse problem	0.14729	mental or behavioral dysfunction
+69	restless-legs-syndrome	movement disorders	0.14729	disease or syndrome
+69	restless-legs-syndrome	unstable status	0.14729	finding
+69	restless-legs-syndrome	antipsychotic agents	0.13953	pharmacologic substance
+69	restless-legs-syndrome	hepatic	0.13178	body location or region
+69	restless-legs-syndrome	operative surgical procedures	0.13178	diagnostic procedure - therapeutic or preventive procedure
+69	restless-legs-syndrome	shift worker	0.12403	finding
+69	restless-legs-syndrome	relate - vinyl resin	0.12403	organic chemical
+69	restless-legs-syndrome	malignant neoplasms	0.06977	biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure
+69	restless-legs-syndrome	cardiac arrhythmia	0.06977	finding - pathologic function
+69	restless-legs-syndrome	liver diseases	0.06977	disease or syndrome
+69	restless-legs-syndrome	kidney failure chronic	0.06977	disease or syndrome - pharmacologic substance
+69	restless-legs-syndrome	psychotic disorders	0.06202	mental or behavioral dysfunction
+69	restless-legs-syndrome	sterility	0.06202	pathologic function
+69	restless-legs-syndrome	nervousness	0.06202	sign or symptom
+69	restless-legs-syndrome	alcohol abuse	0.06202	mental or behavioral dysfunction
+69	restless-legs-syndrome	sleep apnea obstructive	0.06202	biologically active substance - disease or syndrome
+69	restless-legs-syndrome	anticonvulsants	0.06202	pharmacologic substance
+69	restless-legs-syndrome	medical history	0.06202	finding
+69	restless-legs-syndrome	diabetic neuropathies	0.06202	disease or syndrome
+69	restless-legs-syndrome	polyneuropathy	0.06202	disease or syndrome
+69	restless-legs-syndrome	ropinirole	0.06202	organic chemical - pharmacologic substance
+69	restless-legs-syndrome	hepatitis c	0.06202	disease or syndrome - virus
+69	restless-legs-syndrome	aspartate transaminase	0.06202	enzyme
+69	restless-legs-syndrome	amyotrophic lateral sclerosis	0.05426	disease or syndrome - pharmacologic substance
+69	restless-legs-syndrome	consumption-archaic term for tb	0.05426	disease or syndrome
+69	restless-legs-syndrome	impulse control disorders	0.05426	mental or behavioral dysfunction
+69	restless-legs-syndrome	insulin	0.05426	pharmacologic substance
+70	schizophrenia	gravidity	0.24382	finding
+70	schizophrenia	antipsychotic agents	0.23689	pharmacologic substance
+70	schizophrenia	substance abuse problem	0.22997	mental or behavioral dysfunction
+70	schizophrenia	intravenous infusion procedures	0.21563	therapeutic or preventive procedure
+70	schizophrenia	unstable status	0.2003	finding
+70	schizophrenia	schizophrenia	0.19535	mental or behavioral dysfunction
+70	schizophrenia	hypersensitivity	0.14985	clinical attribute - finding - pathologic function
+70	schizophrenia	mental retardation	0.14491	mental or behavioral dysfunction
+70	schizophrenia	allergy severity - severe	0.1365	finding
+70	schizophrenia	substance dependence	0.13205	mental or behavioral dysfunction
+70	schizophrenia	positive finding	0.12265	finding
+70	schizophrenia	clozapine	0.12018	organic chemical - pharmacologic substance
+70	schizophrenia	mental disorders	0.11771	mental or behavioral dysfunction
+70	schizophrenia	active brand of pseudoephedrine-triprolidine	0.11177	organic chemical - pharmacologic substance
+70	schizophrenia	psychotic disorders	0.11029	mental or behavioral dysfunction
+70	schizophrenia	craniocerebral trauma	0.10386	injury or poisoning
+70	schizophrenia	suicidal	0.10287	finding
+70	schizophrenia	hepatic	0.10138	body location or region
+70	schizophrenia	nicotine	0.0999	hazardous or poisonous substance - organic chemical - pharmacologic substance
+70	schizophrenia	contraceptive methods	0.08704	therapeutic or preventive procedure
+73	sleep-deprivation	sleep disorders	0.25333	disease or syndrome - sign or symptom
+73	sleep-deprivation	ethanol	0.24	organic chemical - pharmacologic substance
+73	sleep-deprivation	mental disorders	0.18667	mental or behavioral dysfunction
+73	sleep-deprivation	sleep apnea syndromes	0.16	disease or syndrome
+73	sleep-deprivation	depressed mood	0.14667	finding - mental or behavioral dysfunction
+73	sleep-deprivation	allergy severity - severe	0.13333	finding
+73	sleep-deprivation	psychotic disorders	0.12	mental or behavioral dysfunction
+73	sleep-deprivation	shift worker	0.12	finding
+73	sleep-deprivation	substance abuse problem	0.12	mental or behavioral dysfunction
+73	sleep-deprivation	unstable status	0.10667	finding
+73	sleep-deprivation	hypersensitivity	0.10667	clinical attribute - finding - pathologic function
+73	sleep-deprivation	anxiety disorders	0.09333	finding - mental or behavioral dysfunction
+73	sleep-deprivation	active brand of pseudoephedrine-triprolidine	0.09333	organic chemical - pharmacologic substance
+73	sleep-deprivation	smoker	0.09333	finding
+73	sleep-deprivation	epilepsy	0.08	disease or syndrome
+73	sleep-deprivation	narcolepsy	0.08	disease or syndrome
+73	sleep-deprivation	benzodiazepines	0.08	organic chemical - pharmacologic substance
+73	sleep-deprivation	bipolar disorder	0.08	mental or behavioral dysfunction
+73	sleep-deprivation	craniocerebral trauma	0.08	injury or poisoning
+73	sleep-deprivation	limb structure	0.08	body part, organ, or organ component

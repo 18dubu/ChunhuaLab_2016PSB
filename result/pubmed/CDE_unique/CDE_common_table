@@ -1,0 +1,1833 @@
+row.names,id,name,CDEs,Frequency..0.1.normalized.,UMLS.Semantic.Types
+1,adjustment-disorders,pharmaceutical preparations,2,pharmacologic substance,NA
+1,adjustment-disorders,adverse event associated with death,2,finding,NA
+1,adjustment-disorders,precipitating factors,2,clinical attribute,NA
+1,adjustment-disorders,feeling hopeless,2,finding,NA
+1,adjustment-disorders,depressed mood,2,finding - mental or behavioral dysfunction,NA
+1,adjustment-disorders,suicide attempt,1,finding - mental or behavioral dysfunction,NA
+1,adjustment-disorders,support - dental,1,clinical attribute - organic chemical - pharmacologic substance,NA
+1,adjustment-disorders,level,1,pharmacologic substance,NA
+1,adjustment-disorders,skills,1,individual behavior,NA
+1,adjustment-disorders,worried,1,finding,NA
+1,adjustment-disorders,heart beat,1,organ or tissue function,NA
+1,adjustment-disorders,physical findings,1,finding,NA
+1,adjustment-disorders,cognitive therapy,1,diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure,NA
+2,alcohol-related-disorders,alcohol withdrawal syndrome,13,disease or syndrome,NA
+2,alcohol-related-disorders,alcoholic intoxication chronic,4,mental or behavioral dysfunction,NA
+2,alcohol-related-disorders,alcohol withdrawal delirium,4,disease or syndrome - receptor,NA
+2,alcohol-related-disorders,support - dental,3,clinical attribute - organic chemical - pharmacologic substance,NA
+2,alcohol-related-disorders,heart rate,3,clinical attribute,NA
+2,alcohol-related-disorders,hallucinations,3,mental or behavioral dysfunction,NA
+2,alcohol-related-disorders,physical findings,2,finding,NA
+2,alcohol-related-disorders,pharmaceutical preparations,2,pharmacologic substance,NA
+2,alcohol-related-disorders,tachycardia,2,finding,NA
+2,alcohol-related-disorders,confusion,2,finding - mental or behavioral dysfunction,NA
+2,alcohol-related-disorders,hand,2,body part organ or organ component,NA
+2,alcohol-related-disorders,body fluids,2,biologically active substance - body substance - pharmacologic substance,NA
+2,alcohol-related-disorders,agitation,1,finding - sign or symptom,NA
+2,alcohol-related-disorders,dehydration,1,disease or syndrome - finding,NA
+2,alcohol-related-disorders,life threatening,1,finding,NA
+2,alcohol-related-disorders,anorexia,1,disease or syndrome - finding,NA
+2,alcohol-related-disorders,mild adverse event,1,finding,NA
+2,alcohol-related-disorders,fatigue,1,sign or symptom,NA
+2,alcohol-related-disorders,adverse event associated with death,1,finding,NA
+2,alcohol-related-disorders,prophylactic treatment,1,therapeutic or preventive procedure,NA
+2,alcohol-related-disorders,sleeplessness,1,finding - sign or symptom,NA
+2,alcohol-related-disorders,heart rhythm,1,organ or tissue function - pathologic function,NA
+2,alcohol-related-disorders,anxiety disorders,1,finding - mental or behavioral dysfunction,NA
+2,alcohol-related-disorders,fever,1,finding,NA
+2,alcohol-related-disorders,mood swings,1,mental or behavioral dysfunction - sign or symptom,NA
+2,alcohol-related-disorders,benzodiazepines,1,organic chemical - pharmacologic substance,NA
+2,alcohol-related-disorders,alcohol consumption,1,individual behavior,NA
+2,alcohol-related-disorders,dyskinetic syndrome,1,disease or syndrome - finding,NA
+2,alcohol-related-disorders,liver,1,body part organ or organ component - disease or syndrome - organic chemical - pharmacologic substance,NA
+2,alcohol-related-disorders,screening for cancer,1,diagnostic procedure,NA
+2,alcohol-related-disorders,tremor,1,finding - sign or symptom,NA
+2,alcohol-related-disorders,seizures,1,finding - sign or symptom,NA
+2,alcohol-related-disorders,bony process,1,body part organ or organ component,NA
+2,alcohol-related-disorders,tissue damage,1,injury or poisoning,NA
+2,alcohol-related-disorders,heart beat,1,organ or tissue function,NA
+2,alcohol-related-disorders,body part,1,body location or region - body part organ or organ component,NA
+2,alcohol-related-disorders,pupil,1,body part organ or organ component,NA
+2,alcohol-related-disorders,sedation,1,sign or symptom - therapeutic or preventive procedure,NA
+2,alcohol-related-disorders,veins,1,body part organ or organ component,NA
+2,alcohol-related-disorders,irritable mood,1,finding,NA
+2,alcohol-related-disorders,liver,16,body part organ or organ component - disease or syndrome - organic chemical - pharmacologic substance,NA
+2,alcohol-related-disorders,ethanol,9,organic chemical - pharmacologic substance,NA
+2,alcohol-related-disorders,alcohol consumption,6,individual behavior,NA
+2,alcohol-related-disorders,tissue damage,3,injury or poisoning,NA
+2,alcohol-related-disorders,heavy drinking,3,mental or behavioral dysfunction,NA
+2,alcohol-related-disorders,brain,2,body part organ or organ component - disease or syndrome,NA
+2,alcohol-related-disorders,support - dental,2,clinical attribute - organic chemical - pharmacologic substance,NA
+2,alcohol-related-disorders,abdomen,2,body location or region,NA
+2,alcohol-related-disorders,veins,2,body part organ or organ component,NA
+2,alcohol-related-disorders,physical findings,1,finding,NA
+2,alcohol-related-disorders,tests and testing,1,diagnostic procedure,NA
+2,alcohol-related-disorders,ultrasonography,1,diagnostic procedure,NA
+2,alcohol-related-disorders,body weight decreased,1,finding,NA
+2,alcohol-related-disorders,neurological observations,1,finding,NA
+2,alcohol-related-disorders,alcoholic intoxication chronic,1,mental or behavioral dysfunction,NA
+2,alcohol-related-disorders,eye,1,body part organ or organ component - body substance,NA
+2,alcohol-related-disorders,vitamins,1,organic chemical - pharmacologic substance,NA
+2,alcohol-related-disorders,dry skin,1,finding - pharmacologic substance - sign or symptom,NA
+2,alcohol-related-disorders,coloring excipient,1,pharmacologic substance,NA
+2,alcohol-related-disorders,prophylactic treatment,1,therapeutic or preventive procedure,NA
+2,alcohol-related-disorders,inflammation,1,pathologic function,NA
+2,alcohol-related-disorders,cognitive therapy,1,diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure,NA
+2,alcohol-related-disorders,stomach,1,body part organ or organ component - disease or syndrome,NA
+2,alcohol-related-disorders,malnutrition,1,disease or syndrome,NA
+2,alcohol-related-disorders,leg,1,body location or region,NA
+2,alcohol-related-disorders,fatigue,1,sign or symptom,NA
+2,alcohol-related-disorders,xerostomia,1,sign or symptom,NA
+2,alcohol-related-disorders,foot,1,body part organ or organ component,NA
+2,alcohol-related-disorders,oral region,1,body location or region - body part organ or organ component - disease or syndrome,NA
+2,alcohol-related-disorders,liver function,1,organ or tissue function,NA
+2,alcohol-related-disorders,numbness,1,finding - sign or symptom,NA
+2,alcohol-related-disorders,multiple endocrine neoplasia,1,antibiotic - neoplastic process - organic chemical,NA
+2,alcohol-related-disorders,hand,1,body part organ or organ component,NA
+2,alcohol-related-disorders,memory observations,1,finding,NA
+2,alcohol-related-disorders,ethanol,8,organic chemical - pharmacologic substance,NA
+2,alcohol-related-disorders,pharmaceutical preparations,6,pharmacologic substance,NA
+2,alcohol-related-disorders,esthesia,5,finding - organ or tissue function,NA
+2,alcohol-related-disorders,alcoholic intoxication chronic,4,mental or behavioral dysfunction,NA
+2,alcohol-related-disorders,leg,4,body location or region,NA
+2,alcohol-related-disorders,upper arm,3,body location or region - body part organ or organ component - neoplastic process,NA
+2,alcohol-related-disorders,tissue damage,3,injury or poisoning,NA
+2,alcohol-related-disorders,disability,2,finding,NA
+2,alcohol-related-disorders,therapeutic procedure,2,enzyme - finding - therapeutic or preventive procedure,NA
+2,alcohol-related-disorders,minerals,2,inorganic chemical,NA
+2,alcohol-related-disorders,muscle cramp,2,sign or symptom,NA
+2,alcohol-related-disorders,deterioration of status,2,finding,NA
+2,alcohol-related-disorders,urinary bladder,2,body part organ or organ component,NA
+2,alcohol-related-disorders,diarrhea,2,finding - sign or symptom,NA
+2,alcohol-related-disorders,malaise,2,finding - sign or symptom,NA
+2,alcohol-related-disorders,expression procedure,1,therapeutic or preventive procedure,NA
+2,alcohol-related-disorders,electrolytes,1,inorganic chemical - pharmacologic substance,NA
+2,alcohol-related-disorders,pharmacologic substance,1,pharmacologic substance - therapeutic or preventive procedure,NA
+2,alcohol-related-disorders,physical findings,1,finding,NA
+2,alcohol-related-disorders,foot,1,body part organ or organ component,NA
+2,alcohol-related-disorders,nausea,1,finding - sign or symptom,NA
+2,alcohol-related-disorders,body part,1,body location or region - body part organ or organ component,NA
+2,alcohol-related-disorders,malnutrition,1,disease or syndrome,NA
+2,alcohol-related-disorders,dizziness,1,finding - sign or symptom,NA
+2,alcohol-related-disorders,support - dental,1,clinical attribute - organic chemical - pharmacologic substance,NA
+2,alcohol-related-disorders,ask question,1,finding,NA
+2,alcohol-related-disorders,incontinence,1,disease or syndrome,NA
+2,alcohol-related-disorders,nutrition disorders,1,disease or syndrome,NA
+2,alcohol-related-disorders,water,1,inorganic chemical - pharmacologic substance,NA
+2,alcohol-related-disorders,male gender,1,finding,NA
+2,alcohol-related-disorders,mild adverse event,1,finding,NA
+2,alcohol-related-disorders,prophylactic treatment,1,therapeutic or preventive procedure,NA
+2,alcohol-related-disorders,liver,1,body part organ or organ component - disease or syndrome - organic chemical - pharmacologic substance,NA
+2,alcohol-related-disorders,vitamin b 12,1,organic chemical - pharmacologic substance,NA
+2,alcohol-related-disorders,exercise pain management,1,therapeutic or preventive procedure,NA
+2,alcohol-related-disorders,current drinker,1,individual behavior,NA
+2,alcohol-related-disorders,kidney,1,body part organ or organ component,NA
+2,alcohol-related-disorders,analgesics,1,organic chemical - pharmacologic substance,NA
+2,alcohol-related-disorders,apical segmental bronchus,1,body part organ or organ component,NA
+2,alcohol-related-disorders,behavior therapy,1,therapeutic or preventive procedure,NA
+2,alcohol-related-disorders,renal function,1,organ or tissue function,NA
+2,alcohol-related-disorders,alcohol consumption,1,individual behavior,NA
+2,alcohol-related-disorders,multiple endocrine neoplasia,1,antibiotic - neoplastic process - organic chemical,NA
+3,alcoholism,ethanol,49,organic chemical - pharmacologic substance,NA
+3,alcoholism,alcoholic intoxication chronic,19,mental or behavioral dysfunction,NA
+3,alcoholism,support - dental,15,clinical attribute - organic chemical - pharmacologic substance,NA
+3,alcoholism,alcohol consumption,8,individual behavior,NA
+3,alcoholism,anxiety disorders,5,finding - mental or behavioral dysfunction,NA
+3,alcoholism,alcohol abuse,5,mental or behavioral dysfunction,NA
+3,alcoholism,tissue damage,3,injury or poisoning,NA
+3,alcoholism,physical findings,2,finding,NA
+3,alcoholism,pharmaceutical preparations,2,pharmacologic substance,NA
+3,alcoholism,pharmacologic substance,2,pharmacologic substance - therapeutic or preventive procedure,NA
+3,alcoholism,multiple endocrine neoplasia,2,antibiotic - neoplastic process - organic chemical,NA
+3,alcoholism,memory observations,2,finding,NA
+3,alcoholism,alcohol withdrawal syndrome,2,disease or syndrome,NA
+3,alcoholism,heart,1,body part organ or organ component - pharmacologic substance,NA
+3,alcoholism,ask question,1,finding,NA
+3,alcoholism,life threatening,1,finding,NA
+3,alcoholism,brain injuries,1,injury or poisoning,NA
+3,alcoholism,prophylactic treatment,1,therapeutic or preventive procedure,NA
+3,alcoholism,inflammation,1,pathologic function,NA
+3,alcoholism,depression bipolar,1,mental or behavioral dysfunction,NA
+3,alcoholism,seizures,1,finding - sign or symptom,NA
+3,alcoholism,methamphetamine,1,body substance - hazardous or poisonous substance - organic chemical - pharmacologic substance,NA
+3,alcoholism,heavy drinking,1,mental or behavioral dysfunction,NA
+3,alcoholism,low self-esteem,1,finding,NA
+3,alcoholism,tremor,1,finding - sign or symptom,NA
+3,alcoholism,hand,1,body part organ or organ component,NA
+3,alcoholism,confusion,1,finding - mental or behavioral dysfunction,NA
+3,alcoholism,alcohol withdrawal delirium,1,disease or syndrome - receptor,NA
+3,alcoholism,liver function,1,organ or tissue function,NA
+3,alcoholism,malignant neoplasms,1,biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure,NA
+3,alcoholism,malnutrition,1,disease or syndrome,NA
+4,alzheimer-disease,brain,10,body part organ or organ component - disease or syndrome,NA
+4,alzheimer-disease,dementia,10,mental or behavioral dysfunction,NA
+4,alzheimer-disease,vitamins,5,organic chemical - pharmacologic substance,NA
+4,alzheimer-disease,does talk,3,finding,NA
+4,alzheimer-disease,adverse event associated with death,3,finding,NA
+4,alzheimer-disease,magnetic resonance imaging,3,diagnostic procedure,NA
+4,alzheimer-disease,support - dental,3,clinical attribute - organic chemical - pharmacologic substance,NA
+4,alzheimer-disease,forgetfulness,3,sign or symptom,NA
+4,alzheimer-disease,memory observations,3,finding,NA
+4,alzheimer-disease,deterioration of status,3,finding,NA
+4,alzheimer-disease,mild cognitive disorder,3,mental or behavioral dysfunction,NA
+4,alzheimer-disease,violent,2,mental or behavioral dysfunction,NA
+4,alzheimer-disease,mental status adverse event,2,finding,NA
+4,alzheimer-disease,proteins,2,biologically active substance,NA
+4,alzheimer-disease,skills,2,individual behavior,NA
+4,alzheimer-disease,razadyne,2,organic chemical - pharmacologic substance,NA
+4,alzheimer-disease,scanning,2,diagnostic procedure - finding,NA
+4,alzheimer-disease,muscle cramp,2,sign or symptom,NA
+4,alzheimer-disease,confusion,2,finding - mental or behavioral dysfunction,NA
+4,alzheimer-disease,prophylactic treatment,2,therapeutic or preventive procedure,NA
+4,alzheimer-disease,agitation,2,finding - sign or symptom,NA
+4,alzheimer-disease,perform,2,pharmacologic substance,NA
+4,alzheimer-disease,cerebrovascular accident,2,disease or syndrome - therapeutic or preventive procedure,NA
+4,alzheimer-disease,as if personality,2,mental or behavioral dysfunction,NA
+4,alzheimer-disease,central nervous system depressants,1,pharmacologic substance,NA
+4,alzheimer-disease,pressure ulcer,1,disease or syndrome,NA
+4,alzheimer-disease,brain function,1,organ or tissue function,NA
+4,alzheimer-disease,anxiety disorders,1,finding - mental or behavioral dysfunction,NA
+4,alzheimer-disease,pharmacologic substance,1,pharmacologic substance - therapeutic or preventive procedure,NA
+4,alzheimer-disease,physical findings,1,finding,NA
+4,alzheimer-disease,hallucinations,1,mental or behavioral dysfunction,NA
+4,alzheimer-disease,anemia,1,disease or syndrome,NA
+4,alzheimer-disease,rivastigmine,1,organic chemical - pharmacologic substance,NA
+4,alzheimer-disease,dehydration,1,disease or syndrome - finding,NA
+4,alzheimer-disease,malnutrition,1,disease or syndrome,NA
+4,alzheimer-disease,does play,1,finding,NA
+4,alzheimer-disease,dangerous behavior,1,individual behavior,NA
+4,alzheimer-disease,incontinence,1,disease or syndrome,NA
+4,alzheimer-disease,pneumonia,1,disease or syndrome,NA
+4,alzheimer-disease,namenda,1,organic chemical - pharmacologic substance,NA
+4,alzheimer-disease,symptoms signs and ill-defined conditions,1,sign or symptom,NA
+4,alzheimer-disease,donepezil,1,organic chemical - pharmacologic substance,NA
+4,alzheimer-disease,mercury,1,hazardous or poisonous substance,NA
+4,alzheimer-disease,swallowing problems,1,sign or symptom,NA
+4,alzheimer-disease,difficulty reading,1,finding,NA
+4,alzheimer-disease,mild adverse event,1,finding,NA
+4,alzheimer-disease,vitamin diseases,1,disease or syndrome,NA
+4,alzheimer-disease,delusions,1,mental or behavioral dysfunction,NA
+4,alzheimer-disease,exelon,1,organic chemical - pharmacologic substance,NA
+4,alzheimer-disease,change in mental status,1,sign or symptom,NA
+4,alzheimer-disease,language problems,1,mental or behavioral dysfunction,NA
+4,alzheimer-disease,risperidone,1,organic chemical - pharmacologic substance,NA
+4,alzheimer-disease,intoxication,1,finding,NA
+4,alzheimer-disease,vitamin b 12,1,organic chemical - pharmacologic substance,NA
+4,alzheimer-disease,forgetting,1,mental or behavioral dysfunction,NA
+4,alzheimer-disease,vitamin deficiency,1,disease or syndrome,NA
+4,alzheimer-disease,neurologic examination,1,diagnostic procedure,NA
+4,alzheimer-disease,severe depression,1,mental or behavioral dysfunction,NA
+4,alzheimer-disease,haloperidol,1,organic chemical - pharmacologic substance,NA
+4,alzheimer-disease,very low,1,finding,NA
+4,alzheimer-disease,able to balance,1,finding,NA
+4,alzheimer-disease,cimetidine,1,organic chemical - pharmacologic substance,NA
+4,alzheimer-disease,neurological observations,1,finding,NA
+4,alzheimer-disease,antidepressive agents,1,pharmacologic substance,NA
+4,alzheimer-disease,cognitive therapy,1,diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure,NA
+4,alzheimer-disease,galantamine,1,organic chemical - pharmacologic substance,NA
+4,alzheimer-disease,falls,1,finding - injury or poisoning,NA
+4,alzheimer-disease,diet fat-restricted,1,therapeutic or preventive procedure,NA
+4,alzheimer-disease,memantine,1,organic chemical - pharmacologic substance,NA
+4,alzheimer-disease,problem behavior,1,finding - mental or behavioral dysfunction,NA
+5,anorexia-nervosa,body weight decreased,4,finding,NA
+5,anorexia-nervosa,support - dental,4,clinical attribute - organic chemical - pharmacologic substance,NA
+5,anorexia-nervosa,does talk,3,finding,NA
+5,anorexia-nervosa,pharmaceutical preparations,3,pharmacologic substance,NA
+5,anorexia-nervosa,thyroid gland,2,body part organ or organ component - disease or syndrome - pharmacologic substance,NA
+5,anorexia-nervosa,treated with,2,therapeutic or preventive procedure,NA
+5,anorexia-nervosa,anxiety disorders,2,finding - mental or behavioral dysfunction,NA
+5,anorexia-nervosa,proteins,2,biologically active substance,NA
+5,anorexia-nervosa,malnutrition,2,disease or syndrome,NA
+5,anorexia-nervosa,weight gain,2,finding - sign or symptom,NA
+5,anorexia-nervosa,tissue damage,1,injury or poisoning,NA
+5,anorexia-nervosa,antipsychotic agents,1,pharmacologic substance,NA
+5,anorexia-nervosa,dehydration,1,disease or syndrome - finding,NA
+5,anorexia-nervosa,tests and testing,1,diagnostic procedure,NA
+5,anorexia-nervosa,heart rhythm,1,organ or tissue function - pathologic function,NA
+5,anorexia-nervosa,behaviorial habits,1,individual behavior,NA
+5,anorexia-nervosa,vitamins,1,organic chemical - pharmacologic substance,NA
+5,anorexia-nervosa,antidepressive agents,1,pharmacologic substance,NA
+5,anorexia-nervosa,dry skin,1,finding - pharmacologic substance - sign or symptom,NA
+5,anorexia-nervosa,diarrhea,1,finding - sign or symptom,NA
+5,anorexia-nervosa,kidney,1,body part organ or organ component,NA
+5,anorexia-nervosa,stabilizer - function,1,organ or tissue function,NA
+5,anorexia-nervosa,therapeutic procedure,1,enzyme - finding - therapeutic or preventive procedure,NA
+5,anorexia-nervosa,severe depression,1,mental or behavioral dysfunction,NA
+5,anorexia-nervosa,seizures,1,finding - sign or symptom,NA
+5,anorexia-nervosa,stomach,1,body part organ or organ component - disease or syndrome,NA
+5,anorexia-nervosa,renal function,1,organ or tissue function,NA
+5,anorexia-nervosa,confusion,1,finding - mental or behavioral dysfunction,NA
+5,anorexia-nervosa,memory observations,1,finding,NA
+5,anorexia-nervosa,oral region,1,body location or region - body part organ or organ component - disease or syndrome,NA
+5,anorexia-nervosa,suicide,1,finding - mental or behavioral dysfunction,NA
+5,anorexia-nervosa,physical findings,1,finding,NA
+5,anorexia-nervosa,xerostomia,1,sign or symptom,NA
+5,anorexia-nervosa,electrolytes,1,inorganic chemical - pharmacologic substance,NA
+5,anorexia-nervosa,minerals,1,inorganic chemical,NA
+5,anorexia-nervosa,intestines,1,body part organ or organ component,NA
+5,anorexia-nervosa,liver function,1,organ or tissue function,NA
+5,anorexia-nervosa,as if personality,1,mental or behavioral dysfunction,NA
+5,anorexia-nervosa,stress,1,finding - organic chemical - pharmacologic substance,NA
+5,anorexia-nervosa,adverse event associated with death,1,finding,NA
+5,anorexia-nervosa,sodium,1,biologically active substance - inorganic chemical - pharmacologic substance,NA
+5,anorexia-nervosa,body fluids,1,biologically active substance - body substance - pharmacologic substance,NA
+5,anorexia-nervosa,veins,1,body part organ or organ component,NA
+5,anorexia-nervosa,male gender,1,finding,NA
+6,asperger-syndrome,skills,4,individual behavior,NA
+6,asperger-syndrome,physical findings,2,finding,NA
+6,asperger-syndrome,eye,2,body part organ or organ component - body substance,NA
+6,asperger-syndrome,does play,2,finding,NA
+6,asperger-syndrome,anxiety disorders,2,finding - mental or behavioral dysfunction,NA
+6,asperger-syndrome,social interaction,2,finding,NA
+6,asperger-syndrome,support - dental,1,clinical attribute - organic chemical - pharmacologic substance,NA
+6,asperger-syndrome,aggressive behavior,1,mental or behavioral dysfunction,NA
+6,asperger-syndrome,hyperactive behavior,1,finding,NA
+6,asperger-syndrome,attention deficit hyperactivity disorder,1,disease or syndrome - mental or behavioral dysfunction,NA
+6,asperger-syndrome,brain,1,body part organ or organ component - disease or syndrome,NA
+6,asperger-syndrome,attention deficit disorder,1,disease or syndrome - mental or behavioral dysfunction,NA
+6,asperger-syndrome,antipsychotic agents,1,pharmacologic substance,NA
+6,asperger-syndrome,stimulant,1,pharmacologic substance,NA
+6,asperger-syndrome,pharmaceutical preparations,1,pharmacologic substance,NA
+6,asperger-syndrome,expression procedure,1,therapeutic or preventive procedure,NA
+6,asperger-syndrome,reuptake inhibitors,1,pharmacologic substance,NA
+6,asperger-syndrome,serotonin uptake inhibitors,1,pharmacologic substance,NA
+6,asperger-syndrome,antisocial personality disorder,1,mental or behavioral dysfunction,NA
+6,asperger-syndrome,isolation procedure,1,therapeutic or preventive procedure,NA
+6,asperger-syndrome,anxiety depression,1,mental or behavioral dysfunction,NA
+6,asperger-syndrome,loss of interest,1,mental or behavioral dysfunction,NA
+6,asperger-syndrome,selective serotonin re-uptake inhibitor,1,pharmacologic substance,NA
+6,asperger-syndrome,core specimen,1,body substance,NA
+7,attention-deficit-disorder-with-hyperactivity,attention deficit hyperactivity disorder,17,disease or syndrome - mental or behavioral dysfunction,NA
+7,attention-deficit-disorder-with-hyperactivity,pharmaceutical preparations,6,pharmacologic substance,NA
+7,attention-deficit-disorder-with-hyperactivity,attention deficit disorder,4,disease or syndrome - mental or behavioral dysfunction,NA
+7,attention-deficit-disorder-with-hyperactivity,hyperactive behavior,3,finding,NA
+7,attention-deficit-disorder-with-hyperactivity,impulsive behavior,2,individual behavior,NA
+7,attention-deficit-disorder-with-hyperactivity,stimulant,2,pharmacologic substance,NA
+7,attention-deficit-disorder-with-hyperactivity,physical findings,2,finding,NA
+7,attention-deficit-disorder-with-hyperactivity,support - dental,1,clinical attribute - organic chemical - pharmacologic substance,NA
+7,attention-deficit-disorder-with-hyperactivity,ethanol,1,organic chemical - pharmacologic substance,NA
+7,attention-deficit-disorder-with-hyperactivity,does play,1,finding,NA
+7,attention-deficit-disorder-with-hyperactivity,brain,1,body part organ or organ component - disease or syndrome,NA
+7,attention-deficit-disorder-with-hyperactivity,infantile neuroaxonal dystrophy,1,disease or syndrome,NA
+7,attention-deficit-disorder-with-hyperactivity,disability,1,finding,NA
+7,attention-deficit-disorder-with-hyperactivity,easily distracted,1,finding,NA
+7,attention-deficit-disorder-with-hyperactivity,does talk,1,finding,NA
+7,attention-deficit-disorder-with-hyperactivity,anxiety disorders,1,finding - mental or behavioral dysfunction,NA
+7,attention-deficit-disorder-with-hyperactivity,therapeutic procedure,1,enzyme - finding - therapeutic or preventive procedure,NA
+7,attention-deficit-disorder-with-hyperactivity,hand,1,body part organ or organ component,NA
+7,attention-deficit-disorder-with-hyperactivity,pharmacologic substance,1,pharmacologic substance - therapeutic or preventive procedure,NA
+7,attention-deficit-disorder-with-hyperactivity,falls,1,finding - injury or poisoning,NA
+7,attention-deficit-disorder-with-hyperactivity,bony process,1,body part organ or organ component,NA
+7,attention-deficit-disorder-with-hyperactivity,learning disabilities,1,mental or behavioral dysfunction,NA
+7,attention-deficit-disorder-with-hyperactivity,rhythm,24,finding,NA
+7,attention-deficit-disorder-with-hyperactivity,histone h3,24,biologically active substance,NA
+7,attention-deficit-disorder-with-hyperactivity,js,24,body part organ or organ component,NA
+7,attention-deficit-disorder-with-hyperactivity,coffin-siris syndrome,23,congenital abnormality - disease or syndrome,NA
+7,attention-deficit-disorder-with-hyperactivity,medical history,23,finding,NA
+7,attention-deficit-disorder-with-hyperactivity,hyperactive behavior,18,finding,NA
+7,attention-deficit-disorder-with-hyperactivity,hepatic,14,body location or region,NA
+7,attention-deficit-disorder-with-hyperactivity,paramyotonia congenita of von eulenburg,14,disease or syndrome,NA
+7,attention-deficit-disorder-with-hyperactivity,rel protein,13,biologically active substance,NA
+7,attention-deficit-disorder-with-hyperactivity,colostrum,9,body substance - finding - pharmacologic substance,NA
+7,attention-deficit-disorder-with-hyperactivity,attention deficit disorder,9,disease or syndrome - mental or behavioral dysfunction,NA
+7,attention-deficit-disorder-with-hyperactivity,target lesion identification,8,diagnostic procedure,NA
+7,attention-deficit-disorder-with-hyperactivity,discontinued,8,body part organ or organ component - disease or syndrome - finding - therapeutic or preventive procedure,NA
+7,attention-deficit-disorder-with-hyperactivity,app protein human,6,biologically active substance - disease or syndrome - finding - pharmacologic substance,NA
+7,attention-deficit-disorder-with-hyperactivity,learning disorders,6,mental or behavioral dysfunction,NA
+7,attention-deficit-disorder-with-hyperactivity,fluorouracil/melphalan,6,therapeutic or preventive procedure,NA
+7,attention-deficit-disorder-with-hyperactivity,alanine transaminase,5,congenital abnormality - disease or syndrome - enzyme,NA
+7,attention-deficit-disorder-with-hyperactivity,foot,5,body part organ or organ component,NA
+7,attention-deficit-disorder-with-hyperactivity,thrombasthenia,4,disease or syndrome,NA
+7,attention-deficit-disorder-with-hyperactivity,set protein human,4,biologically active substance,NA
+7,attention-deficit-disorder-with-hyperactivity,diastrophic dysplasia,4,congenital abnormality - disease or syndrome,NA
+7,attention-deficit-disorder-with-hyperactivity,thumb structure,4,body part organ or organ component,NA
+7,attention-deficit-disorder-with-hyperactivity,upper respiratory infections,4,disease or syndrome,NA
+7,attention-deficit-disorder-with-hyperactivity,blank,4,finding,NA
+7,attention-deficit-disorder-with-hyperactivity,surgical margins,4,body part organ or organ component,NA
+7,attention-deficit-disorder-with-hyperactivity,date allergenic extract,3,pharmacologic substance,NA
+7,attention-deficit-disorder-with-hyperactivity,attention deficit hyperactivity disorder,3,disease or syndrome - mental or behavioral dysfunction,NA
+7,attention-deficit-disorder-with-hyperactivity,neurological observations,3,finding,NA
+7,attention-deficit-disorder-with-hyperactivity,russell-silver syndrome,3,congenital abnormality - diagnostic procedure - disease or syndrome,NA
+7,attention-deficit-disorder-with-hyperactivity,influenza,2,disease or syndrome - pharmacologic substance,NA
+7,attention-deficit-disorder-with-hyperactivity,muscular dystrophy,2,body part organ or organ component - congenital abnormality - disease or syndrome,NA
+7,attention-deficit-disorder-with-hyperactivity,observation result,2,finding,NA
+7,attention-deficit-disorder-with-hyperactivity,easily distracted,2,finding,NA
+7,attention-deficit-disorder-with-hyperactivity,may-hegglin anomaly,2,finding - organic chemical - pharmacologic substance - therapeutic or preventive procedure,NA
+7,attention-deficit-disorder-with-hyperactivity,bony process,2,body part organ or organ component,NA
+7,attention-deficit-disorder-with-hyperactivity,skills,2,individual behavior,NA
+7,attention-deficit-disorder-with-hyperactivity,thymidine,2,biologically active substance - enzyme - pharmacologic substance,NA
+7,attention-deficit-disorder-with-hyperactivity,anatomic site,2,body location or region,NA
+7,attention-deficit-disorder-with-hyperactivity,prealbumin,2,biologically active substance,NA
+7,attention-deficit-disorder-with-hyperactivity,chemical probe,2,chemical viewed functionally - organic chemical - pharmacologic substance,NA
+7,attention-deficit-disorder-with-hyperactivity,formycin triphosphate,2,pharmacologic substance,NA
+7,attention-deficit-disorder-with-hyperactivity,signs and symptoms,2,sign or symptom,NA
+7,attention-deficit-disorder-with-hyperactivity,does skip,2,biologically active substance - finding,NA
+7,attention-deficit-disorder-with-hyperactivity,educational status,2,finding - individual behavior,NA
+7,attention-deficit-disorder-with-hyperactivity,immunoconjugates,2,hazardous or poisonous substance - organic chemical - pharmacologic substance,NA
+7,attention-deficit-disorder-with-hyperactivity,core specimen,2,body substance,NA
+7,attention-deficit-disorder-with-hyperactivity,gtpase-activating proteins,1,biologically active substance,NA
+7,attention-deficit-disorder-with-hyperactivity,general anesthesia,1,enzyme - pharmacologic substance - therapeutic or preventive procedure,NA
+7,attention-deficit-disorder-with-hyperactivity,brain,1,body part organ or organ component - disease or syndrome,NA
+7,attention-deficit-disorder-with-hyperactivity,matrix attachment regions,1,biologically active substance - clinical attribute,NA
+7,attention-deficit-disorder-with-hyperactivity,compact pattern,1,finding,NA
+7,attention-deficit-disorder-with-hyperactivity,esthesia,1,finding - organ or tissue function,NA
+7,attention-deficit-disorder-with-hyperactivity,rheumatoid arthritis,1,disease or syndrome - pharmacologic substance,NA
+7,attention-deficit-disorder-with-hyperactivity,expression procedure,1,therapeutic or preventive procedure,NA
+7,attention-deficit-disorder-with-hyperactivity,fibronectins,1,biologically active substance,NA
+7,attention-deficit-disorder-with-hyperactivity,electroconvulsive therapy,1,disease or syndrome - therapeutic or preventive procedure,NA
+7,attention-deficit-disorder-with-hyperactivity,ask question,1,finding,NA
+7,attention-deficit-disorder-with-hyperactivity,stat protein,1,biologically active substance - finding,NA
+7,attention-deficit-disorder-with-hyperactivity,paroxysmal atrial fibrillation,1,disease or syndrome - therapeutic or preventive procedure,NA
+7,attention-deficit-disorder-with-hyperactivity,pharmaceutical preparations,1,pharmacologic substance,NA
+7,attention-deficit-disorder-with-hyperactivity,research outcome,1,finding,NA
+7,attention-deficit-disorder-with-hyperactivity,anterior segmental vein,1,body part organ or organ component,NA
+7,attention-deficit-disorder-with-hyperactivity,copper,1,biologically active substance - organic chemical - pharmacologic substance,NA
+7,attention-deficit-disorder-with-hyperactivity,deterioration of status,1,finding,NA
+7,attention-deficit-disorder-with-hyperactivity,dna,1,biologically active substance,NA
+7,attention-deficit-disorder-with-hyperactivity,craniodiaphyseal dysplasia,1,congenital abnormality,NA
+7,attention-deficit-disorder-with-hyperactivity,isolation procedure,1,therapeutic or preventive procedure,NA
+7,attention-deficit-disorder-with-hyperactivity,doxorubicin,1,antibiotic - finding - organic chemical,NA
+7,attention-deficit-disorder-with-hyperactivity,coloring excipient,1,pharmacologic substance,NA
+7,attention-deficit-disorder-with-hyperactivity,anatomic border,1,body location or region,NA
+7,attention-deficit-disorder-with-hyperactivity,aplasia cutis congenita,1,congenital abnormality - disease or syndrome,NA
+7,attention-deficit-disorder-with-hyperactivity,parotid double-band protein,1,biologically active substance,NA
+7,attention-deficit-disorder-with-hyperactivity,hand,1,body part organ or organ component,NA
+8,autistic-disorder,skills,7,individual behavior,NA
+8,autistic-disorder,hearing examination finding,3,finding,NA
+8,autistic-disorder,brain,3,body part organ or organ component - disease or syndrome,NA
+8,autistic-disorder,pharmaceutical preparations,3,pharmacologic substance,NA
+8,autistic-disorder,aggressive behavior,2,mental or behavioral dysfunction,NA
+8,autistic-disorder,prophylactic treatment,2,therapeutic or preventive procedure,NA
+8,autistic-disorder,neurological observations,2,finding,NA
+8,autistic-disorder,touch sensation,2,organ or tissue function,NA
+8,autistic-disorder,therapeutic procedure,2,enzyme - finding - therapeutic or preventive procedure,NA
+8,autistic-disorder,educational status,2,finding - individual behavior,NA
+8,autistic-disorder,support - dental,2,clinical attribute - organic chemical - pharmacologic substance,NA
+8,autistic-disorder,social interaction,2,finding,NA
+8,autistic-disorder,stabilizer - function,1,organ or tissue function,NA
+8,autistic-disorder,does play,1,finding,NA
+8,autistic-disorder,disability,1,finding,NA
+8,autistic-disorder,infantile neuroaxonal dystrophy,1,disease or syndrome,NA
+8,autistic-disorder,vitamins,1,organic chemical - pharmacologic substance,NA
+8,autistic-disorder,perform,1,pharmacologic substance,NA
+8,autistic-disorder,acquired immunodeficiency syndrome,1,disease or syndrome,NA
+8,autistic-disorder,seizures,1,finding - sign or symptom,NA
+8,autistic-disorder,anxiety disorders,1,finding - mental or behavioral dysfunction,NA
+8,autistic-disorder,mood swings,1,mental or behavioral dysfunction - sign or symptom,NA
+8,autistic-disorder,physical findings,1,finding,NA
+8,autistic-disorder,minerals,1,inorganic chemical,NA
+8,autistic-disorder,neurological problem,1,finding,NA
+8,autistic-disorder,level,1,pharmacologic substance,NA
+8,autistic-disorder,stimulant,1,pharmacologic substance,NA
+8,autistic-disorder,selective serotonin re-uptake inhibitor,1,pharmacologic substance,NA
+8,autistic-disorder,irritable mood,1,finding,NA
+9,binge-eating-disorder,does talk,1,finding,NA
+9,binge-eating-disorder,antidepressive agents,1,pharmacologic substance,NA
+10,bipolar-disorder,feeling hopeless,3,finding,NA
+10,bipolar-disorder,pharmacologic substance,3,pharmacologic substance - therapeutic or preventive procedure,NA
+10,bipolar-disorder,deterioration of status,2,finding,NA
+10,bipolar-disorder,support - dental,2,clinical attribute - organic chemical - pharmacologic substance,NA
+10,bipolar-disorder,antidepressive agents,2,pharmacologic substance,NA
+10,bipolar-disorder,precipitating factors,2,clinical attribute,NA
+10,bipolar-disorder,recreational drugs,2,hazardous or poisonous substance,NA
+10,bipolar-disorder,mood swings,2,mental or behavioral dysfunction - sign or symptom,NA
+10,bipolar-disorder,fatigue,2,sign or symptom,NA
+10,bipolar-disorder,ethanol,2,organic chemical - pharmacologic substance,NA
+10,bipolar-disorder,physical findings,1,finding,NA
+10,bipolar-disorder,antipsychotic agents,1,pharmacologic substance,NA
+10,bipolar-disorder,hyposomnia,1,pathologic function,NA
+10,bipolar-disorder,worthlessness,1,finding,NA
+10,bipolar-disorder,body weight decreased,1,finding,NA
+10,bipolar-disorder,sexual intercourse - finding,1,finding,NA
+10,bipolar-disorder,perform,1,pharmacologic substance,NA
+10,bipolar-disorder,stabilizer - function,1,organ or tissue function,NA
+10,bipolar-disorder,easily distracted,1,finding,NA
+10,bipolar-disorder,does talk,1,finding,NA
+10,bipolar-disorder,anorexia,1,disease or syndrome - finding,NA
+10,bipolar-disorder,alcohol consumption,1,individual behavior,NA
+10,bipolar-disorder,vitality,1,finding,NA
+10,bipolar-disorder,alcohol abuse,1,mental or behavioral dysfunction,NA
+10,bipolar-disorder,depressed mood,1,finding - mental or behavioral dysfunction,NA
+10,bipolar-disorder,hallucinations visual,1,sign or symptom,NA
+10,bipolar-disorder,weight gain,1,finding - sign or symptom,NA
+10,bipolar-disorder,depression bipolar,1,mental or behavioral dysfunction,NA
+10,bipolar-disorder,adverse event associated with death,1,finding,NA
+10,bipolar-disorder,skills,1,individual behavior,NA
+10,bipolar-disorder,multiple endocrine neoplasia,1,antibiotic - neoplastic process - organic chemical,NA
+10,bipolar-disorder,sleeplessness,1,finding - sign or symptom,NA
+10,bipolar-disorder,therapeutic procedure,1,enzyme - finding - therapeutic or preventive procedure,NA
+10,bipolar-disorder,irritable mood,1,finding,NA
+11,borderline-personality-disorder,does talk,2,finding,NA
+11,borderline-personality-disorder,pharmaceutical preparations,1,pharmacologic substance,NA
+11,borderline-personality-disorder,pharmacologic substance,1,pharmacologic substance - therapeutic or preventive procedure,NA
+11,borderline-personality-disorder,suicide attempt,1,finding - mental or behavioral dysfunction,NA
+11,borderline-personality-disorder,mood swings,1,mental or behavioral dysfunction - sign or symptom,NA
+12,child-behavior-disorders,sleep disorders,1,disease or syndrome - sign or symptom,NA
+12,child-behavior-disorders,physical findings,1,finding,NA
+12,child-behavior-disorders,fatigue,1,sign or symptom,NA
+12,child-behavior-disorders,prophylactic treatment,1,therapeutic or preventive procedure,NA
+12,child-behavior-disorders,anxiety disorders,1,finding - mental or behavioral dysfunction,NA
+12,child-behavior-disorders,pharmacologic substance,1,pharmacologic substance - therapeutic or preventive procedure,NA
+12,child-behavior-disorders,ethanol,1,organic chemical - pharmacologic substance,NA
+12,child-behavior-disorders,sleep pattern,1,finding,NA
+12,child-behavior-disorders,water,1,inorganic chemical - pharmacologic substance,NA
+12,child-behavior-disorders,adverse event associated with death,1,finding,NA
+12,child-behavior-disorders,low self-esteem,1,finding,NA
+12,child-behavior-disorders,weight gain,1,finding - sign or symptom,NA
+12,child-behavior-disorders,autistic disorder,4,mental or behavioral dysfunction,NA
+12,child-behavior-disorders,pharmaceutical preparations,1,pharmacologic substance,NA
+12,child-behavior-disorders,neurological observations,1,finding,NA
+12,child-behavior-disorders,does play,1,finding,NA
+12,child-behavior-disorders,urinary bladder,1,body part organ or organ component,NA
+12,child-behavior-disorders,physical findings,1,finding,NA
+12,child-behavior-disorders,schizophrenia childhood,1,mental or behavioral dysfunction,NA
+12,child-behavior-disorders,intestines,1,body part organ or organ component,NA
+13,cocaine-related-disorders,heart beat,2,organ or tissue function,NA
+13,cocaine-related-disorders,tachycardia,2,finding,NA
+13,cocaine-related-disorders,adverse event associated with death,2,finding,NA
+13,cocaine-related-disorders,agitation,1,finding - sign or symptom,NA
+13,cocaine-related-disorders,hyperactive behavior,1,finding,NA
+13,cocaine-related-disorders,brain,1,body part organ or organ component - disease or syndrome,NA
+13,cocaine-related-disorders,heart rate,1,clinical attribute,NA
+13,cocaine-related-disorders,seizures,1,finding - sign or symptom,NA
+13,cocaine-related-disorders,diazepam,1,organic chemical - pharmacologic substance,NA
+13,cocaine-related-disorders,neurological observations,1,finding,NA
+13,cocaine-related-disorders,vital signs,1,clinical attribute,NA
+13,cocaine-related-disorders,drug abuse,1,mental or behavioral dysfunction,NA
+13,cocaine-related-disorders,euphoria adverse event,1,finding,NA
+13,cocaine-related-disorders,pulse rate,1,clinical attribute,NA
+13,cocaine-related-disorders,stimulant,1,pharmacologic substance,NA
+13,cocaine-related-disorders,esthesia,1,finding - organ or tissue function,NA
+13,cocaine-related-disorders,benzodiazepines,1,organic chemical - pharmacologic substance,NA
+13,cocaine-related-disorders,confusion,1,finding - mental or behavioral dysfunction,NA
+13,cocaine-related-disorders,lorazepam,1,organic chemical - pharmacologic substance,NA
+13,cocaine-related-disorders,other drugs,1,pharmacologic substance,NA
+13,cocaine-related-disorders,physical findings,1,finding,NA
+13,cocaine-related-disorders,tremor,1,finding - sign or symptom,NA
+13,cocaine-related-disorders,dehydration,1,disease or syndrome - finding,NA
+13,cocaine-related-disorders,pupil,1,body part organ or organ component,NA
+13,cocaine-related-disorders,ethanol,4,organic chemical - pharmacologic substance,NA
+13,cocaine-related-disorders,agitation,3,finding - sign or symptom,NA
+13,cocaine-related-disorders,support - dental,2,clinical attribute - organic chemical - pharmacologic substance,NA
+13,cocaine-related-disorders,suicide,2,finding - mental or behavioral dysfunction,NA
+13,cocaine-related-disorders,euphoria adverse event,2,finding,NA
+13,cocaine-related-disorders,irritable mood,2,finding,NA
+13,cocaine-related-disorders,physical findings,1,finding,NA
+13,cocaine-related-disorders,brain,1,body part organ or organ component - disease or syndrome,NA
+13,cocaine-related-disorders,somnolence,1,finding,NA
+13,cocaine-related-disorders,drug abuse,1,mental or behavioral dysfunction,NA
+13,cocaine-related-disorders,narcotics,1,biologically active substance - hazardous or poisonous substance - pharmacologic substance,NA
+13,cocaine-related-disorders,prophylactic treatment,1,therapeutic or preventive procedure,NA
+13,cocaine-related-disorders,anxiety disorders,1,finding - mental or behavioral dysfunction,NA
+13,cocaine-related-disorders,esthesia,1,finding - organ or tissue function,NA
+13,cocaine-related-disorders,diazepam,1,organic chemical - pharmacologic substance,NA
+13,cocaine-related-disorders,other drugs,1,pharmacologic substance,NA
+13,cocaine-related-disorders,vitality,1,finding,NA
+13,cocaine-related-disorders,fatigue,1,sign or symptom,NA
+13,cocaine-related-disorders,screening for cancer,1,diagnostic procedure,NA
+13,cocaine-related-disorders,depressed mood,1,finding - mental or behavioral dysfunction,NA
+13,cocaine-related-disorders,diabetes,1,disease or syndrome,NA
+13,cocaine-related-disorders,cerebrovascular accident,1,disease or syndrome - therapeutic or preventive procedure,NA
+13,cocaine-related-disorders,level,1,pharmacologic substance,NA
+13,cocaine-related-disorders,alcohol withdrawal syndrome,1,disease or syndrome,NA
+13,cocaine-related-disorders,malaise,1,finding - sign or symptom,NA
+14,conduct-disorder,ethanol,1,organic chemical - pharmacologic substance,NA
+14,conduct-disorder,set protein human,1,biologically active substance,NA
+14,conduct-disorder,brain,1,body part organ or organ component - disease or syndrome,NA
+14,conduct-disorder,aggressive behavior,1,mental or behavioral dysfunction,NA
+14,conduct-disorder,suicide,1,finding - mental or behavioral dysfunction,NA
+14,conduct-disorder,drug abuse,1,mental or behavioral dysfunction,NA
+14,conduct-disorder,prophylactic treatment,1,therapeutic or preventive procedure,NA
+14,conduct-disorder,behavior therapy,1,therapeutic or preventive procedure,NA
+14,conduct-disorder,pharmaceutical preparations,1,pharmacologic substance,NA
+14,conduct-disorder,heavy drinking,1,mental or behavioral dysfunction,NA
+14,conduct-disorder,mood swings,1,mental or behavioral dysfunction - sign or symptom,NA
+14,conduct-disorder,alcohol consumption,1,individual behavior,NA
+14,conduct-disorder,physical findings,1,finding,NA
+14,conduct-disorder,antisocial personality disorder,1,mental or behavioral dysfunction,NA
+15,conversion-disorder,paralysed,2,finding,NA
+15,conversion-disorder,physical findings,2,finding,NA
+15,conversion-disorder,neurological observations,1,finding,NA
+15,conversion-disorder,body part,1,body location or region - body part organ or organ component,NA
+15,conversion-disorder,stress,1,finding - organic chemical - pharmacologic substance,NA
+15,conversion-disorder,as if personality,1,mental or behavioral dysfunction,NA
+15,conversion-disorder,life threatening,1,finding,NA
+16,delirium,alcohol withdrawal delirium,7,disease or syndrome - receptor,NA
+16,delirium,alcohol withdrawal syndrome,5,disease or syndrome,NA
+16,delirium,alcoholic intoxication chronic,4,mental or behavioral dysfunction,NA
+16,delirium,pharmaceutical preparations,4,pharmacologic substance,NA
+16,delirium,heart beat,4,organ or tissue function,NA
+16,delirium,physical findings,3,finding,NA
+16,delirium,support - dental,3,clinical attribute - organic chemical - pharmacologic substance,NA
+16,delirium,confusion,3,finding - mental or behavioral dysfunction,NA
+16,delirium,anxiety disorders,2,finding - mental or behavioral dysfunction,NA
+16,delirium,hallucinations,2,mental or behavioral dysfunction,NA
+16,delirium,sleeplessness,2,finding - sign or symptom,NA
+16,delirium,irritable mood,2,finding,NA
+16,delirium,lorazepam,2,organic chemical - pharmacologic substance,NA
+16,delirium,agitation,2,finding - sign or symptom,NA
+16,delirium,pulse rate,2,clinical attribute,NA
+16,delirium,life threatening,2,finding,NA
+16,delirium,diazepam,2,organic chemical - pharmacologic substance,NA
+16,delirium,neurological observations,2,finding,NA
+16,delirium,alcohol consumption,2,individual behavior,NA
+16,delirium,central nervous system depressants,1,pharmacologic substance,NA
+16,delirium,somnolence,1,finding,NA
+16,delirium,esthesia,1,finding - organ or tissue function,NA
+16,delirium,benzodiazepines,1,organic chemical - pharmacologic substance,NA
+16,delirium,nausea,1,finding - sign or symptom,NA
+16,delirium,disorientation,1,finding - mental or behavioral dysfunction,NA
+16,delirium,anxiety depression,1,mental or behavioral dysfunction,NA
+16,delirium,body fluids,1,biologically active substance - body substance - pharmacologic substance,NA
+16,delirium,sedatives,1,pharmacologic substance,NA
+16,delirium,electroencephalogram,1,diagnostic procedure - laboratory or test result,NA
+16,delirium,asleep,1,finding,NA
+16,delirium,touch sensation,1,organ or tissue function,NA
+16,delirium,heavy drinking,1,mental or behavioral dysfunction,NA
+16,delirium,falls,1,finding - injury or poisoning,NA
+16,delirium,feeling tired,1,sign or symptom,NA
+16,delirium,deterioration of status,1,finding,NA
+16,delirium,anorexia,1,disease or syndrome - finding,NA
+16,delirium,behaviorial habits,1,individual behavior,NA
+16,delirium,eye,1,body part organ or organ component - body substance,NA
+16,delirium,prophylactic treatment,1,therapeutic or preventive procedure,NA
+16,delirium,tachycardia,1,finding,NA
+16,delirium,headache,1,sign or symptom,NA
+16,delirium,stomach,1,body part organ or organ component - disease or syndrome,NA
+16,delirium,mood swings,1,mental or behavioral dysfunction - sign or symptom,NA
+16,delirium,screening for cancer,1,diagnostic procedure,NA
+16,delirium,haloperidol,1,organic chemical - pharmacologic substance,NA
+16,delirium,electroencephalography,1,diagnostic procedure - finding - laboratory or test result,NA
+16,delirium,heart rate,1,clinical attribute,NA
+16,delirium,face,1,body location or region - disease or syndrome,NA
+16,delirium,chest,1,body location or region - disease or syndrome,NA
+16,delirium,fever,1,finding,NA
+16,delirium,hand,1,body part organ or organ component,NA
+16,delirium,fatigue,1,sign or symptom,NA
+16,delirium,vital signs,1,clinical attribute,NA
+16,delirium,confusion,6,finding - mental or behavioral dysfunction,NA
+16,delirium,pharmaceutical preparations,5,pharmacologic substance,NA
+16,delirium,ethanol,4,organic chemical - pharmacologic substance,NA
+16,delirium,agitation,4,finding - sign or symptom,NA
+16,delirium,esthesia,3,finding - organ or tissue function,NA
+16,delirium,neurological observations,3,finding,NA
+16,delirium,pharmacologic substance,3,pharmacologic substance - therapeutic or preventive procedure,NA
+16,delirium,sedatives,2,pharmacologic substance,NA
+16,delirium,mental status adverse event,2,finding,NA
+16,delirium,disorientation,2,finding - mental or behavioral dysfunction,NA
+16,delirium,oxygen,2,pharmacologic substance,NA
+16,delirium,cerebrospinal fluid,2,biologically active substance - body substance - pharmacologic substance,NA
+16,delirium,ammonia level finding,1,laboratory or test result,NA
+16,delirium,central nervous system depressants,1,pharmacologic substance,NA
+16,delirium,narcotics,1,biologically active substance - hazardous or poisonous substance - pharmacologic substance,NA
+16,delirium,urinary tract infection,1,disease or syndrome,NA
+16,delirium,brain function,1,organ or tissue function,NA
+16,delirium,infection of kidney,1,disease or syndrome,NA
+16,delirium,therapeutic procedure,1,enzyme - finding - therapeutic or preventive procedure,NA
+16,delirium,dangerous behavior,1,individual behavior,NA
+16,delirium,anxiety disorders,1,finding - mental or behavioral dysfunction,NA
+16,delirium,citalopram,1,organic chemical - pharmacologic substance,NA
+16,delirium,drowsiness,1,finding,NA
+16,delirium,flatulence,1,finding - sign or symptom,NA
+16,delirium,electrolytes,1,inorganic chemical - pharmacologic substance,NA
+16,delirium,as if personality,1,mental or behavioral dysfunction,NA
+16,delirium,hypoxia,1,finding - pathologic function,NA
+16,delirium,physical findings,1,finding,NA
+16,delirium,anemia,1,disease or syndrome,NA
+16,delirium,body fluids,1,biologically active substance - body substance - pharmacologic substance,NA
+16,delirium,magnetic resonance imaging,1,diagnostic procedure,NA
+16,delirium,incontinence,1,disease or syndrome,NA
+16,delirium,vitamins,1,organic chemical - pharmacologic substance,NA
+16,delirium,euphoria adverse event,1,finding,NA
+16,delirium,nutrition disorders,1,disease or syndrome,NA
+16,delirium,liver function,1,organ or tissue function,NA
+16,delirium,memory observations,1,finding,NA
+16,delirium,irritable mood,1,finding,NA
+16,delirium,hearing examination finding,1,finding,NA
+16,delirium,acquired immunodeficiency syndrome,1,disease or syndrome,NA
+16,delirium,cat scan of head,1,diagnostic procedure,NA
+16,delirium,prophylactic treatment,1,therapeutic or preventive procedure,NA
+16,delirium,change in mental status,1,sign or symptom,NA
+16,delirium,risperidone,1,organic chemical - pharmacologic substance,NA
+16,delirium,urinary bladder,1,body part organ or organ component,NA
+16,delirium,screening for cancer,1,diagnostic procedure,NA
+16,delirium,electroencephalogram,1,diagnostic procedure - laboratory or test result,NA
+16,delirium,treated with,1,therapeutic or preventive procedure,NA
+16,delirium,change of medication,1,therapeutic or preventive procedure,NA
+16,delirium,heart,1,body part organ or organ component - pharmacologic substance,NA
+16,delirium,haloperidol,1,organic chemical - pharmacologic substance,NA
+16,delirium,tissue damage,1,injury or poisoning,NA
+16,delirium,electroencephalography,1,diagnostic procedure - finding - laboratory or test result,NA
+16,delirium,very low,1,finding,NA
+16,delirium,brain injuries,1,injury or poisoning,NA
+16,delirium,thyroid diseases,1,body part organ or organ component - disease or syndrome - pharmacologic substance,NA
+16,delirium,dementia,1,mental or behavioral dysfunction,NA
+16,delirium,diazepam,1,organic chemical - pharmacologic substance,NA
+16,delirium,analgesics,1,organic chemical - pharmacologic substance,NA
+16,delirium,apical segmental bronchus,1,body part organ or organ component,NA
+16,delirium,recreational drugs,1,hazardous or poisonous substance,NA
+16,delirium,behavior therapy,1,therapeutic or preventive procedure,NA
+16,delirium,cognitive therapy,1,diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure,NA
+16,delirium,blood gas,1,organ or tissue function,NA
+16,delirium,cerebrovascular accident,1,disease or syndrome - therapeutic or preventive procedure,NA
+16,delirium,morphine,1,organic chemical - pharmacologic substance,NA
+16,delirium,cataract adverse event,1,finding,NA
+17,dementia,brain function,2,organ or tissue function,NA
+17,dementia,pharmaceutical preparations,2,pharmacologic substance,NA
+17,dementia,diabetes,2,disease or syndrome,NA
+17,dementia,ammonia level finding,1,laboratory or test result,NA
+17,dementia,deterioration of status,1,finding,NA
+17,dementia,liver function,1,organ or tissue function,NA
+17,dementia,does play,1,finding,NA
+17,dementia,pressure ulcer,1,disease or syndrome,NA
+17,dementia,sugars,1,pharmacologic substance,NA
+17,dementia,vitamin deficiency,1,disease or syndrome,NA
+17,dementia,hypothyroidism,1,disease or syndrome,NA
+17,dementia,urinary tract infection,1,disease or syndrome,NA
+17,dementia,kidney,1,body part organ or organ component,NA
+17,dementia,tissue damage,1,injury or poisoning,NA
+17,dementia,mercury,1,hazardous or poisonous substance,NA
+17,dementia,neurological observations,1,finding,NA
+17,dementia,pneumonia,1,disease or syndrome,NA
+17,dementia,cat scan of head,1,diagnostic procedure,NA
+17,dementia,difficulty reading,1,finding,NA
+17,dementia,prophylactic treatment,1,therapeutic or preventive procedure,NA
+17,dementia,numbness,1,finding - sign or symptom,NA
+17,dementia,apical segmental bronchus,1,body part organ or organ component,NA
+17,dementia,mental status adverse event,1,finding,NA
+17,dementia,therapeutic procedure,1,enzyme - finding - therapeutic or preventive procedure,NA
+17,dementia,confusion,1,finding - mental or behavioral dysfunction,NA
+17,dementia,change in mental status,1,sign or symptom,NA
+17,dementia,cognitive therapy,1,diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure,NA
+17,dementia,nutrition disorders,1,disease or syndrome,NA
+17,dementia,language problems,1,mental or behavioral dysfunction,NA
+17,dementia,as if personality,1,mental or behavioral dysfunction,NA
+17,dementia,physical findings,1,finding,NA
+17,dementia,hallucinations,1,mental or behavioral dysfunction,NA
+17,dementia,able to balance,1,finding,NA
+17,dementia,skills,1,individual behavior,NA
+17,dementia,renal function,1,organ or tissue function,NA
+17,dementia,magnetic resonance imaging,1,diagnostic procedure,NA
+17,dementia,esthesia,1,finding - organ or tissue function,NA
+17,dementia,dementia,30,mental or behavioral dysfunction,NA
+17,dementia,pharmaceutical preparations,9,pharmacologic substance,NA
+17,dementia,confusion,4,finding - mental or behavioral dysfunction,NA
+17,dementia,mental status adverse event,3,finding,NA
+17,dementia,forgetfulness,3,sign or symptom,NA
+17,dementia,memory observations,3,finding,NA
+17,dementia,mild cognitive disorder,3,mental or behavioral dysfunction,NA
+17,dementia,brain function,2,organ or tissue function,NA
+17,dementia,anemia,2,disease or syndrome,NA
+17,dementia,skills,2,individual behavior,NA
+17,dementia,razadyne,2,organic chemical - pharmacologic substance,NA
+17,dementia,vitamins,2,organic chemical - pharmacologic substance,NA
+17,dementia,ethanol,2,organic chemical - pharmacologic substance,NA
+17,dementia,cerebrospinal fluid,2,biologically active substance - body substance - pharmacologic substance,NA
+17,dementia,deterioration of status,2,finding,NA
+17,dementia,heart,2,body part organ or organ component - pharmacologic substance,NA
+17,dementia,acquired immunodeficiency syndrome,2,disease or syndrome,NA
+17,dementia,cerebrovascular accident,2,disease or syndrome - therapeutic or preventive procedure,NA
+17,dementia,as if personality,2,mental or behavioral dysfunction,NA
+17,dementia,ammonia level finding,1,laboratory or test result,NA
+17,dementia,violent,1,mental or behavioral dysfunction,NA
+17,dementia,sodium,1,biologically active substance - inorganic chemical - pharmacologic substance,NA
+17,dementia,hearing examination finding,1,finding,NA
+17,dementia,stabilizer - function,1,organ or tissue function,NA
+17,dementia,citalopram,1,organic chemical - pharmacologic substance,NA
+17,dementia,flatulence,1,finding - sign or symptom,NA
+17,dementia,pharmacologic substance,1,pharmacologic substance - therapeutic or preventive procedure,NA
+17,dementia,hypoxia,1,finding - pathologic function,NA
+17,dementia,physical findings,1,finding,NA
+17,dementia,hallucinations,1,mental or behavioral dysfunction,NA
+17,dementia,oxygen,1,pharmacologic substance,NA
+17,dementia,proteins,1,biologically active substance,NA
+17,dementia,rivastigmine,1,organic chemical - pharmacologic substance,NA
+17,dementia,stimulant,1,pharmacologic substance,NA
+17,dementia,magnetic resonance imaging,1,diagnostic procedure,NA
+17,dementia,does play,1,finding,NA
+17,dementia,body fluids,1,biologically active substance - body substance - pharmacologic substance,NA
+17,dementia,sugars,1,pharmacologic substance,NA
+17,dementia,impulsive behavior,1,individual behavior,NA
+17,dementia,incontinence,1,disease or syndrome,NA
+17,dementia,physical therapy exercises,1,therapeutic or preventive procedure,NA
+17,dementia,antipsychotic agents,1,pharmacologic substance,NA
+17,dementia,namenda,1,organic chemical - pharmacologic substance,NA
+17,dementia,nutrition disorders,1,disease or syndrome,NA
+17,dementia,symptoms signs and ill-defined conditions,1,sign or symptom,NA
+17,dementia,donepezil,1,organic chemical - pharmacologic substance,NA
+17,dementia,swallowing problems,1,sign or symptom,NA
+17,dementia,eye,1,body part organ or organ component - body substance,NA
+17,dementia,cat scan of head,1,diagnostic procedure,NA
+17,dementia,difficulty reading,1,finding,NA
+17,dementia,mild adverse event,1,finding,NA
+17,dementia,vitamin diseases,1,disease or syndrome,NA
+17,dementia,prophylactic treatment,1,therapeutic or preventive procedure,NA
+17,dementia,delusions,1,mental or behavioral dysfunction,NA
+17,dementia,exelon,1,organic chemical - pharmacologic substance,NA
+17,dementia,change in mental status,1,sign or symptom,NA
+17,dementia,cessation of smoking,1,finding - individual behavior,NA
+17,dementia,language problems,1,mental or behavioral dysfunction,NA
+17,dementia,risperidone,1,organic chemical - pharmacologic substance,NA
+17,dementia,intoxication,1,finding,NA
+17,dementia,screening for cancer,1,diagnostic procedure,NA
+17,dementia,psychotherapy,1,therapeutic or preventive procedure,NA
+17,dementia,vitamin b 12,1,organic chemical - pharmacologic substance,NA
+17,dementia,finding of hormone level,1,laboratory or test result,NA
+17,dementia,forgetting,1,mental or behavioral dysfunction,NA
+17,dementia,neurologic examination,1,diagnostic procedure,NA
+17,dementia,severe depression,1,mental or behavioral dysfunction,NA
+17,dementia,change of medication,1,therapeutic or preventive procedure,NA
+17,dementia,haloperidol,1,organic chemical - pharmacologic substance,NA
+17,dementia,electroencephalography,1,diagnostic procedure - finding - laboratory or test result,NA
+17,dementia,agitation,1,finding - sign or symptom,NA
+17,dementia,brain injuries,1,injury or poisoning,NA
+17,dementia,vitamin deficiency,1,disease or syndrome,NA
+17,dementia,able to balance,1,finding,NA
+17,dementia,cimetidine,1,organic chemical - pharmacologic substance,NA
+17,dementia,thyroid diseases,1,body part organ or organ component - disease or syndrome - pharmacologic substance,NA
+17,dementia,perform,1,pharmacologic substance,NA
+17,dementia,cognitive therapy,1,diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure,NA
+17,dementia,galantamine,1,organic chemical - pharmacologic substance,NA
+17,dementia,blood gas,1,organ or tissue function,NA
+17,dementia,cataract adverse event,1,finding,NA
+17,dementia,diet fat-restricted,1,therapeutic or preventive procedure,NA
+17,dementia,paralysed,1,finding,NA
+17,dementia,memantine,1,organic chemical - pharmacologic substance,NA
+17,dementia,problem behavior,1,finding - mental or behavioral dysfunction,NA
+17,dementia,cerebrovascular accident,18,disease or syndrome - therapeutic or preventive procedure,NA
+17,dementia,brain,11,body part organ or organ component - disease or syndrome,NA
+17,dementia,dementia,11,mental or behavioral dysfunction,NA
+17,dementia,pharmaceutical preparations,5,pharmacologic substance,NA
+17,dementia,tissue damage,2,injury or poisoning,NA
+17,dementia,agitation,2,finding - sign or symptom,NA
+17,dementia,deterioration of status,2,finding,NA
+17,dementia,short period,2,finding,NA
+17,dementia,esthesia,2,finding - organ or tissue function,NA
+17,dementia,heart,1,body part organ or organ component - pharmacologic substance,NA
+17,dementia,support - dental,1,clinical attribute - organic chemical - pharmacologic substance,NA
+17,dementia,does play,1,finding,NA
+17,dementia,pressure ulcer,1,disease or syndrome,NA
+17,dementia,very low,1,finding,NA
+17,dementia,able to balance,1,finding,NA
+17,dementia,tests and testing,1,diagnostic procedure,NA
+17,dementia,urinary tract infection,1,disease or syndrome,NA
+17,dementia,physical findings,1,finding,NA
+17,dementia,acquired immunodeficiency syndrome,1,disease or syndrome,NA
+17,dementia,mercury,1,hazardous or poisonous substance,NA
+17,dementia,neurological observations,1,finding,NA
+17,dementia,vitamins,1,organic chemical - pharmacologic substance,NA
+17,dementia,forgetting,1,mental or behavioral dysfunction,NA
+17,dementia,cat scan of head,1,diagnostic procedure,NA
+17,dementia,brain function,1,organ or tissue function,NA
+17,dementia,vitamin diseases,1,disease or syndrome,NA
+17,dementia,cataract adverse event,1,finding,NA
+17,dementia,prophylactic treatment,1,therapeutic or preventive procedure,NA
+17,dementia,delusions,1,mental or behavioral dysfunction,NA
+17,dementia,mental status adverse event,1,finding,NA
+17,dementia,change in mental status,1,sign or symptom,NA
+17,dementia,anemia,1,disease or syndrome,NA
+17,dementia,pneumonia,1,disease or syndrome,NA
+17,dementia,cognitive therapy,1,diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure,NA
+17,dementia,language problems,1,mental or behavioral dysfunction,NA
+17,dementia,confusion,1,finding - mental or behavioral dysfunction,NA
+17,dementia,problem behavior,1,finding - mental or behavioral dysfunction,NA
+17,dementia,as if personality,1,mental or behavioral dysfunction,NA
+17,dementia,intoxication,1,finding,NA
+17,dementia,violent,1,mental or behavioral dysfunction,NA
+17,dementia,severe depression,1,mental or behavioral dysfunction,NA
+17,dementia,hallucinations,1,mental or behavioral dysfunction,NA
+17,dementia,diabetes,1,disease or syndrome,NA
+17,dementia,pharmacologic substance,1,pharmacologic substance - therapeutic or preventive procedure,NA
+17,dementia,neurological problem,1,finding,NA
+17,dementia,diet fat-restricted,1,therapeutic or preventive procedure,NA
+17,dementia,skills,1,individual behavior,NA
+17,dementia,hearing examination finding,1,finding,NA
+17,dementia,dangerous behavior,1,individual behavior,NA
+17,dementia,multiple endocrine neoplasia,1,antibiotic - neoplastic process - organic chemical,NA
+17,dementia,vitamin deficiency,1,disease or syndrome,NA
+17,dementia,difficulty reading,1,finding,NA
+17,dementia,memory observations,1,finding,NA
+17,dementia,magnetic resonance imaging,1,diagnostic procedure,NA
+18,depression,deterioration of status,2,finding,NA
+18,depression,acquired immunodeficiency syndrome,2,disease or syndrome,NA
+18,depression,does talk,2,finding,NA
+18,depression,physical findings,2,finding,NA
+18,depression,multiple endocrine neoplasia,2,antibiotic - neoplastic process - organic chemical,NA
+18,depression,illicit drugs,1,hazardous or poisonous substance - pharmacologic substance,NA
+18,depression,ask question,1,finding,NA
+18,depression,thyroid diseases,1,body part organ or organ component - disease or syndrome - pharmacologic substance,NA
+18,depression,dementia,1,mental or behavioral dysfunction,NA
+18,depression,anorexia,1,disease or syndrome - finding,NA
+18,depression,antidepressive agents,1,pharmacologic substance,NA
+18,depression,worthlessness,1,finding,NA
+18,depression,feeling hopeless,1,finding,NA
+18,depression,depressive symptoms,1,sign or symptom,NA
+18,depression,suicide,1,finding - mental or behavioral dysfunction,NA
+18,depression,depressed mood,1,finding - mental or behavioral dysfunction,NA
+18,depression,behaviorial habits,1,individual behavior,NA
+18,depression,bony process,1,body part organ or organ component,NA
+18,depression,cerebrovascular accident,1,disease or syndrome - therapeutic or preventive procedure,NA
+18,depression,malignant neoplasms,1,biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure,NA
+18,depression,unipolar depression,7,mental or behavioral dysfunction,NA
+18,depression,pharmaceutical preparations,5,pharmacologic substance,NA
+18,depression,ethanol,5,organic chemical - pharmacologic substance,NA
+18,depression,does talk,4,finding,NA
+18,depression,depressive symptoms,3,sign or symptom,NA
+18,depression,hypothyroidism,2,disease or syndrome,NA
+18,depression,suicide,2,finding - mental or behavioral dysfunction,NA
+18,depression,feeling hopeless,2,finding,NA
+18,depression,vitality,2,finding,NA
+18,depression,pharmacologic substance,2,pharmacologic substance - therapeutic or preventive procedure,NA
+18,depression,fatigue,2,sign or symptom,NA
+18,depression,severe depression,2,mental or behavioral dysfunction,NA
+18,depression,depressed mood,2,finding - mental or behavioral dysfunction,NA
+18,depression,depression bipolar,2,mental or behavioral dysfunction,NA
+18,depression,adverse event associated with death,2,finding,NA
+18,depression,malignant neoplasms,2,biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure,NA
+18,depression,support - dental,1,clinical attribute - organic chemical - pharmacologic substance,NA
+18,depression,asleep,1,finding,NA
+18,depression,infantile neuroaxonal dystrophy,1,disease or syndrome,NA
+18,depression,attention deficit disorder,1,disease or syndrome - mental or behavioral dysfunction,NA
+18,depression,worthlessness,1,finding,NA
+18,depression,sexual intercourse - finding,1,finding,NA
+18,depression,short period,1,finding,NA
+18,depression,precipitating factors,1,clinical attribute,NA
+18,depression,prophylactic treatment,1,therapeutic or preventive procedure,NA
+18,depression,thyroid gland,1,body part organ or organ component - disease or syndrome - pharmacologic substance,NA
+18,depression,recreational drugs,1,hazardous or poisonous substance,NA
+18,depression,exercise pain management,1,therapeutic or preventive procedure,NA
+18,depression,therapeutic procedure,1,enzyme - finding - therapeutic or preventive procedure,NA
+18,depression,stress,1,finding - organic chemical - pharmacologic substance,NA
+18,depression,falls,1,finding - injury or poisoning,NA
+18,depression,behaviorial habits,1,individual behavior,NA
+18,depression,isolation procedure,1,therapeutic or preventive procedure,NA
+18,depression,verbal auditory hallucinations,1,finding - sign or symptom,NA
+18,depression,multiple endocrine neoplasia,1,antibiotic - neoplastic process - organic chemical,NA
+18,depression,low self-esteem,1,finding,NA
+18,depression,weight gain,1,finding - sign or symptom,NA
+18,depression,irritable mood,1,finding,NA
+18,depression,current drinker,1,individual behavior,NA
+18,depression,suicide,4,finding - mental or behavioral dysfunction,NA
+18,depression,unipolar depression,3,mental or behavioral dysfunction,NA
+18,depression,pharmaceutical preparations,2,pharmacologic substance,NA
+18,depression,verbal auditory hallucinations,2,finding - sign or symptom,NA
+18,depression,delusions,2,mental or behavioral dysfunction,NA
+18,depression,depressive symptoms,2,sign or symptom,NA
+18,depression,malignant neoplasms,1,biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure,NA
+18,depression,ask question,1,finding,NA
+18,depression,short period,1,finding,NA
+18,depression,brain,1,body part organ or organ component - disease or syndrome,NA
+18,depression,touch sensation,1,organ or tissue function,NA
+18,depression,physical findings,1,finding,NA
+18,depression,pharmaceutical preparations,11,pharmacologic substance,NA
+18,depression,does talk,8,finding,NA
+18,depression,deterioration of status,5,finding,NA
+18,depression,antidepressive agents,4,pharmacologic substance,NA
+18,depression,ethanol,4,organic chemical - pharmacologic substance,NA
+18,depression,physical findings,3,finding,NA
+18,depression,suicide,3,finding - mental or behavioral dysfunction,NA
+18,depression,pharmacologic substance,3,pharmacologic substance - therapeutic or preventive procedure,NA
+18,depression,agitation,2,finding - sign or symptom,NA
+18,depression,brain,2,body part organ or organ component - disease or syndrome,NA
+18,depression,feeling hopeless,2,finding,NA
+18,depression,delusions,2,mental or behavioral dysfunction,NA
+18,depression,depressive symptoms,2,sign or symptom,NA
+18,depression,therapeutic procedure,2,enzyme - finding - therapeutic or preventive procedure,NA
+18,depression,fatigue,2,sign or symptom,NA
+18,depression,depressed mood,2,finding - mental or behavioral dysfunction,NA
+18,depression,adverse event associated with death,2,finding,NA
+18,depression,heart,1,body part organ or organ component - pharmacologic substance,NA
+18,depression,illicit drugs,1,hazardous or poisonous substance - pharmacologic substance,NA
+18,depression,hypothyroidism,1,disease or syndrome,NA
+18,depression,infantile neuroaxonal dystrophy,1,disease or syndrome,NA
+18,depression,worthlessness,1,finding,NA
+18,depression,short period,1,finding,NA
+18,depression,prophylactic treatment,1,therapeutic or preventive procedure,NA
+18,depression,thyroid gland,1,body part organ or organ component - disease or syndrome - pharmacologic substance,NA
+18,depression,exercise pain management,1,therapeutic or preventive procedure,NA
+18,depression,vitality,1,finding,NA
+18,depression,verbal auditory hallucinations,1,finding - sign or symptom,NA
+18,depression,psychotherapy,1,therapeutic or preventive procedure,NA
+18,depression,behaviorial habits,1,individual behavior,NA
+18,depression,diabetes,1,disease or syndrome,NA
+18,depression,malignant neoplasms,1,biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure,NA
+18,depression,loss of interest,1,mental or behavioral dysfunction,NA
+18,depression,severe depression,1,mental or behavioral dysfunction,NA
+18,depression,weight gain,1,finding - sign or symptom,NA
+18,depression,irritable mood,1,finding,NA
+18,depression,current drinker,1,individual behavior,NA
+18,depression,support - dental,5,clinical attribute - organic chemical - pharmacologic substance,NA
+18,depression,does talk,5,finding,NA
+18,depression,anxiety disorders,4,finding - mental or behavioral dysfunction,NA
+18,depression,depressive symptoms,3,sign or symptom,NA
+18,depression,physical findings,2,finding,NA
+18,depression,agitation,2,finding - sign or symptom,NA
+18,depression,adverse event associated with death,2,finding,NA
+18,depression,worried,2,finding,NA
+18,depression,unipolar depression,1,mental or behavioral dysfunction,NA
+18,depression,asleep,1,finding,NA
+18,depression,infantile neuroaxonal dystrophy,1,disease or syndrome,NA
+18,depression,worthlessness,1,finding,NA
+18,depression,antidepressive agents,1,pharmacologic substance,NA
+18,depression,prophylactic treatment,1,therapeutic or preventive procedure,NA
+18,depression,cognitive therapy,1,diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure,NA
+18,depression,pharmaceutical preparations,1,pharmacologic substance,NA
+18,depression,vitality,1,finding,NA
+18,depression,depression bipolar,1,mental or behavioral dysfunction,NA
+18,depression,fatigue,1,sign or symptom,NA
+18,depression,alcohol abuse,1,mental or behavioral dysfunction,NA
+18,depression,ethanol,1,organic chemical - pharmacologic substance,NA
+18,depression,severe depression,1,mental or behavioral dysfunction,NA
+18,depression,depressed mood,1,finding - mental or behavioral dysfunction,NA
+18,depression,hallucinations visual,1,sign or symptom,NA
+18,depression,finding of hormone level,1,laboratory or test result,NA
+18,depression,irritable mood,1,finding,NA
+19,developmental-disabilities,hyperactive behavior,1,finding,NA
+19,developmental-disabilities,attention deficit disorder,1,disease or syndrome - mental or behavioral dysfunction,NA
+19,developmental-disabilities,disability,1,finding,NA
+19,developmental-disabilities,prophylactic treatment,1,therapeutic or preventive procedure,NA
+19,developmental-disabilities,expression procedure,1,therapeutic or preventive procedure,NA
+19,developmental-disabilities,learning disorders,1,mental or behavioral dysfunction,NA
+19,developmental-disabilities,educational status,1,finding - individual behavior,NA
+19,developmental-disabilities,physical findings,1,finding,NA
+19,developmental-disabilities,obesity,1,disease or syndrome - finding,NA
+19,developmental-disabilities,learning disabilities,1,mental or behavioral dysfunction,NA
+19,developmental-disabilities,low self-esteem,1,finding,NA
+19,developmental-disabilities,weight gain,1,finding - sign or symptom,NA
+19,developmental-disabilities,support - dental,6,clinical attribute - organic chemical - pharmacologic substance,NA
+19,developmental-disabilities,kidney,3,body part organ or organ component,NA
+19,developmental-disabilities,abdomen,3,body location or region,NA
+19,developmental-disabilities,pharmacologic substance,3,pharmacologic substance - therapeutic or preventive procedure,NA
+19,developmental-disabilities,bony process,3,body part organ or organ component,NA
+19,developmental-disabilities,pharmaceutical preparations,2,pharmacologic substance,NA
+19,developmental-disabilities,sexual intercourse - finding,2,finding,NA
+19,developmental-disabilities,educational status,1,finding - individual behavior,NA
+19,developmental-disabilities,muscle cramp,1,sign or symptom,NA
+19,developmental-disabilities,magnetic resonance imaging,1,diagnostic procedure,NA
+19,developmental-disabilities,malignant neoplasms,1,biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure,NA
+19,developmental-disabilities,ultrasonography,1,diagnostic procedure,NA
+19,developmental-disabilities,prophylactic treatment,1,therapeutic or preventive procedure,NA
+19,developmental-disabilities,electrolytes,1,inorganic chemical - pharmacologic substance,NA
+19,developmental-disabilities,urinary bladder,1,body part organ or organ component,NA
+19,developmental-disabilities,physical findings,1,finding,NA
+19,developmental-disabilities,finding of hormone level,1,laboratory or test result,NA
+19,developmental-disabilities,leg,8,body location or region,NA
+19,developmental-disabilities,deterioration of status,1,finding,NA
+19,developmental-disabilities,ultrasonography,1,diagnostic procedure,NA
+19,developmental-disabilities,mild adverse event,1,finding,NA
+19,developmental-disabilities,physical findings,1,finding,NA
+19,developmental-disabilities,body fluids,1,biologically active substance - body substance - pharmacologic substance,NA
+19,developmental-disabilities,js,24,body part organ or organ component,NA
+19,developmental-disabilities,coffin-siris syndrome,23,congenital abnormality - disease or syndrome,NA
+19,developmental-disabilities,histone h3,22,biologically active substance,NA
+19,developmental-disabilities,medical history,20,finding,NA
+19,developmental-disabilities,rhythm,15,finding,NA
+19,developmental-disabilities,hepatic,14,body location or region,NA
+19,developmental-disabilities,paramyotonia congenita of von eulenburg,14,disease or syndrome,NA
+19,developmental-disabilities,rel protein,13,biologically active substance,NA
+19,developmental-disabilities,colostrum,9,body substance - finding - pharmacologic substance,NA
+19,developmental-disabilities,discontinued,8,body part organ or organ component - disease or syndrome - finding - therapeutic or preventive procedure,NA
+19,developmental-disabilities,disability,7,finding,NA
+19,developmental-disabilities,target lesion identification,7,diagnostic procedure,NA
+19,developmental-disabilities,app protein human,6,biologically active substance - disease or syndrome - finding - pharmacologic substance,NA
+19,developmental-disabilities,fluorouracil/melphalan,6,therapeutic or preventive procedure,NA
+19,developmental-disabilities,alanine transaminase,5,congenital abnormality - disease or syndrome - enzyme,NA
+19,developmental-disabilities,foot,5,body part organ or organ component,NA
+19,developmental-disabilities,thrombasthenia,4,disease or syndrome,NA
+19,developmental-disabilities,bony process,4,body part organ or organ component,NA
+19,developmental-disabilities,set protein human,4,biologically active substance,NA
+19,developmental-disabilities,diastrophic dysplasia,4,congenital abnormality - disease or syndrome,NA
+19,developmental-disabilities,thumb structure,4,body part organ or organ component,NA
+19,developmental-disabilities,upper respiratory infections,4,disease or syndrome,NA
+19,developmental-disabilities,blank,4,finding,NA
+19,developmental-disabilities,attention deficit disorder,4,disease or syndrome - mental or behavioral dysfunction,NA
+19,developmental-disabilities,educational status,4,finding - individual behavior,NA
+19,developmental-disabilities,muscular dystrophy,3,body part organ or organ component - congenital abnormality - disease or syndrome,NA
+19,developmental-disabilities,date allergenic extract,3,pharmacologic substance,NA
+19,developmental-disabilities,prophylactic treatment,3,therapeutic or preventive procedure,NA
+19,developmental-disabilities,learning disabilities,3,mental or behavioral dysfunction,NA
+19,developmental-disabilities,russell-silver syndrome,3,congenital abnormality - diagnostic procedure - disease or syndrome,NA
+19,developmental-disabilities,influenza,2,disease or syndrome - pharmacologic substance,NA
+19,developmental-disabilities,observation result,2,finding,NA
+19,developmental-disabilities,physical findings,2,finding,NA
+19,developmental-disabilities,thymidine,2,biologically active substance - enzyme - pharmacologic substance,NA
+19,developmental-disabilities,anatomic site,2,body location or region,NA
+19,developmental-disabilities,prealbumin,2,biologically active substance,NA
+19,developmental-disabilities,chemical probe,2,chemical viewed functionally - organic chemical - pharmacologic substance,NA
+19,developmental-disabilities,learning disorders,2,mental or behavioral dysfunction,NA
+19,developmental-disabilities,formycin triphosphate,2,pharmacologic substance,NA
+19,developmental-disabilities,signs and symptoms,2,sign or symptom,NA
+19,developmental-disabilities,does skip,2,biologically active substance - finding,NA
+19,developmental-disabilities,immunoconjugates,2,hazardous or poisonous substance - organic chemical - pharmacologic substance,NA
+19,developmental-disabilities,core specimen,2,body substance,NA
+19,developmental-disabilities,gtpase-activating proteins,1,biologically active substance,NA
+19,developmental-disabilities,general anesthesia,1,enzyme - pharmacologic substance - therapeutic or preventive procedure,NA
+19,developmental-disabilities,matrix attachment regions,1,biologically active substance - clinical attribute,NA
+19,developmental-disabilities,compact pattern,1,finding,NA
+19,developmental-disabilities,esthesia,1,finding - organ or tissue function,NA
+19,developmental-disabilities,rheumatoid arthritis,1,disease or syndrome - pharmacologic substance,NA
+19,developmental-disabilities,expression procedure,1,therapeutic or preventive procedure,NA
+19,developmental-disabilities,may-hegglin anomaly,1,finding - organic chemical - pharmacologic substance - therapeutic or preventive procedure,NA
+19,developmental-disabilities,fibronectins,1,biologically active substance,NA
+19,developmental-disabilities,electroconvulsive therapy,1,disease or syndrome - therapeutic or preventive procedure,NA
+19,developmental-disabilities,ask question,1,finding,NA
+19,developmental-disabilities,infantile neuroaxonal dystrophy,1,disease or syndrome,NA
+19,developmental-disabilities,doxorubicin,1,antibiotic - finding - organic chemical,NA
+19,developmental-disabilities,stat protein,1,biologically active substance - finding,NA
+19,developmental-disabilities,paroxysmal atrial fibrillation,1,disease or syndrome - therapeutic or preventive procedure,NA
+19,developmental-disabilities,pharmaceutical preparations,1,pharmacologic substance,NA
+19,developmental-disabilities,anterior segmental vein,1,body part organ or organ component,NA
+19,developmental-disabilities,copper,1,biologically active substance - organic chemical - pharmacologic substance,NA
+19,developmental-disabilities,acquired immunodeficiency syndrome,1,disease or syndrome,NA
+19,developmental-disabilities,dna,1,biologically active substance,NA
+19,developmental-disabilities,craniodiaphyseal dysplasia,1,congenital abnormality,NA
+19,developmental-disabilities,surgical margins,1,body part organ or organ component,NA
+19,developmental-disabilities,neurologic examination,1,diagnostic procedure,NA
+19,developmental-disabilities,research outcome,1,finding,NA
+19,developmental-disabilities,perform,1,pharmacologic substance,NA
+19,developmental-disabilities,coloring excipient,1,pharmacologic substance,NA
+19,developmental-disabilities,anatomic border,1,body location or region,NA
+19,developmental-disabilities,aplasia cutis congenita,1,congenital abnormality - disease or syndrome,NA
+19,developmental-disabilities,parotid double-band protein,1,biologically active substance,NA
+19,developmental-disabilities,hearing examination finding,1,finding,NA
+19,developmental-disabilities,problem behavior,1,finding - mental or behavioral dysfunction,NA
+20,frontotemporal-dementia,dementia,30,mental or behavioral dysfunction,NA
+20,frontotemporal-dementia,pharmaceutical preparations,9,pharmacologic substance,NA
+20,frontotemporal-dementia,confusion,4,finding - mental or behavioral dysfunction,NA
+20,frontotemporal-dementia,mental status adverse event,3,finding,NA
+20,frontotemporal-dementia,forgetfulness,3,sign or symptom,NA
+20,frontotemporal-dementia,memory observations,3,finding,NA
+20,frontotemporal-dementia,mild cognitive disorder,3,mental or behavioral dysfunction,NA
+20,frontotemporal-dementia,brain function,2,organ or tissue function,NA
+20,frontotemporal-dementia,anemia,2,disease or syndrome,NA
+20,frontotemporal-dementia,skills,2,individual behavior,NA
+20,frontotemporal-dementia,razadyne,2,organic chemical - pharmacologic substance,NA
+20,frontotemporal-dementia,vitamins,2,organic chemical - pharmacologic substance,NA
+20,frontotemporal-dementia,ethanol,2,organic chemical - pharmacologic substance,NA
+20,frontotemporal-dementia,cerebrospinal fluid,2,biologically active substance - body substance - pharmacologic substance,NA
+20,frontotemporal-dementia,deterioration of status,2,finding,NA
+20,frontotemporal-dementia,heart,2,body part organ or organ component - pharmacologic substance,NA
+20,frontotemporal-dementia,acquired immunodeficiency syndrome,2,disease or syndrome,NA
+20,frontotemporal-dementia,cerebrovascular accident,2,disease or syndrome - therapeutic or preventive procedure,NA
+20,frontotemporal-dementia,as if personality,2,mental or behavioral dysfunction,NA
+20,frontotemporal-dementia,ammonia level finding,1,laboratory or test result,NA
+20,frontotemporal-dementia,violent,1,mental or behavioral dysfunction,NA
+20,frontotemporal-dementia,sodium,1,biologically active substance - inorganic chemical - pharmacologic substance,NA
+20,frontotemporal-dementia,hearing examination finding,1,finding,NA
+20,frontotemporal-dementia,stabilizer - function,1,organ or tissue function,NA
+20,frontotemporal-dementia,citalopram,1,organic chemical - pharmacologic substance,NA
+20,frontotemporal-dementia,flatulence,1,finding - sign or symptom,NA
+20,frontotemporal-dementia,pharmacologic substance,1,pharmacologic substance - therapeutic or preventive procedure,NA
+20,frontotemporal-dementia,hypoxia,1,finding - pathologic function,NA
+20,frontotemporal-dementia,physical findings,1,finding,NA
+20,frontotemporal-dementia,hallucinations,1,mental or behavioral dysfunction,NA
+20,frontotemporal-dementia,oxygen,1,pharmacologic substance,NA
+20,frontotemporal-dementia,proteins,1,biologically active substance,NA
+20,frontotemporal-dementia,rivastigmine,1,organic chemical - pharmacologic substance,NA
+20,frontotemporal-dementia,stimulant,1,pharmacologic substance,NA
+20,frontotemporal-dementia,magnetic resonance imaging,1,diagnostic procedure,NA
+20,frontotemporal-dementia,does play,1,finding,NA
+20,frontotemporal-dementia,body fluids,1,biologically active substance - body substance - pharmacologic substance,NA
+20,frontotemporal-dementia,sugars,1,pharmacologic substance,NA
+20,frontotemporal-dementia,impulsive behavior,1,individual behavior,NA
+20,frontotemporal-dementia,incontinence,1,disease or syndrome,NA
+20,frontotemporal-dementia,physical therapy exercises,1,therapeutic or preventive procedure,NA
+20,frontotemporal-dementia,antipsychotic agents,1,pharmacologic substance,NA
+20,frontotemporal-dementia,namenda,1,organic chemical - pharmacologic substance,NA
+20,frontotemporal-dementia,nutrition disorders,1,disease or syndrome,NA
+20,frontotemporal-dementia,symptoms signs and ill-defined conditions,1,sign or symptom,NA
+20,frontotemporal-dementia,donepezil,1,organic chemical - pharmacologic substance,NA
+20,frontotemporal-dementia,swallowing problems,1,sign or symptom,NA
+20,frontotemporal-dementia,eye,1,body part organ or organ component - body substance,NA
+20,frontotemporal-dementia,cat scan of head,1,diagnostic procedure,NA
+20,frontotemporal-dementia,difficulty reading,1,finding,NA
+20,frontotemporal-dementia,mild adverse event,1,finding,NA
+20,frontotemporal-dementia,vitamin diseases,1,disease or syndrome,NA
+20,frontotemporal-dementia,prophylactic treatment,1,therapeutic or preventive procedure,NA
+20,frontotemporal-dementia,delusions,1,mental or behavioral dysfunction,NA
+20,frontotemporal-dementia,exelon,1,organic chemical - pharmacologic substance,NA
+20,frontotemporal-dementia,change in mental status,1,sign or symptom,NA
+20,frontotemporal-dementia,cessation of smoking,1,finding - individual behavior,NA
+20,frontotemporal-dementia,language problems,1,mental or behavioral dysfunction,NA
+20,frontotemporal-dementia,risperidone,1,organic chemical - pharmacologic substance,NA
+20,frontotemporal-dementia,intoxication,1,finding,NA
+20,frontotemporal-dementia,screening for cancer,1,diagnostic procedure,NA
+20,frontotemporal-dementia,psychotherapy,1,therapeutic or preventive procedure,NA
+20,frontotemporal-dementia,vitamin b 12,1,organic chemical - pharmacologic substance,NA
+20,frontotemporal-dementia,finding of hormone level,1,laboratory or test result,NA
+20,frontotemporal-dementia,forgetting,1,mental or behavioral dysfunction,NA
+20,frontotemporal-dementia,neurologic examination,1,diagnostic procedure,NA
+20,frontotemporal-dementia,severe depression,1,mental or behavioral dysfunction,NA
+20,frontotemporal-dementia,change of medication,1,therapeutic or preventive procedure,NA
+20,frontotemporal-dementia,haloperidol,1,organic chemical - pharmacologic substance,NA
+20,frontotemporal-dementia,electroencephalography,1,diagnostic procedure - finding - laboratory or test result,NA
+20,frontotemporal-dementia,agitation,1,finding - sign or symptom,NA
+20,frontotemporal-dementia,brain injuries,1,injury or poisoning,NA
+20,frontotemporal-dementia,vitamin deficiency,1,disease or syndrome,NA
+20,frontotemporal-dementia,able to balance,1,finding,NA
+20,frontotemporal-dementia,cimetidine,1,organic chemical - pharmacologic substance,NA
+20,frontotemporal-dementia,thyroid diseases,1,body part organ or organ component - disease or syndrome - pharmacologic substance,NA
+20,frontotemporal-dementia,perform,1,pharmacologic substance,NA
+20,frontotemporal-dementia,cognitive therapy,1,diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure,NA
+20,frontotemporal-dementia,galantamine,1,organic chemical - pharmacologic substance,NA
+20,frontotemporal-dementia,blood gas,1,organ or tissue function,NA
+20,frontotemporal-dementia,cataract adverse event,1,finding,NA
+20,frontotemporal-dementia,diet fat-restricted,1,therapeutic or preventive procedure,NA
+20,frontotemporal-dementia,paralysed,1,finding,NA
+20,frontotemporal-dementia,memantine,1,organic chemical - pharmacologic substance,NA
+20,frontotemporal-dementia,problem behavior,1,finding - mental or behavioral dysfunction,NA
+21,gambling,ethanol,3,organic chemical - pharmacologic substance,NA
+21,gambling,deterioration of status,2,finding,NA
+21,gambling,physical findings,2,finding,NA
+21,gambling,pharmaceutical preparations,2,pharmacologic substance,NA
+21,gambling,anxiety disorders,2,finding - mental or behavioral dysfunction,NA
+21,gambling,pharmacologic substance,2,pharmacologic substance - therapeutic or preventive procedure,NA
+21,gambling,heart,1,body part organ or organ component - pharmacologic substance,NA
+21,gambling,agitation,1,finding - sign or symptom,NA
+21,gambling,support - dental,1,clinical attribute - organic chemical - pharmacologic substance,NA
+21,gambling,suicide attempt,1,finding - mental or behavioral dysfunction,NA
+21,gambling,antidepressive agents,1,pharmacologic substance,NA
+21,gambling,prophylactic treatment,1,therapeutic or preventive procedure,NA
+21,gambling,cognitive therapy,1,diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure,NA
+21,gambling,educational status,1,finding - individual behavior,NA
+21,gambling,depressed mood,1,finding - mental or behavioral dysfunction,NA
+21,gambling,behaviorial habits,1,individual behavior,NA
+21,gambling,stress,1,finding - organic chemical - pharmacologic substance,NA
+21,gambling,anxiety depression,1,mental or behavioral dysfunction,NA
+21,gambling,multiple endocrine neoplasia,1,antibiotic - neoplastic process - organic chemical,NA
+21,gambling,treated with,1,therapeutic or preventive procedure,NA
+21,gambling,myocardial infarction,1,disease or syndrome - finding,NA
+22,marijuana-abuse,pharmacologic substance,3,pharmacologic substance - therapeutic or preventive procedure,NA
+22,marijuana-abuse,euphoria adverse event,2,finding,NA
+22,marijuana-abuse,pharmaceutical preparations,2,pharmacologic substance,NA
+22,marijuana-abuse,pulse rate,1,clinical attribute,NA
+22,marijuana-abuse,illicit drugs,1,hazardous or poisonous substance - pharmacologic substance,NA
+22,marijuana-abuse,hyperactive behavior,1,finding,NA
+22,marijuana-abuse,psychotic disorders,1,mental or behavioral dysfunction,NA
+22,marijuana-abuse,dry skin,1,finding - pharmacologic substance - sign or symptom,NA
+22,marijuana-abuse,benzodiazepines,1,organic chemical - pharmacologic substance,NA
+22,marijuana-abuse,heart rhythm,1,organ or tissue function - pathologic function,NA
+22,marijuana-abuse,somnolence,1,finding,NA
+22,marijuana-abuse,mild adverse event,1,finding,NA
+22,marijuana-abuse,chest,1,body location or region - disease or syndrome,NA
+22,marijuana-abuse,headache,1,sign or symptom,NA
+22,marijuana-abuse,seizures,1,finding - sign or symptom,NA
+22,marijuana-abuse,diazepam,1,organic chemical - pharmacologic substance,NA
+22,marijuana-abuse,lorazepam,1,organic chemical - pharmacologic substance,NA
+22,marijuana-abuse,other drugs,1,pharmacologic substance,NA
+22,marijuana-abuse,oral region,1,body location or region - body part organ or organ component - disease or syndrome,NA
+22,marijuana-abuse,physical findings,1,finding,NA
+22,marijuana-abuse,xerostomia,1,sign or symptom,NA
+22,marijuana-abuse,brain,1,body part organ or organ component - disease or syndrome,NA
+22,marijuana-abuse,skills,1,individual behavior,NA
+22,marijuana-abuse,myocardial infarction,1,disease or syndrome - finding,NA
+22,marijuana-abuse,memory observations,1,finding,NA
+23,mental-fatigue,fatigue,19,sign or symptom,NA
+23,mental-fatigue,pharmaceutical preparations,8,pharmacologic substance,NA
+23,mental-fatigue,drowsiness,4,finding,NA
+23,mental-fatigue,vitality,3,finding,NA
+23,mental-fatigue,heart,3,body part organ or organ component - pharmacologic substance,NA
+23,mental-fatigue,sedatives,2,pharmacologic substance,NA
+23,mental-fatigue,weight gain,2,finding - sign or symptom,NA
+23,mental-fatigue,ethanol,2,organic chemical - pharmacologic substance,NA
+23,mental-fatigue,deterioration of status,2,finding,NA
+23,mental-fatigue,thyroid gland,2,body part organ or organ component - disease or syndrome - pharmacologic substance,NA
+23,mental-fatigue,exercise pain management,2,therapeutic or preventive procedure,NA
+23,mental-fatigue,infectious mononucleosis,1,disease or syndrome,NA
+23,mental-fatigue,hypothyroidism,1,disease or syndrome,NA
+23,mental-fatigue,dry skin,1,finding - pharmacologic substance - sign or symptom,NA
+23,mental-fatigue,infection of kidney,1,disease or syndrome,NA
+23,mental-fatigue,narcolepsy,1,disease or syndrome,NA
+23,mental-fatigue,hypersensitivity,1,clinical attribute - finding - pathologic function,NA
+23,mental-fatigue,does talk,1,finding,NA
+23,mental-fatigue,rheumatoid arthritis,1,disease or syndrome - pharmacologic substance,NA
+23,mental-fatigue,weakness,1,sign or symptom,NA
+23,mental-fatigue,pharmacologic substance,1,pharmacologic substance - therapeutic or preventive procedure,NA
+23,mental-fatigue,fibromyalgia,1,disease or syndrome,NA
+23,mental-fatigue,level,1,pharmacologic substance,NA
+23,mental-fatigue,stimulant,1,pharmacologic substance,NA
+23,mental-fatigue,malnutrition,1,disease or syndrome,NA
+23,mental-fatigue,sleep apnea obstructive,1,biologically active substance - disease or syndrome,NA
+23,mental-fatigue,ask question,1,finding,NA
+23,mental-fatigue,asleep,1,finding,NA
+23,mental-fatigue,caffeine,1,organic chemical - pharmacologic substance - therapeutic or preventive procedure,NA
+23,mental-fatigue,water,1,inorganic chemical - pharmacologic substance,NA
+23,mental-fatigue,hand,1,body part organ or organ component,NA
+23,mental-fatigue,nausea,1,finding - sign or symptom,NA
+23,mental-fatigue,sleeplessness,1,finding - sign or symptom,NA
+23,mental-fatigue,sleep disorders,1,disease or syndrome - sign or symptom,NA
+23,mental-fatigue,cocaine,1,hazardous or poisonous substance - injury or poisoning - organic chemical - pharmacologic substance,NA
+23,mental-fatigue,acquired immunodeficiency syndrome,1,disease or syndrome,NA
+23,mental-fatigue,anorexia,1,disease or syndrome - finding,NA
+23,mental-fatigue,therapeutic procedure,1,enzyme - finding - therapeutic or preventive procedure,NA
+23,mental-fatigue,liver function,1,organ or tissue function,NA
+23,mental-fatigue,headache,1,sign or symptom,NA
+23,mental-fatigue,body weight decreased,1,finding,NA
+23,mental-fatigue,neurological observations,1,finding,NA
+23,mental-fatigue,antidepressive agents,1,pharmacologic substance,NA
+23,mental-fatigue,short period,1,finding,NA
+23,mental-fatigue,narcotics,1,biologically active substance - hazardous or poisonous substance - pharmacologic substance,NA
+23,mental-fatigue,initial insomnia,1,mental or behavioral dysfunction,NA
+23,mental-fatigue,fever,1,finding,NA
+23,mental-fatigue,sleep apnea syndromes,1,disease or syndrome,NA
+23,mental-fatigue,renal function,1,organ or tissue function,NA
+23,mental-fatigue,behaviorial habits,1,individual behavior,NA
+23,mental-fatigue,malignant neoplasms,1,biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure,NA
+24,obsessive-compulsive-disorder,anxiety disorders,4,finding - mental or behavioral dysfunction,NA
+24,obsessive-compulsive-disorder,cognitive therapy,3,diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure,NA
+24,obsessive-compulsive-disorder,brain,1,body part organ or organ component - disease or syndrome,NA
+24,obsessive-compulsive-disorder,antidepressive agents,1,pharmacologic substance,NA
+24,obsessive-compulsive-disorder,precipitating factors,1,clinical attribute,NA
+24,obsessive-compulsive-disorder,antipsychotic agents,1,pharmacologic substance,NA
+24,obsessive-compulsive-disorder,stabilizer - function,1,organ or tissue function,NA
+24,obsessive-compulsive-disorder,does talk,1,finding,NA
+24,obsessive-compulsive-disorder,pharmaceutical preparations,1,pharmacologic substance,NA
+24,obsessive-compulsive-disorder,esthesia,1,finding - organ or tissue function,NA
+24,obsessive-compulsive-disorder,hand,1,body part organ or organ component,NA
+24,obsessive-compulsive-disorder,pharmacologic substance,1,pharmacologic substance - therapeutic or preventive procedure,NA
+24,obsessive-compulsive-disorder,physical findings,1,finding,NA
+24,obsessive-compulsive-disorder,stress,1,finding - organic chemical - pharmacologic substance,NA
+25,opioid-related-disorders,pulse rate,1,clinical attribute,NA
+25,opioid-related-disorders,support - dental,1,clinical attribute - organic chemical - pharmacologic substance,NA
+25,opioid-related-disorders,neurological observations,1,finding,NA
+25,opioid-related-disorders,narcotics,1,biologically active substance - hazardous or poisonous substance - pharmacologic substance,NA
+25,opioid-related-disorders,oral region,1,body location or region - body part organ or organ component - disease or syndrome,NA
+25,opioid-related-disorders,pharmaceutical preparations,1,pharmacologic substance,NA
+25,opioid-related-disorders,somnolence,1,finding,NA
+25,opioid-related-disorders,physical findings,1,finding,NA
+25,opioid-related-disorders,vital signs,1,clinical attribute,NA
+25,opioid-related-disorders,morphine,1,organic chemical - pharmacologic substance,NA
+25,opioid-related-disorders,pupil,1,body part organ or organ component,NA
+26,panic-disorder,pharmaceutical preparations,4,pharmacologic substance,NA
+26,panic-disorder,anxiety disorders,4,finding - mental or behavioral dysfunction,NA
+26,panic-disorder,heart,3,body part organ or organ component - pharmacologic substance,NA
+26,panic-disorder,cognitive therapy,3,diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure,NA
+26,panic-disorder,choice behavior,2,individual behavior,NA
+26,panic-disorder,antidepressive agents,2,pharmacologic substance,NA
+26,panic-disorder,reuptake inhibitors,2,pharmacologic substance,NA
+26,panic-disorder,ethanol,1,organic chemical - pharmacologic substance,NA
+26,panic-disorder,neurological observations,1,finding,NA
+26,panic-disorder,agitation,1,finding - sign or symptom,NA
+26,panic-disorder,prophylactic treatment,1,therapeutic or preventive procedure,NA
+26,panic-disorder,chest,1,body location or region - disease or syndrome,NA
+26,panic-disorder,stomach,1,body part organ or organ component - disease or syndrome,NA
+26,panic-disorder,benzodiazepines,1,organic chemical - pharmacologic substance,NA
+26,panic-disorder,other drugs,1,pharmacologic substance,NA
+26,panic-disorder,norepinephrine,1,organic chemical - pharmacologic substance,NA
+26,panic-disorder,malaise,1,finding - sign or symptom,NA
+26,panic-disorder,alcohol abuse,1,mental or behavioral dysfunction,NA
+26,panic-disorder,physical findings,1,finding,NA
+26,panic-disorder,serotonin uptake inhibitors,1,pharmacologic substance,NA
+26,panic-disorder,myocardial infarction,1,disease or syndrome - finding,NA
+26,panic-disorder,stress,1,finding - organic chemical - pharmacologic substance,NA
+26,panic-disorder,numbness,1,finding - sign or symptom,NA
+26,panic-disorder,multiple endocrine neoplasia,1,antibiotic - neoplastic process - organic chemical,NA
+26,panic-disorder,short period,1,finding,NA
+26,panic-disorder,selective serotonin re-uptake inhibitor,1,pharmacologic substance,NA
+26,panic-disorder,dizziness,1,finding - sign or symptom,NA
+26,panic-disorder,pharmaceutical preparations,9,pharmacologic substance,NA
+26,panic-disorder,ethanol,4,organic chemical - pharmacologic substance,NA
+26,panic-disorder,anxiety disorders,3,finding - mental or behavioral dysfunction,NA
+26,panic-disorder,caffeine,2,organic chemical - pharmacologic substance - therapeutic or preventive procedure,NA
+26,panic-disorder,esthesia,2,finding - organ or tissue function,NA
+26,panic-disorder,alcohol abuse,2,mental or behavioral dysfunction,NA
+26,panic-disorder,stimulant,2,pharmacologic substance,NA
+26,panic-disorder,myocardial infarction,2,disease or syndrome - finding,NA
+26,panic-disorder,physical findings,1,finding,NA
+26,panic-disorder,illicit drugs,1,hazardous or poisonous substance - pharmacologic substance,NA
+26,panic-disorder,sedatives,1,pharmacologic substance,NA
+26,panic-disorder,hyposomnia,1,pathologic function,NA
+26,panic-disorder,heart rate,1,clinical attribute,NA
+26,panic-disorder,cocaine,1,hazardous or poisonous substance - injury or poisoning - organic chemical - pharmacologic substance,NA
+26,panic-disorder,sweating,1,body substance - finding,NA
+26,panic-disorder,antidepressive agents,1,pharmacologic substance,NA
+26,panic-disorder,precipitating factors,1,clinical attribute,NA
+26,panic-disorder,chest,1,body location or region - disease or syndrome,NA
+26,panic-disorder,prophylactic treatment,1,therapeutic or preventive procedure,NA
+26,panic-disorder,carney complex type 1,1,disease or syndrome,NA
+26,panic-disorder,does talk,1,finding,NA
+26,panic-disorder,tachycardia,1,finding,NA
+26,panic-disorder,cognitive therapy,1,diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure,NA
+26,panic-disorder,exercise pain management,1,therapeutic or preventive procedure,NA
+26,panic-disorder,alcohol consumption,1,individual behavior,NA
+26,panic-disorder,other drugs,1,pharmacologic substance,NA
+26,panic-disorder,malaise,1,finding - sign or symptom,NA
+26,panic-disorder,reuptake inhibitors,1,pharmacologic substance,NA
+26,panic-disorder,serotonin uptake inhibitors,1,pharmacologic substance,NA
+26,panic-disorder,hand,1,body part organ or organ component,NA
+26,panic-disorder,nausea,1,finding - sign or symptom,NA
+26,panic-disorder,stress,1,finding - organic chemical - pharmacologic substance,NA
+26,panic-disorder,numbness,1,finding - sign or symptom,NA
+26,panic-disorder,multiple endocrine neoplasia,1,antibiotic - neoplastic process - organic chemical,NA
+26,panic-disorder,selective serotonin re-uptake inhibitor,1,pharmacologic substance,NA
+26,panic-disorder,dizziness,1,finding - sign or symptom,NA
+27,personality-disorders,pharmaceutical preparations,1,pharmacologic substance,NA
+27,personality-disorders,physical findings,1,finding,NA
+27,personality-disorders,does talk,1,finding,NA
+27,personality-disorders,mild adverse event,1,finding,NA
+27,personality-disorders,antisocial personality disorder,1,mental or behavioral dysfunction,NA
+28,pick-disease-of-the-brain,pharmaceutical preparations,6,pharmacologic substance,NA
+28,pick-disease-of-the-brain,dementia,4,mental or behavioral dysfunction,NA
+28,pick-disease-of-the-brain,proteins,4,biologically active substance,NA
+28,pick-disease-of-the-brain,deterioration of status,3,finding,NA
+28,pick-disease-of-the-brain,neurological observations,3,finding,NA
+28,pick-disease-of-the-brain,confusion,3,finding - mental or behavioral dysfunction,NA
+28,pick-disease-of-the-brain,support - dental,2,clinical attribute - organic chemical - pharmacologic substance,NA
+28,pick-disease-of-the-brain,body fluids,2,biologically active substance - body substance - pharmacologic substance,NA
+28,pick-disease-of-the-brain,prophylactic treatment,2,therapeutic or preventive procedure,NA
+28,pick-disease-of-the-brain,disorientation,2,finding - mental or behavioral dysfunction,NA
+28,pick-disease-of-the-brain,memory observations,2,finding,NA
+28,pick-disease-of-the-brain,heart,1,body part organ or organ component - pharmacologic substance,NA
+28,pick-disease-of-the-brain,central nervous system depressants,1,pharmacologic substance,NA
+28,pick-disease-of-the-brain,electroencephalography,1,diagnostic procedure - finding - laboratory or test result,NA
+28,pick-disease-of-the-brain,hearing examination finding,1,finding,NA
+28,pick-disease-of-the-brain,dangerous behavior,1,individual behavior,NA
+28,pick-disease-of-the-brain,oxygen,1,pharmacologic substance,NA
+28,pick-disease-of-the-brain,electroencephalogram,1,diagnostic procedure - laboratory or test result,NA
+28,pick-disease-of-the-brain,thyroid diseases,1,body part organ or organ component - disease or syndrome - pharmacologic substance,NA
+28,pick-disease-of-the-brain,infection of kidney,1,disease or syndrome,NA
+28,pick-disease-of-the-brain,cat scan of head,1,diagnostic procedure,NA
+28,pick-disease-of-the-brain,acquired immunodeficiency syndrome,1,disease or syndrome,NA
+28,pick-disease-of-the-brain,therapeutic procedure,1,enzyme - finding - therapeutic or preventive procedure,NA
+28,pick-disease-of-the-brain,behavior therapy,1,therapeutic or preventive procedure,NA
+28,pick-disease-of-the-brain,cognitive therapy,1,diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure,NA
+28,pick-disease-of-the-brain,nutrition disorders,1,disease or syndrome,NA
+28,pick-disease-of-the-brain,mood swings,1,mental or behavioral dysfunction - sign or symptom,NA
+28,pick-disease-of-the-brain,esthesia,1,finding - organ or tissue function,NA
+28,pick-disease-of-the-brain,weakness,1,sign or symptom,NA
+28,pick-disease-of-the-brain,as if personality,1,mental or behavioral dysfunction,NA
+28,pick-disease-of-the-brain,adverse event associated with death,1,finding,NA
+28,pick-disease-of-the-brain,physical findings,1,finding,NA
+28,pick-disease-of-the-brain,psychotherapy,1,therapeutic or preventive procedure,NA
+28,pick-disease-of-the-brain,anemia,1,disease or syndrome,NA
+28,pick-disease-of-the-brain,neurological problem,1,finding,NA
+28,pick-disease-of-the-brain,cerebrospinal fluid,1,biologically active substance - body substance - pharmacologic substance,NA
+28,pick-disease-of-the-brain,loss of interest,1,mental or behavioral dysfunction,NA
+28,pick-disease-of-the-brain,perform,1,pharmacologic substance,NA
+28,pick-disease-of-the-brain,hypoxia,1,finding - pathologic function,NA
+28,pick-disease-of-the-brain,neurologic examination,1,diagnostic procedure,NA
+28,pick-disease-of-the-brain,magnetic resonance imaging,1,diagnostic procedure,NA
+28,pick-disease-of-the-brain,social interaction,1,finding,NA
+28,pick-disease-of-the-brain,analgesics,1,organic chemical - pharmacologic substance,NA
+29,restless-legs-syndrome,leg,15,body location or region,NA
+29,restless-legs-syndrome,restless legs syndrome,13,disease or syndrome,NA
+29,restless-legs-syndrome,agitation,9,finding - sign or symptom,NA
+29,restless-legs-syndrome,pharmaceutical preparations,3,pharmacologic substance,NA
+29,restless-legs-syndrome,esthesia,3,finding - organ or tissue function,NA
+29,restless-legs-syndrome,somnolence,2,finding,NA
+29,restless-legs-syndrome,daytime sleepiness,2,finding,NA
+29,restless-legs-syndrome,sedatives,1,pharmacologic substance,NA
+29,restless-legs-syndrome,kidney,1,body part organ or organ component,NA
+29,restless-legs-syndrome,caffeine,1,organic chemical - pharmacologic substance - therapeutic or preventive procedure,NA
+29,restless-legs-syndrome,antipsychotic agents,1,pharmacologic substance,NA
+29,restless-legs-syndrome,narcotics,1,biologically active substance - hazardous or poisonous substance - pharmacologic substance,NA
+29,restless-legs-syndrome,carney complex type 1,1,disease or syndrome,NA
+29,restless-legs-syndrome,physical therapy exercises,1,therapeutic or preventive procedure,NA
+29,restless-legs-syndrome,sleeplessness,1,finding - sign or symptom,NA
+29,restless-legs-syndrome,anxiety disorders,1,finding - mental or behavioral dysfunction,NA
+29,restless-legs-syndrome,confusion,1,finding - mental or behavioral dysfunction,NA
+29,restless-legs-syndrome,malaise,1,finding - sign or symptom,NA
+29,restless-legs-syndrome,physical findings,1,finding,NA
+29,restless-legs-syndrome,foot,1,body part organ or organ component,NA
+29,restless-legs-syndrome,prophylactic treatment,1,therapeutic or preventive procedure,NA
+29,restless-legs-syndrome,upper arm,1,body location or region - body part organ or organ component - neoplastic process,NA
+30,schizophrenia,delusions,1,mental or behavioral dysfunction,NA
+30,schizophrenia,hallucinations,1,mental or behavioral dysfunction,NA
+30,schizophrenia,tension,1,mental or behavioral dysfunction - sign or symptom,NA
+30,schizophrenia,esthesia,1,finding - organ or tissue function,NA
+30,schizophrenia,hearing examination finding,1,finding,NA
+30,schizophrenia,target lesion identification,1,diagnostic procedure,NA
+30,schizophrenia,ethanol,2,organic chemical - pharmacologic substance,NA
+30,schizophrenia,antipsychotic agents,2,pharmacologic substance,NA
+30,schizophrenia,hallucinations visual,2,sign or symptom,NA
+30,schizophrenia,skills,2,individual behavior,NA
+30,schizophrenia,schizophrenia childhood,2,mental or behavioral dysfunction,NA
+30,schizophrenia,scanning,1,diagnostic procedure - finding,NA
+30,schizophrenia,agitation,1,finding - sign or symptom,NA
+30,schizophrenia,tremor,1,finding - sign or symptom,NA
+30,schizophrenia,hyposomnia,1,pathologic function,NA
+30,schizophrenia,somnolence,1,finding,NA
+30,schizophrenia,suicide,1,finding - mental or behavioral dysfunction,NA
+30,schizophrenia,prophylactic treatment,1,therapeutic or preventive procedure,NA
+30,schizophrenia,delusions,1,mental or behavioral dysfunction,NA
+30,schizophrenia,weight gain,1,finding - sign or symptom,NA
+30,schizophrenia,therapeutic procedure,1,enzyme - finding - therapeutic or preventive procedure,NA
+30,schizophrenia,recreational drugs,1,hazardous or poisonous substance,NA
+30,schizophrenia,cognitive therapy,1,diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure,NA
+30,schizophrenia,tension,1,mental or behavioral dysfunction - sign or symptom,NA
+30,schizophrenia,anxiety disorders,1,finding - mental or behavioral dysfunction,NA
+30,schizophrenia,sedation,1,sign or symptom - therapeutic or preventive procedure,NA
+30,schizophrenia,other drugs,1,pharmacologic substance,NA
+30,schizophrenia,autistic disorder,1,mental or behavioral dysfunction,NA
+30,schizophrenia,dyskinetic syndrome,1,disease or syndrome - finding,NA
+30,schizophrenia,physical findings,1,finding,NA
+30,schizophrenia,acyl-coa thioester hydrolase long-chain 1,1,enzyme - therapeutic or preventive procedure,NA
+30,schizophrenia,dizziness,1,finding - sign or symptom,NA
+30,schizophrenia,isolation procedure,1,therapeutic or preventive procedure,NA
+30,schizophrenia,anxiety depression,1,mental or behavioral dysfunction,NA
+30,schizophrenia,multiple endocrine neoplasia,1,antibiotic - neoplastic process - organic chemical,NA
+30,schizophrenia,magnetic resonance imaging,1,diagnostic procedure,NA
+31,schizophrenia-and-disorders-with-psychotic-features,ethanol,2,organic chemical - pharmacologic substance,NA
+31,schizophrenia-and-disorders-with-psychotic-features,antipsychotic agents,2,pharmacologic substance,NA
+31,schizophrenia-and-disorders-with-psychotic-features,hallucinations visual,2,sign or symptom,NA
+31,schizophrenia-and-disorders-with-psychotic-features,skills,2,individual behavior,NA
+31,schizophrenia-and-disorders-with-psychotic-features,schizophrenia childhood,2,mental or behavioral dysfunction,NA
+31,schizophrenia-and-disorders-with-psychotic-features,scanning,1,diagnostic procedure - finding,NA
+31,schizophrenia-and-disorders-with-psychotic-features,agitation,1,finding - sign or symptom,NA
+31,schizophrenia-and-disorders-with-psychotic-features,tremor,1,finding - sign or symptom,NA
+31,schizophrenia-and-disorders-with-psychotic-features,hyposomnia,1,pathologic function,NA
+31,schizophrenia-and-disorders-with-psychotic-features,somnolence,1,finding,NA
+31,schizophrenia-and-disorders-with-psychotic-features,suicide,1,finding - mental or behavioral dysfunction,NA
+31,schizophrenia-and-disorders-with-psychotic-features,prophylactic treatment,1,therapeutic or preventive procedure,NA
+31,schizophrenia-and-disorders-with-psychotic-features,delusions,1,mental or behavioral dysfunction,NA
+31,schizophrenia-and-disorders-with-psychotic-features,weight gain,1,finding - sign or symptom,NA
+31,schizophrenia-and-disorders-with-psychotic-features,therapeutic procedure,1,enzyme - finding - therapeutic or preventive procedure,NA
+31,schizophrenia-and-disorders-with-psychotic-features,recreational drugs,1,hazardous or poisonous substance,NA
+31,schizophrenia-and-disorders-with-psychotic-features,cognitive therapy,1,diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure,NA
+31,schizophrenia-and-disorders-with-psychotic-features,tension,1,mental or behavioral dysfunction - sign or symptom,NA
+31,schizophrenia-and-disorders-with-psychotic-features,anxiety disorders,1,finding - mental or behavioral dysfunction,NA
+31,schizophrenia-and-disorders-with-psychotic-features,sedation,1,sign or symptom - therapeutic or preventive procedure,NA
+31,schizophrenia-and-disorders-with-psychotic-features,other drugs,1,pharmacologic substance,NA
+31,schizophrenia-and-disorders-with-psychotic-features,autistic disorder,1,mental or behavioral dysfunction,NA
+31,schizophrenia-and-disorders-with-psychotic-features,dyskinetic syndrome,1,disease or syndrome - finding,NA
+31,schizophrenia-and-disorders-with-psychotic-features,physical findings,1,finding,NA
+31,schizophrenia-and-disorders-with-psychotic-features,acyl-coa thioester hydrolase long-chain 1,1,enzyme - therapeutic or preventive procedure,NA
+31,schizophrenia-and-disorders-with-psychotic-features,dizziness,1,finding - sign or symptom,NA
+31,schizophrenia-and-disorders-with-psychotic-features,isolation procedure,1,therapeutic or preventive procedure,NA
+31,schizophrenia-and-disorders-with-psychotic-features,anxiety depression,1,mental or behavioral dysfunction,NA
+31,schizophrenia-and-disorders-with-psychotic-features,multiple endocrine neoplasia,1,antibiotic - neoplastic process - organic chemical,NA
+31,schizophrenia-and-disorders-with-psychotic-features,magnetic resonance imaging,1,diagnostic procedure,NA
+32,sleep-deprivation,hypersomnia,2,sign or symptom,NA
+32,sleep-deprivation,caffeine,2,organic chemical - pharmacologic substance - therapeutic or preventive procedure,NA
+32,sleep-deprivation,stimulant,2,pharmacologic substance,NA
+32,sleep-deprivation,exercise pain management,2,therapeutic or preventive procedure,NA
+32,sleep-deprivation,falls,2,finding - injury or poisoning,NA
+32,sleep-deprivation,sleep disorders,1,disease or syndrome - sign or symptom,NA
+32,sleep-deprivation,heart,1,body part organ or organ component - pharmacologic substance,NA
+32,sleep-deprivation,disrupted sleep,1,finding,NA
+32,sleep-deprivation,somnolence,1,finding,NA
+32,sleep-deprivation,perform,1,pharmacologic substance,NA
+32,sleep-deprivation,prophylactic treatment,1,therapeutic or preventive procedure,NA
+32,sleep-deprivation,hypersensitivity,1,clinical attribute - finding - pathologic function,NA
+32,sleep-deprivation,recreational drugs,1,hazardous or poisonous substance,NA
+32,sleep-deprivation,methamphetamine,1,body substance - hazardous or poisonous substance - organic chemical - pharmacologic substance,NA
+32,sleep-deprivation,pharmacologic substance,1,pharmacologic substance - therapeutic or preventive procedure,NA
+32,sleep-deprivation,physical findings,1,finding,NA
+32,sleep-deprivation,sleep pattern,1,finding,NA
+32,sleep-deprivation,daytime sleepiness,1,finding,NA
+32,sleep-deprivation,medical history,35,finding,NA
+32,sleep-deprivation,histone h3,24,biologically active substance,NA
+32,sleep-deprivation,js,24,body part organ or organ component,NA
+32,sleep-deprivation,coffin-siris syndrome,23,congenital abnormality - disease or syndrome,NA
+32,sleep-deprivation,rhythm,19,finding,NA
+32,sleep-deprivation,hepatic,14,body location or region,NA
+32,sleep-deprivation,paramyotonia congenita of von eulenburg,14,disease or syndrome,NA
+32,sleep-deprivation,rel protein,13,biologically active substance,NA
+32,sleep-deprivation,sleep disorders,12,disease or syndrome - sign or symptom,NA
+32,sleep-deprivation,colostrum,9,body substance - finding - pharmacologic substance,NA
+32,sleep-deprivation,asleep,9,finding,NA
+32,sleep-deprivation,discontinued,8,body part organ or organ component - disease or syndrome - finding - therapeutic or preventive procedure,NA
+32,sleep-deprivation,target lesion identification,7,diagnostic procedure,NA
+32,sleep-deprivation,app protein human,6,biologically active substance - disease or syndrome - finding - pharmacologic substance,NA
+32,sleep-deprivation,fluorouracil/melphalan,6,therapeutic or preventive procedure,NA
+32,sleep-deprivation,alanine transaminase,5,congenital abnormality - disease or syndrome - enzyme,NA
+32,sleep-deprivation,foot,5,body part organ or organ component,NA
+32,sleep-deprivation,thrombasthenia,4,disease or syndrome,NA
+32,sleep-deprivation,set protein human,4,biologically active substance,NA
+32,sleep-deprivation,diastrophic dysplasia,4,congenital abnormality - disease or syndrome,NA
+32,sleep-deprivation,thumb structure,4,body part organ or organ component,NA
+32,sleep-deprivation,upper respiratory infections,4,disease or syndrome,NA
+32,sleep-deprivation,blank,4,finding,NA
+32,sleep-deprivation,attention deficit disorder,4,disease or syndrome - mental or behavioral dysfunction,NA
+32,sleep-deprivation,hypersomnia,4,sign or symptom,NA
+32,sleep-deprivation,date allergenic extract,3,pharmacologic substance,NA
+32,sleep-deprivation,therapeutic procedure,3,enzyme - finding - therapeutic or preventive procedure,NA
+32,sleep-deprivation,sleeplessness,3,finding - sign or symptom,NA
+32,sleep-deprivation,choice behavior,3,individual behavior,NA
+32,sleep-deprivation,sleep apnea syndromes,3,disease or syndrome,NA
+32,sleep-deprivation,russell-silver syndrome,3,congenital abnormality - diagnostic procedure - disease or syndrome,NA
+32,sleep-deprivation,influenza,2,disease or syndrome - pharmacologic substance,NA
+32,sleep-deprivation,muscular dystrophy,2,body part organ or organ component - congenital abnormality - disease or syndrome,NA
+32,sleep-deprivation,observation result,2,finding,NA
+32,sleep-deprivation,narcolepsy,2,disease or syndrome,NA
+32,sleep-deprivation,bony process,2,body part organ or organ component,NA
+32,sleep-deprivation,sleep apnea obstructive,2,biologically active substance - disease or syndrome,NA
+32,sleep-deprivation,daytime sleepiness,2,finding,NA
+32,sleep-deprivation,thymidine,2,biologically active substance - enzyme - pharmacologic substance,NA
+32,sleep-deprivation,anatomic site,2,body location or region,NA
+32,sleep-deprivation,prealbumin,2,biologically active substance,NA
+32,sleep-deprivation,chemical probe,2,chemical viewed functionally - organic chemical - pharmacologic substance,NA
+32,sleep-deprivation,formycin triphosphate,2,pharmacologic substance,NA
+32,sleep-deprivation,signs and symptoms,2,sign or symptom,NA
+32,sleep-deprivation,does skip,2,biologically active substance - finding,NA
+32,sleep-deprivation,educational status,2,finding - individual behavior,NA
+32,sleep-deprivation,immunoconjugates,2,hazardous or poisonous substance - organic chemical - pharmacologic substance,NA
+32,sleep-deprivation,core specimen,2,body substance,NA
+32,sleep-deprivation,stat protein,1,biologically active substance - finding,NA
+32,sleep-deprivation,copper,1,biologically active substance - organic chemical - pharmacologic substance,NA
+32,sleep-deprivation,general anesthesia,1,enzyme - pharmacologic substance - therapeutic or preventive procedure,NA
+32,sleep-deprivation,infectious mononucleosis,1,disease or syndrome,NA
+32,sleep-deprivation,psychotic disorders,1,mental or behavioral dysfunction,NA
+32,sleep-deprivation,restless legs syndrome,1,disease or syndrome,NA
+32,sleep-deprivation,matrix attachment regions,1,biologically active substance - clinical attribute,NA
+32,sleep-deprivation,compact pattern,1,finding,NA
+32,sleep-deprivation,anxiety disorders,1,finding - mental or behavioral dysfunction,NA
+32,sleep-deprivation,esthesia,1,finding - organ or tissue function,NA
+32,sleep-deprivation,rheumatoid arthritis,1,disease or syndrome - pharmacologic substance,NA
+32,sleep-deprivation,expression procedure,1,therapeutic or preventive procedure,NA
+32,sleep-deprivation,drowsiness,1,finding,NA
+32,sleep-deprivation,may-hegglin anomaly,1,finding - organic chemical - pharmacologic substance - therapeutic or preventive procedure,NA
+32,sleep-deprivation,fibromyalgia,1,disease or syndrome,NA
+32,sleep-deprivation,brain,1,body part organ or organ component - disease or syndrome,NA
+32,sleep-deprivation,skills,1,individual behavior,NA
+32,sleep-deprivation,fibronectins,1,biologically active substance,NA
+32,sleep-deprivation,obesity,1,disease or syndrome - finding,NA
+32,sleep-deprivation,gtpase-activating proteins,1,biologically active substance,NA
+32,sleep-deprivation,electroconvulsive therapy,1,disease or syndrome - therapeutic or preventive procedure,NA
+32,sleep-deprivation,disrupted sleep,1,finding,NA
+32,sleep-deprivation,leg,1,body location or region,NA
+32,sleep-deprivation,paroxysmal atrial fibrillation,1,disease or syndrome - therapeutic or preventive procedure,NA
+32,sleep-deprivation,pharmaceutical preparations,1,pharmacologic substance,NA
+32,sleep-deprivation,research outcome,1,finding,NA
+32,sleep-deprivation,anterior segmental vein,1,body part organ or organ component,NA
+32,sleep-deprivation,feeling tired,1,sign or symptom,NA
+32,sleep-deprivation,dna,1,biologically active substance,NA
+32,sleep-deprivation,initial insomnia,1,mental or behavioral dysfunction,NA
+32,sleep-deprivation,craniodiaphyseal dysplasia,1,congenital abnormality,NA
+32,sleep-deprivation,stress,1,finding - organic chemical - pharmacologic substance,NA
+32,sleep-deprivation,surgical margins,1,body part organ or organ component,NA
+32,sleep-deprivation,doxorubicin,1,antibiotic - finding - organic chemical,NA
+32,sleep-deprivation,agitation,1,finding - sign or symptom,NA
+32,sleep-deprivation,coloring excipient,1,pharmacologic substance,NA
+32,sleep-deprivation,anatomic border,1,body location or region,NA
+32,sleep-deprivation,aplasia cutis congenita,1,congenital abnormality - disease or syndrome,NA
+32,sleep-deprivation,parotid double-band protein,1,biologically active substance,NA
+32,sleep-deprivation,malignant neoplasms,1,biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure,NA
+32,sleep-deprivation,deterioration of status,2,finding,NA
+32,sleep-deprivation,brain,2,body part organ or organ component - disease or syndrome,NA
+32,sleep-deprivation,prophylactic treatment,2,therapeutic or preventive procedure,NA
+32,sleep-deprivation,physical findings,2,finding,NA
+32,sleep-deprivation,cerebrospinal fluid,2,biologically active substance - body substance - pharmacologic substance,NA
+32,sleep-deprivation,body fluids,2,biologically active substance - body substance - pharmacologic substance,NA
+32,sleep-deprivation,pharmaceutical preparations,1,pharmacologic substance,NA
+32,sleep-deprivation,tissue damage,1,injury or poisoning,NA
+32,sleep-deprivation,heart,1,body part organ or organ component - pharmacologic substance,NA
+32,sleep-deprivation,asleep,1,finding,NA
+32,sleep-deprivation,sweating,1,body substance - finding,NA
+32,sleep-deprivation,somnolence,1,finding,NA
+32,sleep-deprivation,inflammation,1,pathologic function,NA
+32,sleep-deprivation,headache,1,sign or symptom,NA
+32,sleep-deprivation,anxiety disorders,1,finding - mental or behavioral dysfunction,NA
+32,sleep-deprivation,fever,1,finding,NA
+32,sleep-deprivation,weakness,1,sign or symptom,NA
+32,sleep-deprivation,drowsiness,1,finding,NA
+32,sleep-deprivation,neurological observations,1,finding,NA
+32,sleep-deprivation,falls,1,finding - injury or poisoning,NA
+32,sleep-deprivation,adverse event associated with death,1,finding,NA
+32,sleep-deprivation,sleeplessness,1,finding - sign or symptom,NA
+33,sleep-disorders,hypersomnia,2,sign or symptom,NA
+33,sleep-disorders,caffeine,2,organic chemical - pharmacologic substance - therapeutic or preventive procedure,NA
+33,sleep-disorders,stimulant,2,pharmacologic substance,NA
+33,sleep-disorders,exercise pain management,2,therapeutic or preventive procedure,NA
+33,sleep-disorders,falls,2,finding - injury or poisoning,NA
+33,sleep-disorders,sleep disorders,1,disease or syndrome - sign or symptom,NA
+33,sleep-disorders,heart,1,body part organ or organ component - pharmacologic substance,NA
+33,sleep-disorders,disrupted sleep,1,finding,NA
+33,sleep-disorders,somnolence,1,finding,NA
+33,sleep-disorders,perform,1,pharmacologic substance,NA
+33,sleep-disorders,prophylactic treatment,1,therapeutic or preventive procedure,NA
+33,sleep-disorders,hypersensitivity,1,clinical attribute - finding - pathologic function,NA
+33,sleep-disorders,recreational drugs,1,hazardous or poisonous substance,NA
+33,sleep-disorders,methamphetamine,1,body substance - hazardous or poisonous substance - organic chemical - pharmacologic substance,NA
+33,sleep-disorders,pharmacologic substance,1,pharmacologic substance - therapeutic or preventive procedure,NA
+33,sleep-disorders,physical findings,1,finding,NA
+33,sleep-disorders,sleep pattern,1,finding,NA
+33,sleep-disorders,daytime sleepiness,1,finding,NA
+33,sleep-disorders,medical history,35,finding,NA
+33,sleep-disorders,histone h3,24,biologically active substance,NA
+33,sleep-disorders,js,24,body part organ or organ component,NA
+33,sleep-disorders,coffin-siris syndrome,23,congenital abnormality - disease or syndrome,NA
+33,sleep-disorders,rhythm,19,finding,NA
+33,sleep-disorders,hepatic,14,body location or region,NA
+33,sleep-disorders,paramyotonia congenita of von eulenburg,14,disease or syndrome,NA
+33,sleep-disorders,rel protein,13,biologically active substance,NA
+33,sleep-disorders,sleep disorders,12,disease or syndrome - sign or symptom,NA
+33,sleep-disorders,colostrum,9,body substance - finding - pharmacologic substance,NA
+33,sleep-disorders,asleep,9,finding,NA
+33,sleep-disorders,discontinued,8,body part organ or organ component - disease or syndrome - finding - therapeutic or preventive procedure,NA
+33,sleep-disorders,target lesion identification,7,diagnostic procedure,NA
+33,sleep-disorders,app protein human,6,biologically active substance - disease or syndrome - finding - pharmacologic substance,NA
+33,sleep-disorders,fluorouracil/melphalan,6,therapeutic or preventive procedure,NA
+33,sleep-disorders,alanine transaminase,5,congenital abnormality - disease or syndrome - enzyme,NA
+33,sleep-disorders,foot,5,body part organ or organ component,NA
+33,sleep-disorders,thrombasthenia,4,disease or syndrome,NA
+33,sleep-disorders,set protein human,4,biologically active substance,NA
+33,sleep-disorders,diastrophic dysplasia,4,congenital abnormality - disease or syndrome,NA
+33,sleep-disorders,thumb structure,4,body part organ or organ component,NA
+33,sleep-disorders,upper respiratory infections,4,disease or syndrome,NA
+33,sleep-disorders,blank,4,finding,NA
+33,sleep-disorders,attention deficit disorder,4,disease or syndrome - mental or behavioral dysfunction,NA
+33,sleep-disorders,hypersomnia,4,sign or symptom,NA
+33,sleep-disorders,date allergenic extract,3,pharmacologic substance,NA
+33,sleep-disorders,therapeutic procedure,3,enzyme - finding - therapeutic or preventive procedure,NA
+33,sleep-disorders,sleeplessness,3,finding - sign or symptom,NA
+33,sleep-disorders,choice behavior,3,individual behavior,NA
+33,sleep-disorders,sleep apnea syndromes,3,disease or syndrome,NA
+33,sleep-disorders,russell-silver syndrome,3,congenital abnormality - diagnostic procedure - disease or syndrome,NA
+33,sleep-disorders,influenza,2,disease or syndrome - pharmacologic substance,NA
+33,sleep-disorders,muscular dystrophy,2,body part organ or organ component - congenital abnormality - disease or syndrome,NA
+33,sleep-disorders,observation result,2,finding,NA
+33,sleep-disorders,narcolepsy,2,disease or syndrome,NA
+33,sleep-disorders,bony process,2,body part organ or organ component,NA
+33,sleep-disorders,sleep apnea obstructive,2,biologically active substance - disease or syndrome,NA
+33,sleep-disorders,daytime sleepiness,2,finding,NA
+33,sleep-disorders,thymidine,2,biologically active substance - enzyme - pharmacologic substance,NA
+33,sleep-disorders,anatomic site,2,body location or region,NA
+33,sleep-disorders,prealbumin,2,biologically active substance,NA
+33,sleep-disorders,chemical probe,2,chemical viewed functionally - organic chemical - pharmacologic substance,NA
+33,sleep-disorders,formycin triphosphate,2,pharmacologic substance,NA
+33,sleep-disorders,signs and symptoms,2,sign or symptom,NA
+33,sleep-disorders,does skip,2,biologically active substance - finding,NA
+33,sleep-disorders,educational status,2,finding - individual behavior,NA
+33,sleep-disorders,immunoconjugates,2,hazardous or poisonous substance - organic chemical - pharmacologic substance,NA
+33,sleep-disorders,core specimen,2,body substance,NA
+33,sleep-disorders,stat protein,1,biologically active substance - finding,NA
+33,sleep-disorders,copper,1,biologically active substance - organic chemical - pharmacologic substance,NA
+33,sleep-disorders,general anesthesia,1,enzyme - pharmacologic substance - therapeutic or preventive procedure,NA
+33,sleep-disorders,infectious mononucleosis,1,disease or syndrome,NA
+33,sleep-disorders,psychotic disorders,1,mental or behavioral dysfunction,NA
+33,sleep-disorders,restless legs syndrome,1,disease or syndrome,NA
+33,sleep-disorders,matrix attachment regions,1,biologically active substance - clinical attribute,NA
+33,sleep-disorders,compact pattern,1,finding,NA
+33,sleep-disorders,anxiety disorders,1,finding - mental or behavioral dysfunction,NA
+33,sleep-disorders,esthesia,1,finding - organ or tissue function,NA
+33,sleep-disorders,rheumatoid arthritis,1,disease or syndrome - pharmacologic substance,NA
+33,sleep-disorders,expression procedure,1,therapeutic or preventive procedure,NA
+33,sleep-disorders,drowsiness,1,finding,NA
+33,sleep-disorders,may-hegglin anomaly,1,finding - organic chemical - pharmacologic substance - therapeutic or preventive procedure,NA
+33,sleep-disorders,fibromyalgia,1,disease or syndrome,NA
+33,sleep-disorders,brain,1,body part organ or organ component - disease or syndrome,NA
+33,sleep-disorders,skills,1,individual behavior,NA
+33,sleep-disorders,fibronectins,1,biologically active substance,NA
+33,sleep-disorders,obesity,1,disease or syndrome - finding,NA
+33,sleep-disorders,gtpase-activating proteins,1,biologically active substance,NA
+33,sleep-disorders,electroconvulsive therapy,1,disease or syndrome - therapeutic or preventive procedure,NA
+33,sleep-disorders,disrupted sleep,1,finding,NA
+33,sleep-disorders,leg,1,body location or region,NA
+33,sleep-disorders,paroxysmal atrial fibrillation,1,disease or syndrome - therapeutic or preventive procedure,NA
+33,sleep-disorders,pharmaceutical preparations,1,pharmacologic substance,NA
+33,sleep-disorders,research outcome,1,finding,NA
+33,sleep-disorders,anterior segmental vein,1,body part organ or organ component,NA
+33,sleep-disorders,feeling tired,1,sign or symptom,NA
+33,sleep-disorders,dna,1,biologically active substance,NA
+33,sleep-disorders,initial insomnia,1,mental or behavioral dysfunction,NA
+33,sleep-disorders,craniodiaphyseal dysplasia,1,congenital abnormality,NA
+33,sleep-disorders,stress,1,finding - organic chemical - pharmacologic substance,NA
+33,sleep-disorders,surgical margins,1,body part organ or organ component,NA
+33,sleep-disorders,doxorubicin,1,antibiotic - finding - organic chemical,NA
+33,sleep-disorders,agitation,1,finding - sign or symptom,NA
+33,sleep-disorders,coloring excipient,1,pharmacologic substance,NA
+33,sleep-disorders,anatomic border,1,body location or region,NA
+33,sleep-disorders,aplasia cutis congenita,1,congenital abnormality - disease or syndrome,NA
+33,sleep-disorders,parotid double-band protein,1,biologically active substance,NA
+33,sleep-disorders,malignant neoplasms,1,biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure,NA
+34,somatoform-disorders,cognitive therapy,2,diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure,NA
+34,somatoform-disorders,esthesia,2,finding - organ or tissue function,NA
+34,somatoform-disorders,worried,2,finding,NA
+34,somatoform-disorders,reuptake inhibitors,2,pharmacologic substance,NA
+34,somatoform-disorders,scanning,1,diagnostic procedure - finding,NA
+34,somatoform-disorders,deterioration of status,1,finding,NA
+34,somatoform-disorders,support - dental,1,clinical attribute - organic chemical - pharmacologic substance,NA
+34,somatoform-disorders,brain,1,body part organ or organ component - disease or syndrome,NA
+34,somatoform-disorders,serotonin uptake inhibitors,1,pharmacologic substance,NA
+34,somatoform-disorders,ultrasonography,1,diagnostic procedure,NA
+34,somatoform-disorders,physical therapy exercises,1,therapeutic or preventive procedure,NA
+34,somatoform-disorders,does talk,1,finding,NA
+34,somatoform-disorders,anxiety disorders,1,finding - mental or behavioral dysfunction,NA
+34,somatoform-disorders,therapeutic procedure,1,enzyme - finding - therapeutic or preventive procedure,NA
+34,somatoform-disorders,selective serotonin re-uptake inhibitor,1,pharmacologic substance,NA
+34,somatoform-disorders,norepinephrine,1,organic chemical - pharmacologic substance,NA
+34,somatoform-disorders,physical findings,1,finding,NA
+34,somatoform-disorders,citalopram,1,organic chemical - pharmacologic substance,NA
+35,suicide,pharmaceutical preparations,5,pharmacologic substance,NA
+35,suicide,adverse event associated with death,4,finding,NA
+35,suicide,pharmacologic substance,3,pharmacologic substance - therapeutic or preventive procedure,NA
+35,suicide,feeling hopeless,2,finding,NA
+35,suicide,prophylactic treatment,2,therapeutic or preventive procedure,NA
+35,suicide,as if personality,2,mental or behavioral dysfunction,NA
+35,suicide,male gender,2,finding,NA
+35,suicide,illicit drugs,1,hazardous or poisonous substance - pharmacologic substance,NA
+35,suicide,does talk,1,finding,NA
+35,suicide,unipolar depression,1,mental or behavioral dysfunction,NA
+35,suicide,violent,1,mental or behavioral dysfunction,NA
+35,suicide,acyl-coa thioester hydrolase long-chain 1,1,enzyme - therapeutic or preventive procedure,NA
+35,suicide,carney complex type 1,1,disease or syndrome,NA
+35,suicide,anxiety disorders,1,finding - mental or behavioral dysfunction,NA
+35,suicide,therapeutic procedure,1,enzyme - finding - therapeutic or preventive procedure,NA
+35,suicide,weakness,1,sign or symptom,NA
+35,suicide,alcohol consumption,1,individual behavior,NA
+35,suicide,behaviorial habits,1,individual behavior,NA
+35,suicide,multiple endocrine neoplasia,1,antibiotic - neoplastic process - organic chemical,NA
+36,tic-disorders,pharmaceutical preparations,2,pharmacologic substance,NA
+36,tic-disorders,deterioration of status,2,finding,NA
+36,tic-disorders,physical findings,1,finding,NA
+36,tic-disorders,esthesia,1,finding - organ or tissue function,NA
+36,tic-disorders,leg,1,body location or region,NA
+36,tic-disorders,throat clearing,1,organ or tissue function,NA
+36,tic-disorders,abdomen,1,body location or region,NA
+36,tic-disorders,face,1,body location or region - disease or syndrome,NA
+36,tic-disorders,upper arm,1,body location or region - body part organ or organ component - neoplastic process,NA
+36,tic-disorders,fatigue,1,sign or symptom,NA
+36,tic-disorders,psychotherapy,1,therapeutic or preventive procedure,NA
+36,tic-disorders,upper arm,2,body location or region - body part organ or organ component - neoplastic process,NA
+36,tic-disorders,deterioration of status,1,finding,NA
+36,tic-disorders,attention deficit disorder,1,disease or syndrome - mental or behavioral dysfunction,NA
+36,tic-disorders,mild adverse event,1,finding,NA
+36,tic-disorders,rhythm,1,finding,NA
+36,tic-disorders,pharmaceutical preparations,1,pharmacologic substance,NA
+36,tic-disorders,anxiety disorders,1,finding - mental or behavioral dysfunction,NA
+36,tic-disorders,leg,1,body location or region,NA
+36,tic-disorders,throat clearing,1,organ or tissue function,NA
+36,tic-disorders,oral region,1,body location or region - body part organ or organ component - disease or syndrome,NA
+36,tic-disorders,physical findings,1,finding,NA
+36,tic-disorders,stress,1,finding - organic chemical - pharmacologic substance,NA
+36,tic-disorders,does talk,1,finding,NA
+37,tobacco-use-disorder,pharmaceutical preparations,2,pharmacologic substance,NA
+37,tobacco-use-disorder,behaviorial habits,2,individual behavior,NA
+37,tobacco-use-disorder,weight gain,2,finding - sign or symptom,NA
+37,tobacco-use-disorder,agitation,1,finding - sign or symptom,NA
+37,tobacco-use-disorder,asleep,1,finding,NA
+37,tobacco-use-disorder,heart rate,1,clinical attribute,NA
+37,tobacco-use-disorder,cocaine,1,hazardous or poisonous substance - injury or poisoning - organic chemical - pharmacologic substance,NA
+37,tobacco-use-disorder,sweating,1,body substance - finding,NA
+37,tobacco-use-disorder,cessation of smoking,1,finding - individual behavior,NA
+37,tobacco-use-disorder,perform,1,pharmacologic substance,NA
+37,tobacco-use-disorder,diarrhea,1,finding - sign or symptom,NA
+37,tobacco-use-disorder,therapeutic procedure,1,enzyme - finding - therapeutic or preventive procedure,NA
+37,tobacco-use-disorder,headache,1,sign or symptom,NA
+37,tobacco-use-disorder,tension,1,mental or behavioral dysfunction - sign or symptom,NA
+37,tobacco-use-disorder,anxiety disorders,1,finding - mental or behavioral dysfunction,NA
+37,tobacco-use-disorder,esthesia,1,finding - organ or tissue function,NA
+37,tobacco-use-disorder,drowsiness,1,finding,NA
+37,tobacco-use-disorder,oral region,1,body location or region - body part organ or organ component - disease or syndrome,NA
+37,tobacco-use-disorder,ethanol,1,organic chemical - pharmacologic substance,NA
+37,tobacco-use-disorder,intestines,1,body part organ or organ component,NA
+37,tobacco-use-disorder,nausea,1,finding - sign or symptom,NA
+37,tobacco-use-disorder,morphine,1,organic chemical - pharmacologic substance,NA
+37,tobacco-use-disorder,malignant neoplasms,1,biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure,NA
+37,tobacco-use-disorder,anxiety depression,1,mental or behavioral dysfunction,NA
+38,tourette-syndrome,attention deficit hyperactivity disorder,2,disease or syndrome - mental or behavioral dysfunction,NA
+38,tourette-syndrome,attention deficit disorder,2,disease or syndrome - mental or behavioral dysfunction,NA
+38,tourette-syndrome,prophylactic treatment,2,therapeutic or preventive procedure,NA
+38,tourette-syndrome,pharmaceutical preparations,2,pharmacologic substance,NA
+38,tourette-syndrome,support - dental,1,clinical attribute - organic chemical - pharmacologic substance,NA
+38,tourette-syndrome,eye,1,body part organ or organ component - body substance,NA
+38,tourette-syndrome,mild adverse event,1,finding,NA
+38,tourette-syndrome,throat clearing,1,organ or tissue function,NA
+38,tourette-syndrome,norepinephrine,1,organic chemical - pharmacologic substance,NA
+38,tourette-syndrome,physical findings,1,finding,NA
+38,tourette-syndrome,skills,1,individual behavior,NA
+38,tourette-syndrome,face,1,body location or region - disease or syndrome,NA
+38,tourette-syndrome,upper arm,1,body location or region - body part organ or organ component - neoplastic process,NA
+38,tourette-syndrome,treated with,1,therapeutic or preventive procedure,NA

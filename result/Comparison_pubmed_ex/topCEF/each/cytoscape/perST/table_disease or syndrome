@@ -1,0 +1,42 @@
+15	attention-deficit-disorder-with-hyperactivity	attention deficit hyperactivity disorder	0.31579	disease or syndrome	EXUNIQUE	
+13	asperger-syndrome	epilepsy	0.24138	disease or syndrome	EXUNIQUE	
+16	autistic-disorder	epilepsy	0.25926	disease or syndrome	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	epilepsy	0.25678	disease or syndrome	EXUNIQUE	
+30	delirium	cerebrovascular accident	0.17293	disease or syndrome	EXUNIQUE	
+30	delirium	nervous system disorder	0.11889	disease or syndrome	EXUNIQUE	
+34	developmental-disabilities	epilepsy	0.24719	disease or syndrome	EXUNIQUE	
+44	frontotemporal-dementia	frontotemporal dementia	0.21739	disease or syndrome	EXUNIQUE	
+69	restless-legs-syndrome	restless legs syndrome	0.55814	disease or syndrome	EXUNIQUE	
+69	restless-legs-syndrome	sleep disorders	0.30233	disease or syndrome	EXUNIQUE	
+69	restless-legs-syndrome	liver diseases	0.06977	disease or syndrome	EXUNIQUE	
+69	restless-legs-syndrome	kidney failure chronic	0.06977	disease or syndrome	EXUNIQUE	
+73	sleep-deprivation	sleep disorders	0.25333	disease or syndrome	EXUNIQUE	
+73	sleep-deprivation	sleep apnea syndromes	0.16	disease or syndrome	EXUNIQUE	
+2	alcohol-related-disorders	liver	16.0	disease or syndrome	INUNIQUE	
+2	alcohol-related-disorders	alcohol withdrawal syndrome	13.0	disease or syndrome	INUNIQUE	
+2	alcohol-related-disorders	alcoholic neuropathy	6.0	disease or syndrome	INUNIQUE	
+3	alcoholism	amino acids	3.0	disease or syndrome	INUNIQUE	
+4	alzheimer-disease	brain	10.0	disease or syndrome	INUNIQUE	
+4	alzheimer-disease	senile plaques	4.0	disease or syndrome	INUNIQUE	
+5	anorexia-nervosa	thyroid gland	2.0	disease or syndrome	INUNIQUE	
+8	autistic-disorder	brain	3.0	disease or syndrome	INUNIQUE	
+13	cocaine-related-disorders	cocaine withdrawal	4.0	disease or syndrome	INUNIQUE	
+16	delirium	alcohol withdrawal delirium	7.0	disease or syndrome	INUNIQUE	
+16	delirium	alcohol withdrawal syndrome	5.0	disease or syndrome	INUNIQUE	
+17	dementia	cerebrovascular accident	18.0	disease or syndrome	INUNIQUE	
+17	dementia	brain	11.0	disease or syndrome	INUNIQUE	
+19	developmental-disabilities	coffin-siris syndrome	23.0	disease or syndrome	INUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	congenital abnormality	0.89793	disease or syndrome	EXCOMMON	
+16	autistic-disorder	congenital abnormality	0.92099	disease or syndrome	EXCOMMON	
+22	cocaine-related-disorders	attention deficit hyperactivity disorder	0.96703	disease or syndrome	EXCOMMON	
+29	conversion-disorder	hyperthyroidism	0.96685	disease or syndrome	EXCOMMON	
+29	conversion-disorder	alanine transaminase	4.96685	disease or syndrome	EXCOMMON	
+66	pick-disease-of-the-brain	anemia	0.975	disease or syndrome	EXCOMMON	
+73	sleep-deprivation	deafness	0.96	disease or syndrome	EXCOMMON	
+13	asperger-syndrome	brain	1.89655	disease or syndrome	INCOMMON	
+22	cocaine-related-disorders	attention deficit hyperactivity disorder	0.96703	disease or syndrome	INCOMMON	
+29	conversion-disorder	alanine transaminase	4.96685	disease or syndrome	INCOMMON	
+29	conversion-disorder	hyperthyroidism	0.96685	disease or syndrome	INCOMMON	
+30	delirium	congenital abnormality	3.91118	disease or syndrome	INCOMMON	
+52	marijuana-abuse	asthma	0.94783	disease or syndrome	INCOMMON	
+66	pick-disease-of-the-brain	anemia	0.975	disease or syndrome	INCOMMON	

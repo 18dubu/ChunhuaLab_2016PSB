@@ -1,0 +1,28 @@
+18	binge-eating-disorder	psychotherapy	0.22951	therapeutic or preventive procedure	EXUNIQUE	
+27	conduct-disorder	pharmacologic substance	0.21089	therapeutic or preventive procedure	EXUNIQUE	
+30	delirium	cerebrovascular accident	0.17293	therapeutic or preventive procedure	EXUNIQUE	
+30	delirium	malignant neoplasms	0.13017	therapeutic or preventive procedure	EXUNIQUE	
+46	gambling	intravenous infusion procedures	0.20833	therapeutic or preventive procedure	EXUNIQUE	
+52	marijuana-abuse	pharmacologic substance	0.33043	therapeutic or preventive procedure	EXUNIQUE	
+69	restless-legs-syndrome	contraceptive methods	0.26357	therapeutic or preventive procedure	EXUNIQUE	
+69	restless-legs-syndrome	malignant neoplasms	0.06977	therapeutic or preventive procedure	EXUNIQUE	
+70	schizophrenia	intravenous infusion procedures	0.21563	therapeutic or preventive procedure	EXUNIQUE	
+17	dementia	cerebrovascular accident	18.0	therapeutic or preventive procedure	INUNIQUE	
+13	asperger-syndrome	intravenous infusion procedures	0.75862	therapeutic or preventive procedure	EXCOMMON	
+13	asperger-syndrome	pharmacologic substance	0.84483	therapeutic or preventive procedure	EXCOMMON	
+13	asperger-syndrome	behavior therapy	0.87931	therapeutic or preventive procedure	EXCOMMON	
+16	autistic-disorder	malignant neoplasms	0.91605	therapeutic or preventive procedure	EXCOMMON	
+18	binge-eating-disorder	pharmacologic substance	0.70492	therapeutic or preventive procedure	EXCOMMON	
+18	binge-eating-disorder	cognitive therapy	0.90164	therapeutic or preventive procedure	EXCOMMON	
+30	delirium	pharmacologic substance	0.75329	therapeutic or preventive procedure	EXCOMMON	
+30	delirium	intravenous infusion procedures	0.88111	therapeutic or preventive procedure	EXCOMMON	
+46	gambling	pharmacologic substance	0.75	therapeutic or preventive procedure	EXCOMMON	
+62	panic-disorder	behavior therapy	0.95489	therapeutic or preventive procedure	EXCOMMON	
+70	schizophrenia	malignant neoplasms	0.93966	therapeutic or preventive procedure	EXCOMMON	
+73	sleep-deprivation	malignant neoplasms	0.96	therapeutic or preventive procedure	EXCOMMON	
+16	autistic-disorder	pharmacologic substance	1.85185	therapeutic or preventive procedure	INCOMMON	
+34	developmental-disabilities	pharmacologic substance	2.85843	therapeutic or preventive procedure	INCOMMON	
+44	frontotemporal-dementia	pharmacologic substance	2.76812	therapeutic or preventive procedure	INCOMMON	
+46	gambling	pharmacologic substance	0.75	therapeutic or preventive procedure	INCOMMON	
+62	panic-disorder	behavior therapy	0.95489	therapeutic or preventive procedure	INCOMMON	
+69	restless-legs-syndrome	pharmacologic substance	2.71318	therapeutic or preventive procedure	INCOMMON	

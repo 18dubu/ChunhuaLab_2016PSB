@@ -1,0 +1,2114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<graph label="table_therapeutic%20or%20preventive%20procedure" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML"  directed="1">
+  <att name="documentVersion" value="1.1"/>
+  <att name="networkMetadata">
+    <rdf:RDF>
+      <rdf:Description rdf:about="http://www.cytoscape.org/">
+        <dc:type>Protein-Protein Interaction</dc:type>
+        <dc:description>N/A</dc:description>
+        <dc:identifier>N/A</dc:identifier>
+        <dc:date>2014-02-22 22:10:57</dc:date>
+        <dc:title>table_therapeutic%20or%20preventive%20procedure</dc:title>
+        <dc:source>http://www.cytoscape.org/</dc:source>
+        <dc:format>Cytoscape-XGMML</dc:format>
+      </rdf:Description>
+    </rdf:RDF>
+  </att>
+  <att type="string" name="backgroundColor" value="#ccccff"/>
+  <att type="real" name="GRAPH_VIEW_ZOOM" value="0.6195406682893029"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_X" value="1093.78899303975"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_Y" value="847.493786213485"/>
+  <att type="boolean" name="NODE_SIZE_LOCKED" value="true"/>
+  <att type="string" name="__layoutAlgorithm" value="fruchterman-rheingold" cy:hidden="true"/>
+  <node label="suicide" id="-106">
+    <att type="string" name="Column 1" value="suicide"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="suicide"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="suicide"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="914.261962890625" y="359.0081481933594" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="suicide" cy:borderLineType="solid"/>
+  </node>
+  <node label="suicidal-ideation" id="-86">
+    <att type="string" name="Column 1" value="suicidal-ideation"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="suicidal-ideation"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="suicidal-ideation"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="19.99993896484375" w="20.0" x="1195.1549072265625" y="309.4284362792969" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="suicidal-ideation" cy:borderLineType="solid"/>
+  </node>
+  <node label="substance-related-disorders" id="-197">
+    <att type="string" name="Column 1" value="substance-related-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="substance-related-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="substance-related-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1144.9019775390625" y="380.16180419921875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="substance-related-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="self-injurious-behavior" id="-78">
+    <att type="string" name="Column 1" value="self-injurious-behavior"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="self-injurious-behavior"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="self-injurious-behavior"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="19.999755859375" w="19.99993896484375" x="1020.2168273925781" y="291.5259094238281" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="self-injurious-behavior" cy:borderLineType="solid"/>
+  </node>
+  <node label="personality-disorders" id="-144">
+    <att type="string" name="Column 1" value="personality-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="personality-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="personality-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.000244140625" x="900.33251953125" y="496.0112609863281" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="personality-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="opioid-related-disorders" id="-68">
+    <att type="string" name="Column 1" value="opioid-related-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="opioid-related-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="opioid-related-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1053.8460693359375" y="386.3544006347656" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="opioid-related-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="obsessive-compulsive-disorder" id="-142">
+    <att type="string" name="Column 1" value="obsessive-compulsive-disorder"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="obsessive-compulsive-disorder"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="obsessive-compulsive-disorder"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1047.9886474609375" y="470.55926513671875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="obsessive-compulsive-disorder" cy:borderLineType="solid"/>
+  </node>
+  <node label="therapeutic radiology procedure" id="-196">
+    <att type="string" name="Column 1" value="therapeutic radiology procedure"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="therapeutic radiology procedure"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="therapeutic radiology procedure"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="1407.25927734375" y="1217.84765625" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="therapeutic radiology procedure" cy:borderLineType="solid"/>
+  </node>
+  <node label="mental-disorders-diagnosed-in-childhood" id="-113">
+    <att type="string" name="Column 1" value="mental-disorders-diagnosed-in-childhood"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="mental-disorders-diagnosed-in-childhood"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="mental-disorders-diagnosed-in-childhood"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="19.999969482421875" w="20.0" x="1004.9611206054688" y="510.94874572753906" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="mental-disorders-diagnosed-in-childhood" cy:borderLineType="solid"/>
+  </node>
+  <node label="pharmacotherapy" id="-195">
+    <att type="string" name="Column 1" value="pharmacotherapy"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="pharmacotherapy"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="pharmacotherapy"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="1426.7188720703125" y="1294.7418212890625" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="pharmacotherapy" cy:borderLineType="solid"/>
+  </node>
+  <node label="impulsive-behavior" id="-61">
+    <att type="string" name="Column 1" value="impulsive-behavior"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="impulsive-behavior"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="impulsive-behavior"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.000244140625" x="842.3309936523438" y="352.4372253417969" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="impulsive-behavior" cy:borderLineType="solid"/>
+  </node>
+  <node label="treatment and maintenance" id="-194">
+    <att type="string" name="Column 1" value="treatment and maintenance"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="treatment and maintenance"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="treatment and maintenance"/>
+    </att>
+    <graphics type="ELLIPSE" h="49.999267578125" w="50.00006103515625" x="499.8761291503906" y="641.2342529296875" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="treatment and maintenance" cy:borderLineType="solid"/>
+  </node>
+  <node label="gene therapy" id="-193">
+    <att type="string" name="Column 1" value="gene therapy"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="gene therapy"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="gene therapy"/>
+    </att>
+    <graphics type="ELLIPSE" h="49.9998779296875" w="50.000244140625" x="1208.2589111328125" y="1357.9470825195312" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="gene therapy" cy:borderLineType="solid"/>
+  </node>
+  <node label="operative surgical procedures" id="-192">
+    <att type="string" name="Column 1" value="operative surgical procedures"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="operative surgical procedures"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="operative surgical procedures"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.000030517578125" w="49.99993896484375" x="538.2950744628906" y="466.9698028564453" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="operative surgical procedures" cy:borderLineType="solid"/>
+  </node>
+  <node label="disorders-of-excessive-somnolence" id="-42">
+    <att type="string" name="Column 1" value="disorders-of-excessive-somnolence"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="disorders-of-excessive-somnolence"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="disorders-of-excessive-somnolence"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="693.87841796875" y="548.7893676757812" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="disorders-of-excessive-somnolence" cy:borderLineType="solid"/>
+  </node>
+  <node label="depression" id="-191">
+    <att type="string" name="Column 1" value="depression"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="depression"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="depression"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1122.2569580078125" y="433.7819519042969" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="depression" cy:borderLineType="solid"/>
+  </node>
+  <node label="kidney transplantation" id="-190">
+    <att type="string" name="Column 1" value="kidney transplantation"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="kidney transplantation"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="kidney transplantation"/>
+    </att>
+    <graphics type="ELLIPSE" h="49.999755859375" w="50.0" x="1596.023193359375" y="949.5031127929688" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="kidney transplantation" cy:borderLineType="solid"/>
+  </node>
+  <node label="sedation" id="-189">
+    <att type="string" name="Column 1" value="sedation"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="sedation"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="sedation"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="730.5352783203125" y="1222.7393798828125" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="sedation" cy:borderLineType="solid"/>
+  </node>
+  <node label="compulsive-behavior" id="-36">
+    <att type="string" name="Column 1" value="compulsive-behavior"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="compulsive-behavior"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="compulsive-behavior"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0001220703125" w="20.0" x="1092.1181640625" y="320.2198181152344" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="compulsive-behavior" cy:borderLineType="solid"/>
+  </node>
+  <node label="cocaine-related-disorders" id="-32">
+    <att type="string" name="Column 1" value="cocaine-related-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="cocaine-related-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="cocaine-related-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="952.9523315429688" y="478.27508544921875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="cocaine-related-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="child-behavior-disorders" id="-29">
+    <att type="string" name="Column 1" value="child-behavior-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="child-behavior-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="child-behavior-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1106.7039794921875" y="489.17120361328125" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="child-behavior-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="anxiety-disorders" id="-188">
+    <att type="string" name="Column 1" value="anxiety-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="anxiety-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="anxiety-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="877.2322387695312" y="437.4342956542969" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="anxiety-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="dactinomycin" id="-117">
+    <att type="string" name="Column 1" value="dactinomycin"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="dactinomycin"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="dactinomycin"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.000244140625" w="49.9998779296875" x="956.2597045898438" y="1306.5792236328125" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="dactinomycin" cy:borderLineType="solid"/>
+  </node>
+  <node label="contraceptive methods" id="-187">
+    <att type="string" name="Column 1" value="contraceptive methods"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="contraceptive methods"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="contraceptive methods"/>
+    </att>
+    <graphics type="ELLIPSE" h="49.999755859375" w="50.0" x="647.9805908203125" y="705.9598388671875" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="contraceptive methods" cy:borderLineType="solid"/>
+  </node>
+  <node label="intravenous infusion procedures" id="-186">
+    <att type="string" name="Column 1" value="intravenous infusion procedures"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="intravenous infusion procedures"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="intravenous infusion procedures"/>
+    </att>
+    <graphics type="ELLIPSE" h="49.999755859375" w="49.99993896484375" x="1028.5549621582031" y="627.3358764648438" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="intravenous infusion procedures" cy:borderLineType="solid"/>
+  </node>
+  <node label="tobacco-use-disorder" id="-87">
+    <att type="string" name="Column 1" value="tobacco-use-disorder"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="tobacco-use-disorder"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="tobacco-use-disorder"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1078.055419921875" y="1147.33740234375" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="tobacco-use-disorder" cy:borderLineType="solid"/>
+  </node>
+  <node label="somatoform-disorders" id="-84">
+    <att type="string" name="Column 1" value="somatoform-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="somatoform-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="somatoform-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1459.42724609375" y="1175.3988037109375" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="somatoform-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="smoking" id="-83">
+    <att type="string" name="Column 1" value="smoking"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="smoking"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="smoking"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="909.2428588867188" y="1120.031982421875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="smoking" cy:borderLineType="solid"/>
+  </node>
+  <node label="sleep-disorders" id="-145">
+    <att type="string" name="Column 1" value="sleep-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="sleep-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="sleep-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="800.96875" y="1016.5985107421875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="sleep-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="sleep-deprivation" id="-79">
+    <att type="string" name="Column 1" value="sleep-deprivation"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="sleep-deprivation"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="sleep-deprivation"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="798.4671630859375" y="1158.409423828125" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="sleep-deprivation" cy:borderLineType="solid"/>
+  </node>
+  <node label="quality-of-life" id="-185">
+    <att type="string" name="Column 1" value="quality-of-life"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="quality-of-life"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="quality-of-life"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1186.283203125" y="1198.77783203125" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="quality-of-life" cy:borderLineType="solid"/>
+  </node>
+  <node label="psychotic-disorders" id="-184">
+    <att type="string" name="Column 1" value="psychotic-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="psychotic-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="psychotic-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="19.9998779296875" x="1062.6946411132812" y="801.7838745117188" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="psychotic-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="phobic-disorders" id="-183">
+    <att type="string" name="Column 1" value="phobic-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="phobic-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="phobic-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1237.91845703125" y="620.9887084960938" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="phobic-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="parasomnias" id="-143">
+    <att type="string" name="Column 1" value="parasomnias"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="parasomnias"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="parasomnias"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="862.7149658203125" y="1128.696044921875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="parasomnias" cy:borderLineType="solid"/>
+  </node>
+  <node label="cognitive therapy" id="-182">
+    <att type="string" name="Column 1" value="cognitive therapy"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="cognitive therapy"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="cognitive therapy"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="1546.4906005859375" y="675.6530151367188" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="cognitive therapy" cy:borderLineType="solid"/>
+  </node>
+  <node label="neurocirculatory-asthenia" id="-66">
+    <att type="string" name="Column 1" value="neurocirculatory-asthenia"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="neurocirculatory-asthenia"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="neurocirculatory-asthenia"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="952.6603393554688" y="1077.1024169921875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="neurocirculatory-asthenia" cy:borderLineType="solid"/>
+  </node>
+  <node label="mood-disorders" id="-181">
+    <att type="string" name="Column 1" value="mood-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="mood-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="mood-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1095.56005859375" y="803.9454345703125" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="mood-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="mental-retardation" id="-65">
+    <att type="string" name="Column 1" value="mental-retardation"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="mental-retardation"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="mental-retardation"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1156.9755859375" y="1156.6507568359375" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="mental-retardation" cy:borderLineType="solid"/>
+  </node>
+  <node label="mental-disorders" id="-180">
+    <att type="string" name="Column 1" value="mental-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="mental-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="mental-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="999.4584350585938" y="846.6336669921875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="mental-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="marijuana-abuse" id="-62">
+    <att type="string" name="Column 1" value="marijuana-abuse"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="marijuana-abuse"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="marijuana-abuse"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="855.454345703125" y="796.26123046875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="marijuana-abuse" cy:borderLineType="solid"/>
+  </node>
+  <node label="learning-disorders" id="-137">
+    <att type="string" name="Column 1" value="learning-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="learning-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="learning-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.000244140625" x="1161.237060546875" y="1002.6397094726562" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="learning-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="impulse-control-disorders" id="-101">
+    <att type="string" name="Column 1" value="impulse-control-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="impulse-control-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="impulse-control-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="19.999755859375" x="960.6455688476562" y="872.7970581054688" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="impulse-control-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="habits" id="-57">
+    <att type="string" name="Column 1" value="habits"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="habits"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="habits"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="877.4569702148438" y="1054.9217529296875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="habits" cy:borderLineType="solid"/>
+  </node>
+  <node label="frontotemporal-lobar-degeneration" id="-56">
+    <att type="string" name="Column 1" value="frontotemporal-lobar-degeneration"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="frontotemporal-lobar-degeneration"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="frontotemporal-lobar-degeneration"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1251.697021484375" y="993.8113403320312" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="frontotemporal-lobar-degeneration" cy:borderLineType="solid"/>
+  </node>
+  <node label="frontotemporal-dementia" id="-55">
+    <att type="string" name="Column 1" value="frontotemporal-dementia"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="frontotemporal-dementia"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="frontotemporal-dementia"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="19.99993896484375" w="20.0" x="1249.8350830078125" y="1026.6072082519531" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="frontotemporal-dementia" cy:borderLineType="solid"/>
+  </node>
+  <node label="eating-disorders" id="-48">
+    <att type="string" name="Column 1" value="eating-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="eating-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="eating-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1107.373046875" y="833.00341796875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="eating-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="drinking-behavior" id="-47">
+    <att type="string" name="Column 1" value="drinking-behavior"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="drinking-behavior"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="drinking-behavior"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.000244140625" x="1060.4375" y="1099.1016845703125" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="drinking-behavior" cy:borderLineType="solid"/>
+  </node>
+  <node label="disorders-of-sex-development" id="-109">
+    <att type="string" name="Column 1" value="disorders-of-sex-development"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="disorders-of-sex-development"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="disorders-of-sex-development"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1202.9500732421875" y="1154.4422607421875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="disorders-of-sex-development" cy:borderLineType="solid"/>
+  </node>
+  <node label="depressive-disorder" id="-179">
+    <att type="string" name="Column 1" value="depressive-disorder"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="depressive-disorder"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="depressive-disorder"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1037.337646484375" y="827.9928588867188" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="depressive-disorder" cy:borderLineType="solid"/>
+  </node>
+  <node label="dementia" id="-40">
+    <att type="string" name="Column 1" value="dementia"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="dementia"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="dementia"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="49.99993896484375" x="1010.6119689941406" y="1180.765625" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="dementia" cy:borderLineType="solid"/>
+  </node>
+  <node label="delirium" id="-39">
+    <att type="string" name="Column 1" value="delirium"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="delirium"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="delirium"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="955.461181640625" y="1147.807373046875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="delirium" cy:borderLineType="solid"/>
+  </node>
+  <node label="consciousness-disorders" id="-108">
+    <att type="string" name="Column 1" value="consciousness-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="consciousness-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="consciousness-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="821.33935546875" y="1198.630859375" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="consciousness-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="conduct-disorder" id="-127">
+    <att type="string" name="Column 1" value="conduct-disorder"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="conduct-disorder"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="conduct-disorder"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1083.2574462890625" y="761.4454345703125" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="conduct-disorder" cy:borderLineType="solid"/>
+  </node>
+  <node label="communication-disorders" id="-178">
+    <att type="string" name="Column 1" value="communication-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="communication-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="communication-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1163.4156494140625" y="904.353271484375" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="communication-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="cognition-disorders" id="-124">
+    <att type="string" name="Column 1" value="cognition-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="cognition-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="cognition-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1004.3475952148438" y="1144.7142333984375" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="cognition-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="borderline-personality-disorder" id="-121">
+    <att type="string" name="Column 1" value="borderline-personality-disorder"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="borderline-personality-disorder"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="borderline-personality-disorder"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="908.4550170898438" y="727.3313598632812" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="borderline-personality-disorder" cy:borderLineType="solid"/>
+  </node>
+  <node label="bipolar-disorder" id="-177">
+    <att type="string" name="Column 1" value="bipolar-disorder"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="bipolar-disorder"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="bipolar-disorder"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.00006103515625" x="1030.8777770996094" y="767.7664184570312" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="bipolar-disorder" cy:borderLineType="solid"/>
+  </node>
+  <node label="behavioral-symptoms" id="-120">
+    <att type="string" name="Column 1" value="behavioral-symptoms"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="behavioral-symptoms"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="behavioral-symptoms"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="967.1019897460938" y="809.2135009765625" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="behavioral-symptoms" cy:borderLineType="solid"/>
+  </node>
+  <node label="amphetamine-related-disorders" id="-18">
+    <att type="string" name="Column 1" value="amphetamine-related-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="amphetamine-related-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="amphetamine-related-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="874.50341796875" y="740.53173828125" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="amphetamine-related-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="alzheimer-disease" id="-13">
+    <att type="string" name="Column 1" value="alzheimer-disease"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="alzheimer-disease"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="alzheimer-disease"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="955.01416015625" y="1179.27880859375" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="alzheimer-disease" cy:borderLineType="solid"/>
+  </node>
+  <node label="alcoholism" id="-11">
+    <att type="string" name="Column 1" value="alcoholism"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="alcoholism"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="alcoholism"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.000244140625" w="20.0" x="1057.246826171875" y="863.2145385742188" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="alcoholism" cy:borderLineType="solid"/>
+  </node>
+  <node label="alcohol-related-disorders" id="-8">
+    <att type="string" name="Column 1" value="alcohol-related-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="alcohol-related-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="alcohol-related-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="930.4473266601562" y="838.465576171875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="alcohol-related-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="alcohol-drinking" id="-6">
+    <att type="string" name="Column 1" value="alcohol-drinking"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="alcohol-drinking"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="alcohol-drinking"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="19.9998779296875" x="831.9370727539062" y="1062.0135498046875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="alcohol-drinking" cy:borderLineType="solid"/>
+  </node>
+  <node label="affective-disorders-psychotic" id="-176">
+    <att type="string" name="Column 1" value="affective-disorders-psychotic"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="affective-disorders-psychotic"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="affective-disorders-psychotic"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="19.999755859375" x="1007.9360961914062" y="798.4576416015625" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="affective-disorders-psychotic" cy:borderLineType="solid"/>
+  </node>
+  <node label="pharmacologic substance" id="-175">
+    <att type="string" name="Column 1" value="pharmacologic substance"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="pharmacologic substance"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="pharmacologic substance"/>
+    </att>
+    <graphics type="ELLIPSE" h="49.999755859375" w="50.00018310546875" x="1001.0727844238281" y="964.1420288085938" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="pharmacologic substance" cy:borderLineType="solid"/>
+  </node>
+  <node label="adjustment-disorders" id="-1">
+    <att type="string" name="Column 1" value="adjustment-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="adjustment-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="adjustment-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="779.24853515625" y="1089.1304931640625" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="adjustment-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="treatment protocols" id="-174">
+    <att type="string" name="Column 1" value="treatment protocols"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="treatment protocols"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="treatment protocols"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="1310.03173828125" y="339.87939453125" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="treatment protocols" cy:borderLineType="solid"/>
+  </node>
+  <node label="restless-legs-syndrome" id="-72">
+    <att type="string" name="Column 1" value="restless-legs-syndrome"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="restless-legs-syndrome"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="restless-legs-syndrome"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1259.0804443359375" y="275.9016418457031" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="restless-legs-syndrome" cy:borderLineType="solid"/>
+  </node>
+  <node label="contraception barrier" id="-173">
+    <att type="string" name="Column 1" value="contraception barrier"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="contraception barrier"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="contraception barrier"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="709.3064575195312" y="434.7431335449219" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="contraception barrier" cy:borderLineType="solid"/>
+  </node>
+  <node label="panic-disorder" id="-70">
+    <att type="string" name="Column 1" value="panic-disorder"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="panic-disorder"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="panic-disorder"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="795.7589721679688" y="498.39697265625" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="panic-disorder" cy:borderLineType="solid"/>
+  </node>
+  <node label="hormone therapy" id="-172">
+    <att type="string" name="Column 1" value="hormone therapy"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="hormone therapy"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="hormone therapy"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="1353.916259765625" y="1384.85693359375" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="hormone therapy" cy:borderLineType="solid"/>
+  </node>
+  <node label="mental-fatigue" id="-64">
+    <att type="string" name="Column 1" value="mental-fatigue"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="mental-fatigue"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="mental-fatigue"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="19.999755859375" w="20.0" x="1271.9288330078125" y="1202.871826171875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="mental-fatigue" cy:borderLineType="solid"/>
+  </node>
+  <node label="infusion of drug" id="-171">
+    <att type="string" name="Column 1" value="infusion of drug"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="infusion of drug"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="infusion of drug"/>
+    </att>
+    <graphics type="ELLIPSE" h="49.99951171875" w="50.0" x="412.6859130859375" y="670.6859130859375" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="infusion of drug" cy:borderLineType="solid"/>
+  </node>
+  <node label="cataract anterior polar" id="-100">
+    <att type="string" name="Column 1" value="cataract anterior polar"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="cataract anterior polar"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="cataract anterior polar"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="443.356689453125" y="562.7176513671875" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="cataract anterior polar" cy:borderLineType="solid"/>
+  </node>
+  <node label="heroin-dependence" id="-59">
+    <att type="string" name="Column 1" value="heroin-dependence"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="heroin-dependence"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="heroin-dependence"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="19.99993896484375" x="586.6668395996094" y="643.4506225585938" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="heroin-dependence" cy:borderLineType="solid"/>
+  </node>
+  <node label="puncture wound" id="-170">
+    <att type="string" name="Column 1" value="puncture wound"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="puncture wound"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="puncture wound"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="696.0121459960938" y="983.735107421875" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="puncture wound" cy:borderLineType="solid"/>
+  </node>
+  <node label="gambling" id="-169">
+    <att type="string" name="Column 1" value="gambling"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="gambling"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="gambling"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="19.999755859375" x="827.3273315429688" y="861.3027954101562" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="gambling" cy:borderLineType="solid"/>
+  </node>
+  <node label="nerve sparing" id="-168">
+    <att type="string" name="Column 1" value="nerve sparing"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="nerve sparing"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="nerve sparing"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="1555.199462890625" y="1112.8656005859375" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="nerve sparing" cy:borderLineType="solid"/>
+  </node>
+  <node label="erectile-dysfunction" id="-50">
+    <att type="string" name="Column 1" value="erectile-dysfunction"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="erectile-dysfunction"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="erectile-dysfunction"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1634.2935791015625" y="1051.6114501953125" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="erectile-dysfunction" cy:borderLineType="solid"/>
+  </node>
+  <node label="tropical spastic paraparesis" id="-96">
+    <att type="string" name="Column 1" value="tropical spastic paraparesis"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="tropical spastic paraparesis"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="tropical spastic paraparesis"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.000244140625" w="49.999755859375" x="682.2545776367188" y="897.856201171875" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="tropical spastic paraparesis" cy:borderLineType="solid"/>
+  </node>
+  <node label="dysthymic-disorder" id="-95">
+    <att type="string" name="Column 1" value="dysthymic-disorder"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="dysthymic-disorder"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="dysthymic-disorder"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.000244140625" x="894.9221801757812" y="809.336181640625" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="dysthymic-disorder" cy:borderLineType="solid"/>
+  </node>
+  <node label="folic acid" id="-92">
+    <att type="string" name="Column 1" value="folic acid"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="folic acid"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="folic acid"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="1095.11474609375" y="1301.376953125" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="folic acid" cy:borderLineType="solid"/>
+  </node>
+  <node label="dissociative-disorders" id="-44">
+    <att type="string" name="Column 1" value="dissociative-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="dissociative-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="dissociative-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1004.9195556640625" y="1256.2098388671875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="dissociative-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="developmental-disabilities" id="-41">
+    <att type="string" name="Column 1" value="developmental-disabilities"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="developmental-disabilities"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="developmental-disabilities"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="996.2171020507812" y="409.23419189453125" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="developmental-disabilities" cy:borderLineType="solid"/>
+  </node>
+  <node label="body fluid discharge" id="-167">
+    <att type="string" name="Column 1" value="body fluid discharge"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="body fluid discharge"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="body fluid discharge"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.000244140625" w="50.0" x="1762.32861328125" y="748.4976196289062" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="body fluid discharge" cy:borderLineType="solid"/>
+  </node>
+  <node label="rehabilitation therapy" id="-166">
+    <att type="string" name="Column 1" value="rehabilitation therapy"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="rehabilitation therapy"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="rehabilitation therapy"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="1747.8260498046875" y="836.1798095703125" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="rehabilitation therapy" cy:borderLineType="solid"/>
+  </node>
+  <node label="hyperphagia" id="-165">
+    <att type="string" name="Column 1" value="hyperphagia"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="hyperphagia"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="hyperphagia"/>
+    </att>
+    <graphics type="ELLIPSE" h="49.999755859375" w="50.000244140625" x="1346.993408203125" y="795.7492065429688" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="hyperphagia" cy:borderLineType="solid"/>
+  </node>
+  <node label="binge-eating-disorder" id="-164">
+    <att type="string" name="Column 1" value="binge-eating-disorder"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="binge-eating-disorder"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="binge-eating-disorder"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1197.0994873046875" y="793.89306640625" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="binge-eating-disorder" cy:borderLineType="solid"/>
+  </node>
+  <node label="revision procedure" id="-163">
+    <att type="string" name="Column 1" value="revision procedure"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="revision procedure"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="revision procedure"/>
+    </att>
+    <graphics type="ELLIPSE" h="49.99993896484375" w="50.0001220703125" x="964.959228515625" y="277.2615661621094" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="revision procedure" cy:borderLineType="solid"/>
+  </node>
+  <node label="autistic-disorder" id="-27">
+    <att type="string" name="Column 1" value="autistic-disorder"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="autistic-disorder"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="autistic-disorder"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.000244140625" w="20.0" x="960.5191040039062" y="419.9093322753906" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="autistic-disorder" cy:borderLineType="solid"/>
+  </node>
+  <node label="combined modality therapy" id="-162">
+    <att type="string" name="Column 1" value="combined modality therapy"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="combined modality therapy"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="combined modality therapy"/>
+    </att>
+    <graphics type="ELLIPSE" h="49.999755859375" w="49.999755859375" x="424.3882141113281" y="998.3351440429688" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="combined modality therapy" cy:borderLineType="solid"/>
+  </node>
+  <node label="biological response modifier therapy" id="-161">
+    <att type="string" name="Column 1" value="biological response modifier therapy"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="biological response modifier therapy"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="biological response modifier therapy"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="455.73736572265625" y="870.4852905273438" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="biological response modifier therapy" cy:borderLineType="solid"/>
+  </node>
+  <node label="aggression" id="-160">
+    <att type="string" name="Column 1" value="aggression"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="aggression"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="aggression"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="616.2498779296875" y="866.2523193359375" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="aggression" cy:borderLineType="solid"/>
+  </node>
+  <node label="tourette-syndrome" id="-116">
+    <att type="string" name="Column 1" value="tourette-syndrome"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="tourette-syndrome"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="tourette-syndrome"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.000244140625" w="20.0" x="1220.74755859375" y="407.286376953125" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="tourette-syndrome" cy:borderLineType="solid"/>
+  </node>
+  <node label="tic-disorders" id="-115">
+    <att type="string" name="Column 1" value="tic-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="tic-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="tic-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1223.3466796875" y="524.357666015625" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="tic-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="substance-withdrawal-syndrome" id="-85">
+    <att type="string" name="Column 1" value="substance-withdrawal-syndrome"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="substance-withdrawal-syndrome"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="substance-withdrawal-syndrome"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="959.5363159179688" y="726.5655517578125" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="substance-withdrawal-syndrome" cy:borderLineType="solid"/>
+  </node>
+  <node label="drugs non-prescription" id="-159">
+    <att type="string" name="Column 1" value="drugs non-prescription"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="drugs non-prescription"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="drugs non-prescription"/>
+    </att>
+    <graphics type="ELLIPSE" h="49.999755859375" w="49.999755859375" x="588.6923828125" y="791.5563354492188" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="drugs non-prescription" cy:borderLineType="solid"/>
+  </node>
+  <node label="sleep-initiation-and-maintenance-disorders" id="-81">
+    <att type="string" name="Column 1" value="sleep-initiation-and-maintenance-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="sleep-initiation-and-maintenance-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="sleep-initiation-and-maintenance-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="821.226806640625" y="807.25732421875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="sleep-initiation-and-maintenance-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="schizophrenia-and-disorders-with-psychotic-features" id="-77">
+    <att type="string" name="Column 1" value="schizophrenia-and-disorders-with-psychotic-features"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="schizophrenia-and-disorders-with-psychotic-features"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="schizophrenia-and-disorders-with-psychotic-features"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="971.5845947265625" y="757.0875854492188" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="schizophrenia-and-disorders-with-psychotic-features" cy:borderLineType="solid"/>
+  </node>
+  <node label="schizophrenia" id="-74">
+    <att type="string" name="Column 1" value="schizophrenia"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="schizophrenia"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="schizophrenia"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="815.8849487304688" y="740.8976440429688" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="schizophrenia" cy:borderLineType="solid"/>
+  </node>
+  <node label="pick-disease-of-the-brain" id="-71">
+    <att type="string" name="Column 1" value="pick-disease-of-the-brain"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="pick-disease-of-the-brain"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="pick-disease-of-the-brain"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1462.6463623046875" y="536.1515502929688" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="pick-disease-of-the-brain" cy:borderLineType="solid"/>
+  </node>
+  <node label="behavior therapy" id="-158">
+    <att type="string" name="Column 1" value="behavior therapy"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="behavior therapy"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="behavior therapy"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.000244140625" x="1358.314453125" y="443.1494445800781" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="behavior therapy" cy:borderLineType="solid"/>
+  </node>
+  <node label="obsessive-behavior" id="-141">
+    <att type="string" name="Column 1" value="obsessive-behavior"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="obsessive-behavior"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="obsessive-behavior"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.00048828125" x="1329.437255859375" y="600.7958374023438" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="obsessive-behavior" cy:borderLineType="solid"/>
+  </node>
+  <node label="fat protein human" id="-157">
+    <att type="string" name="Column 1" value="fat protein human"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="fat protein human"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="fat protein human"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="801.2805786132812" y="1358.9842529296875" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="fat protein human" cy:borderLineType="solid"/>
+  </node>
+  <node label="food-habits" id="-53">
+    <att type="string" name="Column 1" value="food-habits"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="food-habits"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="food-habits"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0001220703125" w="20.0" x="864.1625366210938" y="1260.1267700195312" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="food-habits" cy:borderLineType="solid"/>
+  </node>
+  <node label="conversion-disorder" id="-37">
+    <att type="string" name="Column 1" value="conversion-disorder"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="conversion-disorder"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="conversion-disorder"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="19.999755859375" w="20.0" x="1260.7054443359375" y="917.5823974609375" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="conversion-disorder" cy:borderLineType="solid"/>
+  </node>
+  <node label="psychotherapy" id="-156">
+    <att type="string" name="Column 1" value="psychotherapy"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="psychotherapy"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="psychotherapy"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="1379.4266357421875" y="711.3685302734375" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="psychotherapy" cy:borderLineType="solid"/>
+  </node>
+  <node label="combat-disorders" id="-35">
+    <att type="string" name="Column 1" value="combat-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="combat-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="combat-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="19.999755859375" x="1620.73095703125" y="810.4320678710938" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="combat-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="attention-deficit-disorder-with-hyperactivity" id="-26">
+    <att type="string" name="Column 1" value="attention-deficit-disorder-with-hyperactivity"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="attention-deficit-disorder-with-hyperactivity"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="attention-deficit-disorder-with-hyperactivity"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.000244140625" x="1143.426513671875" y="578.0787963867188" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="attention-deficit-disorder-with-hyperactivity" cy:borderLineType="solid"/>
+  </node>
+  <node label="investigational new drugs" id="-155">
+    <att type="string" name="Column 1" value="investigational new drugs"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="investigational new drugs"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="investigational new drugs"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="1231.8978271484375" y="665.0924682617188" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="investigational new drugs" cy:borderLineType="solid"/>
+  </node>
+  <node label="attention-deficit-and-disruptive-behavior-disorders" id="-23">
+    <att type="string" name="Column 1" value="attention-deficit-and-disruptive-behavior-disorders"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="attention-deficit-and-disruptive-behavior-disorders"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="attention-deficit-and-disruptive-behavior-disorders"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1119.9769287109375" y="549.2039794921875" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="attention-deficit-and-disruptive-behavior-disorders" cy:borderLineType="solid"/>
+  </node>
+  <node label="malignant neoplasms" id="-154">
+    <att type="string" name="Column 1" value="malignant neoplasms"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="malignant neoplasms"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="malignant neoplasms"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="1287.1650390625" y="1066.931396484375" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="malignant neoplasms" cy:borderLineType="solid"/>
+  </node>
+  <node label="anorexia-nervosa" id="-20">
+    <att type="string" name="Column 1" value="anorexia-nervosa"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="anorexia-nervosa"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="anorexia-nervosa"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1171.794921875" y="758.023193359375" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="anorexia-nervosa" cy:borderLineType="solid"/>
+  </node>
+  <node label="cerebrovascular accident" id="-17">
+    <att type="string" name="Column 1" value="cerebrovascular accident"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="cerebrovascular accident"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="cerebrovascular accident"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0" x="1457.9893798828125" y="983.48388671875" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="cerebrovascular accident" cy:borderLineType="solid"/>
+  </node>
+  <node label="amnesia" id="-16">
+    <att type="string" name="Column 1" value="amnesia"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="amnesia"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="amnesia"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="1308.8729248046875" y="919.6549072265625" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="amnesia" cy:borderLineType="solid"/>
+  </node>
+  <node label="electroconvulsive therapy" id="-4">
+    <att type="string" name="Column 1" value="electroconvulsive therapy"/>
+    <att type="string" name="Column 2" value="CEF"/>
+    <att type="string" name="canonicalName" value="electroconvulsive therapy"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="electroconvulsive therapy"/>
+    </att>
+    <graphics type="ELLIPSE" h="50.0" w="50.0001220703125" x="810.5714721679688" y="653.887451171875" fill="#e7d587" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="TimesNewRomanPS-BoldMT-0-25" cy:nodeLabel="electroconvulsive therapy" cy:borderLineType="solid"/>
+  </node>
+  <node label="affective-symptoms" id="-3">
+    <att type="string" name="Column 1" value="affective-symptoms"/>
+    <att type="string" name="Column 2" value="Disease"/>
+    <att type="string" name="canonicalName" value="affective-symptoms"/>
+    <att type="list" name="cytoscape.alias.list">
+      <att type="string" name="cytoscape.alias.list" value="affective-symptoms"/>
+    </att>
+    <graphics type="ROUNDED_RECTANGLE" h="20.0" w="20.0" x="877.656494140625" y="557.3757934570312" fill="#70b2c7" width="1" outline="#666666" cy:nodeTransparency="0.5882352941176471" cy:nodeLabelFont="SansSerif.bold-0-5" cy:nodeLabel="affective-symptoms" cy:borderLineType="solid"/>
+  </node>
+  <edge label="suicide (INCOMMON) intravenous infusion procedures" source="-106" target="-186">
+    <att type="real" name="Column 4" value="0.07344"/>
+    <att type="string" name="canonicalName" value="suicide (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="suicidal-ideation (INCOMMON) intravenous infusion procedures" source="-86" target="-186">
+    <att type="real" name="Column 4" value="0.04"/>
+    <att type="string" name="canonicalName" value="suicidal-ideation (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="substance-related-disorders (INCOMMON) intravenous infusion procedures" source="-197" target="-186">
+    <att type="real" name="Column 4" value="0.08742"/>
+    <att type="string" name="canonicalName" value="substance-related-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="self-injurious-behavior (INCOMMON) intravenous infusion procedures" source="-78" target="-186">
+    <att type="real" name="Column 4" value="0.05263"/>
+    <att type="string" name="canonicalName" value="self-injurious-behavior (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="personality-disorders (INCOMMON) intravenous infusion procedures" source="-144" target="-186">
+    <att type="real" name="Column 4" value="0.16959"/>
+    <att type="string" name="canonicalName" value="personality-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="opioid-related-disorders (INCOMMON) intravenous infusion procedures" source="-68" target="-186">
+    <att type="real" name="Column 4" value="0.11294"/>
+    <att type="string" name="canonicalName" value="opioid-related-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="obsessive-compulsive-disorder (INCOMMON) intravenous infusion procedures" source="-142" target="-186">
+    <att type="real" name="Column 4" value="0.20618"/>
+    <att type="string" name="canonicalName" value="obsessive-compulsive-disorder (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mental-disorders-diagnosed-in-childhood (INCOMMON) intravenous infusion procedures" source="-113" target="-186">
+    <att type="real" name="Column 4" value="0.26056"/>
+    <att type="string" name="canonicalName" value="mental-disorders-diagnosed-in-childhood (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="impulsive-behavior (INCOMMON) intravenous infusion procedures" source="-61" target="-186">
+    <att type="real" name="Column 4" value="0.05172"/>
+    <att type="string" name="canonicalName" value="impulsive-behavior (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="disorders-of-excessive-somnolence (INCOMMON) operative surgical procedures" source="-42" target="-192">
+    <att type="real" name="Column 4" value="0.13333"/>
+    <att type="string" name="canonicalName" value="disorders-of-excessive-somnolence (INCOMMON) operative surgical procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="disorders-of-excessive-somnolence (INCOMMON) contraception barrier" source="-42" target="-173">
+    <att type="real" name="Column 4" value="0.21334"/>
+    <att type="string" name="canonicalName" value="disorders-of-excessive-somnolence (INCOMMON) contraception barrier"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="disorders-of-excessive-somnolence (INCOMMON) contraceptive methods" source="-42" target="-187">
+    <att type="real" name="Column 4" value="0.30667"/>
+    <att type="string" name="canonicalName" value="disorders-of-excessive-somnolence (INCOMMON) contraceptive methods"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="4" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="depression (INCOMMON) intravenous infusion procedures" source="-191" target="-186">
+    <att type="real" name="Column 4" value="0.13343"/>
+    <att type="string" name="canonicalName" value="depression (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="compulsive-behavior (INCOMMON) intravenous infusion procedures" source="-36" target="-186">
+    <att type="real" name="Column 4" value="0.06584"/>
+    <att type="string" name="canonicalName" value="compulsive-behavior (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="cocaine-related-disorders (INCOMMON) intravenous infusion procedures" source="-32" target="-186">
+    <att type="real" name="Column 4" value="0.17583"/>
+    <att type="string" name="canonicalName" value="cocaine-related-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="child-behavior-disorders (INCOMMON) intravenous infusion procedures" source="-29" target="-186">
+    <att type="real" name="Column 4" value="0.21605"/>
+    <att type="string" name="canonicalName" value="child-behavior-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="anxiety-disorders (INCOMMON) intravenous infusion procedures" source="-188" target="-186">
+    <att type="real" name="Column 4" value="0.11862"/>
+    <att type="string" name="canonicalName" value="anxiety-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="tobacco-use-disorder (EXCOMMON) pharmacologic substance" source="-87" target="-175">
+    <att type="real" name="Column 4" value="0.17906"/>
+    <att type="string" name="canonicalName" value="tobacco-use-disorder (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="somatoform-disorders (EXCOMMON) malignant neoplasms" source="-84" target="-154">
+    <att type="real" name="Column 4" value="0.14458"/>
+    <att type="string" name="canonicalName" value="somatoform-disorders (EXCOMMON) malignant neoplasms"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="smoking (EXCOMMON) pharmacologic substance" source="-83" target="-175">
+    <att type="real" name="Column 4" value="0.16409"/>
+    <att type="string" name="canonicalName" value="smoking (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="sleep-disorders (EXCOMMON) pharmacologic substance" source="-145" target="-175">
+    <att type="real" name="Column 4" value="0.1472"/>
+    <att type="string" name="canonicalName" value="sleep-disorders (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="sleep-deprivation (INCOMMON) sedation" source="-79" target="-189">
+    <att type="real" name="Column 4" value="0.02667"/>
+    <att type="string" name="canonicalName" value="sleep-deprivation (INCOMMON) sedation"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="sleep-deprivation (EXCOMMON) pharmacologic substance" source="-79" target="-175">
+    <att type="real" name="Column 4" value="0.13333"/>
+    <att type="string" name="canonicalName" value="sleep-deprivation (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="quality-of-life (INCOMMON) pharmacotherapy" source="-185" target="-195">
+    <att type="real" name="Column 4" value="0.03688"/>
+    <att type="string" name="canonicalName" value="quality-of-life (INCOMMON) pharmacotherapy"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="quality-of-life (INCOMMON) malignant neoplasms" source="-185" target="-154">
+    <att type="real" name="Column 4" value="0.04149"/>
+    <att type="string" name="canonicalName" value="quality-of-life (INCOMMON) malignant neoplasms"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="quality-of-life (EXCOMMON) pharmacologic substance" source="-185" target="-175">
+    <att type="real" name="Column 4" value="0.0753"/>
+    <att type="string" name="canonicalName" value="quality-of-life (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="psychotic-disorders (INCOMMON) intravenous infusion procedures" source="-184" target="-186">
+    <att type="real" name="Column 4" value="0.12378"/>
+    <att type="string" name="canonicalName" value="psychotic-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="psychotic-disorders (EXCOMMON) pharmacologic substance" source="-184" target="-175">
+    <att type="real" name="Column 4" value="0.17932"/>
+    <att type="string" name="canonicalName" value="psychotic-disorders (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="phobic-disorders (INCOMMON) intravenous infusion procedures" source="-183" target="-186">
+    <att type="real" name="Column 4" value="0.24183"/>
+    <att type="string" name="canonicalName" value="phobic-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="phobic-disorders (EXCOMMON) psychotherapy" source="-183" target="-156">
+    <att type="real" name="Column 4" value="0.22222"/>
+    <att type="string" name="canonicalName" value="phobic-disorders (EXCOMMON) psychotherapy"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="parasomnias (EXCOMMON) pharmacologic substance" source="-143" target="-175">
+    <att type="real" name="Column 4" value="0.14795"/>
+    <att type="string" name="canonicalName" value="parasomnias (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="neurocirculatory-asthenia (EXCOMMON) pharmacologic substance" source="-66" target="-175">
+    <att type="real" name="Column 4" value="0.18644"/>
+    <att type="string" name="canonicalName" value="neurocirculatory-asthenia (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mood-disorders (INCOMMON) intravenous infusion procedures" source="-181" target="-186">
+    <att type="real" name="Column 4" value="0.14822"/>
+    <att type="string" name="canonicalName" value="mood-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mood-disorders (EXCOMMON) pharmacologic substance" source="-181" target="-175">
+    <att type="real" name="Column 4" value="0.20685"/>
+    <att type="string" name="canonicalName" value="mood-disorders (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mental-retardation (INCOMMON) gene therapy" source="-65" target="-193">
+    <att type="real" name="Column 4" value="0.07788"/>
+    <att type="string" name="canonicalName" value="mental-retardation (INCOMMON) gene therapy"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mental-retardation (EXCOMMON) malignant neoplasms" source="-65" target="-154">
+    <att type="real" name="Column 4" value="0.09034"/>
+    <att type="string" name="canonicalName" value="mental-retardation (EXCOMMON) malignant neoplasms"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mental-retardation (EXCOMMON) pharmacologic substance" source="-65" target="-175">
+    <att type="real" name="Column 4" value="0.13707"/>
+    <att type="string" name="canonicalName" value="mental-retardation (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mental-disorders (INCOMMON) intravenous infusion procedures" source="-180" target="-186">
+    <att type="real" name="Column 4" value="0.1192"/>
+    <att type="string" name="canonicalName" value="mental-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mental-disorders (EXCOMMON) pharmacologic substance" source="-180" target="-175">
+    <att type="real" name="Column 4" value="0.17637"/>
+    <att type="string" name="canonicalName" value="mental-disorders (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="marijuana-abuse (INCOMMON) contraceptive methods" source="-62" target="-187">
+    <att type="real" name="Column 4" value="0.0913"/>
+    <att type="string" name="canonicalName" value="marijuana-abuse (INCOMMON) contraceptive methods"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="marijuana-abuse (INCOMMON) intravenous infusion procedures" source="-62" target="-186">
+    <att type="real" name="Column 4" value="0.09131"/>
+    <att type="string" name="canonicalName" value="marijuana-abuse (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="marijuana-abuse (EXCOMMON) pharmacologic substance" source="-62" target="-175">
+    <att type="real" name="Column 4" value="0.2"/>
+    <att type="string" name="canonicalName" value="marijuana-abuse (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="learning-disorders (INCOMMON) pharmacotherapy" source="-137" target="-195">
+    <att type="real" name="Column 4" value="0.00834"/>
+    <att type="string" name="canonicalName" value="learning-disorders (INCOMMON) pharmacotherapy"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="learning-disorders (INCOMMON) intravenous infusion procedures" source="-137" target="-186">
+    <att type="real" name="Column 4" value="0.01113"/>
+    <att type="string" name="canonicalName" value="learning-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="learning-disorders (EXCOMMON) pharmacologic substance" source="-137" target="-175">
+    <att type="real" name="Column 4" value="0.07329"/>
+    <att type="string" name="canonicalName" value="learning-disorders (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="impulse-control-disorders (INCOMMON) intravenous infusion procedures" source="-101" target="-186">
+    <att type="real" name="Column 4" value="0.09678"/>
+    <att type="string" name="canonicalName" value="impulse-control-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="impulse-control-disorders (EXCOMMON) pharmacologic substance" source="-101" target="-175">
+    <att type="real" name="Column 4" value="0.21505"/>
+    <att type="string" name="canonicalName" value="impulse-control-disorders (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="habits (EXCOMMON) pharmacologic substance" source="-57" target="-175">
+    <att type="real" name="Column 4" value="0.1607"/>
+    <att type="string" name="canonicalName" value="habits (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="frontotemporal-lobar-degeneration (EXCOMMON) cerebrovascular accident" source="-56" target="-17">
+    <att type="real" name="Column 4" value="0.14546"/>
+    <att type="string" name="canonicalName" value="frontotemporal-lobar-degeneration (EXCOMMON) cerebrovascular accident"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="frontotemporal-lobar-degeneration (EXCOMMON) pharmacologic substance" source="-56" target="-175">
+    <att type="real" name="Column 4" value="0.18181"/>
+    <att type="string" name="canonicalName" value="frontotemporal-lobar-degeneration (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="frontotemporal-dementia (EXCOMMON) cerebrovascular accident" source="-55" target="-17">
+    <att type="real" name="Column 4" value="0.14493"/>
+    <att type="string" name="canonicalName" value="frontotemporal-dementia (EXCOMMON) cerebrovascular accident"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="frontotemporal-dementia (EXCOMMON) pharmacologic substance" source="-55" target="-175">
+    <att type="real" name="Column 4" value="0.17391"/>
+    <att type="string" name="canonicalName" value="frontotemporal-dementia (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="eating-disorders (INCOMMON) intravenous infusion procedures" source="-48" target="-186">
+    <att type="real" name="Column 4" value="0.13043"/>
+    <att type="string" name="canonicalName" value="eating-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="eating-disorders (EXCOMMON) pharmacologic substance" source="-48" target="-175">
+    <att type="real" name="Column 4" value="0.1587"/>
+    <att type="string" name="canonicalName" value="eating-disorders (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="drinking-behavior (EXCOMMON) pharmacologic substance" source="-47" target="-175">
+    <att type="real" name="Column 4" value="0.16129"/>
+    <att type="string" name="canonicalName" value="drinking-behavior (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="disorders-of-sex-development (INCOMMON) gene therapy" source="-109" target="-193">
+    <att type="real" name="Column 4" value="0.0622"/>
+    <att type="string" name="canonicalName" value="disorders-of-sex-development (INCOMMON) gene therapy"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="disorders-of-sex-development (EXCOMMON) pharmacologic substance" source="-109" target="-175">
+    <att type="real" name="Column 4" value="0.0957"/>
+    <att type="string" name="canonicalName" value="disorders-of-sex-development (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="disorders-of-sex-development (EXCOMMON) malignant neoplasms" source="-109" target="-154">
+    <att type="real" name="Column 4" value="0.11484"/>
+    <att type="string" name="canonicalName" value="disorders-of-sex-development (EXCOMMON) malignant neoplasms"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="depressive-disorder (INCOMMON) intravenous infusion procedures" source="-179" target="-186">
+    <att type="real" name="Column 4" value="0.13523"/>
+    <att type="string" name="canonicalName" value="depressive-disorder (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="depressive-disorder (EXCOMMON) pharmacologic substance" source="-179" target="-175">
+    <att type="real" name="Column 4" value="0.1943"/>
+    <att type="string" name="canonicalName" value="depressive-disorder (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="dementia (INCOMMON) dactinomycin" source="-40" target="-117">
+    <att type="real" name="Column 4" value="0.06722"/>
+    <att type="string" name="canonicalName" value="dementia (INCOMMON) dactinomycin"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="dementia (EXCOMMON) pharmacologic substance" source="-40" target="-175">
+    <att type="real" name="Column 4" value="0.2012"/>
+    <att type="string" name="canonicalName" value="dementia (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="delirium (INCOMMON) dactinomycin" source="-39" target="-117">
+    <att type="real" name="Column 4" value="0.06814"/>
+    <att type="string" name="canonicalName" value="delirium (INCOMMON) dactinomycin"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="delirium (EXCOMMON) pharmacologic substance" source="-39" target="-175">
+    <att type="real" name="Column 4" value="0.20442"/>
+    <att type="string" name="canonicalName" value="delirium (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="consciousness-disorders (INCOMMON) sedation" source="-108" target="-189">
+    <att type="real" name="Column 4" value="0.0452"/>
+    <att type="string" name="canonicalName" value="consciousness-disorders (INCOMMON) sedation"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="consciousness-disorders (EXCOMMON) pharmacologic substance" source="-108" target="-175">
+    <att type="real" name="Column 4" value="0.12429"/>
+    <att type="string" name="canonicalName" value="consciousness-disorders (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="conduct-disorder (INCOMMON) intravenous infusion procedures" source="-127" target="-186">
+    <att type="real" name="Column 4" value="0.12431"/>
+    <att type="string" name="canonicalName" value="conduct-disorder (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="conduct-disorder (EXCOMMON) pharmacologic substance" source="-127" target="-175">
+    <att type="real" name="Column 4" value="0.15595"/>
+    <att type="string" name="canonicalName" value="conduct-disorder (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="communication-disorders (INCOMMON) intravenous infusion procedures" source="-178" target="-186">
+    <att type="real" name="Column 4" value="0.04145"/>
+    <att type="string" name="canonicalName" value="communication-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="communication-disorders (INCOMMON) malignant neoplasms" source="-178" target="-154">
+    <att type="real" name="Column 4" value="0.04145"/>
+    <att type="string" name="canonicalName" value="communication-disorders (INCOMMON) malignant neoplasms"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="communication-disorders (EXCOMMON) pharmacologic substance" source="-178" target="-175">
+    <att type="real" name="Column 4" value="0.09845"/>
+    <att type="string" name="canonicalName" value="communication-disorders (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="cognition-disorders (INCOMMON) dactinomycin" source="-124" target="-117">
+    <att type="real" name="Column 4" value="0.05701"/>
+    <att type="string" name="canonicalName" value="cognition-disorders (INCOMMON) dactinomycin"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="cognition-disorders (EXCOMMON) pharmacologic substance" source="-124" target="-175">
+    <att type="real" name="Column 4" value="0.19992"/>
+    <att type="string" name="canonicalName" value="cognition-disorders (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="borderline-personality-disorder (INCOMMON) contraceptive methods" source="-121" target="-187">
+    <att type="real" name="Column 4" value="0.0597"/>
+    <att type="string" name="canonicalName" value="borderline-personality-disorder (INCOMMON) contraceptive methods"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="borderline-personality-disorder (INCOMMON) intravenous infusion procedures" source="-121" target="-186">
+    <att type="real" name="Column 4" value="0.28358"/>
+    <att type="string" name="canonicalName" value="borderline-personality-disorder (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="borderline-personality-disorder (EXCOMMON) pharmacologic substance" source="-121" target="-175">
+    <att type="real" name="Column 4" value="0.16417"/>
+    <att type="string" name="canonicalName" value="borderline-personality-disorder (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="bipolar-disorder (INCOMMON) intravenous infusion procedures" source="-177" target="-186">
+    <att type="real" name="Column 4" value="0.20106"/>
+    <att type="string" name="canonicalName" value="bipolar-disorder (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="bipolar-disorder (EXCOMMON) pharmacologic substance" source="-177" target="-175">
+    <att type="real" name="Column 4" value="0.21915"/>
+    <att type="string" name="canonicalName" value="bipolar-disorder (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="behavioral-symptoms (INCOMMON) intravenous infusion procedures" source="-120" target="-186">
+    <att type="real" name="Column 4" value="0.13641"/>
+    <att type="string" name="canonicalName" value="behavioral-symptoms (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="behavioral-symptoms (EXCOMMON) pharmacologic substance" source="-120" target="-175">
+    <att type="real" name="Column 4" value="0.18108"/>
+    <att type="string" name="canonicalName" value="behavioral-symptoms (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="amphetamine-related-disorders (INCOMMON) contraceptive methods" source="-18" target="-187">
+    <att type="real" name="Column 4" value="0.14"/>
+    <att type="string" name="canonicalName" value="amphetamine-related-disorders (INCOMMON) contraceptive methods"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="amphetamine-related-disorders (INCOMMON) intravenous infusion procedures" source="-18" target="-186">
+    <att type="real" name="Column 4" value="0.26"/>
+    <att type="string" name="canonicalName" value="amphetamine-related-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="amphetamine-related-disorders (EXCOMMON) pharmacologic substance" source="-18" target="-175">
+    <att type="real" name="Column 4" value="0.18"/>
+    <att type="string" name="canonicalName" value="amphetamine-related-disorders (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="alzheimer-disease (INCOMMON) dactinomycin" source="-13" target="-117">
+    <att type="real" name="Column 4" value="0.13345"/>
+    <att type="string" name="canonicalName" value="alzheimer-disease (INCOMMON) dactinomycin"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="alzheimer-disease (EXCOMMON) pharmacologic substance" source="-13" target="-175">
+    <att type="real" name="Column 4" value="0.23266"/>
+    <att type="string" name="canonicalName" value="alzheimer-disease (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="alcoholism (INCOMMON) intravenous infusion procedures" source="-11" target="-186">
+    <att type="real" name="Column 4" value="0.12098"/>
+    <att type="string" name="canonicalName" value="alcoholism (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="alcoholism (EXCOMMON) pharmacologic substance" source="-11" target="-175">
+    <att type="real" name="Column 4" value="0.22117"/>
+    <att type="string" name="canonicalName" value="alcoholism (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="alcohol-related-disorders (INCOMMON) intravenous infusion procedures" source="-8" target="-186">
+    <att type="real" name="Column 4" value="0.10857"/>
+    <att type="string" name="canonicalName" value="alcohol-related-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="alcohol-related-disorders (EXCOMMON) pharmacologic substance" source="-8" target="-175">
+    <att type="real" name="Column 4" value="0.16571"/>
+    <att type="string" name="canonicalName" value="alcohol-related-disorders (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="alcohol-drinking (EXCOMMON) pharmacologic substance" source="-6" target="-175">
+    <att type="real" name="Column 4" value="0.1612"/>
+    <att type="string" name="canonicalName" value="alcohol-drinking (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="affective-disorders-psychotic (INCOMMON) intravenous infusion procedures" source="-176" target="-186">
+    <att type="real" name="Column 4" value="0.15363"/>
+    <att type="string" name="canonicalName" value="affective-disorders-psychotic (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="affective-disorders-psychotic (EXCOMMON) pharmacologic substance" source="-176" target="-175">
+    <att type="real" name="Column 4" value="0.20906"/>
+    <att type="string" name="canonicalName" value="affective-disorders-psychotic (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="adjustment-disorders (EXCOMMON) pharmacologic substance" source="-1" target="-175">
+    <att type="real" name="Column 4" value="0.12034"/>
+    <att type="string" name="canonicalName" value="adjustment-disorders (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="restless-legs-syndrome (INUNIQUE) treatment protocols" source="-72" target="-174">
+    <att type="real" name="Column 4" value="0.07752"/>
+    <att type="string" name="canonicalName" value="restless-legs-syndrome (INUNIQUE) treatment protocols"/>
+    <att type="string" name="interaction" value="INUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#3333ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="panic-disorder (INCOMMON) intravenous infusion procedures" source="-70" target="-186">
+    <att type="real" name="Column 4" value="0.1579"/>
+    <att type="string" name="canonicalName" value="panic-disorder (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="panic-disorder (INUNIQUE) contraception barrier" source="-70" target="-173">
+    <att type="real" name="Column 4" value="0.04511"/>
+    <att type="string" name="canonicalName" value="panic-disorder (INUNIQUE) contraception barrier"/>
+    <att type="string" name="interaction" value="INUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#3333ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mental-fatigue (INCOMMON) therapeutic radiology procedure" source="-64" target="-196">
+    <att type="real" name="Column 4" value="0.15573"/>
+    <att type="string" name="canonicalName" value="mental-fatigue (INCOMMON) therapeutic radiology procedure"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mental-fatigue (INCOMMON) pharmacotherapy" source="-64" target="-195">
+    <att type="real" name="Column 4" value="0.22132"/>
+    <att type="string" name="canonicalName" value="mental-fatigue (INCOMMON) pharmacotherapy"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mental-fatigue (INCOMMON) malignant neoplasms" source="-64" target="-154">
+    <att type="real" name="Column 4" value="0.2459"/>
+    <att type="string" name="canonicalName" value="mental-fatigue (INCOMMON) malignant neoplasms"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mental-fatigue (EXCOMMON) pharmacologic substance" source="-64" target="-175">
+    <att type="real" name="Column 4" value="0.12295"/>
+    <att type="string" name="canonicalName" value="mental-fatigue (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="mental-fatigue (INUNIQUE) hormone therapy" source="-64" target="-172">
+    <att type="real" name="Column 4" value="0.08197"/>
+    <att type="string" name="canonicalName" value="mental-fatigue (INUNIQUE) hormone therapy"/>
+    <att type="string" name="interaction" value="INUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#3333ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="heroin-dependence (INCOMMON) contraceptive methods" source="-59" target="-187">
+    <att type="real" name="Column 4" value="0.14607"/>
+    <att type="string" name="canonicalName" value="heroin-dependence (INCOMMON) contraceptive methods"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="heroin-dependence (INCOMMON) treatment and maintenance" source="-59" target="-194">
+    <att type="real" name="Column 4" value="0.1573"/>
+    <att type="string" name="canonicalName" value="heroin-dependence (INCOMMON) treatment and maintenance"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="heroin-dependence (INUNIQUE) infusion of drug" source="-59" target="-171">
+    <att type="real" name="Column 4" value="0.04494"/>
+    <att type="string" name="canonicalName" value="heroin-dependence (INUNIQUE) infusion of drug"/>
+    <att type="string" name="interaction" value="INUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#3333ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="heroin-dependence (INUNIQUE) cataract anterior polar" source="-59" target="-100">
+    <att type="real" name="Column 4" value="0.04494"/>
+    <att type="string" name="canonicalName" value="heroin-dependence (INUNIQUE) cataract anterior polar"/>
+    <att type="string" name="interaction" value="INUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#3333ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="gambling (INCOMMON) intravenous infusion procedures" source="-169" target="-186">
+    <att type="real" name="Column 4" value="0.11111"/>
+    <att type="string" name="canonicalName" value="gambling (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="gambling (EXCOMMON) pharmacologic substance" source="-169" target="-175">
+    <att type="real" name="Column 4" value="0.15278"/>
+    <att type="string" name="canonicalName" value="gambling (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="gambling (INUNIQUE) puncture wound" source="-169" target="-170">
+    <att type="real" name="Column 4" value="0.06944"/>
+    <att type="string" name="canonicalName" value="gambling (INUNIQUE) puncture wound"/>
+    <att type="string" name="interaction" value="INUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#3333ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="erectile-dysfunction (EXCOMMON) cerebrovascular accident" source="-50" target="-17">
+    <att type="real" name="Column 4" value="0.2526"/>
+    <att type="string" name="canonicalName" value="erectile-dysfunction (EXCOMMON) cerebrovascular accident"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="erectile-dysfunction (INUNIQUE) nerve sparing" source="-50" target="-168">
+    <att type="real" name="Column 4" value="0.03114"/>
+    <att type="string" name="canonicalName" value="erectile-dysfunction (INUNIQUE) nerve sparing"/>
+    <att type="string" name="interaction" value="INUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#3333ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="dysthymic-disorder (INCOMMON) intravenous infusion procedures" source="-95" target="-186">
+    <att type="real" name="Column 4" value="0.24243"/>
+    <att type="string" name="canonicalName" value="dysthymic-disorder (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="dysthymic-disorder (EXCOMMON) pharmacologic substance" source="-95" target="-175">
+    <att type="real" name="Column 4" value="0.22728"/>
+    <att type="string" name="canonicalName" value="dysthymic-disorder (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="dysthymic-disorder (INUNIQUE) tropical spastic paraparesis" source="-95" target="-96">
+    <att type="real" name="Column 4" value="0.07576"/>
+    <att type="string" name="canonicalName" value="dysthymic-disorder (INUNIQUE) tropical spastic paraparesis"/>
+    <att type="string" name="interaction" value="INUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#3333ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="dissociative-disorders (EXCOMMON) pharmacologic substance" source="-44" target="-175">
+    <att type="real" name="Column 4" value="0.15626"/>
+    <att type="string" name="canonicalName" value="dissociative-disorders (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="dissociative-disorders (INUNIQUE) folic acid" source="-44" target="-92">
+    <att type="real" name="Column 4" value="0.07812"/>
+    <att type="string" name="canonicalName" value="dissociative-disorders (INUNIQUE) folic acid"/>
+    <att type="string" name="interaction" value="INUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#3333ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="developmental-disabilities (INCOMMON) intravenous infusion procedures" source="-41" target="-186">
+    <att type="real" name="Column 4" value="0.22247"/>
+    <att type="string" name="canonicalName" value="developmental-disabilities (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="developmental-disabilities (INUNIQUE) revision procedure" source="-41" target="-163">
+    <att type="real" name="Column 4" value="0.09213"/>
+    <att type="string" name="canonicalName" value="developmental-disabilities (INUNIQUE) revision procedure"/>
+    <att type="string" name="interaction" value="INUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#3333ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="binge-eating-disorder (INCOMMON) intravenous infusion procedures" source="-164" target="-186">
+    <att type="real" name="Column 4" value="0.18033"/>
+    <att type="string" name="canonicalName" value="binge-eating-disorder (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="binge-eating-disorder (EXCOMMON) psychotherapy" source="-164" target="-156">
+    <att type="real" name="Column 4" value="0.21312"/>
+    <att type="string" name="canonicalName" value="binge-eating-disorder (EXCOMMON) psychotherapy"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="binge-eating-disorder (EXCOMMON) pharmacologic substance" source="-164" target="-175">
+    <att type="real" name="Column 4" value="0.28688"/>
+    <att type="string" name="canonicalName" value="binge-eating-disorder (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="binge-eating-disorder (INUNIQUE) hyperphagia" source="-164" target="-165">
+    <att type="real" name="Column 4" value="0.06557"/>
+    <att type="string" name="canonicalName" value="binge-eating-disorder (INUNIQUE) hyperphagia"/>
+    <att type="string" name="interaction" value="INUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#3333ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="autistic-disorder (INCOMMON) intravenous infusion procedures" source="-27" target="-186">
+    <att type="real" name="Column 4" value="0.23457"/>
+    <att type="string" name="canonicalName" value="autistic-disorder (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="autistic-disorder (INUNIQUE) revision procedure" source="-27" target="-163">
+    <att type="real" name="Column 4" value="0.09877"/>
+    <att type="string" name="canonicalName" value="autistic-disorder (INUNIQUE) revision procedure"/>
+    <att type="string" name="interaction" value="INUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#3333ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="aggression (INCOMMON) contraceptive methods" source="-160" target="-187">
+    <att type="real" name="Column 4" value="0.18883"/>
+    <att type="string" name="canonicalName" value="aggression (INCOMMON) contraceptive methods"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="aggression (EXCOMMON) pharmacologic substance" source="-160" target="-175">
+    <att type="real" name="Column 4" value="0.08777"/>
+    <att type="string" name="canonicalName" value="aggression (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="aggression (INUNIQUE) combined modality therapy" source="-160" target="-162">
+    <att type="real" name="Column 4" value="0.08777"/>
+    <att type="string" name="canonicalName" value="aggression (INUNIQUE) combined modality therapy"/>
+    <att type="string" name="interaction" value="INUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#3333ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="aggression (INUNIQUE) biological response modifier therapy" source="-160" target="-161">
+    <att type="real" name="Column 4" value="0.09043"/>
+    <att type="string" name="canonicalName" value="aggression (INUNIQUE) biological response modifier therapy"/>
+    <att type="string" name="interaction" value="INUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#3333ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="tourette-syndrome (INCOMMON) intravenous infusion procedures" source="-116" target="-186">
+    <att type="real" name="Column 4" value="0.1875"/>
+    <att type="string" name="canonicalName" value="tourette-syndrome (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="tourette-syndrome (INUNIQUE) treatment protocols" source="-116" target="-174">
+    <att type="real" name="Column 4" value="0.0625"/>
+    <att type="string" name="canonicalName" value="tourette-syndrome (INUNIQUE) treatment protocols"/>
+    <att type="string" name="interaction" value="INUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#3333ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="tourette-syndrome (EXUNIQUE) behavior therapy" source="-116" target="-158">
+    <att type="real" name="Column 4" value="0.1"/>
+    <att type="string" name="canonicalName" value="tourette-syndrome (EXUNIQUE) behavior therapy"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="tic-disorders (INCOMMON) intravenous infusion procedures" source="-115" target="-186">
+    <att type="real" name="Column 4" value="0.17391"/>
+    <att type="string" name="canonicalName" value="tic-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="tic-disorders (EXUNIQUE) investigational new drugs" source="-115" target="-155">
+    <att type="real" name="Column 4" value="0.08696"/>
+    <att type="string" name="canonicalName" value="tic-disorders (EXUNIQUE) investigational new drugs"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="tic-disorders (EXUNIQUE) behavior therapy" source="-115" target="-158">
+    <att type="real" name="Column 4" value="0.09783"/>
+    <att type="string" name="canonicalName" value="tic-disorders (EXUNIQUE) behavior therapy"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="substance-withdrawal-syndrome (INCOMMON) contraceptive methods" source="-85" target="-187">
+    <att type="real" name="Column 4" value="0.13924"/>
+    <att type="string" name="canonicalName" value="substance-withdrawal-syndrome (INCOMMON) contraceptive methods"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="substance-withdrawal-syndrome (INCOMMON) intravenous infusion procedures" source="-85" target="-186">
+    <att type="real" name="Column 4" value="0.13924"/>
+    <att type="string" name="canonicalName" value="substance-withdrawal-syndrome (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="substance-withdrawal-syndrome (EXCOMMON) pharmacologic substance" source="-85" target="-175">
+    <att type="real" name="Column 4" value="0.21519"/>
+    <att type="string" name="canonicalName" value="substance-withdrawal-syndrome (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="substance-withdrawal-syndrome (EXUNIQUE) investigational new drugs" source="-85" target="-155">
+    <att type="real" name="Column 4" value="0.12658"/>
+    <att type="string" name="canonicalName" value="substance-withdrawal-syndrome (EXUNIQUE) investigational new drugs"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="2" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="sleep-initiation-and-maintenance-disorders (INCOMMON) contraceptive methods" source="-81" target="-187">
+    <att type="real" name="Column 4" value="0.06302"/>
+    <att type="string" name="canonicalName" value="sleep-initiation-and-maintenance-disorders (INCOMMON) contraceptive methods"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="sleep-initiation-and-maintenance-disorders (INCOMMON) intravenous infusion procedures" source="-81" target="-186">
+    <att type="real" name="Column 4" value="0.12328"/>
+    <att type="string" name="canonicalName" value="sleep-initiation-and-maintenance-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="sleep-initiation-and-maintenance-disorders (EXCOMMON) pharmacologic substance" source="-81" target="-175">
+    <att type="real" name="Column 4" value="0.24658"/>
+    <att type="string" name="canonicalName" value="sleep-initiation-and-maintenance-disorders (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="sleep-initiation-and-maintenance-disorders (EXUNIQUE) drugs non-prescription" source="-81" target="-159">
+    <att type="real" name="Column 4" value="0.11781"/>
+    <att type="string" name="canonicalName" value="sleep-initiation-and-maintenance-disorders (EXUNIQUE) drugs non-prescription"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="2" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="schizophrenia-and-disorders-with-psychotic-features (INCOMMON) intravenous infusion procedures" source="-77" target="-186">
+    <att type="real" name="Column 4" value="0.21432"/>
+    <att type="string" name="canonicalName" value="schizophrenia-and-disorders-with-psychotic-features (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="schizophrenia-and-disorders-with-psychotic-features (EXCOMMON) pharmacologic substance" source="-77" target="-175">
+    <att type="real" name="Column 4" value="0.19566"/>
+    <att type="string" name="canonicalName" value="schizophrenia-and-disorders-with-psychotic-features (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="schizophrenia-and-disorders-with-psychotic-features (EXUNIQUE) electroconvulsive therapy" source="-77" target="-4">
+    <att type="real" name="Column 4" value="0.04539"/>
+    <att type="string" name="canonicalName" value="schizophrenia-and-disorders-with-psychotic-features (EXUNIQUE) electroconvulsive therapy"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="schizophrenia (INCOMMON) intravenous infusion procedures" source="-74" target="-186">
+    <att type="real" name="Column 4" value="0.21365"/>
+    <att type="string" name="canonicalName" value="schizophrenia (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="schizophrenia (EXCOMMON) pharmacologic substance" source="-74" target="-175">
+    <att type="real" name="Column 4" value="0.19733"/>
+    <att type="string" name="canonicalName" value="schizophrenia (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="schizophrenia (EXUNIQUE) electroconvulsive therapy" source="-74" target="-4">
+    <att type="real" name="Column 4" value="0.04451"/>
+    <att type="string" name="canonicalName" value="schizophrenia (EXUNIQUE) electroconvulsive therapy"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="pick-disease-of-the-brain (EXUNIQUE) investigational new drugs" source="-71" target="-155">
+    <att type="real" name="Column 4" value="0.0875"/>
+    <att type="string" name="canonicalName" value="pick-disease-of-the-brain (EXUNIQUE) investigational new drugs"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="obsessive-behavior (INCOMMON) intravenous infusion procedures" source="-141" target="-186">
+    <att type="real" name="Column 4" value="0.11667"/>
+    <att type="string" name="canonicalName" value="obsessive-behavior (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="obsessive-behavior (EXCOMMON) psychotherapy" source="-141" target="-156">
+    <att type="real" name="Column 4" value="0.2"/>
+    <att type="string" name="canonicalName" value="obsessive-behavior (EXCOMMON) psychotherapy"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="obsessive-behavior (EXCOMMON) cognitive therapy" source="-141" target="-182">
+    <att type="real" name="Column 4" value="0.3"/>
+    <att type="string" name="canonicalName" value="obsessive-behavior (EXCOMMON) cognitive therapy"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="3" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="obsessive-behavior (EXUNIQUE) behavior therapy" source="-141" target="-158">
+    <att type="real" name="Column 4" value="0.15"/>
+    <att type="string" name="canonicalName" value="obsessive-behavior (EXUNIQUE) behavior therapy"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="2" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="food-habits (EXCOMMON) pharmacologic substance" source="-53" target="-175">
+    <att type="real" name="Column 4" value="0.11905"/>
+    <att type="string" name="canonicalName" value="food-habits (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="food-habits (EXUNIQUE) fat protein human" source="-53" target="-157">
+    <att type="real" name="Column 4" value="0.10714"/>
+    <att type="string" name="canonicalName" value="food-habits (EXUNIQUE) fat protein human"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="conversion-disorder (INCOMMON) kidney transplantation" source="-37" target="-190">
+    <att type="real" name="Column 4" value="0.04973"/>
+    <att type="string" name="canonicalName" value="conversion-disorder (INCOMMON) kidney transplantation"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="conversion-disorder (EXCOMMON) malignant neoplasms" source="-37" target="-154">
+    <att type="real" name="Column 4" value="0.12708"/>
+    <att type="string" name="canonicalName" value="conversion-disorder (EXCOMMON) malignant neoplasms"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="conversion-disorder (EXCOMMON) pharmacologic substance" source="-37" target="-175">
+    <att type="real" name="Column 4" value="0.1547"/>
+    <att type="string" name="canonicalName" value="conversion-disorder (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="conversion-disorder (EXUNIQUE) investigational new drugs" source="-37" target="-155">
+    <att type="real" name="Column 4" value="0.09392"/>
+    <att type="string" name="canonicalName" value="conversion-disorder (EXUNIQUE) investigational new drugs"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="combat-disorders (INUNIQUE) body fluid discharge" source="-35" target="-167">
+    <att type="real" name="Column 4" value="0.03191"/>
+    <att type="string" name="canonicalName" value="combat-disorders (INUNIQUE) body fluid discharge"/>
+    <att type="string" name="interaction" value="INUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#3333ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="combat-disorders (INUNIQUE) rehabilitation therapy" source="-35" target="-166">
+    <att type="real" name="Column 4" value="0.04255"/>
+    <att type="string" name="canonicalName" value="combat-disorders (INUNIQUE) rehabilitation therapy"/>
+    <att type="string" name="interaction" value="INUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#3333ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="combat-disorders (EXUNIQUE) cerebrovascular accident" source="-35" target="-17">
+    <att type="real" name="Column 4" value="0.09574"/>
+    <att type="string" name="canonicalName" value="combat-disorders (EXUNIQUE) cerebrovascular accident"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="combat-disorders (EXUNIQUE) psychotherapy" source="-35" target="-156">
+    <att type="real" name="Column 4" value="0.12766"/>
+    <att type="string" name="canonicalName" value="combat-disorders (EXUNIQUE) psychotherapy"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="2" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="attention-deficit-disorder-with-hyperactivity (INCOMMON) intravenous infusion procedures" source="-26" target="-186">
+    <att type="real" name="Column 4" value="0.32377"/>
+    <att type="string" name="canonicalName" value="attention-deficit-disorder-with-hyperactivity (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="4" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="attention-deficit-disorder-with-hyperactivity (EXUNIQUE) investigational new drugs" source="-26" target="-155">
+    <att type="real" name="Column 4" value="0.04625"/>
+    <att type="string" name="canonicalName" value="attention-deficit-disorder-with-hyperactivity (EXUNIQUE) investigational new drugs"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="attention-deficit-and-disruptive-behavior-disorders (INCOMMON) intravenous infusion procedures" source="-23" target="-186">
+    <att type="real" name="Column 4" value="0.31846"/>
+    <att type="string" name="canonicalName" value="attention-deficit-and-disruptive-behavior-disorders (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="4" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="attention-deficit-and-disruptive-behavior-disorders (EXUNIQUE) investigational new drugs" source="-23" target="-155">
+    <att type="real" name="Column 4" value="0.04462"/>
+    <att type="string" name="canonicalName" value="attention-deficit-and-disruptive-behavior-disorders (EXUNIQUE) investigational new drugs"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="anorexia-nervosa (INCOMMON) intravenous infusion procedures" source="-20" target="-186">
+    <att type="real" name="Column 4" value="0.35715"/>
+    <att type="string" name="canonicalName" value="anorexia-nervosa (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="4" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="anorexia-nervosa (EXUNIQUE) malignant neoplasms" source="-20" target="-154">
+    <att type="real" name="Column 4" value="0.09184"/>
+    <att type="string" name="canonicalName" value="anorexia-nervosa (EXUNIQUE) malignant neoplasms"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="amnesia (INCOMMON) cognitive therapy" source="-16" target="-182">
+    <att type="real" name="Column 4" value="0.07353"/>
+    <att type="string" name="canonicalName" value="amnesia (INCOMMON) cognitive therapy"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="1" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="amnesia (EXCOMMON) pharmacologic substance" source="-16" target="-175">
+    <att type="real" name="Column 4" value="0.14705"/>
+    <att type="string" name="canonicalName" value="amnesia (EXCOMMON) pharmacologic substance"/>
+    <att type="string" name="interaction" value="EXCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#ff9933" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="amnesia (EXUNIQUE) cerebrovascular accident" source="-16" target="-17">
+    <att type="real" name="Column 4" value="0.20588"/>
+    <att type="string" name="canonicalName" value="amnesia (EXUNIQUE) cerebrovascular accident"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="2" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="affective-symptoms (INCOMMON) intravenous infusion procedures" source="-3" target="-186">
+    <att type="real" name="Column 4" value="0.195"/>
+    <att type="string" name="canonicalName" value="affective-symptoms (INCOMMON) intravenous infusion procedures"/>
+    <att type="string" name="interaction" value="INCOMMON" cy:editable="false"/>
+    <graphics width="2" fill="#9999ff" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="affective-symptoms (EXUNIQUE) electroconvulsive therapy" source="-3" target="-4">
+    <att type="real" name="Column 4" value="0.07"/>
+    <att type="string" name="canonicalName" value="affective-symptoms (EXUNIQUE) electroconvulsive therapy"/>
+    <att type="string" name="interaction" value="EXUNIQUE" cy:editable="false"/>
+    <graphics width="1" fill="#cc0033" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="Default-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+</graph>

@@ -1,0 +1,118 @@
+1	adjustment-disorders	pharmaceutical preparations	-1.92946	pharmacologic substance	EXCOMMON	
+1	adjustment-disorders	depressed mood	-1.95021	finding	EXCOMMON	
+1	adjustment-disorders	depressed mood	-1.95021	mental or behavioral dysfunction	EXCOMMON	
+1	adjustment-disorders	adverse event associated with death	-1.97095	finding	EXCOMMON	
+13	asperger-syndrome	intravenous infusion procedures	-0.75862	therapeutic or preventive procedure	EXCOMMON	
+13	asperger-syndrome	pharmacologic substance	-0.84483	pharmacologic substance	EXCOMMON	
+13	asperger-syndrome	pharmacologic substance	-0.84483	therapeutic or preventive procedure	EXCOMMON	
+13	asperger-syndrome	behavior therapy	-0.87931	therapeutic or preventive procedure	EXCOMMON	
+13	asperger-syndrome	fever	-0.93103	finding	EXCOMMON	
+13	asperger-syndrome	anxiety disorders	-0.94828	finding	EXCOMMON	
+13	asperger-syndrome	anxiety disorders	-0.94828	mental or behavioral dysfunction	EXCOMMON	
+16	autistic-disorder	schizophrenia	-0.84938	mental or behavioral dysfunction	EXCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	schizophrenia	-0.86603	mental or behavioral dysfunction	EXCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	congenital abnormality	-0.89793	congenital abnormality	EXCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	congenital abnormality	-0.89793	disease or syndrome	EXCOMMON	
+16	autistic-disorder	malignant neoplasms	-0.91605	biologically active substance	EXCOMMON	
+16	autistic-disorder	malignant neoplasms	-0.91605	finding	EXCOMMON	
+16	autistic-disorder	malignant neoplasms	-0.91605	neoplastic process	EXCOMMON	
+16	autistic-disorder	malignant neoplasms	-0.91605	pharmacologic substance	EXCOMMON	
+16	autistic-disorder	malignant neoplasms	-0.91605	therapeutic or preventive procedure	EXCOMMON	
+16	autistic-disorder	congenital abnormality	-0.92099	congenital abnormality	EXCOMMON	
+16	autistic-disorder	congenital abnormality	-0.92099	disease or syndrome	EXCOMMON	
+18	binge-eating-disorder	pharmacologic substance	-0.70492	pharmacologic substance	EXCOMMON	
+18	binge-eating-disorder	pharmacologic substance	-0.70492	therapeutic or preventive procedure	EXCOMMON	
+18	binge-eating-disorder	cognitive therapy	-0.90164	diagnostic procedure	EXCOMMON	
+18	binge-eating-disorder	cognitive therapy	-0.90164	enzyme	EXCOMMON	
+18	binge-eating-disorder	cognitive therapy	-0.90164	hazardous or poisonous substance	EXCOMMON	
+18	binge-eating-disorder	cognitive therapy	-0.90164	therapeutic or preventive procedure	EXCOMMON	
+18	binge-eating-disorder	severe depression	-0.93443	mental or behavioral dysfunction	EXCOMMON	
+16	autistic-disorder	antidepressive agents	-0.94815	pharmacologic substance	EXCOMMON	
+18	binge-eating-disorder	monoamine oxidase inhibitors	-0.95902	organic chemical	EXCOMMON	
+18	binge-eating-disorder	monoamine oxidase inhibitors	-0.95902	pharmacologic substance	EXCOMMON	
+21	child-behavior-disorders	antipsychotic agents	-0.92747	pharmacologic substance	EXCOMMON	
+21	child-behavior-disorders	antidepressive agents	-0.93981	pharmacologic substance	EXCOMMON	
+20	borderline-personality-disorder	antidepressive agents	-0.9403	pharmacologic substance	EXCOMMON	
+21	child-behavior-disorders	kidney	-0.9429	body part, organ, or organ component	EXCOMMON	
+20	borderline-personality-disorder	stabilizer - function	-0.95522	organ or tissue function	EXCOMMON	
+22	cocaine-related-disorders	stimulant	-0.96429	pharmacologic substance	EXCOMMON	
+22	cocaine-related-disorders	selective serotonin re-uptake inhibitor	-0.96703	pharmacologic substance	EXCOMMON	
+22	cocaine-related-disorders	attention deficit hyperactivity disorder	-0.96703	disease or syndrome	EXCOMMON	
+22	cocaine-related-disorders	attention deficit hyperactivity disorder	-0.96703	mental or behavioral dysfunction	EXCOMMON	
+30	delirium	pharmacologic substance	-0.75329	pharmacologic substance	EXCOMMON	
+30	delirium	pharmacologic substance	-0.75329	therapeutic or preventive procedure	EXCOMMON	
+30	delirium	ethanol	-0.77867	organic chemical	EXCOMMON	
+30	delirium	ethanol	-0.77867	pharmacologic substance	EXCOMMON	
+29	conversion-disorder	hyperthyroidism	-0.96685	disease or syndrome	EXCOMMON	
+29	conversion-disorder	alanine transaminase	-4.96685	congenital abnormality	EXCOMMON	
+29	conversion-disorder	alanine transaminase	-4.96685	disease or syndrome	EXCOMMON	
+29	conversion-disorder	alanine transaminase	-4.96685	enzyme	EXCOMMON	
+30	delirium	pharmaceutical preparations	-5.84821	pharmacologic substance	EXCOMMON	
+30	delirium	intravenous infusion procedures	-0.88111	therapeutic or preventive procedure	EXCOMMON	
+30	delirium	vitamins	-0.93374	organic chemical	EXCOMMON	
+30	delirium	vitamins	-0.93374	pharmacologic substance	EXCOMMON	
+30	delirium	mental retardation	-0.96006	mental or behavioral dysfunction	EXCOMMON	
+30	delirium	household composition	-0.96992	finding	EXCOMMON	
+30	delirium	disability	-0.97039	finding	EXCOMMON	
+32	depression	antidepressive agents	-0.81979	pharmacologic substance	EXCOMMON	
+44	frontotemporal-dementia	depressed mood	-0.86957	finding	EXCOMMON	
+44	frontotemporal-dementia	depressed mood	-0.86957	mental or behavioral dysfunction	EXCOMMON	
+34	developmental-disabilities	antipsychotic agents	-0.89888	pharmacologic substance	EXCOMMON	
+34	developmental-disabilities	depressed mood	-0.93258	finding	EXCOMMON	
+34	developmental-disabilities	depressed mood	-0.93258	mental or behavioral dysfunction	EXCOMMON	
+34	developmental-disabilities	irritable mood	-0.99101	finding	EXCOMMON	
+32	depression	multiple endocrine neoplasia	-0.9913	antibiotic	EXCOMMON	
+32	depression	multiple endocrine neoplasia	-0.9913	neoplastic process	EXCOMMON	
+32	depression	multiple endocrine neoplasia	-0.9913	organic chemical	EXCOMMON	
+46	gambling	pharmacologic substance	-0.75	pharmacologic substance	EXCOMMON	
+46	gambling	pharmacologic substance	-0.75	therapeutic or preventive procedure	EXCOMMON	
+46	gambling	ethanol	-0.81944	organic chemical	EXCOMMON	
+46	gambling	ethanol	-0.81944	pharmacologic substance	EXCOMMON	
+44	frontotemporal-dementia	neurological observations	-0.97101	finding	EXCOMMON	
+52	marijuana-abuse	depressed mood	-0.85652	finding	EXCOMMON	
+52	marijuana-abuse	depressed mood	-0.85652	mental or behavioral dysfunction	EXCOMMON	
+46	gambling	depressed mood	-0.875	finding	EXCOMMON	
+46	gambling	depressed mood	-0.875	mental or behavioral dysfunction	EXCOMMON	
+46	gambling	screening for cancer	-0.88889	diagnostic procedure	EXCOMMON	
+46	gambling	benzodiazepines	-0.91667	organic chemical	EXCOMMON	
+46	gambling	benzodiazepines	-0.91667	pharmacologic substance	EXCOMMON	
+52	marijuana-abuse	drug abuse	-0.92174	mental or behavioral dysfunction	EXCOMMON	
+62	panic-disorder	personality disorders	-0.88722	mental or behavioral dysfunction	EXCOMMON	
+62	panic-disorder	behavior therapy	-0.95489	therapeutic or preventive procedure	EXCOMMON	
+66	pick-disease-of-the-brain	paralysed	-1.95	finding	EXCOMMON	
+69	restless-legs-syndrome	mental disorders	-0.85271	mental or behavioral dysfunction	EXCOMMON	
+69	restless-legs-syndrome	benzodiazepines	-0.86822	organic chemical	EXCOMMON	
+69	restless-legs-syndrome	benzodiazepines	-0.86822	pharmacologic substance	EXCOMMON	
+69	restless-legs-syndrome	electrocardiogram	-0.91473	diagnostic procedure	EXCOMMON	
+69	restless-legs-syndrome	electrocardiogram	-0.91473	finding	EXCOMMON	
+69	restless-legs-syndrome	electrocardiogram	-0.91473	organic chemical	EXCOMMON	
+69	restless-legs-syndrome	electrocardiogram	-0.91473	pharmacologic substance	EXCOMMON	
+69	restless-legs-syndrome	dopamine antagonists	-0.91473	pharmacologic substance	EXCOMMON	
+66	pick-disease-of-the-brain	anemia	-0.975	disease or syndrome	EXCOMMON	
+69	restless-legs-syndrome	cimetidine	-0.94574	organic chemical	EXCOMMON	
+69	restless-legs-syndrome	cimetidine	-0.94574	pharmacologic substance	EXCOMMON	
+69	restless-legs-syndrome	neurological observations	-0.95349	finding	EXCOMMON	
+69	restless-legs-syndrome	screening for cancer	-0.96124	diagnostic procedure	EXCOMMON	
+69	restless-legs-syndrome	agitation	-0.96124	finding	EXCOMMON	
+69	restless-legs-syndrome	agitation	-0.96124	sign or symptom	EXCOMMON	
+69	restless-legs-syndrome	physical findings	-0.96899	finding	EXCOMMON	
+70	schizophrenia	dementia	-0.92186	mental or behavioral dysfunction	EXCOMMON	
+70	schizophrenia	bipolar disorder	-0.93472	mental or behavioral dysfunction	EXCOMMON	
+70	schizophrenia	malignant neoplasms	-0.93966	biologically active substance	EXCOMMON	
+70	schizophrenia	malignant neoplasms	-0.93966	finding	EXCOMMON	
+70	schizophrenia	malignant neoplasms	-0.93966	neoplastic process	EXCOMMON	
+70	schizophrenia	malignant neoplasms	-0.93966	pharmacologic substance	EXCOMMON	
+70	schizophrenia	malignant neoplasms	-0.93966	therapeutic or preventive procedure	EXCOMMON	
+70	schizophrenia	depressed mood	-0.94659	finding	EXCOMMON	
+70	schizophrenia	depressed mood	-0.94659	mental or behavioral dysfunction	EXCOMMON	
+70	schizophrenia	antidepressive agents	-0.95054	pharmacologic substance	EXCOMMON	
+73	sleep-deprivation	gravidity	-0.90667	finding	EXCOMMON	
+73	sleep-deprivation	magnetic resonance imaging	-0.93333	diagnostic procedure	EXCOMMON	
+73	sleep-deprivation	hearing examination finding	-0.96	finding	EXCOMMON	
+73	sleep-deprivation	deafness	-0.96	disease or syndrome	EXCOMMON	
+73	sleep-deprivation	deafness	-0.96	finding	EXCOMMON	
+73	sleep-deprivation	malignant neoplasms	-0.96	biologically active substance	EXCOMMON	
+73	sleep-deprivation	malignant neoplasms	-0.96	finding	EXCOMMON	
+73	sleep-deprivation	malignant neoplasms	-0.96	neoplastic process	EXCOMMON	
+73	sleep-deprivation	malignant neoplasms	-0.96	pharmacologic substance	EXCOMMON	
+73	sleep-deprivation	malignant neoplasms	-0.96	therapeutic or preventive procedure	EXCOMMON	

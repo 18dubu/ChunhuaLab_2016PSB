@@ -1,0 +1,365 @@
+1	adjustment-disorders	psychotic disorders	0.07884	mental or behavioral dysfunction	EXUNIQUE	
+1	adjustment-disorders	substance abuse problem	0.05394	mental or behavioral dysfunction	EXUNIQUE	
+3	affective-symptoms	alcohol abuse	0.07	mental or behavioral dysfunction	EXUNIQUE	
+3	affective-symptoms	homicidal	0.05	mental or behavioral dysfunction	EXUNIQUE	
+4	aggression	bipolar disorder	0.04521	mental or behavioral dysfunction	EXUNIQUE	
+10	amphetamine-related-disorders	psychotic disorders	0.16	mental or behavioral dysfunction	EXUNIQUE	
+11	anorexia-nervosa	bipolar disorder	0.12245	mental or behavioral dysfunction	EXUNIQUE	
+12	anxiety-disorders	mental retardation	0.08896	mental or behavioral dysfunction	EXUNIQUE	
+13	asperger-syndrome	substance abuse problem	0.24138	mental or behavioral dysfunction	EXUNIQUE	
+14	attention-deficit-and-disruptive-behavior-disorders	schizoaffective disorder	0.04	mental or behavioral dysfunction	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	schizoaffective disorder	0.04147	mental or behavioral dysfunction	EXUNIQUE	
+16	autistic-disorder	substance abuse problem	0.08395	mental or behavioral dysfunction	EXUNIQUE	
+18	binge-eating-disorder	substance abuse problem	0.29508	mental or behavioral dysfunction	EXUNIQUE	
+18	binge-eating-disorder	alcohol abuse	0.12295	mental or behavioral dysfunction	EXUNIQUE	
+19	bipolar-disorder	delirium dementia amnestic cognitive disorders	0.03511	mental or behavioral dysfunction	EXUNIQUE	
+20	borderline-personality-disorder	schizophrenia	0.37313	mental or behavioral dysfunction	EXUNIQUE	
+20	borderline-personality-disorder	bipolar disorder	0.37313	mental or behavioral dysfunction	EXUNIQUE	
+20	borderline-personality-disorder	psychotic disorders	0.34328	mental or behavioral dysfunction	EXUNIQUE	
+20	borderline-personality-disorder	substance dependence	0.20896	mental or behavioral dysfunction	EXUNIQUE	
+21	child-behavior-disorders	suicide attempt	0.03858	mental or behavioral dysfunction	EXUNIQUE	
+24	combat-disorders	alcoholic intoxication chronic	0.09574	mental or behavioral dysfunction	EXUNIQUE	
+24	combat-disorders	mental disorders	0.09574	mental or behavioral dysfunction	EXUNIQUE	
+25	communication-disorders	claustrophobia	0.03627	mental or behavioral dysfunction	EXUNIQUE	
+26	compulsive-behavior	suicide attempt	0.0823	mental or behavioral dysfunction	EXUNIQUE	
+28	consciousness-disorders	mental disorders	0.0904	mental or behavioral dysfunction	EXUNIQUE	
+29	conversion-disorder	mental disorders	0.07735	mental or behavioral dysfunction	EXUNIQUE	
+29	conversion-disorder	substance abuse problem	0.0663	mental or behavioral dysfunction	EXUNIQUE	
+34	developmental-disabilities	substance abuse problem	0.08315	mental or behavioral dysfunction	EXUNIQUE	
+38	drinking-behavior	psychotic disorders	0.17512	mental or behavioral dysfunction	EXUNIQUE	
+40	dysthymic-disorder	psychotic disorders	0.56061	mental or behavioral dysfunction	EXUNIQUE	
+40	dysthymic-disorder	schizophrenia	0.30303	mental or behavioral dysfunction	EXUNIQUE	
+40	dysthymic-disorder	substance abuse problem	0.24242	mental or behavioral dysfunction	EXUNIQUE	
+40	dysthymic-disorder	mental retardation	0.15152	mental or behavioral dysfunction	EXUNIQUE	
+41	eating-disorders	claustrophobia	0.03043	mental or behavioral dysfunction	EXUNIQUE	
+41	eating-disorders	suicide	0.03043	mental or behavioral dysfunction	EXUNIQUE	
+42	erectile-dysfunction	substance abuse problem	0.11073	mental or behavioral dysfunction	EXUNIQUE	
+44	frontotemporal-dementia	substance abuse problem	0.18841	mental or behavioral dysfunction	EXUNIQUE	
+45	frontotemporal-lobar-degeneration	substance abuse problem	0.21818	mental or behavioral dysfunction	EXUNIQUE	
+46	gambling	bipolar disorder	0.18056	mental or behavioral dysfunction	EXUNIQUE	
+46	gambling	substance abuse problem	0.13889	mental or behavioral dysfunction	EXUNIQUE	
+46	gambling	schizophrenia	0.13889	mental or behavioral dysfunction	EXUNIQUE	
+49	impulse-control-disorders	psychotic disorders	0.3871	mental or behavioral dysfunction	EXUNIQUE	
+49	impulse-control-disorders	bipolar disorder	0.30108	mental or behavioral dysfunction	EXUNIQUE	
+49	impulse-control-disorders	substance abuse problem	0.26882	mental or behavioral dysfunction	EXUNIQUE	
+50	impulsive-behavior	dementia	0.08621	mental or behavioral dysfunction	EXUNIQUE	
+52	marijuana-abuse	bipolar disorder	0.12174	mental or behavioral dysfunction	EXUNIQUE	
+55	mental-fatigue	drug abuse	0.04098	mental or behavioral dysfunction	EXUNIQUE	
+58	neurocirculatory-asthenia	substance abuse problem	0.15254	mental or behavioral dysfunction	EXUNIQUE	
+58	neurocirculatory-asthenia	mental disorders	0.15254	mental or behavioral dysfunction	EXUNIQUE	
+59	obsessive-behavior	substance abuse problem	0.3	mental or behavioral dysfunction	EXUNIQUE	
+59	obsessive-behavior	mental retardation	0.21667	mental or behavioral dysfunction	EXUNIQUE	
+60	obsessive-compulsive-disorder	mental retardation	0.19072	mental or behavioral dysfunction	EXUNIQUE	
+60	obsessive-compulsive-disorder	substance dependence	0.13402	mental or behavioral dysfunction	EXUNIQUE	
+62	panic-disorder	psychotic disorders	0.41353	mental or behavioral dysfunction	EXUNIQUE	
+62	panic-disorder	substance dependence	0.16541	mental or behavioral dysfunction	EXUNIQUE	
+64	personality-disorders	substance dependence	0.12573	mental or behavioral dysfunction	EXUNIQUE	
+65	phobic-disorders	psychotic disorders	0.35948	mental or behavioral dysfunction	EXUNIQUE	
+65	phobic-disorders	substance abuse problem	0.30065	mental or behavioral dysfunction	EXUNIQUE	
+65	phobic-disorders	mental retardation	0.17647	mental or behavioral dysfunction	EXUNIQUE	
+66	pick-disease-of-the-brain	substance abuse problem	0.175	mental or behavioral dysfunction	EXUNIQUE	
+66	pick-disease-of-the-brain	psychotic disorders	0.1125	mental or behavioral dysfunction	EXUNIQUE	
+72	self-injurious-behavior	alcohol abuse	0.05848	mental or behavioral dysfunction	EXUNIQUE	
+72	self-injurious-behavior	developmental disabilities	0.05263	mental or behavioral dysfunction	EXUNIQUE	
+72	self-injurious-behavior	anorexia nervosa	0.04678	mental or behavioral dysfunction	EXUNIQUE	
+73	sleep-deprivation	psychotic disorders	0.12	mental or behavioral dysfunction	EXUNIQUE	
+73	sleep-deprivation	substance abuse problem	0.12	mental or behavioral dysfunction	EXUNIQUE	
+77	somatoform-disorders	substance abuse problem	0.10241	mental or behavioral dysfunction	EXUNIQUE	
+79	substance-withdrawal-syndrome	depressed mood	0.20253	mental or behavioral dysfunction	EXUNIQUE	
+80	suicidal-ideation	bipolar disorder	0.22	mental or behavioral dysfunction	EXUNIQUE	
+80	suicidal-ideation	dementia	0.12	mental or behavioral dysfunction	EXUNIQUE	
+80	suicidal-ideation	personality disorders	0.1	mental or behavioral dysfunction	EXUNIQUE	
+81	suicide	impaired cognition	0.0791	mental or behavioral dysfunction	EXUNIQUE	
+81	suicide	alcohol abuse	0.0565	mental or behavioral dysfunction	EXUNIQUE	
+82	tic-disorders	mental retardation	0.16304	mental or behavioral dysfunction	EXUNIQUE	
+83	tobacco-use-disorder	panic disorder	0.05008	mental or behavioral dysfunction	EXUNIQUE	
+83	tobacco-use-disorder	eating disorders	0.03187	mental or behavioral dysfunction	EXUNIQUE	
+84	tourette-syndrome	mental retardation	0.175	mental or behavioral dysfunction	EXUNIQUE	
+1	adjustment-disorders	aggressive behavior	0.03734	mental or behavioral dysfunction	INUNIQUE	
+9	amnesia	communication impairment	0.07353	mental or behavioral dysfunction	INUNIQUE	
+9	amnesia	moderate dementia	0.07353	mental or behavioral dysfunction	INUNIQUE	
+13	asperger-syndrome	phobia social	0.12069	mental or behavioral dysfunction	INUNIQUE	
+13	asperger-syndrome	separation anxiety disorder	0.12069	mental or behavioral dysfunction	INUNIQUE	
+18	binge-eating-disorder	hyperphagia	0.06557	mental or behavioral dysfunction	INUNIQUE	
+20	borderline-personality-disorder	self-injurious behavior	0.04478	mental or behavioral dysfunction	INUNIQUE	
+24	combat-disorders	stress disorders traumatic	0.12766	mental or behavioral dysfunction	INUNIQUE	
+26	compulsive-behavior	opiate addiction	0.08642	mental or behavioral dysfunction	INUNIQUE	
+26	compulsive-behavior	obsessive compulsive behavior	0.03704	mental or behavioral dysfunction	INUNIQUE	
+40	dysthymic-disorder	mental depression	0.06061	mental or behavioral dysfunction	INUNIQUE	
+44	frontotemporal-dementia	semantic dementia	0.05797	mental or behavioral dysfunction	INUNIQUE	
+45	frontotemporal-lobar-degeneration	semantic dementia	0.07273	mental or behavioral dysfunction	INUNIQUE	
+49	impulse-control-disorders	explosive personality disorder	0.03226	mental or behavioral dysfunction	INUNIQUE	
+50	impulsive-behavior	opiate addiction	0.09052	mental or behavioral dysfunction	INUNIQUE	
+59	obsessive-behavior	generalized anxiety disorder	0.15	mental or behavioral dysfunction	INUNIQUE	
+59	obsessive-behavior	anxiety generalized	0.13333	mental or behavioral dysfunction	INUNIQUE	
+59	obsessive-behavior	phobia social	0.1	mental or behavioral dysfunction	INUNIQUE	
+59	obsessive-behavior	separation anxiety disorder	0.08333	mental or behavioral dysfunction	INUNIQUE	
+60	obsessive-compulsive-disorder	obsessive compulsive behavior	0.0567	mental or behavioral dysfunction	INUNIQUE	
+60	obsessive-compulsive-disorder	separation anxiety disorder	0.04639	mental or behavioral dysfunction	INUNIQUE	
+62	panic-disorder	panic disorder with agoraphobia	0.07519	mental or behavioral dysfunction	INUNIQUE	
+64	personality-disorders	obsessive compulsive behavior	0.03216	mental or behavioral dysfunction	INUNIQUE	
+65	phobic-disorders	separation anxiety disorder	0.12418	mental or behavioral dysfunction	INUNIQUE	
+66	pick-disease-of-the-brain	semantic dementia	0.05	mental or behavioral dysfunction	INUNIQUE	
+72	self-injurious-behavior	self-injurious behavior	0.04094	mental or behavioral dysfunction	INUNIQUE	
+79	substance-withdrawal-syndrome	opiate addiction	0.11392	mental or behavioral dysfunction	INUNIQUE	
+80	suicidal-ideation	major depressive disorder	0.16	mental or behavioral dysfunction	INUNIQUE	
+80	suicidal-ideation	unipolar depression	0.06	mental or behavioral dysfunction	INUNIQUE	
+80	suicidal-ideation	mental disorders	0.06	mental or behavioral dysfunction	INUNIQUE	
+81	suicide	major depressive disorder	0.07345	mental or behavioral dysfunction	INUNIQUE	
+2	affective-disorders-psychotic	psychotic disorders	0.26786	mental or behavioral dysfunction	EXCOMMON	
+2	affective-disorders-psychotic	substance abuse problem	0.20794	mental or behavioral dysfunction	EXCOMMON	
+3	affective-symptoms	substance abuse problem	0.2375	mental or behavioral dysfunction	EXCOMMON	
+5	alcohol-drinking	psychotic disorders	0.18805	mental or behavioral dysfunction	EXCOMMON	
+5	alcohol-drinking	mental disorders	0.1791	mental or behavioral dysfunction	EXCOMMON	
+6	alcohol-related-disorders	psychotic disorders	0.21857	mental or behavioral dysfunction	EXCOMMON	
+6	alcohol-related-disorders	mental disorders	0.18	mental or behavioral dysfunction	EXCOMMON	
+7	alcoholism	psychotic disorders	0.25331	mental or behavioral dysfunction	EXCOMMON	
+7	alcoholism	mental disorders	0.20227	mental or behavioral dysfunction	EXCOMMON	
+8	alzheimer-disease	mental disorders	0.22213	mental or behavioral dysfunction	EXCOMMON	
+9	amnesia	mental disorders	0.27941	mental or behavioral dysfunction	EXCOMMON	
+10	amphetamine-related-disorders	mental disorders	0.26	mental or behavioral dysfunction	EXCOMMON	
+11	anorexia-nervosa	substance abuse problem	0.2449	mental or behavioral dysfunction	EXCOMMON	
+11	anorexia-nervosa	psychotic disorders	0.17347	mental or behavioral dysfunction	EXCOMMON	
+11	anorexia-nervosa	schizophrenia	0.16327	mental or behavioral dysfunction	EXCOMMON	
+12	anxiety-disorders	psychotic disorders	0.28537	mental or behavioral dysfunction	EXCOMMON	
+12	anxiety-disorders	bipolar disorder	0.21876	mental or behavioral dysfunction	EXCOMMON	
+12	anxiety-disorders	substance abuse problem	0.17258	mental or behavioral dysfunction	EXCOMMON	
+13	asperger-syndrome	psychotic disorders	0.27586	mental or behavioral dysfunction	EXCOMMON	
+13	asperger-syndrome	schizophrenia	0.24138	mental or behavioral dysfunction	EXCOMMON	
+13	asperger-syndrome	bipolar disorder	0.17242	mental or behavioral dysfunction	EXCOMMON	
+14	attention-deficit-and-disruptive-behavior-disorders	psychotic disorders	0.40923	mental or behavioral dysfunction	EXCOMMON	
+14	attention-deficit-and-disruptive-behavior-disorders	bipolar disorder	0.27077	mental or behavioral dysfunction	EXCOMMON	
+14	attention-deficit-and-disruptive-behavior-disorders	pervasive development disorder	0.23077	mental or behavioral dysfunction	EXCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	psychotic disorders	0.40511	mental or behavioral dysfunction	EXCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	bipolar disorder	0.27911	mental or behavioral dysfunction	EXCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	pervasive development disorder	0.22967	mental or behavioral dysfunction	EXCOMMON	
+16	autistic-disorder	psychotic disorders	0.1284	mental or behavioral dysfunction	EXCOMMON	
+16	autistic-disorder	schizophrenia	0.12593	mental or behavioral dysfunction	EXCOMMON	
+17	behavioral-symptoms	psychotic disorders	0.26931	mental or behavioral dysfunction	EXCOMMON	
+17	behavioral-symptoms	bipolar disorder	0.1835	mental or behavioral dysfunction	EXCOMMON	
+17	behavioral-symptoms	substance abuse problem	0.18284	mental or behavioral dysfunction	EXCOMMON	
+18	binge-eating-disorder	psychotic disorders	0.37705	mental or behavioral dysfunction	EXCOMMON	
+21	child-behavior-disorders	psychotic disorders	0.29167	mental or behavioral dysfunction	EXCOMMON	
+21	child-behavior-disorders	bipolar disorder	0.1713	mental or behavioral dysfunction	EXCOMMON	
+21	child-behavior-disorders	developmental disabilities	0.15432	mental or behavioral dysfunction	EXCOMMON	
+22	cocaine-related-disorders	mental disorders	0.34615	mental or behavioral dysfunction	EXCOMMON	
+22	cocaine-related-disorders	psychotic disorders	0.31044	mental or behavioral dysfunction	EXCOMMON	
+22	cocaine-related-disorders	schizophrenia	0.22253	mental or behavioral dysfunction	EXCOMMON	
+23	cognition-disorders	mental disorders	0.18528	mental or behavioral dysfunction	EXCOMMON	
+24	combat-disorders	psychotic disorders	0.34042	mental or behavioral dysfunction	EXCOMMON	
+24	combat-disorders	schizophrenia	0.26596	mental or behavioral dysfunction	EXCOMMON	
+24	combat-disorders	bipolar disorder	0.23404	mental or behavioral dysfunction	EXCOMMON	
+24	combat-disorders	substance dependence	0.20212	mental or behavioral dysfunction	EXCOMMON	
+25	communication-disorders	mental disorders	0.10621	mental or behavioral dysfunction	EXCOMMON	
+25	communication-disorders	substance abuse problem	0.09067	mental or behavioral dysfunction	EXCOMMON	
+26	compulsive-behavior	psychotic disorders	0.31276	mental or behavioral dysfunction	EXCOMMON	
+26	compulsive-behavior	bipolar disorder	0.23868	mental or behavioral dysfunction	EXCOMMON	
+26	compulsive-behavior	schizophrenia	0.18107	mental or behavioral dysfunction	EXCOMMON	
+27	conduct-disorder	psychotic disorders	0.25336	mental or behavioral dysfunction	EXCOMMON	
+27	conduct-disorder	bipolar disorder	0.16776	mental or behavioral dysfunction	EXCOMMON	
+27	conduct-disorder	substance abuse problem	0.16186	mental or behavioral dysfunction	EXCOMMON	
+30	delirium	mental disorders	0.19502	mental or behavioral dysfunction	EXCOMMON	
+31	dementia	mental disorders	0.19471	mental or behavioral dysfunction	EXCOMMON	
+32	depression	psychotic disorders	0.27736	mental or behavioral dysfunction	EXCOMMON	
+32	depression	substance abuse problem	0.2024	mental or behavioral dysfunction	EXCOMMON	
+32	depression	bipolar disorder	0.1931	mental or behavioral dysfunction	EXCOMMON	
+33	depressive-disorder	psychotic disorders	0.27796	mental or behavioral dysfunction	EXCOMMON	
+33	depressive-disorder	substance abuse problem	0.2024	mental or behavioral dysfunction	EXCOMMON	
+34	developmental-disabilities	psychotic disorders	0.12584	mental or behavioral dysfunction	EXCOMMON	
+34	developmental-disabilities	schizophrenia	0.1236	mental or behavioral dysfunction	EXCOMMON	
+35	disorders-of-excessive-somnolence	substance abuse problem	0.25333	mental or behavioral dysfunction	EXCOMMON	
+38	drinking-behavior	mental disorders	0.14747	mental or behavioral dysfunction	EXCOMMON	
+38	drinking-behavior	bipolar disorder	0.12904	mental or behavioral dysfunction	EXCOMMON	
+40	dysthymic-disorder	bipolar disorder	0.5	mental or behavioral dysfunction	EXCOMMON	
+41	eating-disorders	substance abuse problem	0.17826	mental or behavioral dysfunction	EXCOMMON	
+41	eating-disorders	psychotic disorders	0.1413	mental or behavioral dysfunction	EXCOMMON	
+43	food-habits	mental disorders	0.10715	mental or behavioral dysfunction	EXCOMMON	
+44	frontotemporal-dementia	mental disorders	0.15942	mental or behavioral dysfunction	EXCOMMON	
+45	frontotemporal-lobar-degeneration	mental disorders	0.16364	mental or behavioral dysfunction	EXCOMMON	
+46	gambling	psychotic disorders	0.20833	mental or behavioral dysfunction	EXCOMMON	
+48	heroin-dependence	mental disorders	0.30337	mental or behavioral dysfunction	EXCOMMON	
+48	heroin-dependence	psychotic disorders	0.25843	mental or behavioral dysfunction	EXCOMMON	
+49	impulse-control-disorders	depressed mood	0.19355	mental or behavioral dysfunction	EXCOMMON	
+50	impulsive-behavior	psychotic disorders	0.27155	mental or behavioral dysfunction	EXCOMMON	
+50	impulsive-behavior	mental disorders	0.21983	mental or behavioral dysfunction	EXCOMMON	
+50	impulsive-behavior	schizophrenia	0.1681	mental or behavioral dysfunction	EXCOMMON	
+51	learning-disorders	mental disorders	0.06308	mental or behavioral dysfunction	EXCOMMON	
+52	marijuana-abuse	mental disorders	0.24348	mental or behavioral dysfunction	EXCOMMON	
+53	mental-disorders	psychotic disorders	0.17909	mental or behavioral dysfunction	EXCOMMON	
+54	mental-disorders-diagnosed-in-childhood	psychotic disorders	0.27888	mental or behavioral dysfunction	EXCOMMON	
+54	mental-disorders-diagnosed-in-childhood	bipolar disorder	0.19363	mental or behavioral dysfunction	EXCOMMON	
+55	mental-fatigue	substance abuse problem	0.12295	mental or behavioral dysfunction	EXCOMMON	
+57	mood-disorders	psychotic disorders	0.26192	mental or behavioral dysfunction	EXCOMMON	
+57	mood-disorders	substance abuse problem	0.20548	mental or behavioral dysfunction	EXCOMMON	
+59	obsessive-behavior	bipolar disorder	0.38333	mental or behavioral dysfunction	EXCOMMON	
+59	obsessive-behavior	psychotic disorders	0.36666	mental or behavioral dysfunction	EXCOMMON	
+60	obsessive-compulsive-disorder	psychotic disorders	0.35567	mental or behavioral dysfunction	EXCOMMON	
+60	obsessive-compulsive-disorder	bipolar disorder	0.3299	mental or behavioral dysfunction	EXCOMMON	
+60	obsessive-compulsive-disorder	substance abuse problem	0.2835	mental or behavioral dysfunction	EXCOMMON	
+60	obsessive-compulsive-disorder	schizophrenia	0.23712	mental or behavioral dysfunction	EXCOMMON	
+61	opioid-related-disorders	mental disorders	0.20941	mental or behavioral dysfunction	EXCOMMON	
+61	opioid-related-disorders	psychotic disorders	0.19059	mental or behavioral dysfunction	EXCOMMON	
+62	panic-disorder	bipolar disorder	0.38346	mental or behavioral dysfunction	EXCOMMON	
+62	panic-disorder	schizophrenia	0.21053	mental or behavioral dysfunction	EXCOMMON	
+64	personality-disorders	psychotic disorders	0.28363	mental or behavioral dysfunction	EXCOMMON	
+64	personality-disorders	bipolar disorder	0.26608	mental or behavioral dysfunction	EXCOMMON	
+64	personality-disorders	schizophrenia	0.20761	mental or behavioral dysfunction	EXCOMMON	
+64	personality-disorders	substance abuse problem	0.20175	mental or behavioral dysfunction	EXCOMMON	
+65	phobic-disorders	bipolar disorder	0.39215	mental or behavioral dysfunction	EXCOMMON	
+65	phobic-disorders	schizophrenia	0.31372	mental or behavioral dysfunction	EXCOMMON	
+66	pick-disease-of-the-brain	mental disorders	0.175	mental or behavioral dysfunction	EXCOMMON	
+67	psychotic-disorders	psychotic disorders	0.18323	mental or behavioral dysfunction	EXCOMMON	
+68	quality-of-life	mental disorders	0.08644	mental or behavioral dysfunction	EXCOMMON	
+70	schizophrenia	substance abuse problem	0.21464	mental or behavioral dysfunction	EXCOMMON	
+71	schizophrenia-and-disorders-with-psychotic-features	substance abuse problem	0.21735	mental or behavioral dysfunction	EXCOMMON	
+72	self-injurious-behavior	psychotic disorders	0.29239	mental or behavioral dysfunction	EXCOMMON	
+72	self-injurious-behavior	schizophrenia	0.13451	mental or behavioral dysfunction	EXCOMMON	
+72	self-injurious-behavior	bipolar disorder	0.1345	mental or behavioral dysfunction	EXCOMMON	
+73	sleep-deprivation	mental disorders	0.14667	mental or behavioral dysfunction	EXCOMMON	
+77	somatoform-disorders	mental disorders	0.15663	mental or behavioral dysfunction	EXCOMMON	
+77	somatoform-disorders	psychotic disorders	0.14458	mental or behavioral dysfunction	EXCOMMON	
+78	substance-related-disorders	mental disorders	0.17452	mental or behavioral dysfunction	EXCOMMON	
+78	substance-related-disorders	psychotic disorders	0.17291	mental or behavioral dysfunction	EXCOMMON	
+79	substance-withdrawal-syndrome	mental disorders	0.17722	mental or behavioral dysfunction	EXCOMMON	
+80	suicidal-ideation	psychotic disorders	0.42	mental or behavioral dysfunction	EXCOMMON	
+80	suicidal-ideation	schizophrenia	0.18	mental or behavioral dysfunction	EXCOMMON	
+81	suicide	psychotic disorders	0.24859	mental or behavioral dysfunction	EXCOMMON	
+81	suicide	bipolar disorder	0.10734	mental or behavioral dysfunction	EXCOMMON	
+82	tic-disorders	psychotic disorders	0.35869	mental or behavioral dysfunction	EXCOMMON	
+82	tic-disorders	bipolar disorder	0.21739	mental or behavioral dysfunction	EXCOMMON	
+83	tobacco-use-disorder	mental disorders	0.16389	mental or behavioral dysfunction	EXCOMMON	
+84	tourette-syndrome	psychotic disorders	0.4	mental or behavioral dysfunction	EXCOMMON	
+84	tourette-syndrome	bipolar disorder	0.2625	mental or behavioral dysfunction	EXCOMMON	
+84	tourette-syndrome	depressed mood	0.1875	mental or behavioral dysfunction	EXCOMMON	
+2	affective-disorders-psychotic	major depressive disorder	0.17642	mental or behavioral dysfunction	INCOMMON	
+2	affective-disorders-psychotic	depressed mood	0.16798	mental or behavioral dysfunction	INCOMMON	
+2	affective-disorders-psychotic	depressive episode unspecified	0.06893	mental or behavioral dysfunction	INCOMMON	
+2	affective-disorders-psychotic	unipolar depression	0.06753	mental or behavioral dysfunction	INCOMMON	
+3	affective-symptoms	depressed mood	0.27	mental or behavioral dysfunction	INCOMMON	
+3	affective-symptoms	bipolar disorder	0.245	mental or behavioral dysfunction	INCOMMON	
+3	affective-symptoms	depressive episode unspecified	0.1775	mental or behavioral dysfunction	INCOMMON	
+3	affective-symptoms	major depressive disorder	0.09	mental or behavioral dysfunction	INCOMMON	
+4	aggression	aggressive behavior	0.36968	mental or behavioral dysfunction	INCOMMON	
+5	alcohol-drinking	heavy drinking	0.08358	mental or behavioral dysfunction	INCOMMON	
+5	alcohol-drinking	alcohol use disorder	0.0597	mental or behavioral dysfunction	INCOMMON	
+6	alcohol-related-disorders	alcoholic intoxication chronic	0.25715	mental or behavioral dysfunction	INCOMMON	
+7	alcoholism	alcoholic intoxication chronic	0.35728	mental or behavioral dysfunction	INCOMMON	
+8	alzheimer-disease	communication impairment	0.09219	mental or behavioral dysfunction	INCOMMON	
+9	amnesia	memory impairment	0.08823	mental or behavioral dysfunction	INCOMMON	
+9	amnesia	impaired cognition	0.07353	mental or behavioral dysfunction	INCOMMON	
+11	anorexia-nervosa	anorexia nervosa	0.64286	mental or behavioral dysfunction	INCOMMON	
+12	anxiety-disorders	post-traumatic stress disorder	0.13612	mental or behavioral dysfunction	INCOMMON	
+12	anxiety-disorders	anxiety disorders	0.10598	mental or behavioral dysfunction	INCOMMON	
+12	anxiety-disorders	generalized anxiety disorder	0.07098	mental or behavioral dysfunction	INCOMMON	
+12	anxiety-disorders	anxiety generalized	0.06028	mental or behavioral dysfunction	INCOMMON	
+13	asperger-syndrome	autistic disorder	0.65517	mental or behavioral dysfunction	INCOMMON	
+13	asperger-syndrome	pervasive development disorder	0.43103	mental or behavioral dysfunction	INCOMMON	
+13	asperger-syndrome	autism spectrum disorders	0.37931	mental or behavioral dysfunction	INCOMMON	
+13	asperger-syndrome	developmental disabilities	0.25862	mental or behavioral dysfunction	INCOMMON	
+14	attention-deficit-and-disruptive-behavior-disorders	attention deficit hyperactivity disorder	0.49846	mental or behavioral dysfunction	INCOMMON	
+14	attention-deficit-and-disruptive-behavior-disorders	attention deficit disorder	0.09692	mental or behavioral dysfunction	INCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	attention deficit hyperactivity disorder	0.52153	mental or behavioral dysfunction	INCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	attention deficit disorder	0.09889	mental or behavioral dysfunction	INCOMMON	
+16	autistic-disorder	autistic disorder	0.53827	mental or behavioral dysfunction	INCOMMON	
+16	autistic-disorder	autism spectrum disorders	0.32098	mental or behavioral dysfunction	INCOMMON	
+16	autistic-disorder	pervasive development disorder	0.12592	mental or behavioral dysfunction	INCOMMON	
+16	autistic-disorder	developmental disabilities	0.08148	mental or behavioral dysfunction	INCOMMON	
+17	behavioral-symptoms	major depressive disorder	0.12783	mental or behavioral dysfunction	INCOMMON	
+17	behavioral-symptoms	depressed mood	0.09329	mental or behavioral dysfunction	INCOMMON	
+17	behavioral-symptoms	attention deficit hyperactivity disorder	0.05413	mental or behavioral dysfunction	INCOMMON	
+17	behavioral-symptoms	depressive episode unspecified	0.04885	mental or behavioral dysfunction	INCOMMON	
+18	binge-eating-disorder	binge eating disorder	0.38524	mental or behavioral dysfunction	INCOMMON	
+18	binge-eating-disorder	eating disorders	0.22951	mental or behavioral dysfunction	INCOMMON	
+18	binge-eating-disorder	bulimia nervosa	0.18033	mental or behavioral dysfunction	INCOMMON	
+19	bipolar-disorder	bipolar disorder	0.2766	mental or behavioral dysfunction	INCOMMON	
+19	bipolar-disorder	depressed mood	0.13405	mental or behavioral dysfunction	INCOMMON	
+19	bipolar-disorder	bipolar i disorder	0.12127	mental or behavioral dysfunction	INCOMMON	
+19	bipolar-disorder	depressive episode unspecified	0.09575	mental or behavioral dysfunction	INCOMMON	
+20	borderline-personality-disorder	borderline personality disorder	0.77612	mental or behavioral dysfunction	INCOMMON	
+20	borderline-personality-disorder	personality disorders	0.61194	mental or behavioral dysfunction	INCOMMON	
+21	child-behavior-disorders	attention deficit hyperactivity disorder	0.23766	mental or behavioral dysfunction	INCOMMON	
+21	child-behavior-disorders	attention deficit disorder	0.04167	mental or behavioral dysfunction	INCOMMON	
+22	cocaine-related-disorders	cocaine dependence	0.43407	mental or behavioral dysfunction	INCOMMON	
+23	cognition-disorders	mild cognitive disorder	0.05226	mental or behavioral dysfunction	INCOMMON	
+24	combat-disorders	post-traumatic stress disorder	0.39361	mental or behavioral dysfunction	INCOMMON	
+25	communication-disorders	aphasia	0.06477	mental or behavioral dysfunction	INCOMMON	
+26	compulsive-behavior	cocaine dependence	0.09876	mental or behavioral dysfunction	INCOMMON	
+26	compulsive-behavior	obsessive-compulsive disorder	0.09054	mental or behavioral dysfunction	INCOMMON	
+26	compulsive-behavior	osteochondritis dissecans	0.06996	mental or behavioral dysfunction	INCOMMON	
+27	conduct-disorder	major depressive disorder	0.09019	mental or behavioral dysfunction	INCOMMON	
+27	conduct-disorder	attention deficit hyperactivity disorder	0.04379	mental or behavioral dysfunction	INCOMMON	
+27	conduct-disorder	depressed mood	0.04296	mental or behavioral dysfunction	INCOMMON	
+31	dementia	mild cognitive disorder	0.06119	mental or behavioral dysfunction	INCOMMON	
+32	depression	major depressive disorder	0.18921	mental or behavioral dysfunction	INCOMMON	
+32	depression	depressed mood	0.17511	mental or behavioral dysfunction	INCOMMON	
+32	depression	unipolar depression	0.07196	mental or behavioral dysfunction	INCOMMON	
+32	depression	depressive episode unspecified	0.07167	mental or behavioral dysfunction	INCOMMON	
+33	depressive-disorder	major depressive disorder	0.18921	mental or behavioral dysfunction	INCOMMON	
+33	depressive-disorder	depressed mood	0.17481	mental or behavioral dysfunction	INCOMMON	
+33	depressive-disorder	unipolar depression	0.07196	mental or behavioral dysfunction	INCOMMON	
+33	depressive-disorder	depressive episode unspecified	0.07167	mental or behavioral dysfunction	INCOMMON	
+34	developmental-disabilities	autistic disorder	0.47641	mental or behavioral dysfunction	INCOMMON	
+34	developmental-disabilities	autism spectrum disorders	0.28989	mental or behavioral dysfunction	INCOMMON	
+34	developmental-disabilities	pervasive development disorder	0.11685	mental or behavioral dysfunction	INCOMMON	
+34	developmental-disabilities	developmental disabilities	0.08989	mental or behavioral dysfunction	INCOMMON	
+38	drinking-behavior	alcohol abuse	0.08755	mental or behavioral dysfunction	INCOMMON	
+38	drinking-behavior	heavy drinking	0.07373	mental or behavioral dysfunction	INCOMMON	
+40	dysthymic-disorder	dysthymic disorder	0.65152	mental or behavioral dysfunction	INCOMMON	
+40	dysthymic-disorder	major depressive disorder	0.31818	mental or behavioral dysfunction	INCOMMON	
+40	dysthymic-disorder	unipolar depression	0.24242	mental or behavioral dysfunction	INCOMMON	
+41	eating-disorders	anorexia nervosa	0.09565	mental or behavioral dysfunction	INCOMMON	
+41	eating-disorders	binge eating disorder	0.07826	mental or behavioral dysfunction	INCOMMON	
+44	frontotemporal-dementia	aphasia progressive	0.11594	mental or behavioral dysfunction	INCOMMON	
+45	frontotemporal-lobar-degeneration	aphasia progressive	0.14546	mental or behavioral dysfunction	INCOMMON	
+46	gambling	gambling pathological	0.23611	mental or behavioral dysfunction	INCOMMON	
+48	heroin-dependence	opiate addiction	0.26966	mental or behavioral dysfunction	INCOMMON	
+48	heroin-dependence	opiates	0.19101	mental or behavioral dysfunction	INCOMMON	
+49	impulse-control-disorders	gambling pathological	0.18279	mental or behavioral dysfunction	INCOMMON	
+49	impulse-control-disorders	trichotillomania	0.12904	mental or behavioral dysfunction	INCOMMON	
+50	impulsive-behavior	cocaine dependence	0.11638	mental or behavioral dysfunction	INCOMMON	
+52	marijuana-abuse	marihuana	0.22609	mental or behavioral dysfunction	INCOMMON	
+52	marijuana-abuse	cannabis dependence	0.15217	mental or behavioral dysfunction	INCOMMON	
+52	marijuana-abuse	cannabis abuse	0.06087	mental or behavioral dysfunction	INCOMMON	
+54	mental-disorders-diagnosed-in-childhood	attention deficit hyperactivity disorder	0.2502	mental or behavioral dysfunction	INCOMMON	
+54	mental-disorders-diagnosed-in-childhood	autism spectrum disorders	0.08366	mental or behavioral dysfunction	INCOMMON	
+54	mental-disorders-diagnosed-in-childhood	autistic disorder	0.08207	mental or behavioral dysfunction	INCOMMON	
+56	mental-retardation	mental retardation	0.05607	mental or behavioral dysfunction	INCOMMON	
+57	mood-disorders	major depressive disorder	0.17178	mental or behavioral dysfunction	INCOMMON	
+57	mood-disorders	depressed mood	0.16027	mental or behavioral dysfunction	INCOMMON	
+57	mood-disorders	depressive episode unspecified	0.0663	mental or behavioral dysfunction	INCOMMON	
+57	mood-disorders	unipolar depression	0.06466	mental or behavioral dysfunction	INCOMMON	
+59	obsessive-behavior	obsessive-compulsive disorder	0.33334	mental or behavioral dysfunction	INCOMMON	
+59	obsessive-behavior	osteochondritis dissecans	0.28334	mental or behavioral dysfunction	INCOMMON	
+59	obsessive-behavior	anxiety disorders	0.16667	mental or behavioral dysfunction	INCOMMON	
+60	obsessive-compulsive-disorder	osteochondritis dissecans	0.3969	mental or behavioral dysfunction	INCOMMON	
+60	obsessive-compulsive-disorder	obsessive-compulsive disorder	0.2835	mental or behavioral dysfunction	INCOMMON	
+61	opioid-related-disorders	opiate addiction	0.34353	mental or behavioral dysfunction	INCOMMON	
+61	opioid-related-disorders	opiates	0.13411	mental or behavioral dysfunction	INCOMMON	
+62	panic-disorder	generalized anxiety disorder	0.12782	mental or behavioral dysfunction	INCOMMON	
+62	panic-disorder	panic attacks	0.1203	mental or behavioral dysfunction	INCOMMON	
+62	panic-disorder	anxiety disorders	0.09775	mental or behavioral dysfunction	INCOMMON	
+64	personality-disorders	osteochondritis dissecans	0.21346	mental or behavioral dysfunction	INCOMMON	
+64	personality-disorders	obsessive-compulsive disorder	0.15497	mental or behavioral dysfunction	INCOMMON	
+64	personality-disorders	borderline personality disorder	0.14327	mental or behavioral dysfunction	INCOMMON	
+64	personality-disorders	personality disorders	0.09064	mental or behavioral dysfunction	INCOMMON	
+65	phobic-disorders	phobia social	0.47059	mental or behavioral dysfunction	INCOMMON	
+65	phobic-disorders	phobic anxiety disorder	0.33334	mental or behavioral dysfunction	INCOMMON	
+65	phobic-disorders	anxiety disorders	0.3268	mental or behavioral dysfunction	INCOMMON	
+65	phobic-disorders	social anxiety	0.26144	mental or behavioral dysfunction	INCOMMON	
+66	pick-disease-of-the-brain	aphasia progressive	0.1	mental or behavioral dysfunction	INCOMMON	
+70	schizophrenia	schizophrenia	0.49357	mental or behavioral dysfunction	INCOMMON	
+70	schizophrenia	schizoaffective disorder	0.22305	mental or behavioral dysfunction	INCOMMON	
+71	schizophrenia-and-disorders-with-psychotic-features	schizophrenia	0.49824	mental or behavioral dysfunction	INCOMMON	
+71	schizophrenia-and-disorders-with-psychotic-features	schizoaffective disorder	0.2234	mental or behavioral dysfunction	INCOMMON	
+72	self-injurious-behavior	suicide attempt	0.21637	mental or behavioral dysfunction	INCOMMON	
+72	self-injurious-behavior	major depressive disorder	0.05264	mental or behavioral dysfunction	INCOMMON	
+77	somatoform-disorders	pain disorder	0.10843	mental or behavioral dysfunction	INCOMMON	
+78	substance-related-disorders	cocaine dependence	0.05032	mental or behavioral dysfunction	INCOMMON	
+80	suicidal-ideation	suicide attempt	0.14	mental or behavioral dysfunction	INCOMMON	
+80	suicidal-ideation	depressed mood	0.08	mental or behavioral dysfunction	INCOMMON	
+81	suicide	suicide attempt	0.22034	mental or behavioral dysfunction	INCOMMON	
+82	tic-disorders	gilles de la tourette syndrome	0.28261	mental or behavioral dysfunction	INCOMMON	
+82	tic-disorders	tic disorder	0.23914	mental or behavioral dysfunction	INCOMMON	
+83	tobacco-use-disorder	nicotine dependence	0.0516	mental or behavioral dysfunction	INCOMMON	
+84	tourette-syndrome	gilles de la tourette syndrome	0.325	mental or behavioral dysfunction	INCOMMON	
+84	tourette-syndrome	tic disorder	0.275	mental or behavioral dysfunction	INCOMMON	

@@ -1,0 +1,31 @@
+Semantic Type	Exclusion Count	Inclusion Count
+disease or syndrome	342	283
+pharmacologic substance	273	229
+finding	220	199
+therapeutic or preventive procedure	159	139
+organic chemical	158	135
+mental or behavioral dysfunction	133	134
+body part, organ, or organ component	82	76
+diagnostic procedure	57	63
+neoplastic process	48	54
+sign or symptom	46	44
+pathologic function	46	34
+biologically active substance	39	34
+enzyme	32	26
+hazardous or poisonous substance	30	29
+clinical attribute	29	27
+congenital abnormality	24	23
+injury or poisoning	22	15
+laboratory or test result	20	18
+body location or region	19	16
+organ or tissue function	18	16
+body substance	17	16
+individual behavior	12	15
+antibiotic	11	10
+virus	7	8
+inorganic chemical	7	6
+receptor	5	5
+chemical viewed functionally	3	2
+clinical drug	2	1
+acquired abnormality	1	2
+group attribute	1	1

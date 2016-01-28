@@ -1,0 +1,184 @@
+1	adjustment-disorders	hemodynamic instability	0.04564	disease or syndrome	EXUNIQUE	
+3	affective-symptoms	electroconvulsive therapy	0.07	disease or syndrome	EXUNIQUE	
+3	affective-symptoms	thyroid gland	0.055	disease or syndrome	EXUNIQUE	
+5	alcohol-drinking	epilepsy	0.07463	disease or syndrome	EXUNIQUE	
+6	alcohol-related-disorders	nervous system disorder	0.04714	disease or syndrome	EXUNIQUE	
+6	alcohol-related-disorders	alcohol withdrawal delirium	0.04571	disease or syndrome	EXUNIQUE	
+7	alcoholism	nervous system disorder	0.06427	disease or syndrome	EXUNIQUE	
+7	alcoholism	alcohol withdrawal delirium	0.06049	disease or syndrome	EXUNIQUE	
+7	alcoholism	congenital abnormality	0.0586	disease or syndrome	EXUNIQUE	
+8	alzheimer-disease	immunologic deficiency syndromes	0.05356	disease or syndrome	EXUNIQUE	
+8	alzheimer-disease	hiv	0.04741	disease or syndrome	EXUNIQUE	
+9	amnesia	epilepsy	0.23529	disease or syndrome	EXUNIQUE	
+9	amnesia	cerebrovascular accident	0.20588	disease or syndrome	EXUNIQUE	
+10	amphetamine-related-disorders	hypertensive disease	0.26	disease or syndrome	EXUNIQUE	
+10	amphetamine-related-disorders	nervous system disorder	0.22	disease or syndrome	EXUNIQUE	
+11	anorexia-nervosa	diabetes mellitus	0.13265	disease or syndrome	EXUNIQUE	
+13	asperger-syndrome	nervous system disorder	0.13793	disease or syndrome	EXUNIQUE	
+14	attention-deficit-and-disruptive-behavior-disorders	brain diseases	0.06308	disease or syndrome	EXUNIQUE	
+14	attention-deficit-and-disruptive-behavior-disorders	organic disorders	0.03692	disease or syndrome	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	brain diseases	0.06539	disease or syndrome	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	organic disorders	0.03668	disease or syndrome	EXUNIQUE	
+16	autistic-disorder	hypertensive disease	0.06173	disease or syndrome	EXUNIQUE	
+16	autistic-disorder	gastrointestinal diseases	0.04691	disease or syndrome	EXUNIQUE	
+21	child-behavior-disorders	febrile convulsions	0.05093	disease or syndrome	EXUNIQUE	
+21	child-behavior-disorders	family history	0.04784	disease or syndrome	EXUNIQUE	
+22	cocaine-related-disorders	hypertensive disease	0.17582	disease or syndrome	EXUNIQUE	
+22	cocaine-related-disorders	epilepsy	0.16484	disease or syndrome	EXUNIQUE	
+22	cocaine-related-disorders	heart diseases	0.12363	disease or syndrome	EXUNIQUE	
+22	cocaine-related-disorders	myocardial infarction	0.09615	disease or syndrome	EXUNIQUE	
+24	combat-disorders	cerebrovascular accident	0.09574	disease or syndrome	EXUNIQUE	
+26	compulsive-behavior	heart diseases	0.11523	disease or syndrome	EXUNIQUE	
+29	conversion-disorder	glaucoma	0.07735	disease or syndrome	EXUNIQUE	
+30	delirium	immunologic deficiency syndromes	0.03618	disease or syndrome	EXUNIQUE	
+31	dementia	immunologic deficiency syndromes	0.0357	disease or syndrome	EXUNIQUE	
+34	developmental-disabilities	hypertensive disease	0.06067	disease or syndrome	EXUNIQUE	
+34	developmental-disabilities	gastrointestinal diseases	0.0382	disease or syndrome	EXUNIQUE	
+35	disorders-of-excessive-somnolence	immunologic deficiency syndromes	0.12	disease or syndrome	EXUNIQUE	
+35	disorders-of-excessive-somnolence	lung	0.10667	disease or syndrome	EXUNIQUE	
+35	disorders-of-excessive-somnolence	myocardial infarction	0.10667	disease or syndrome	EXUNIQUE	
+37	dissociative-disorders	glaucoma	0.20312	disease or syndrome	EXUNIQUE	
+37	dissociative-disorders	uveitis	0.14062	disease or syndrome	EXUNIQUE	
+37	dissociative-disorders	atrophic	0.10938	disease or syndrome	EXUNIQUE	
+38	drinking-behavior	epilepsy	0.09217	disease or syndrome	EXUNIQUE	
+41	eating-disorders	kidney diseases	0.04348	disease or syndrome	EXUNIQUE	
+41	eating-disorders	nervous system disorder	0.03043	disease or syndrome	EXUNIQUE	
+42	erectile-dysfunction	retinitis pigmentosa	0.12457	disease or syndrome	EXUNIQUE	
+42	erectile-dysfunction	congestive heart failure	0.08651	disease or syndrome	EXUNIQUE	
+43	food-habits	chronic disease	0.10714	disease or syndrome	EXUNIQUE	
+43	food-habits	hypertensive disease	0.09524	disease or syndrome	EXUNIQUE	
+44	frontotemporal-dementia	nervous system disorder	0.11594	disease or syndrome	EXUNIQUE	
+45	frontotemporal-lobar-degeneration	nervous system disorder	0.14545	disease or syndrome	EXUNIQUE	
+47	habits	dermatologic disorders	0.03581	disease or syndrome	EXUNIQUE	
+48	heroin-dependence	alanine transaminase	0.1573	disease or syndrome	EXUNIQUE	
+50	impulsive-behavior	heart diseases	0.13362	disease or syndrome	EXUNIQUE	
+50	impulsive-behavior	epilepsy	0.125	disease or syndrome	EXUNIQUE	
+52	marijuana-abuse	epilepsy	0.12609	disease or syndrome	EXUNIQUE	
+52	marijuana-abuse	cardiovascular diseases	0.11739	disease or syndrome	EXUNIQUE	
+55	mental-fatigue	heart diseases	0.05738	disease or syndrome	EXUNIQUE	
+55	mental-fatigue	kidney diseases	0.04098	disease or syndrome	EXUNIQUE	
+55	mental-fatigue	diabetes mellitus	0.03279	disease or syndrome	EXUNIQUE	
+56	mental-retardation	diabetes mellitus	0.04361	disease or syndrome	EXUNIQUE	
+56	mental-retardation	hiv	0.03115	disease or syndrome	EXUNIQUE	
+58	neurocirculatory-asthenia	arteriopathic disease	0.11017	disease or syndrome	EXUNIQUE	
+61	opioid-related-disorders	liver diseases	0.07765	disease or syndrome	EXUNIQUE	
+61	opioid-related-disorders	epilepsy	0.04941	disease or syndrome	EXUNIQUE	
+62	panic-disorder	epilepsy	0.15038	disease or syndrome	EXUNIQUE	
+62	panic-disorder	hypertensive disease	0.14286	disease or syndrome	EXUNIQUE	
+66	pick-disease-of-the-brain	nervous system disorder	0.1375	disease or syndrome	EXUNIQUE	
+69	restless-legs-syndrome	narcolepsy	0.1938	disease or syndrome	EXUNIQUE	
+70	schizophrenia	neuroleptic malignant syndrome	0.06479	disease or syndrome	EXUNIQUE	
+70	schizophrenia	malignant syndrome nos	0.06133	disease or syndrome	EXUNIQUE	
+70	schizophrenia	electroconvulsive therapy	0.04451	disease or syndrome	EXUNIQUE	
+71	schizophrenia-and-disorders-with-psychotic-features	neuroleptic malignant syndrome	0.06606	disease or syndrome	EXUNIQUE	
+71	schizophrenia-and-disorders-with-psychotic-features	malignant syndrome nos	0.06253	disease or syndrome	EXUNIQUE	
+71	schizophrenia-and-disorders-with-psychotic-features	electroconvulsive therapy	0.04539	disease or syndrome	EXUNIQUE	
+72	self-injurious-behavior	epilepsy	0.05263	disease or syndrome	EXUNIQUE	
+73	sleep-deprivation	sleep apnea syndromes	0.16	disease or syndrome	EXUNIQUE	
+75	sleep-initiation-and-maintenance-disorders	lung diseases obstructive	0.06849	disease or syndrome	EXUNIQUE	
+76	smoking	dermatologic disorders	0.03679	disease or syndrome	EXUNIQUE	
+77	somatoform-disorders	congenital abnormality	0.10241	disease or syndrome	EXUNIQUE	
+77	somatoform-disorders	nervous system disorder	0.10241	disease or syndrome	EXUNIQUE	
+79	substance-withdrawal-syndrome	epilepsy	0.1519	disease or syndrome	EXUNIQUE	
+80	suicidal-ideation	hypertensive disease	0.1	disease or syndrome	EXUNIQUE	
+83	tobacco-use-disorder	panic disorder	0.05008	disease or syndrome	EXUNIQUE	
+83	tobacco-use-disorder	dermatologic disorders	0.04249	disease or syndrome	EXUNIQUE	
+1	adjustment-disorders	acute respiratory failure	0.0332	disease or syndrome	INUNIQUE	
+11	anorexia-nervosa	amenorrhea	0.19388	disease or syndrome	INUNIQUE	
+13	asperger-syndrome	asperger syndrome	0.2069	disease or syndrome	INUNIQUE	
+37	dissociative-disorders	folic acid	0.07812	disease or syndrome	INUNIQUE	
+37	dissociative-disorders	retinal pigment epithelial detachment	0.0625	disease or syndrome	INUNIQUE	
+37	dissociative-disorders	diethylstilbestrol	0.0625	disease or syndrome	INUNIQUE	
+40	dysthymic-disorder	tropical spastic paraparesis	0.07576	disease or syndrome	INUNIQUE	
+41	eating-disorders	amenorrhea	0.0413	disease or syndrome	INUNIQUE	
+42	erectile-dysfunction	vagina	0.03114	disease or syndrome	INUNIQUE	
+44	frontotemporal-dementia	primary amyloidosis	0.07246	disease or syndrome	INUNIQUE	
+44	frontotemporal-dementia	niemann-pick diseases	0.05797	disease or syndrome	INUNIQUE	
+45	frontotemporal-lobar-degeneration	primary amyloidosis	0.07273	disease or syndrome	INUNIQUE	
+48	heroin-dependence	cataract anterior polar	0.04494	disease or syndrome	INUNIQUE	
+49	impulse-control-disorders	chorionic gonadotropin	0.03226	disease or syndrome	INUNIQUE	
+49	impulse-control-disorders	progressive disease	0.03226	disease or syndrome	INUNIQUE	
+52	marijuana-abuse	postural orthostatic tachycardia syndrome	0.05652	disease or syndrome	INUNIQUE	
+58	neurocirculatory-asthenia	pure autonomic failure	0.08475	disease or syndrome	INUNIQUE	
+66	pick-disease-of-the-brain	niemann-pick diseases	0.05	disease or syndrome	INUNIQUE	
+81	suicide	recurrent disease	0.03955	disease or syndrome	INUNIQUE	
+13	asperger-syndrome	epilepsy	0.22414	disease or syndrome	EXCOMMON	
+14	attention-deficit-and-disruptive-behavior-disorders	epilepsy	0.24615	disease or syndrome	EXCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	epilepsy	0.252	disease or syndrome	EXCOMMON	
+16	autistic-disorder	epilepsy	0.21482	disease or syndrome	EXCOMMON	
+21	child-behavior-disorders	epilepsy	0.16976	disease or syndrome	EXCOMMON	
+28	consciousness-disorders	epilepsy	0.09604	disease or syndrome	EXCOMMON	
+34	developmental-disabilities	epilepsy	0.21123	disease or syndrome	EXCOMMON	
+36	disorders-of-sex-development	diabetes mellitus	0.05264	disease or syndrome	EXCOMMON	
+37	dissociative-disorders	glycogen storage disease type ii	0.125	disease or syndrome	EXCOMMON	
+39	dyssomnias	sleep disorders	0.15477	disease or syndrome	EXCOMMON	
+42	erectile-dysfunction	myocardial infarction	0.30104	disease or syndrome	EXCOMMON	
+42	erectile-dysfunction	congenital abnormality	0.28374	disease or syndrome	EXCOMMON	
+42	erectile-dysfunction	cerebrovascular accident	0.2526	disease or syndrome	EXCOMMON	
+44	frontotemporal-dementia	congenital abnormality	0.17392	disease or syndrome	EXCOMMON	
+44	frontotemporal-dementia	cerebrovascular accident	0.14493	disease or syndrome	EXCOMMON	
+45	frontotemporal-lobar-degeneration	congenital abnormality	0.21818	disease or syndrome	EXCOMMON	
+45	frontotemporal-lobar-degeneration	cerebrovascular accident	0.14546	disease or syndrome	EXCOMMON	
+52	marijuana-abuse	hypertensive disease	0.21304	disease or syndrome	EXCOMMON	
+54	mental-disorders-diagnosed-in-childhood	epilepsy	0.21435	disease or syndrome	EXCOMMON	
+58	neurocirculatory-asthenia	hypertensive disease	0.24576	disease or syndrome	EXCOMMON	
+66	pick-disease-of-the-brain	congenital abnormality	0.1625	disease or syndrome	EXCOMMON	
+69	restless-legs-syndrome	sleep disorders	0.27907	disease or syndrome	EXCOMMON	
+69	restless-legs-syndrome	sleep apnea syndromes	0.24806	disease or syndrome	EXCOMMON	
+73	sleep-deprivation	sleep disorders	0.2	disease or syndrome	EXCOMMON	
+75	sleep-initiation-and-maintenance-disorders	sleep apnea syndromes	0.40822	disease or syndrome	EXCOMMON	
+75	sleep-initiation-and-maintenance-disorders	restless legs syndrome	0.24657	disease or syndrome	EXCOMMON	
+79	substance-withdrawal-syndrome	congenital abnormality	0.18987	disease or syndrome	EXCOMMON	
+82	tic-disorders	nervous system disorder	0.20652	disease or syndrome	EXCOMMON	
+84	tourette-syndrome	nervous system disorder	0.2125	disease or syndrome	EXCOMMON	
+84	tourette-syndrome	epilepsy	0.2	disease or syndrome	EXCOMMON	
+8	alzheimer-disease	dactinomycin	0.13345	disease or syndrome	INCOMMON	
+14	attention-deficit-and-disruptive-behavior-disorders	attention deficit hyperactivity disorder	0.49846	disease or syndrome	INCOMMON	
+14	attention-deficit-and-disruptive-behavior-disorders	attention deficit disorder	0.09692	disease or syndrome	INCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	attention deficit hyperactivity disorder	0.52153	disease or syndrome	INCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	attention deficit disorder	0.09889	disease or syndrome	INCOMMON	
+17	behavioral-symptoms	attention deficit hyperactivity disorder	0.05413	disease or syndrome	INCOMMON	
+20	borderline-personality-disorder	borderline personality disorder	0.77612	disease or syndrome	INCOMMON	
+20	borderline-personality-disorder	severe combined immunodeficiency	0.0597	disease or syndrome	INCOMMON	
+21	child-behavior-disorders	attention deficit hyperactivity disorder	0.23766	disease or syndrome	INCOMMON	
+21	child-behavior-disorders	attention deficit disorder	0.04167	disease or syndrome	INCOMMON	
+23	cognition-disorders	dactinomycin	0.05701	disease or syndrome	INCOMMON	
+26	compulsive-behavior	obsessive-compulsive disorder	0.09054	disease or syndrome	INCOMMON	
+26	compulsive-behavior	osteochondritis dissecans	0.06996	disease or syndrome	INCOMMON	
+27	conduct-disorder	attention deficit hyperactivity disorder	0.04379	disease or syndrome	INCOMMON	
+28	consciousness-disorders	comatose	0.03955	disease or syndrome	INCOMMON	
+30	delirium	dactinomycin	0.06814	disease or syndrome	INCOMMON	
+31	dementia	dactinomycin	0.06722	disease or syndrome	INCOMMON	
+36	disorders-of-sex-development	turner syndrome	0.14354	disease or syndrome	INCOMMON	
+36	disorders-of-sex-development	skeletal bone	0.04785	disease or syndrome	INCOMMON	
+37	dissociative-disorders	rhegmatogenous retinal detachment	0.07812	disease or syndrome	INCOMMON	
+39	dyssomnias	sleep apnea obstructive	0.08718	disease or syndrome	INCOMMON	
+39	dyssomnias	primary insomnia	0.05306	disease or syndrome	INCOMMON	
+42	erectile-dysfunction	erectile dysfunction	0.33564	disease or syndrome	INCOMMON	
+43	food-habits	obesity	0.02381	disease or syndrome	INCOMMON	
+44	frontotemporal-dementia	frontotemporal dementia	0.13044	disease or syndrome	INCOMMON	
+45	frontotemporal-lobar-degeneration	frontotemporal dementia	0.14545	disease or syndrome	INCOMMON	
+51	learning-disorders	diabetes mellitus non-insulin-dependent	0.04731	disease or syndrome	INCOMMON	
+54	mental-disorders-diagnosed-in-childhood	attention deficit hyperactivity disorder	0.2502	disease or syndrome	INCOMMON	
+56	mental-retardation	trisomy	0.07476	disease or syndrome	INCOMMON	
+58	neurocirculatory-asthenia	postural orthostatic tachycardia syndrome	0.1017	disease or syndrome	INCOMMON	
+58	neurocirculatory-asthenia	multiple system atrophy	0.09322	disease or syndrome	INCOMMON	
+59	obsessive-behavior	obsessive-compulsive disorder	0.33334	disease or syndrome	INCOMMON	
+59	obsessive-behavior	osteochondritis dissecans	0.28334	disease or syndrome	INCOMMON	
+60	obsessive-compulsive-disorder	osteochondritis dissecans	0.3969	disease or syndrome	INCOMMON	
+60	obsessive-compulsive-disorder	obsessive-compulsive disorder	0.2835	disease or syndrome	INCOMMON	
+63	parasomnias	sleep apnea obstructive	0.07894	disease or syndrome	INCOMMON	
+63	parasomnias	primary insomnia	0.05088	disease or syndrome	INCOMMON	
+64	personality-disorders	osteochondritis dissecans	0.21346	disease or syndrome	INCOMMON	
+64	personality-disorders	obsessive-compulsive disorder	0.15497	disease or syndrome	INCOMMON	
+64	personality-disorders	borderline personality disorder	0.14327	disease or syndrome	INCOMMON	
+66	pick-disease-of-the-brain	frontotemporal dementia	0.1125	disease or syndrome	INCOMMON	
+69	restless-legs-syndrome	restless legs syndrome	0.2093	disease or syndrome	INCOMMON	
+74	sleep-disorders	sleep apnea obstructive	0.05937	disease or syndrome	INCOMMON	
+74	sleep-disorders	primary insomnia	0.04269	disease or syndrome	INCOMMON	
+75	sleep-initiation-and-maintenance-disorders	primary insomnia	0.24657	disease or syndrome	INCOMMON	
+77	somatoform-disorders	complex regional pain syndromes	0.09036	disease or syndrome	INCOMMON	
+79	substance-withdrawal-syndrome	disease of diaphragm	0.08861	disease or syndrome	INCOMMON	
+80	suicidal-ideation	severe combined immunodeficiency	0.04	disease or syndrome	INCOMMON	
+82	tic-disorders	gilles de la tourette syndrome	0.28261	disease or syndrome	INCOMMON	
+84	tourette-syndrome	gilles de la tourette syndrome	0.325	disease or syndrome	INCOMMON	

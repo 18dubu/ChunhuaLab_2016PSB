@@ -1,0 +1,206 @@
+3	affective-symptoms	thyroid gland	0.055	pharmacologic substance	EXUNIQUE	
+5	alcohol-drinking	disulfiram	0.07164	pharmacologic substance	EXUNIQUE	
+6	alcohol-related-disorders	psychoactive substances	0.04571	pharmacologic substance	EXUNIQUE	
+7	alcoholism	psychoactive substances	0.0586	pharmacologic substance	EXUNIQUE	
+8	alzheimer-disease	hiv	0.04741	pharmacologic substance	EXUNIQUE	
+8	alzheimer-disease	anticoagulants	0.04302	pharmacologic substance	EXUNIQUE	
+8	alzheimer-disease	narcotics	0.03512	pharmacologic substance	EXUNIQUE	
+10	amphetamine-related-disorders	monoamine oxidase inhibitors	0.18	pharmacologic substance	EXUNIQUE	
+11	anorexia-nervosa	diabetes mellitus	0.13265	pharmacologic substance	EXUNIQUE	
+11	anorexia-nervosa	malignant neoplasms	0.09184	pharmacologic substance	EXUNIQUE	
+14	attention-deficit-and-disruptive-behavior-disorders	anticonvulsants	0.06308	pharmacologic substance	EXUNIQUE	
+14	attention-deficit-and-disruptive-behavior-disorders	investigational new drugs	0.04462	pharmacologic substance	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	anticonvulsants	0.06539	pharmacologic substance	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	investigational new drugs	0.04625	pharmacologic substance	EXUNIQUE	
+18	binge-eating-disorder	pharmaceutical preparations	0.09016	pharmacologic substance	EXUNIQUE	
+21	child-behavior-disorders	febrile convulsions	0.05093	pharmacologic substance	EXUNIQUE	
+24	combat-disorders	antidepressive agents	0.10638	pharmacologic substance	EXUNIQUE	
+28	consciousness-disorders	refusal	0.06215	pharmacologic substance	EXUNIQUE	
+29	conversion-disorder	investigational new drugs	0.09392	pharmacologic substance	EXUNIQUE	
+36	disorders-of-sex-development	ethanol	0.07177	pharmacologic substance	EXUNIQUE	
+36	disorders-of-sex-development	illicit drugs	0.03828	pharmacologic substance	EXUNIQUE	
+38	drinking-behavior	benzodiazepines	0.08756	pharmacologic substance	EXUNIQUE	
+43	food-habits	pharmaceutical preparations	0.21429	pharmacologic substance	EXUNIQUE	
+43	food-habits	fat protein human	0.10714	pharmacologic substance	EXUNIQUE	
+44	frontotemporal-dementia	ethanol	0.21739	pharmacologic substance	EXUNIQUE	
+45	frontotemporal-lobar-degeneration	ethanol	0.18182	pharmacologic substance	EXUNIQUE	
+48	heroin-dependence	benzodiazepines	0.20225	pharmacologic substance	EXUNIQUE	
+55	mental-fatigue	anticoagulants	0.04098	pharmacologic substance	EXUNIQUE	
+55	mental-fatigue	diabetes mellitus	0.03279	pharmacologic substance	EXUNIQUE	
+56	mental-retardation	diabetes mellitus	0.04361	pharmacologic substance	EXUNIQUE	
+56	mental-retardation	hiv	0.03115	pharmacologic substance	EXUNIQUE	
+58	neurocirculatory-asthenia	active brand of pseudoephedrine-triprolidine	0.14407	pharmacologic substance	EXUNIQUE	
+60	obsessive-compulsive-disorder	nicotine	0.07216	pharmacologic substance	EXUNIQUE	
+64	personality-disorders	nicotine	0.04386	pharmacologic substance	EXUNIQUE	
+66	pick-disease-of-the-brain	investigational new drugs	0.0875	pharmacologic substance	EXUNIQUE	
+73	sleep-deprivation	ethanol	0.24	pharmacologic substance	EXUNIQUE	
+75	sleep-initiation-and-maintenance-disorders	drugs non-prescription	0.11781	pharmacologic substance	EXUNIQUE	
+75	sleep-initiation-and-maintenance-disorders	anti-anxiety agents	0.09863	pharmacologic substance	EXUNIQUE	
+75	sleep-initiation-and-maintenance-disorders	antihistamines	0.08493	pharmacologic substance	EXUNIQUE	
+79	substance-withdrawal-syndrome	investigational new drugs	0.12658	pharmacologic substance	EXUNIQUE	
+82	tic-disorders	investigational new drugs	0.08696	pharmacologic substance	EXUNIQUE	
+10	amphetamine-related-disorders	psychoactive substances	0.12	pharmacologic substance	INUNIQUE	
+10	amphetamine-related-disorders	chocolate allergenic extract	0.1	pharmacologic substance	INUNIQUE	
+35	disorders-of-excessive-somnolence	spermatocidal agents	0.2	pharmacologic substance	INUNIQUE	
+37	dissociative-disorders	folic acid	0.07812	pharmacologic substance	INUNIQUE	
+37	dissociative-disorders	diethylstilbestrol	0.0625	pharmacologic substance	INUNIQUE	
+46	gambling	bee pollen	0.125	pharmacologic substance	INUNIQUE	
+48	heroin-dependence	progesterone	0.03371	pharmacologic substance	INUNIQUE	
+49	impulse-control-disorders	chorionic gonadotropin	0.03226	pharmacologic substance	INUNIQUE	
+80	suicidal-ideation	valproic acid	0.1	pharmacologic substance	INUNIQUE	
+1	adjustment-disorders	active brand of pseudoephedrine-triprolidine	0.14107	pharmacologic substance	EXCOMMON	
+1	adjustment-disorders	pharmacologic substance	0.12034	pharmacologic substance	EXCOMMON	
+2	affective-disorders-psychotic	ethanol	0.24535	pharmacologic substance	EXCOMMON	
+2	affective-disorders-psychotic	pharmacologic substance	0.20906	pharmacologic substance	EXCOMMON	
+3	affective-symptoms	ethanol	0.2725	pharmacologic substance	EXCOMMON	
+4	aggression	active brand of pseudoephedrine-triprolidine	0.11436	pharmacologic substance	EXCOMMON	
+4	aggression	pharmacologic substance	0.08777	pharmacologic substance	EXCOMMON	
+5	alcohol-drinking	pharmacologic substance	0.1612	pharmacologic substance	EXCOMMON	
+6	alcohol-related-disorders	pharmacologic substance	0.16571	pharmacologic substance	EXCOMMON	
+7	alcoholism	pharmacologic substance	0.22117	pharmacologic substance	EXCOMMON	
+8	alzheimer-disease	pharmacologic substance	0.23266	pharmacologic substance	EXCOMMON	
+8	alzheimer-disease	ethanol	0.21861	pharmacologic substance	EXCOMMON	
+9	amnesia	active brand of pseudoephedrine-triprolidine	0.17647	pharmacologic substance	EXCOMMON	
+9	amnesia	pharmacologic substance	0.14705	pharmacologic substance	EXCOMMON	
+10	amphetamine-related-disorders	pharmacologic substance	0.18	pharmacologic substance	EXCOMMON	
+10	amphetamine-related-disorders	psychotropic drugs	0.14	pharmacologic substance	EXCOMMON	
+11	anorexia-nervosa	ethanol	0.20409	pharmacologic substance	EXCOMMON	
+12	anxiety-disorders	ethanol	0.17939	pharmacologic substance	EXCOMMON	
+13	asperger-syndrome	antipsychotic agents	0.15518	pharmacologic substance	EXCOMMON	
+14	attention-deficit-and-disruptive-behavior-disorders	pervasive development disorder	0.23077	pharmacologic substance	EXCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	pervasive development disorder	0.22967	pharmacologic substance	EXCOMMON	
+17	behavioral-symptoms	ethanol	0.21034	pharmacologic substance	EXCOMMON	
+17	behavioral-symptoms	pharmacologic substance	0.18108	pharmacologic substance	EXCOMMON	
+18	binge-eating-disorder	ethanol	0.29508	pharmacologic substance	EXCOMMON	
+18	binge-eating-disorder	pharmacologic substance	0.28688	pharmacologic substance	EXCOMMON	
+19	bipolar-disorder	ethanol	0.2266	pharmacologic substance	EXCOMMON	
+19	bipolar-disorder	pharmacologic substance	0.21915	pharmacologic substance	EXCOMMON	
+20	borderline-personality-disorder	pharmacologic substance	0.16417	pharmacologic substance	EXCOMMON	
+20	borderline-personality-disorder	ethanol	0.14925	pharmacologic substance	EXCOMMON	
+20	borderline-personality-disorder	active brand of pseudoephedrine-triprolidine	0.08955	pharmacologic substance	EXCOMMON	
+22	cocaine-related-disorders	ethanol	0.23076	pharmacologic substance	EXCOMMON	
+23	cognition-disorders	ethanol	0.21377	pharmacologic substance	EXCOMMON	
+23	cognition-disorders	pharmacologic substance	0.19992	pharmacologic substance	EXCOMMON	
+24	combat-disorders	ethanol	0.21277	pharmacologic substance	EXCOMMON	
+25	communication-disorders	pharmacologic substance	0.09845	pharmacologic substance	EXCOMMON	
+25	communication-disorders	ethanol	0.09845	pharmacologic substance	EXCOMMON	
+27	conduct-disorder	ethanol	0.18646	pharmacologic substance	EXCOMMON	
+27	conduct-disorder	pharmacologic substance	0.15595	pharmacologic substance	EXCOMMON	
+28	consciousness-disorders	ethanol	0.12429	pharmacologic substance	EXCOMMON	
+28	consciousness-disorders	pharmacologic substance	0.12429	pharmacologic substance	EXCOMMON	
+28	consciousness-disorders	pharmaceutical preparations	0.09604	pharmacologic substance	EXCOMMON	
+29	conversion-disorder	active brand of pseudoephedrine-triprolidine	0.16022	pharmacologic substance	EXCOMMON	
+29	conversion-disorder	pharmacologic substance	0.1547	pharmacologic substance	EXCOMMON	
+29	conversion-disorder	malignant neoplasms	0.12708	pharmacologic substance	EXCOMMON	
+30	delirium	ethanol	0.20817	pharmacologic substance	EXCOMMON	
+30	delirium	pharmacologic substance	0.20442	pharmacologic substance	EXCOMMON	
+31	dementia	ethanol	0.20863	pharmacologic substance	EXCOMMON	
+31	dementia	pharmacologic substance	0.2012	pharmacologic substance	EXCOMMON	
+32	depression	ethanol	0.24378	pharmacologic substance	EXCOMMON	
+33	depressive-disorder	ethanol	0.24258	pharmacologic substance	EXCOMMON	
+33	depressive-disorder	pharmacologic substance	0.1943	pharmacologic substance	EXCOMMON	
+35	disorders-of-excessive-somnolence	ethanol	0.28	pharmacologic substance	EXCOMMON	
+36	disorders-of-sex-development	malignant neoplasms	0.11484	pharmacologic substance	EXCOMMON	
+36	disorders-of-sex-development	pharmacologic substance	0.0957	pharmacologic substance	EXCOMMON	
+36	disorders-of-sex-development	pharmaceutical preparations	0.08134	pharmacologic substance	EXCOMMON	
+36	disorders-of-sex-development	diabetes mellitus	0.05264	pharmacologic substance	EXCOMMON	
+37	dissociative-disorders	pharmacologic substance	0.15626	pharmacologic substance	EXCOMMON	
+37	dissociative-disorders	active brand of pseudoephedrine-triprolidine	0.125	pharmacologic substance	EXCOMMON	
+38	drinking-behavior	pharmacologic substance	0.16129	pharmacologic substance	EXCOMMON	
+39	dyssomnias	ethanol	0.18067	pharmacologic substance	EXCOMMON	
+40	dysthymic-disorder	ethanol	0.34849	pharmacologic substance	EXCOMMON	
+40	dysthymic-disorder	active brand of pseudoephedrine-triprolidine	0.31818	pharmacologic substance	EXCOMMON	
+40	dysthymic-disorder	pharmacologic substance	0.22728	pharmacologic substance	EXCOMMON	
+41	eating-disorders	ethanol	0.19565	pharmacologic substance	EXCOMMON	
+41	eating-disorders	pharmacologic substance	0.1587	pharmacologic substance	EXCOMMON	
+43	food-habits	ethanol	0.17857	pharmacologic substance	EXCOMMON	
+43	food-habits	pharmacologic substance	0.11905	pharmacologic substance	EXCOMMON	
+44	frontotemporal-dementia	pharmacologic substance	0.17391	pharmacologic substance	EXCOMMON	
+45	frontotemporal-lobar-degeneration	pharmacologic substance	0.18181	pharmacologic substance	EXCOMMON	
+46	gambling	pharmacologic substance	0.15278	pharmacologic substance	EXCOMMON	
+46	gambling	ethanol	0.13889	pharmacologic substance	EXCOMMON	
+46	gambling	active brand of pseudoephedrine-triprolidine	0.13889	pharmacologic substance	EXCOMMON	
+47	habits	ethanol	0.17723	pharmacologic substance	EXCOMMON	
+47	habits	pharmacologic substance	0.1607	pharmacologic substance	EXCOMMON	
+48	heroin-dependence	ethanol	0.26966	pharmacologic substance	EXCOMMON	
+48	heroin-dependence	active brand of pseudoephedrine-triprolidine	0.20224	pharmacologic substance	EXCOMMON	
+49	impulse-control-disorders	psychotropic drugs	0.27957	pharmacologic substance	EXCOMMON	
+49	impulse-control-disorders	pharmacologic substance	0.21505	pharmacologic substance	EXCOMMON	
+49	impulse-control-disorders	ethanol	0.2043	pharmacologic substance	EXCOMMON	
+50	impulsive-behavior	ethanol	0.17672	pharmacologic substance	EXCOMMON	
+51	learning-disorders	pharmacologic substance	0.07329	pharmacologic substance	EXCOMMON	
+51	learning-disorders	ethanol	0.05844	pharmacologic substance	EXCOMMON	
+52	marijuana-abuse	ethanol	0.23044	pharmacologic substance	EXCOMMON	
+52	marijuana-abuse	pharmacologic substance	0.2	pharmacologic substance	EXCOMMON	
+53	mental-disorders	ethanol	0.18791	pharmacologic substance	EXCOMMON	
+53	mental-disorders	pharmacologic substance	0.17637	pharmacologic substance	EXCOMMON	
+55	mental-fatigue	ethanol	0.14754	pharmacologic substance	EXCOMMON	
+55	mental-fatigue	pharmacologic substance	0.12295	pharmacologic substance	EXCOMMON	
+56	mental-retardation	pharmacologic substance	0.13707	pharmacologic substance	EXCOMMON	
+56	mental-retardation	malignant neoplasms	0.09034	pharmacologic substance	EXCOMMON	
+57	mood-disorders	ethanol	0.2452	pharmacologic substance	EXCOMMON	
+57	mood-disorders	pharmacologic substance	0.20685	pharmacologic substance	EXCOMMON	
+58	neurocirculatory-asthenia	pharmacologic substance	0.18644	pharmacologic substance	EXCOMMON	
+59	obsessive-behavior	antipsychotic agents	0.21666	pharmacologic substance	EXCOMMON	
+61	opioid-related-disorders	ethanol	0.26823	pharmacologic substance	EXCOMMON	
+61	opioid-related-disorders	benzodiazepines	0.17177	pharmacologic substance	EXCOMMON	
+62	panic-disorder	ethanol	0.33834	pharmacologic substance	EXCOMMON	
+63	parasomnias	ethanol	0.17661	pharmacologic substance	EXCOMMON	
+63	parasomnias	pharmacologic substance	0.14795	pharmacologic substance	EXCOMMON	
+65	phobic-disorders	ethanol	0.20915	pharmacologic substance	EXCOMMON	
+65	phobic-disorders	psychotropic drugs	0.20262	pharmacologic substance	EXCOMMON	
+66	pick-disease-of-the-brain	ethanol	0.1875	pharmacologic substance	EXCOMMON	
+67	psychotic-disorders	ethanol	0.19217	pharmacologic substance	EXCOMMON	
+67	psychotic-disorders	pharmacologic substance	0.17932	pharmacologic substance	EXCOMMON	
+68	quality-of-life	pharmacologic substance	0.0753	pharmacologic substance	EXCOMMON	
+69	restless-legs-syndrome	pharmaceutical preparations	0.23256	pharmacologic substance	EXCOMMON	
+70	schizophrenia	ethanol	0.21117	pharmacologic substance	EXCOMMON	
+70	schizophrenia	pharmacologic substance	0.19733	pharmacologic substance	EXCOMMON	
+71	schizophrenia-and-disorders-with-psychotic-features	ethanol	0.21231	pharmacologic substance	EXCOMMON	
+71	schizophrenia-and-disorders-with-psychotic-features	pharmacologic substance	0.19566	pharmacologic substance	EXCOMMON	
+73	sleep-deprivation	pharmacologic substance	0.13333	pharmacologic substance	EXCOMMON	
+73	sleep-deprivation	pharmaceutical preparations	0.09333	pharmacologic substance	EXCOMMON	
+74	sleep-disorders	ethanol	0.17615	pharmacologic substance	EXCOMMON	
+74	sleep-disorders	pharmacologic substance	0.1472	pharmacologic substance	EXCOMMON	
+75	sleep-initiation-and-maintenance-disorders	ethanol	0.32876	pharmacologic substance	EXCOMMON	
+75	sleep-initiation-and-maintenance-disorders	pharmacologic substance	0.24658	pharmacologic substance	EXCOMMON	
+76	smoking	ethanol	0.18763	pharmacologic substance	EXCOMMON	
+76	smoking	pharmacologic substance	0.16409	pharmacologic substance	EXCOMMON	
+77	somatoform-disorders	ethanol	0.14458	pharmacologic substance	EXCOMMON	
+77	somatoform-disorders	malignant neoplasms	0.14458	pharmacologic substance	EXCOMMON	
+79	substance-withdrawal-syndrome	pharmacologic substance	0.21519	pharmacologic substance	EXCOMMON	
+80	suicidal-ideation	ethanol	0.24	pharmacologic substance	EXCOMMON	
+81	suicide	ethanol	0.12429	pharmacologic substance	EXCOMMON	
+83	tobacco-use-disorder	ethanol	0.21547	pharmacologic substance	EXCOMMON	
+83	tobacco-use-disorder	pharmacologic substance	0.17906	pharmacologic substance	EXCOMMON	
+5	alcohol-drinking	ethanol	0.0806	pharmacologic substance	INCOMMON	
+6	alcohol-related-disorders	ethanol	0.25714	pharmacologic substance	INCOMMON	
+7	alcoholism	ethanol	0.24953	pharmacologic substance	INCOMMON	
+10	amphetamine-related-disorders	methamphetamine	0.22	pharmacologic substance	INCOMMON	
+13	asperger-syndrome	pervasive development disorder	0.43103	pharmacologic substance	INCOMMON	
+16	autistic-disorder	pervasive development disorder	0.12592	pharmacologic substance	INCOMMON	
+24	combat-disorders	psychotropic drugs	0.06383	pharmacologic substance	INCOMMON	
+24	combat-disorders	valproic acid	0.06383	pharmacologic substance	INCOMMON	
+25	communication-disorders	malignant neoplasms	0.04145	pharmacologic substance	INCOMMON	
+34	developmental-disabilities	pervasive development disorder	0.11685	pharmacologic substance	INCOMMON	
+38	drinking-behavior	ethanol	0.11982	pharmacologic substance	INCOMMON	
+46	gambling	prostaglandins	0.05556	pharmacologic substance	INCOMMON	
+48	heroin-dependence	opiates	0.19101	pharmacologic substance	INCOMMON	
+50	impulsive-behavior	opioids	0.05173	pharmacologic substance	INCOMMON	
+52	marijuana-abuse	marihuana	0.22609	pharmacologic substance	INCOMMON	
+52	marijuana-abuse	cannabis abuse	0.06087	pharmacologic substance	INCOMMON	
+55	mental-fatigue	malignant neoplasms	0.2459	pharmacologic substance	INCOMMON	
+58	neurocirculatory-asthenia	multiple system atrophy	0.09322	pharmacologic substance	INCOMMON	
+60	obsessive-compulsive-disorder	clomipramine	0.07732	pharmacologic substance	INCOMMON	
+61	opioid-related-disorders	opioids	0.24235	pharmacologic substance	INCOMMON	
+61	opioid-related-disorders	opiates	0.13411	pharmacologic substance	INCOMMON	
+66	pick-disease-of-the-brain	cholinesterase inhibitors	0.0375	pharmacologic substance	INCOMMON	
+68	quality-of-life	malignant neoplasms	0.04149	pharmacologic substance	INCOMMON	
+70	schizophrenia	antipsychotic agents	0.09397	pharmacologic substance	INCOMMON	
+71	schizophrenia-and-disorders-with-psychotic-features	antipsychotic agents	0.09128	pharmacologic substance	INCOMMON	
+72	self-injurious-behavior	valproic acid	0.06433	pharmacologic substance	INCOMMON	
+73	sleep-deprivation	electrocardiogram	0.04	pharmacologic substance	INCOMMON	
+76	smoking	cotinine	0.02502	pharmacologic substance	INCOMMON	
+79	substance-withdrawal-syndrome	opioids	0.1519	pharmacologic substance	INCOMMON	
+79	substance-withdrawal-syndrome	spermatocidal agents	0.10126	pharmacologic substance	INCOMMON	
+81	suicide	valproic acid	0.0678	pharmacologic substance	INCOMMON	

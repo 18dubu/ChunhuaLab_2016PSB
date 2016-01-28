@@ -1,0 +1,420 @@
+1	adjustment-disorders	malignant neoplasms	0.16183	biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure
+1	adjustment-disorders	pharmacotherapy	0.13278	therapeutic or preventive procedure
+1	adjustment-disorders	contraceptive methods	0.12863	therapeutic or preventive procedure
+1	adjustment-disorders	active brand of pseudoephedrine-triprolidine	0.09959	organic chemical - pharmacologic substance
+1	adjustment-disorders	electrocorticogram	0.09959	diagnostic procedure
+2	affective-disorders-psychotic	depressed mood	0.3821	finding - mental or behavioral dysfunction
+2	affective-disorders-psychotic	intravenous infusion procedures	0.361	therapeutic or preventive procedure
+2	affective-disorders-psychotic	major depressive disorder	0.26702	mental or behavioral dysfunction
+2	affective-disorders-psychotic	antidepressive agents	0.13168	pharmacologic substance
+2	affective-disorders-psychotic	depressive episode unspecified	0.12352	mental or behavioral dysfunction
+3	affective-symptoms	intravenous infusion procedures	0.4825	therapeutic or preventive procedure
+3	affective-symptoms	depressed mood	0.4425	finding - mental or behavioral dysfunction
+3	affective-symptoms	bipolar disorder	0.4025	mental or behavioral dysfunction
+3	affective-symptoms	depressive episode unspecified	0.22	mental or behavioral dysfunction
+3	affective-symptoms	contraceptive methods	0.16	therapeutic or preventive procedure
+4	aggression	aggressive behavior	0.40957	mental or behavioral dysfunction
+4	aggression	pharmacotherapy	0.28457	therapeutic or preventive procedure
+4	aggression	contraceptive methods	0.2633	therapeutic or preventive procedure
+4	aggression	electrocorticogram	0.23404	diagnostic procedure
+4	aggression	bilirubin	0.21543	biologically active substance - laboratory or test result - organic chemical
+5	alcohol-drinking	ethanol	0.55821	organic chemical - pharmacologic substance
+5	alcohol-drinking	alcohol consumption	0.27164	individual behavior
+5	alcohol-drinking	multiple endocrine neoplasia	0.1791	antibiotic - neoplastic process - organic chemical
+5	alcohol-drinking	intravenous infusion procedures	0.17612	therapeutic or preventive procedure
+5	alcohol-drinking	alcoholic intoxication chronic	0.15522	mental or behavioral dysfunction
+6	alcohol-related-disorders	ethanol	0.67857	organic chemical - pharmacologic substance
+6	alcohol-related-disorders	alcoholic intoxication chronic	0.38286	mental or behavioral dysfunction
+6	alcohol-related-disorders	intravenous infusion procedures	0.31143	therapeutic or preventive procedure
+6	alcohol-related-disorders	alcohol consumption	0.21857	individual behavior
+6	alcohol-related-disorders	multiple endocrine neoplasia	0.14571	antibiotic - neoplastic process - organic chemical
+7	alcoholism	ethanol	0.74669	organic chemical - pharmacologic substance
+7	alcoholism	alcoholic intoxication chronic	0.50851	mental or behavioral dysfunction
+7	alcoholism	intravenous infusion procedures	0.37996	therapeutic or preventive procedure
+7	alcoholism	alcohol consumption	0.23819	individual behavior
+7	alcoholism	contraceptive methods	0.17202	therapeutic or preventive procedure
+8	alzheimer-disease	mini-mental status exam	0.44513	diagnostic procedure
+8	alzheimer-disease	dactinomycin	0.32046	antibiotic - body part, organ, or organ component - disease or syndrome - therapeutic or preventive procedure
+8	alzheimer-disease	mild adverse event	0.24671	finding
+8	alzheimer-disease	intravenous infusion procedures	0.15891	therapeutic or preventive procedure
+8	alzheimer-disease	magnetic resonance imaging	0.15364	diagnostic procedure
+9	amnesia	mini-mental status exam	0.27941	diagnostic procedure
+9	amnesia	mild adverse event	0.26471	finding
+9	amnesia	memory observations	0.26471	finding
+9	amnesia	impaired cognition	0.14706	finding - mental or behavioral dysfunction
+9	amnesia	dactinomycin	0.13235	antibiotic - body part, organ, or organ component - disease or syndrome - therapeutic or preventive procedure
+10	amphetamine-related-disorders	intravenous infusion procedures	0.38	therapeutic or preventive procedure
+10	amphetamine-related-disorders	contraceptive methods	0.26	therapeutic or preventive procedure
+10	amphetamine-related-disorders	methamphetamine	0.26	body substance - hazardous or poisonous substance - organic chemical - pharmacologic substance
+10	amphetamine-related-disorders	positive finding	0.22	finding
+10	amphetamine-related-disorders	pregnancy tests	0.2	diagnostic procedure
+11	anorexia-nervosa	anorexia nervosa	0.71429	mental or behavioral dysfunction
+11	anorexia-nervosa	intravenous infusion procedures	0.43878	therapeutic or preventive procedure
+11	anorexia-nervosa	body mass index	0.29592	clinical attribute - diagnostic procedure
+11	anorexia-nervosa	eating disorders	0.20408	mental or behavioral dysfunction
+11	anorexia-nervosa	amenorrhea	0.19388	disease or syndrome
+12	anxiety-disorders	intravenous infusion procedures	0.26592	therapeutic or preventive procedure
+12	anxiety-disorders	post-traumatic stress disorder	0.24842	mental or behavioral dysfunction
+12	anxiety-disorders	anxiety disorders	0.23238	finding - mental or behavioral dysfunction
+12	anxiety-disorders	generalized anxiety disorder	0.11473	mental or behavioral dysfunction
+12	anxiety-disorders	depressed mood	0.10015	finding - mental or behavioral dysfunction
+13	asperger-syndrome	autistic disorder	0.7931	mental or behavioral dysfunction
+13	asperger-syndrome	pervasive development disorder	0.51724	congenital abnormality - inorganic chemical - mental or behavioral dysfunction - pharmacologic substance
+13	asperger-syndrome	autism spectrum disorders	0.46552	congenital abnormality - mental or behavioral dysfunction
+13	asperger-syndrome	intravenous infusion procedures	0.41379	therapeutic or preventive procedure
+13	asperger-syndrome	developmental disabilities	0.32759	mental or behavioral dysfunction
+14	attention-deficit-and-disruptive-behavior-disorders	attention deficit hyperactivity disorder	0.80154	disease or syndrome - mental or behavioral dysfunction
+14	attention-deficit-and-disruptive-behavior-disorders	intravenous infusion procedures	0.50923	therapeutic or preventive procedure
+14	attention-deficit-and-disruptive-behavior-disorders	hyperactive behavior	0.16308	finding
+14	attention-deficit-and-disruptive-behavior-disorders	mental disorders	0.12462	mental or behavioral dysfunction
+14	attention-deficit-and-disruptive-behavior-disorders	negative finding	0.11231	finding
+15	attention-deficit-disorder-with-hyperactivity	attention deficit hyperactivity disorder	0.83732	disease or syndrome - mental or behavioral dysfunction
+15	attention-deficit-disorder-with-hyperactivity	intravenous infusion procedures	0.51994	therapeutic or preventive procedure
+15	attention-deficit-disorder-with-hyperactivity	hyperactive behavior	0.17225	finding
+15	attention-deficit-disorder-with-hyperactivity	mental disorders	0.126	mental or behavioral dysfunction
+15	attention-deficit-disorder-with-hyperactivity	negative finding	0.11324	finding
+16	autistic-disorder	autistic disorder	0.79259	mental or behavioral dysfunction
+16	autistic-disorder	autism spectrum disorders	0.41975	congenital abnormality - mental or behavioral dysfunction
+16	autistic-disorder	intravenous infusion procedures	0.35556	therapeutic or preventive procedure
+16	autistic-disorder	pervasive development disorder	0.22222	congenital abnormality - inorganic chemical - mental or behavioral dysfunction - pharmacologic substance
+16	autistic-disorder	observation - diagnostic procedure	0.15802	diagnostic procedure
+17	behavioral-symptoms	intravenous infusion procedures	0.29791	therapeutic or preventive procedure
+17	behavioral-symptoms	depressed mood	0.28933	finding - mental or behavioral dysfunction
+17	behavioral-symptoms	major depressive disorder	0.20572	mental or behavioral dysfunction
+17	behavioral-symptoms	attention deficit hyperactivity disorder	0.10341	disease or syndrome - mental or behavioral dysfunction
+17	behavioral-symptoms	antidepressive agents	0.10253	pharmacologic substance
+18	binge-eating-disorder	binge eating disorder	0.51639	mental or behavioral dysfunction
+18	binge-eating-disorder	intravenous infusion procedures	0.40164	therapeutic or preventive procedure
+18	binge-eating-disorder	eating disorders	0.37705	mental or behavioral dysfunction
+18	binge-eating-disorder	body mass index	0.35246	clinical attribute - diagnostic procedure
+18	binge-eating-disorder	bulimia nervosa	0.32787	mental or behavioral dysfunction
+19	bipolar-disorder	intravenous infusion procedures	0.49149	therapeutic or preventive procedure
+19	bipolar-disorder	bipolar disorder	0.41915	mental or behavioral dysfunction
+19	bipolar-disorder	depressed mood	0.24362	finding - mental or behavioral dysfunction
+19	bipolar-disorder	bipolar i disorder	0.17553	mental or behavioral dysfunction
+19	bipolar-disorder	contraceptive methods	0.16702	therapeutic or preventive procedure
+20	borderline-personality-disorder	borderline personality disorder	0.85075	disease or syndrome - mental or behavioral dysfunction
+20	borderline-personality-disorder	personality disorders	0.70149	mental or behavioral dysfunction
+20	borderline-personality-disorder	intravenous infusion procedures	0.41791	therapeutic or preventive procedure
+20	borderline-personality-disorder	contraceptive methods	0.1194	therapeutic or preventive procedure
+20	borderline-personality-disorder	suicidal	0.10448	finding
+21	child-behavior-disorders	attention deficit hyperactivity disorder	0.38272	disease or syndrome - mental or behavioral dysfunction
+21	child-behavior-disorders	intravenous infusion procedures	0.32716	therapeutic or preventive procedure
+21	child-behavior-disorders	autistic disorder	0.14043	mental or behavioral dysfunction
+21	child-behavior-disorders	hyperactive behavior	0.08488	finding
+21	child-behavior-disorders	mental disorders	0.07407	mental or behavioral dysfunction
+22	cocaine-related-disorders	cocaine dependence	0.50275	mental or behavioral dysfunction
+22	cocaine-related-disorders	intravenous infusion procedures	0.4533	therapeutic or preventive procedure
+22	cocaine-related-disorders	positive finding	0.25	finding
+22	cocaine-related-disorders	contraceptive methods	0.24176	therapeutic or preventive procedure
+22	cocaine-related-disorders	pharmacologic substance	0.1511	pharmacologic substance - therapeutic or preventive procedure
+23	cognition-disorders	mini-mental status exam	0.23911	diagnostic procedure
+23	cognition-disorders	dactinomycin	0.14806	antibiotic - body part, organ, or organ component - disease or syndrome - therapeutic or preventive procedure
+23	cognition-disorders	mild adverse event	0.1445	finding
+23	cognition-disorders	intravenous infusion procedures	0.1441	therapeutic or preventive procedure
+23	cognition-disorders	impaired cognition	0.10491	finding - mental or behavioral dysfunction
+24	combat-disorders	post-traumatic stress disorder	0.54255	mental or behavioral dysfunction
+24	combat-disorders	intravenous infusion procedures	0.17021	therapeutic or preventive procedure
+24	combat-disorders	active brand of pseudoephedrine-triprolidine	0.15957	organic chemical - pharmacologic substance
+24	combat-disorders	relate - vinyl resin	0.1383	organic chemical
+24	combat-disorders	injury wounds	0.1383	body substance - injury or poisoning
+25	communication-disorders	cerebrovascular accident	0.11399	disease or syndrome - therapeutic or preventive procedure
+25	communication-disorders	malignant neoplasms	0.10881	biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure
+25	communication-disorders	aphasia	0.09845	mental or behavioral dysfunction
+25	communication-disorders	intravenous infusion procedures	0.06995	therapeutic or preventive procedure
+25	communication-disorders	hearing examination finding	0.0544	finding
+26	compulsive-behavior	intravenous infusion procedures	0.29218	therapeutic or preventive procedure
+26	compulsive-behavior	osteochondritis dissecans	0.15638	disease or syndrome - mental or behavioral dysfunction
+26	compulsive-behavior	pharmacologic substance	0.107	pharmacologic substance - therapeutic or preventive procedure
+26	compulsive-behavior	cocaine dependence	0.10288	mental or behavioral dysfunction
+26	compulsive-behavior	opioids	0.10288	hazardous or poisonous substance - organic chemical - pharmacologic substance
+27	conduct-disorder	intravenous infusion procedures	0.27534	therapeutic or preventive procedure
+27	conduct-disorder	depressed mood	0.21958	finding - mental or behavioral dysfunction
+27	conduct-disorder	major depressive disorder	0.15415	mental or behavioral dysfunction
+27	conduct-disorder	attention deficit hyperactivity disorder	0.08757	disease or syndrome - mental or behavioral dysfunction
+27	conduct-disorder	contraceptive methods	0.08134	therapeutic or preventive procedure
+28	consciousness-disorders	consciousness related finding	0.10734	finding
+28	consciousness-disorders	allergy severity - severe	0.09605	finding
+28	consciousness-disorders	brain injuries	0.0904	injury or poisoning
+28	consciousness-disorders	unconscious state	0.0904	disease or syndrome - finding
+28	consciousness-disorders	comatose	0.08475	congenital abnormality - disease or syndrome
+29	conversion-disorder	mechanical detachment	0.16575	pathologic function
+29	conversion-disorder	retina	0.14365	body part, organ, or organ component - disease or syndrome - organic chemical - pharmacologic substance
+29	conversion-disorder	contraceptive methods	0.11602	therapeutic or preventive procedure
+29	conversion-disorder	neoplasm metastasis	0.09392	neoplastic process
+29	conversion-disorder	pharmacologic substance	0.07182	pharmacologic substance - therapeutic or preventive procedure
+30	delirium	mini-mental status exam	0.27914	diagnostic procedure
+30	delirium	dactinomycin	0.17528	antibiotic - body part, organ, or organ component - disease or syndrome - therapeutic or preventive procedure
+30	delirium	mild adverse event	0.16682	finding
+30	delirium	intravenous infusion procedures	0.12218	therapeutic or preventive procedure
+30	delirium	impaired cognition	0.11748	finding - mental or behavioral dysfunction
+31	dementia	mini-mental status exam	0.27631	diagnostic procedure
+31	dementia	dactinomycin	0.17339	antibiotic - body part, organ, or organ component - disease or syndrome - therapeutic or preventive procedure
+31	dementia	mild adverse event	0.16504	finding
+31	dementia	intravenous infusion procedures	0.12239	therapeutic or preventive procedure
+31	dementia	impaired cognition	0.11822	finding - mental or behavioral dysfunction
+32	depression	depressed mood	0.4036	finding - mental or behavioral dysfunction
+32	depression	intravenous infusion procedures	0.31874	therapeutic or preventive procedure
+32	depression	major depressive disorder	0.28246	mental or behavioral dysfunction
+32	depression	antidepressive agents	0.13703	pharmacologic substance
+32	depression	depressive episode unspecified	0.12894	mental or behavioral dysfunction
+33	depressive-disorder	depressed mood	0.4036	finding - mental or behavioral dysfunction
+33	depressive-disorder	intravenous infusion procedures	0.32024	therapeutic or preventive procedure
+33	depressive-disorder	major depressive disorder	0.28246	mental or behavioral dysfunction
+33	depressive-disorder	antidepressive agents	0.13703	pharmacologic substance
+33	depressive-disorder	depressive episode unspecified	0.12894	mental or behavioral dysfunction
+34	developmental-disabilities	autistic disorder	0.71461	mental or behavioral dysfunction
+34	developmental-disabilities	autism spectrum disorders	0.37753	congenital abnormality - mental or behavioral dysfunction
+34	developmental-disabilities	intravenous infusion procedures	0.33258	therapeutic or preventive procedure
+34	developmental-disabilities	pervasive development disorder	0.20674	congenital abnormality - inorganic chemical - mental or behavioral dysfunction - pharmacologic substance
+34	developmental-disabilities	observation - diagnostic procedure	0.14382	diagnostic procedure
+35	disorders-of-excessive-somnolence	narcolepsy	0.38667	disease or syndrome
+35	disorders-of-excessive-somnolence	contraceptive methods	0.34667	therapeutic or preventive procedure
+35	disorders-of-excessive-somnolence	sleep disorders	0.24	disease or syndrome - sign or symptom
+35	disorders-of-excessive-somnolence	hypersomnia	0.24	sign or symptom
+35	disorders-of-excessive-somnolence	sleep apnea obstructive	0.22667	biologically active substance - disease or syndrome
+36	disorders-of-sex-development	turner syndrome	0.16746	congenital abnormality - disease or syndrome
+36	disorders-of-sex-development	tissue growth	0.15789	organ or tissue function
+36	disorders-of-sex-development	growth hormone	0.09569	pharmacologic substance
+36	disorders-of-sex-development	gene therapy	0.09091	therapeutic or preventive procedure
+36	disorders-of-sex-development	karyotype result	0.09091	laboratory or test result
+37	dissociative-disorders	mechanical detachment	0.46875	pathologic function
+37	dissociative-disorders	retina	0.40625	body part, organ, or organ component - disease or syndrome - organic chemical - pharmacologic substance
+37	dissociative-disorders	rhegmatogenous retinal detachment	0.125	disease or syndrome
+37	dissociative-disorders	tomography optical coherence	0.125	diagnostic procedure - enzyme
+37	dissociative-disorders	corrected visual acuity	0.10938	clinical attribute
+38	drinking-behavior	ethanol	0.57604	organic chemical - pharmacologic substance
+38	drinking-behavior	alcohol consumption	0.24885	individual behavior
+38	drinking-behavior	multiple endocrine neoplasia	0.1659	antibiotic - neoplastic process - organic chemical
+38	drinking-behavior	intravenous infusion procedures	0.16129	therapeutic or preventive procedure
+38	drinking-behavior	alcoholic intoxication chronic	0.13825	mental or behavioral dysfunction
+39	dyssomnias	sleep apnea obstructive	0.23437	biologically active substance - disease or syndrome
+39	dyssomnias	sleeplessness	0.18636	finding - sign or symptom
+39	dyssomnias	sleep apnea syndromes	0.17246	disease or syndrome
+39	dyssomnias	polysomnography	0.14024	diagnostic procedure
+39	dyssomnias	body mass index	0.1295	clinical attribute - diagnostic procedure
+40	dysthymic-disorder	dysthymic disorder	0.69697	mental or behavioral dysfunction
+40	dysthymic-disorder	intravenous infusion procedures	0.48485	therapeutic or preventive procedure
+40	dysthymic-disorder	major depressive disorder	0.42424	mental or behavioral dysfunction
+40	dysthymic-disorder	unipolar depression	0.33333	mental or behavioral dysfunction
+40	dysthymic-disorder	anxiety disorders	0.13636	finding - mental or behavioral dysfunction
+41	eating-disorders	body mass index	0.41739	clinical attribute - diagnostic procedure
+41	eating-disorders	intravenous infusion procedures	0.21739	therapeutic or preventive procedure
+41	eating-disorders	anorexia nervosa	0.18043	mental or behavioral dysfunction
+41	eating-disorders	eating disorders	0.17391	mental or behavioral dysfunction
+41	eating-disorders	mass of body structure	0.16522	finding
+42	erectile-dysfunction	penile erection	0.51557	organ or tissue function
+42	erectile-dysfunction	erectile dysfunction	0.48443	disease or syndrome - finding
+42	erectile-dysfunction	multiple endocrine neoplasia	0.21107	antibiotic - neoplastic process - organic chemical
+42	erectile-dysfunction	penis	0.12803	body part, organ, or organ component - disease or syndrome - organic chemical - pharmacologic substance
+42	erectile-dysfunction	malignant neoplasms	0.11073	biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure
+43	food-habits	body mass index	0.34524	clinical attribute - diagnostic procedure
+43	food-habits	mass of body structure	0.10714	finding
+43	food-habits	physical assessment findings	0.07143	finding
+43	food-habits	multiple endocrine neoplasia	0.07143	antibiotic - neoplastic process - organic chemical
+43	food-habits	weeks pregnant	0.04762	finding
+44	frontotemporal-dementia	frontotemporal dementia	0.34783	disease or syndrome
+44	frontotemporal-dementia	mini-mental status exam	0.23188	diagnostic procedure
+44	frontotemporal-dementia	magnetic resonance imaging	0.17391	diagnostic procedure
+44	frontotemporal-dementia	aphasia progressive	0.13043	mental or behavioral dysfunction
+44	frontotemporal-dementia	dactinomycin	0.13043	antibiotic - body part, organ, or organ component - disease or syndrome - therapeutic or preventive procedure
+45	frontotemporal-lobar-degeneration	frontotemporal dementia	0.4	disease or syndrome
+45	frontotemporal-lobar-degeneration	mini-mental status exam	0.23636	diagnostic procedure
+45	frontotemporal-lobar-degeneration	magnetic resonance imaging	0.2	diagnostic procedure
+45	frontotemporal-lobar-degeneration	aphasia progressive	0.16364	mental or behavioral dysfunction
+45	frontotemporal-lobar-degeneration	memory observations	0.12727	finding
+46	gambling	gambling pathological	0.375	mental or behavioral dysfunction
+46	gambling	intravenous infusion procedures	0.31944	therapeutic or preventive procedure
+46	gambling	negative finding	0.15278	finding
+46	gambling	contraceptive methods	0.15278	therapeutic or preventive procedure
+46	gambling	pregnancy tests	0.15278	diagnostic procedure
+47	habits	smoke	0.11754	hazardous or poisonous substance - individual behavior
+47	habits	cessation of smoking	0.08815	finding - individual behavior
+47	habits	intravenous infusion procedures	0.06612	therapeutic or preventive procedure
+47	habits	tobacco	0.05969	hazardous or poisonous substance - organic chemical - pharmacologic substance
+47	habits	body mass index	0.05693	clinical attribute - diagnostic procedure
+48	heroin-dependence	intravenous infusion procedures	0.46067	therapeutic or preventive procedure
+48	heroin-dependence	opiate addiction	0.44944	mental or behavioral dysfunction
+48	heroin-dependence	opioids	0.39326	hazardous or poisonous substance - organic chemical - pharmacologic substance
+48	heroin-dependence	opiates	0.32584	hazardous or poisonous substance - mental or behavioral dysfunction - pharmacologic substance
+48	heroin-dependence	contraceptive methods	0.2809	therapeutic or preventive procedure
+49	impulse-control-disorders	intravenous infusion procedures	0.43011	therapeutic or preventive procedure
+49	impulse-control-disorders	gambling pathological	0.29032	mental or behavioral dysfunction
+49	impulse-control-disorders	trichotillomania	0.22581	mental or behavioral dysfunction
+49	impulse-control-disorders	multiple endocrine neoplasia	0.13978	antibiotic - neoplastic process - organic chemical
+49	impulse-control-disorders	contraceptive methods	0.11828	therapeutic or preventive procedure
+50	impulsive-behavior	intravenous infusion procedures	0.28879	therapeutic or preventive procedure
+50	impulsive-behavior	cocaine dependence	0.13362	mental or behavioral dysfunction
+50	impulsive-behavior	physical assessment findings	0.125	finding
+50	impulsive-behavior	pharmacologic substance	0.12069	pharmacologic substance - therapeutic or preventive procedure
+50	impulsive-behavior	positive finding	0.11638	finding
+51	learning-disorders	malignant neoplasms	0.06957	biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure
+51	learning-disorders	diabetes mellitus non-insulin-dependent	0.05659	disease or syndrome
+51	learning-disorders	cerebrovascular accident	0.05009	disease or syndrome - therapeutic or preventive procedure
+51	learning-disorders	body mass index	0.04824	clinical attribute - diagnostic procedure
+51	learning-disorders	intravenous infusion procedures	0.04638	therapeutic or preventive procedure
+52	marijuana-abuse	marihuana	0.66522	mental or behavioral dysfunction - organic chemical - pharmacologic substance
+52	marijuana-abuse	intravenous infusion procedures	0.26522	therapeutic or preventive procedure
+52	marijuana-abuse	contraceptive methods	0.23043	therapeutic or preventive procedure
+52	marijuana-abuse	cannabis dependence	0.21739	mental or behavioral dysfunction
+52	marijuana-abuse	pharmacologic substance	0.13043	pharmacologic substance - therapeutic or preventive procedure
+53	mental-disorders	intravenous infusion procedures	0.28397	therapeutic or preventive procedure
+53	mental-disorders	depressed mood	0.11835	finding - mental or behavioral dysfunction
+53	mental-disorders	contraceptive methods	0.10996	therapeutic or preventive procedure
+53	mental-disorders	schizophrenia	0.10617	mental or behavioral dysfunction
+53	mental-disorders	negative finding	0.07372	finding
+54	mental-disorders-diagnosed-in-childhood	attention deficit hyperactivity disorder	0.4255	disease or syndrome - mental or behavioral dysfunction
+54	mental-disorders-diagnosed-in-childhood	intravenous infusion procedures	0.41514	therapeutic or preventive procedure
+54	mental-disorders-diagnosed-in-childhood	autistic disorder	0.25976	mental or behavioral dysfunction
+54	mental-disorders-diagnosed-in-childhood	autism spectrum disorders	0.13466	congenital abnormality - mental or behavioral dysfunction
+54	mental-disorders-diagnosed-in-childhood	mental disorders	0.10279	mental or behavioral dysfunction
+55	mental-fatigue	malignant neoplasms	0.39344	biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure
+55	mental-fatigue	pharmacotherapy	0.2623	therapeutic or preventive procedure
+55	mental-fatigue	therapeutic radiology procedure	0.18852	body location or region - finding - neoplastic process - therapeutic or preventive procedure
+55	mental-fatigue	active brand of pseudoephedrine-triprolidine	0.11475	organic chemical - pharmacologic substance
+55	mental-fatigue	electrocorticogram	0.10656	diagnostic procedure
+56	mental-retardation	gene therapy	0.11215	therapeutic or preventive procedure
+56	mental-retardation	prader-willi syndrome	0.09657	congenital abnormality - diagnostic procedure
+56	mental-retardation	gravidity	0.08411	finding
+56	mental-retardation	trisomy	0.07788	disease or syndrome
+56	mental-retardation	mental retardation	0.07788	mental or behavioral dysfunction
+57	mood-disorders	depressed mood	0.37342	finding - mental or behavioral dysfunction
+57	mood-disorders	intravenous infusion procedures	0.35452	therapeutic or preventive procedure
+57	mood-disorders	major depressive disorder	0.26027	mental or behavioral dysfunction
+57	mood-disorders	antidepressive agents	0.12849	pharmacologic substance
+57	mood-disorders	depressive episode unspecified	0.12027	mental or behavioral dysfunction
+58	neurocirculatory-asthenia	hypotension orthostatic	0.23729	finding
+58	neurocirculatory-asthenia	blood pressure finding	0.13559	finding
+58	neurocirculatory-asthenia	postural orthostatic tachycardia syndrome	0.12712	disease or syndrome
+58	neurocirculatory-asthenia	systolic pressure	0.12712	clinical attribute - diagnostic procedure
+58	neurocirculatory-asthenia	heart rate	0.12712	clinical attribute
+59	obsessive-behavior	osteochondritis dissecans	0.56667	disease or syndrome - mental or behavioral dysfunction
+59	obsessive-behavior	intravenous infusion procedures	0.4	therapeutic or preventive procedure
+59	obsessive-behavior	obsessive-compulsive disorder	0.36667	disease or syndrome - mental or behavioral dysfunction
+59	obsessive-behavior	anxiety disorders	0.25	finding - mental or behavioral dysfunction
+59	obsessive-behavior	compulsive disorder	0.16667	finding
+60	obsessive-compulsive-disorder	osteochondritis dissecans	0.64948	disease or syndrome - mental or behavioral dysfunction
+60	obsessive-compulsive-disorder	intravenous infusion procedures	0.47938	therapeutic or preventive procedure
+60	obsessive-compulsive-disorder	obsessive-compulsive disorder	0.33505	disease or syndrome - mental or behavioral dysfunction
+60	obsessive-compulsive-disorder	compulsive disorder	0.15979	finding
+60	obsessive-compulsive-disorder	anxiety disorders	0.15464	finding - mental or behavioral dysfunction
+61	opioid-related-disorders	opioids	0.43529	hazardous or poisonous substance - organic chemical - pharmacologic substance
+61	opioid-related-disorders	opiate addiction	0.4	mental or behavioral dysfunction
+61	opioid-related-disorders	intravenous infusion procedures	0.28	therapeutic or preventive procedure
+61	opioid-related-disorders	opiates	0.23529	hazardous or poisonous substance - mental or behavioral dysfunction - pharmacologic substance
+61	opioid-related-disorders	contraceptive methods	0.18118	therapeutic or preventive procedure
+62	panic-disorder	intravenous infusion procedures	0.39098	therapeutic or preventive procedure
+62	panic-disorder	anxiety disorders	0.32331	finding - mental or behavioral dysfunction
+62	panic-disorder	generalized anxiety disorder	0.21805	mental or behavioral dysfunction
+62	panic-disorder	anxiety generalized	0.18797	mental or behavioral dysfunction
+62	panic-disorder	depressed mood	0.15789	finding - mental or behavioral dysfunction
+63	parasomnias	sleep apnea obstructive	0.21871	biologically active substance - disease or syndrome
+63	parasomnias	sleeplessness	0.17719	finding - sign or symptom
+63	parasomnias	sleep apnea syndromes	0.16374	disease or syndrome
+63	parasomnias	polysomnography	0.1345	diagnostic procedure
+63	parasomnias	body mass index	0.12456	clinical attribute - diagnostic procedure
+64	personality-disorders	intravenous infusion procedures	0.36257	therapeutic or preventive procedure
+64	personality-disorders	osteochondritis dissecans	0.35673	disease or syndrome - mental or behavioral dysfunction
+64	personality-disorders	obsessive-compulsive disorder	0.18713	disease or syndrome - mental or behavioral dysfunction
+64	personality-disorders	personality disorders	0.18421	mental or behavioral dysfunction
+64	personality-disorders	borderline personality disorder	0.16959	disease or syndrome - mental or behavioral dysfunction
+65	phobic-disorders	phobia social	0.61438	mental or behavioral dysfunction
+65	phobic-disorders	anxiety disorders	0.56863	finding - mental or behavioral dysfunction
+65	phobic-disorders	intravenous infusion procedures	0.48366	therapeutic or preventive procedure
+65	phobic-disorders	phobic anxiety disorder	0.47059	mental or behavioral dysfunction
+65	phobic-disorders	social anxiety	0.35948	mental or behavioral dysfunction
+66	pick-disease-of-the-brain	frontotemporal dementia	0.3	disease or syndrome
+66	pick-disease-of-the-brain	mini-mental status exam	0.175	diagnostic procedure
+66	pick-disease-of-the-brain	magnetic resonance imaging	0.1625	diagnostic procedure
+66	pick-disease-of-the-brain	aphasia progressive	0.1125	mental or behavioral dysfunction
+66	pick-disease-of-the-brain	contraceptive methods	0.1	therapeutic or preventive procedure
+67	psychotic-disorders	intravenous infusion procedures	0.29217	therapeutic or preventive procedure
+67	psychotic-disorders	depressed mood	0.12142	finding - mental or behavioral dysfunction
+67	psychotic-disorders	contraceptive methods	0.11152	therapeutic or preventive procedure
+67	psychotic-disorders	schizophrenia	0.10901	mental or behavioral dysfunction
+67	psychotic-disorders	negative finding	0.07504	finding
+68	quality-of-life	malignant neoplasms	0.22858	biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure
+68	quality-of-life	pharmacotherapy	0.09527	therapeutic or preventive procedure
+68	quality-of-life	therapeutic radiology procedure	0.06185	body location or region - finding - neoplastic process - therapeutic or preventive procedure
+68	quality-of-life	neoplasm metastasis	0.05916	neoplastic process
+68	quality-of-life	contraceptive methods	0.05225	therapeutic or preventive procedure
+69	restless-legs-syndrome	restless legs syndrome	0.76744	disease or syndrome
+69	restless-legs-syndrome	leg	0.41085	body location or region
+69	restless-legs-syndrome	agitation	0.34884	finding - sign or symptom
+69	restless-legs-syndrome	moderate adverse event	0.14729	finding
+69	restless-legs-syndrome	body mass index	0.13178	clinical attribute - diagnostic procedure
+70	schizophrenia	schizophrenia	0.68892	mental or behavioral dysfunction
+70	schizophrenia	intravenous infusion procedures	0.42928	therapeutic or preventive procedure
+70	schizophrenia	antipsychotic agents	0.33086	pharmacologic substance
+70	schizophrenia	schizoaffective disorder	0.30366	mental or behavioral dysfunction
+70	schizophrenia	negative finding	0.14342	finding
+71	schizophrenia-and-disorders-with-psychotic-features	schizophrenia	0.69491	mental or behavioral dysfunction
+71	schizophrenia-and-disorders-with-psychotic-features	intravenous infusion procedures	0.43217	therapeutic or preventive procedure
+71	schizophrenia-and-disorders-with-psychotic-features	antipsychotic agents	0.33182	pharmacologic substance
+71	schizophrenia-and-disorders-with-psychotic-features	schizoaffective disorder	0.30459	mental or behavioral dysfunction
+71	schizophrenia-and-disorders-with-psychotic-features	negative finding	0.14473	finding
+72	self-injurious-behavior	suicide attempt	0.25731	finding - mental or behavioral dysfunction
+72	self-injurious-behavior	depressed mood	0.12281	finding - mental or behavioral dysfunction
+72	self-injurious-behavior	intravenous infusion procedures	0.10526	therapeutic or preventive procedure
+72	self-injurious-behavior	valproic acid	0.08187	body part, organ, or organ component - organic chemical - pharmacologic substance
+72	self-injurious-behavior	active brand of pseudoephedrine-triprolidine	0.07602	organic chemical - pharmacologic substance
+73	sleep-deprivation	body mass index	0.16	clinical attribute - diagnostic procedure
+73	sleep-deprivation	depressed mood	0.12	finding - mental or behavioral dysfunction
+73	sleep-deprivation	physical assessment findings	0.08	finding
+73	sleep-deprivation	unipolar depression	0.06667	mental or behavioral dysfunction
+73	sleep-deprivation	mini-mental status exam	0.06667	diagnostic procedure
+74	sleep-disorders	sleep apnea obstructive	0.18449	biologically active substance - disease or syndrome
+74	sleep-disorders	sleeplessness	0.15309	finding - sign or symptom
+74	sleep-disorders	sleep apnea syndromes	0.13935	disease or syndrome
+74	sleep-disorders	body mass index	0.11727	clinical attribute - diagnostic procedure
+74	sleep-disorders	polysomnography	0.11629	diagnostic procedure
+75	sleep-initiation-and-maintenance-disorders	sleeplessness	0.75068	finding - sign or symptom
+75	sleep-initiation-and-maintenance-disorders	primary insomnia	0.29315	disease or syndrome
+75	sleep-initiation-and-maintenance-disorders	intravenous infusion procedures	0.26849	therapeutic or preventive procedure
+75	sleep-initiation-and-maintenance-disorders	contraceptive methods	0.13699	therapeutic or preventive procedure
+75	sleep-initiation-and-maintenance-disorders	mental disorders	0.10959	mental or behavioral dysfunction
+76	smoking	smoke	0.1479	hazardous or poisonous substance - individual behavior
+76	smoking	cessation of smoking	0.09419	finding - individual behavior
+76	smoking	contraceptive methods	0.08609	therapeutic or preventive procedure
+76	smoking	intravenous infusion procedures	0.07947	therapeutic or preventive procedure
+76	smoking	tobacco	0.06549	hazardous or poisonous substance - organic chemical - pharmacologic substance
+77	somatoform-disorders	pain disorder	0.16867	mental or behavioral dysfunction
+77	somatoform-disorders	complex regional pain syndromes	0.1506	disease or syndrome
+77	somatoform-disorders	visual analog pain scale	0.10241	diagnostic procedure
+77	somatoform-disorders	intravenous infusion procedures	0.10241	therapeutic or preventive procedure
+77	somatoform-disorders	pelvis	0.09036	body location or region - body part, organ, or organ component
+78	substance-related-disorders	intravenous infusion procedures	0.22839	therapeutic or preventive procedure
+78	substance-related-disorders	ethanol	0.20129	organic chemical - pharmacologic substance
+78	substance-related-disorders	contraceptive methods	0.15419	therapeutic or preventive procedure
+78	substance-related-disorders	pharmacologic substance	0.10935	pharmacologic substance - therapeutic or preventive procedure
+78	substance-related-disorders	alcoholic intoxication chronic	0.09129	mental or behavioral dysfunction
+79	substance-withdrawal-syndrome	intravenous infusion procedures	0.26582	therapeutic or preventive procedure
+79	substance-withdrawal-syndrome	contraceptive methods	0.25316	therapeutic or preventive procedure
+79	substance-withdrawal-syndrome	opioids	0.22785	hazardous or poisonous substance - organic chemical - pharmacologic substance
+79	substance-withdrawal-syndrome	ethanol	0.16456	organic chemical - pharmacologic substance
+79	substance-withdrawal-syndrome	pharmacologic substance	0.12658	pharmacologic substance - therapeutic or preventive procedure
+80	suicidal-ideation	depressed mood	0.22	finding - mental or behavioral dysfunction
+80	suicidal-ideation	suicide attempt	0.16	finding - mental or behavioral dysfunction
+80	suicidal-ideation	major depressive disorder	0.16	mental or behavioral dysfunction
+80	suicidal-ideation	intravenous infusion procedures	0.12	therapeutic or preventive procedure
+80	suicidal-ideation	active brand of pseudoephedrine-triprolidine	0.12	organic chemical - pharmacologic substance
+81	suicide	suicide attempt	0.25989	finding - mental or behavioral dysfunction
+81	suicide	depressed mood	0.14124	finding - mental or behavioral dysfunction
+81	suicide	intravenous infusion procedures	0.10734	therapeutic or preventive procedure
+81	suicide	valproic acid	0.08475	body part, organ, or organ component - organic chemical - pharmacologic substance
+81	suicide	active brand of pseudoephedrine-triprolidine	0.0791	organic chemical - pharmacologic substance
+82	tic-disorders	tic disorder	0.61957	mental or behavioral dysfunction
+82	tic-disorders	intravenous infusion procedures	0.3913	therapeutic or preventive procedure
+82	tic-disorders	gilles de la tourette syndrome	0.34783	body part, organ, or organ component - disease or syndrome - finding - mental or behavioral dysfunction - neoplastic process
+82	tic-disorders	contraceptive methods	0.15217	therapeutic or preventive procedure
+82	tic-disorders	physical assessment findings	0.15217	finding
+83	tobacco-use-disorder	smoke	0.16995	hazardous or poisonous substance - individual behavior
+83	tobacco-use-disorder	contraceptive methods	0.13657	therapeutic or preventive procedure
+83	tobacco-use-disorder	intravenous infusion procedures	0.12898	therapeutic or preventive procedure
+83	tobacco-use-disorder	nicotine dependence	0.10926	mental or behavioral dysfunction
+83	tobacco-use-disorder	physical assessment findings	0.08953	finding
+84	tourette-syndrome	tic disorder	0.6875	mental or behavioral dysfunction
+84	tourette-syndrome	intravenous infusion procedures	0.4375	therapeutic or preventive procedure
+84	tourette-syndrome	gilles de la tourette syndrome	0.4	body part, organ, or organ component - disease or syndrome - finding - mental or behavioral dysfunction - neoplastic process
+84	tourette-syndrome	tic motor	0.175	sign or symptom
+84	tourette-syndrome	contraceptive methods	0.1625	therapeutic or preventive procedure

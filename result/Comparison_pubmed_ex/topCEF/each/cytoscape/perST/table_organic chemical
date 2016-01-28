@@ -1,0 +1,37 @@
+1	adjustment-disorders	active brand of pseudoephedrine-triprolidine	0.24066	organic chemical	EXUNIQUE	
+18	binge-eating-disorder	ethanol	0.35246	organic chemical	EXUNIQUE	
+27	conduct-disorder	ethanol	0.22647	organic chemical	EXUNIQUE	
+52	marijuana-abuse	marihuana	0.43913	organic chemical	EXUNIQUE	
+62	panic-disorder	active brand of pseudoephedrine-triprolidine	0.15038	organic chemical	EXUNIQUE	
+73	sleep-deprivation	ethanol	0.24	organic chemical	EXUNIQUE	
+2	alcohol-related-disorders	liver	16.0	organic chemical	INUNIQUE	
+3	alcoholism	support - dental	15.0	organic chemical	INUNIQUE	
+4	alzheimer-disease	vitamins	5.0	organic chemical	INUNIQUE	
+5	anorexia-nervosa	support - dental	4.0	organic chemical	INUNIQUE	
+8	autistic-disorder	today	3.0	organic chemical	INUNIQUE	
+10	bipolar-disorder	support - dental	2.0	organic chemical	INUNIQUE	
+14	conduct-disorder	ethanol	1.0	organic chemical	INUNIQUE	
+18	depression	support - dental	5.0	organic chemical	INUNIQUE	
+18	binge-eating-disorder	monoamine oxidase inhibitors	0.95902	organic chemical	EXCOMMON	
+30	delirium	ethanol	0.77867	organic chemical	EXCOMMON	
+30	delirium	vitamins	0.93374	organic chemical	EXCOMMON	
+32	depression	multiple endocrine neoplasia	0.9913	organic chemical	EXCOMMON	
+46	gambling	ethanol	0.81944	organic chemical	EXCOMMON	
+46	gambling	benzodiazepines	0.91667	organic chemical	EXCOMMON	
+69	restless-legs-syndrome	benzodiazepines	0.86822	organic chemical	EXCOMMON	
+69	restless-legs-syndrome	electrocardiogram	0.91473	organic chemical	EXCOMMON	
+69	restless-legs-syndrome	cimetidine	0.94574	organic chemical	EXCOMMON	
+13	asperger-syndrome	ethanol	8.91379	organic chemical	INCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	ethanol	48.8437	organic chemical	INCOMMON	
+16	autistic-disorder	risperidone	0.97284	organic chemical	INCOMMON	
+21	child-behavior-disorders	electrocardiogram	1.95216	organic chemical	INCOMMON	
+30	delirium	ethanol	0.77867	organic chemical	INCOMMON	
+34	developmental-disabilities	ethanol	1.93034	organic chemical	INCOMMON	
+44	frontotemporal-dementia	ethanol	1.78261	organic chemical	INCOMMON	
+46	gambling	ethanol	0.81944	organic chemical	INCOMMON	
+52	marijuana-abuse	ethanol	3.6913	organic chemical	INCOMMON	
+69	restless-legs-syndrome	ethanol	3.76744	organic chemical	INCOMMON	
+69	restless-legs-syndrome	vitamins	1.95349	organic chemical	INCOMMON	
+69	restless-legs-syndrome	olanzapine	0.96899	organic chemical	INCOMMON	
+70	schizophrenia	ethanol	4.76954	organic chemical	INCOMMON	
+69	restless-legs-syndrome	multiple endocrine neoplasia	1.9845	organic chemical	INCOMMON	

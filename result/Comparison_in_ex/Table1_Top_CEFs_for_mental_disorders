@@ -1,0 +1,1404 @@
+CEF	Ex_count	In_count
+active brand of pseudoephedrine-triprolidine	84	81
+allergy severity - severe	84	80
+ethanol	84	78
+gravidity	84	79
+pharmacologic substance	84	84
+physical assessment findings	84	84
+intravenous infusion procedures	83	83
+mental disorders	83	80
+pharmaceutical preparations	83	76
+psychotic disorders	83	66
+substance abuse problem	83	61
+unstable status	83	65
+hypersensitivity	82	61
+positive finding	82	76
+contraceptive methods	81	81
+depressed mood	81	78
+schizophrenia	81	70
+hypertensive disease	79	60
+pregnancy tests	77	79
+hepatic	75	58
+congenital abnormality	74	66
+bipolar disorder	73	59
+moderate adverse event	73	74
+psychotropic drugs	73	72
+malignant neoplasms	72	62
+antipsychotic agents	71	60
+injury wounds	70	59
+relate - vinyl resin	70	70
+negative finding	68	75
+nervous system disorder	68	45
+operative surgical procedures	68	67
+electrocardiogram	67	63
+epilepsy	66	47
+heart diseases	65	47
+unipolar depression	65	60
+craniocerebral trauma	64	45
+suicidal	62	44
+anxiety disorders	61	61
+pharmacotherapy	61	59
+screening for cancer	61	60
+benzodiazepines	60	51
+body mass index	60	62
+antidepressive agents	59	53
+investigational new drugs	58	35
+major depressive disorder	58	54
+medical history	57	57
+blood pressure finding	56	52
+breast	55	41
+multiple endocrine neoplasia	55	63
+cerebrovascular accident	54	42
+magnetic resonance imaging	54	49
+impaired cognition	53	40
+myocardial infarction	53	34
+alcohol abuse	52	35
+cardiovascular diseases	52	38
+liver diseases	50	34
+mental retardation	50	35
+alcoholic intoxication chronic	48	43
+kidney diseases	48	32
+suicide attempt	48	30
+mass of body structure	47	49
+serum	47	47
+neoplasm metastasis	46	43
+dementia	44	30
+caffeine	43	38
+cardiac arrhythmia	43	33
+drug abuse	43	36
+mood disorders	43	39
+substance dependence	43	29
+post-traumatic stress disorder	42	41
+brain injuries	41	32
+treatment protocols	41	44
+nervousness	40	34
+personality disorders	40	30
+schizoaffective disorder	40	36
+follow-up status	39	39
+disability	38	33
+eating disorders	38	30
+manic	37	26
+psychotherapy	37	30
+infantile neuroaxonal dystrophy	36	35
+medical contraindication	36	24
+neurological observations	36	30
+severe combined immunodeficiency	36	36
+illicit drugs	35	29
+unconscious state	35	24
+angina pectoris	34	22
+developmental disabilities	34	24
+obsessive-compulsive disorder	34	29
+fluoxetine	33	31
+selective serotonin re-uptake inhibitor	33	30
+suicidality	33	19
+blood vessel	32	21
+consciousness related finding	32	21
+diastole	32	27
+hiv	32	25
+kidney	32	22
+monoamine oxidase inhibitors	32	22
+stimulant	31	28
+thyroid gland	31	23
+alanine transaminase	30	26
+lung	30	22
+pervasive development disorder	30	26
+arteries	29	22
+attention deficit hyperactivity disorder	29	28
+claustrophobia	29	16
+diabetes mellitus	29	21
+mild adverse event	29	31
+psychiatric problem	28	23
+psychotic symptoms	28	14
+cognitive therapy	27	26
+congestive heart failure	27	18
+nicotine	27	17
+anticonvulsants	26	20
+asthma	26	15
+opioids	26	25
+stress disorders traumatic	26	27
+household composition	25	24
+lactation	25	7
+therapeutic brand of coal tar	25	19
+contraceptives oral	24	23
+substance use disorders	24	18
+drug dependence	23	15
+marihuana	23	21
+multiple sclerosis	23	19
+opiates	23	21
+aspartate transaminase	22	18
+compulsive disorder	22	23
+consumption-archaic term for tb	22	18
+panic disorder	22	19
+sexually active	22	23
+autistic disorder	21	21
+traumatic brain injury	21	18
+current therapy	20	17
+diabetes	20	16
+mini-mental status exam	20	23
+pathology processes	20	13
+suicide risk	20	11
+systolic pressure	20	20
+anti-anxiety agents	19	12
+behavior therapy	19	13
+family history	19	16
+generalized anxiety disorder	19	21
+implantation procedure	19	15
+nicotine dependence	19	19
+stabilizer - function	19	13
+alcohol consumption	18	16
+cocaine	18	13
+diastolic blood pressure	18	16
+fever	18	9
+sterility	18	19
+delirium dementia amnestic cognitive disorders	17	5
+heart ventricle	17	14
+lithium	17	12
+mercury	17	15
+nitric oxide synthase	17	17
+angina unstable	16	13
+anxiety generalized	16	18
+bilirubin	16	14
+hearing examination finding	16	16
+immunologic deficiency syndromes	16	5
+observation of attack	16	10
+smoking	16	16
+adverse reactions	15	7
+agitation	15	15
+anaplastic oligodendroglioma	15	4
+blind vision	15	15
+counter brand of terbufos	15	8
+depressive episode unspecified	15	14
+drugs non-prescription	15	10
+hypothyroidism	15	13
+insulin	15	11
+osteochondritis dissecans	15	15
+borderline personality disorder	14	10
+chronic disease	14	9
+chronic obstructive airway disease	14	10
+communicable diseases	14	4
+disease of diaphragm	14	13
+hiv seropositivity	14	7
+hyperactive behavior	14	13
+liver function	14	12
+movement disorders	14	12
+smoker	14	15
+tic disorder	14	14
+tobacco	14	13
+transaminases	14	13
+unmarried	14	13
+vitamins	14	7
+atypia morphology	13	12
+brain diseases	13	3
+dactinomycin	13	13
+exercise pain management	13	12
+oral contraception	13	13
+anorexia nervosa	12	7
+anticoagulants	12	2
+antisocial behavior	12	7
+autism spectrum disorders	12	12
+benign rolandic epilepsy	12	10
+bilateral prophylactic mastectomy	12	7
+contraception barrier	12	16
+febrile convulsions	12	5
+life expectancy	12	13
+limb structure	12	11
+lung diseases obstructive	12	4
+sexual intercourse - finding	12	14
+skeletal bone	12	12
+tropical spastic paraparesis	12	13
+bleomycin-cisplatin protocol	11	8
+cancer remission	11	11
+creatinine clearance	11	9
+delirium	11	9
+detoxification procedure	11	11
+diagnosis psychiatric	11	11
+electroconvulsive therapy	11	7
+hematological disease	11	7
+homicidal	11	5
+psychoactive substances	11	2
+adrenal cortex hormones	10	8
+cognition disorders	10	3
+depressive symptoms	10	10
+encephalopathies	10	6
+gene therapy	10	9
+immunodeficiency virus	10	2
+lung diseases	10	3
+malaise	10	11
+memantine	10	10
+memory observations	10	10
+personality inventories	10	14
+phobic anxiety disorder	10	10
+pregnancy test negative	10	21
+psychostimulant	10	6
+sleep apnea syndromes	10	7
+sleeplessness	10	10
+surgical revision	10	10
+systemic disease	10	7
+treatment-psychosocial effects	10	8
+adrenergic beta-antagonists	9	4
+aggressive behavior	9	10
+brain neoplasms	9	6
+clozapine	9	6
+conduct disorder	9	4
+glaucoma	9	4
+heart	9	6
+metabolic diseases	9	4
+narcolepsy	9	7
+narcotics	9	8
+paralysed	9	8
+positron-emission tomography	9	10
+tricyclic antidepressive agents	9	3
+urine drug screen positive	9	5
+valproic acid	9	10
+veins	9	7
+vital signs	9	8
+weighing patient	9	11
+abnormal degeneration	8	7
+antihistamines	8	4
+attention deficit disorder	8	7
+cerebrovascular disorders	8	6
+cholinesterase inhibitors	8	8
+chronic pain	8	7
+clonidine	8	6
+dementia vascular	8	7
+dysthymic disorder	8	8
+endocrine system diseases	8	2
+frontotemporal dementia	8	8
+heart rate	8	8
+human chorionic gonadotropin	8	8
+hyperthyroidism	8	3
+injectables	8	7
+leg	8	8
+lewy body disease	8	5
+naltrexone	8	6
+neurodegenerative disorders	8	7
+neuropsychological tests	8	8
+obesity	8	8
+opiate addiction	8	10
+restless legs syndrome	8	8
+risperidone	8	7
+severe depression	8	2
+sleep apnea obstructive	8	7
+smoke	8	8
+stimulation procedure	8	8
+therapeutic radiology procedure	8	7
+alzheimer s disease	7	7
+amphetamines	7	5
+arteriopathic disease	7	3
+behavior disorders	7	8
+bipolar i disorder	7	5
+brain	7	4
+buprenorphine	7	7
+cdr1 protein human	7	7
+cessation of smoking	7	7
+cocaine dependence	7	7
+current non-drinker of alcohol	7	6
+diabetes mellitus insulin-dependent	7	4
+experimental drug	7	5
+gastrointestinal diseases	7	1
+gilles de la tourette syndrome	7	7
+heart atrium	7	4
+hemorrhage	7	3
+hypnotics and sedatives	7	3
+integumentary scale	7	10
+intestines	7	4
+laboratory results	7	6
+memory impairment	7	7
+mild cognitive disorder	7	7
+neuroleptic malignant syndrome	7	0
+nicotine replacement	7	4
+phosphatidylinositols	7	6
+polysomnography	7	6
+pulmonary resonance	7	7
+renal function	7	6
+renal insufficiency	7	2
+respiratory air	7	7
+responsible person	7	7
+serum creatinine level	7	5
+shift worker	7	6
+skills	7	7
+sleep disorders	7	7
+test result	7	5
+tissue growth	7	6
+transient ischemic attack	7	1
+alcohol withdrawal syndrome	6	5
+anemia	6	5
+antimicrobial resistance result	6	5
+aripiprazole	6	4
+aspirin	6	6
+blood coagulation disorders	6	3
+body excretions	6	5
+body parts - dental	6	1
+bradycardia	6	2
+carbamazepine	6	5
+cns disorder	6	2
+cochlear implant procedure	6	0
+cord - body parts	6	6
+coronary artery disease	6	2
+daytime sleepiness	6	5
+disulfiram	6	3
+dyssomnias	6	7
+finding of platelet count	6	7
+hypnotics	6	5
+malignant syndrome nos	6	0
+methylphenidate	6	6
+mri brain procedure	6	6
+neck	6	6
+nocturnal myoclonus syndrome	6	5
+nursing therapy	6	6
+olanzapine	6	4
+personal satisfaction	6	23
+phobia social	6	8
+renal impairment	6	1
+sertraline	6	6
+spermatocidal agents	6	8
+acute hepatitis	5	2
+amphetamine	5	5
+amyotrophic lateral sclerosis	5	4
+antiepileptic agents	5	5
+asleep	5	8
+barakat syndrome	5	5
+behaviorial habits	5	3
+binge eating disorder	5	5
+bleeding tendency	5	2
+body weight decreased	5	5
+cardiac conduction	5	2
+chest pain	5	1
+cholinesterases	5	5
+cochlear structure	5	0
+depression bipolar	5	4
+diabetes mellitus non-insulin-dependent	5	5
+donepezil	5	5
+dyskinetic syndrome	5	3
+electroencephalography	5	5
+enzymes	5	3
+escitalopram	5	4
+eye	5	3
+fibrillations	5	3
+fracture	5	4
+fragile x syndrome	5	4
+glucose	5	4
+hallucinations	5	1
+hemoglobin	5	4
+hepatitis active	5	3
+hiv infections	5	2
+homicidal ideation	5	0
+hypotension orthostatic	5	2
+left ventricular ejection fraction	5	5
+liver	5	4
+liver failure	5	1
+lumbar region	5	5
+mental state examination	5	6
+methadone maintenance	5	5
+organic disorders	5	0
+paroxetine	5	5
+positive pregnancy test	5	1
+prior therapy	5	4
+prostaglandins	5	2
+psychiatric care	5	3
+research outcome	5	0
+schizophreniform disorders	5	4
+sedation	5	5
+thyroid diseases	5	3
+transplantation	5	5
+type ii mucolipidosis	5	5
+venous blood sampling	5	2
+violent	5	2
+withdrawal symptoms	5	4
+acamprosate	4	2
+airway structure	4	5
+alcohol use disorder	4	4
+anticholinergic agents	4	4
+apnea hypopnea index	4	4
+atomoxetine	4	4
+atrial fibrillation	4	3
+barbiturates	4	1
+beck depression inventory	4	2
+bony process	4	2
+bulimia	4	3
+bupropion	4	4
+cerebral palsy	4	3
+chemotherapy regimen	4	3
+childhood disintegrative disorder	4	4
+communication impairment	4	7
+cytochrome p450 3a4	4	0
+deafness	4	3
+depression scale	4	5
+dermatologic disorders	4	0
+electrocorticogram	4	5
+excessive daytime somnolence	4	4
+fibromyalgia	4	3
+galantamine	4	4
+heart block	4	1
+heavy drinking	4	5
+hematoma subdural	4	1
+hepatic impairment	4	1
+hepatitis b surface antigens	4	2
+hepatitis c virus	4	3
+hysterectomy	4	5
+intelligence tests	4	5
+investigational agents	4	1
+ischemia	4	4
+kidney failure	4	1
+malignant neoplasm of skin	4	4
+melatonin	4	4
+mental status adverse event	4	3
+oppositional defiant disorder	4	4
+oxygen	4	3
+physical dependence	4	4
+placebos	4	5
+primary insomnia	4	4
+progressive disease	4	5
+prostate carcinoma	4	2
+pulse rate	4	4
+puncture procedure	4	4
+quetiapine	4	4
+refusal	4	0
+replacement therapy	4	3
+rivastigmine	4	4
+sedatives	4	4
+serotonin uptake inhibitors	4	4
+sinoatrial node	4	0
+skin carcinoma	4	4
+social anxiety	4	4
+spinal puncture	4	4
+stem of organ	4	4
+suicidal behavior	4	3
+supernumerary mandibular right primary canine	4	4
+sympathomimetics	4	2
+systolic blood pressure measurement	4	1
+tardive dyskinesia	4	3
+tissue damage	4	0
+topiramate	4	4
+tuberous sclerosis	4	3
+ziprasidone	4	4
+adrenal cortex	3	3
+adverse event associated with death	3	3
+adverse reaction to drug	3	0
+alkaline phosphatase	3	2
+allergic reaction	3	2
+alpha-mannosidosis	3	3
+angle closure glaucoma	3	0
+anorexia nervosa-bulimia	3	3
+antiparkinson agents	3	1
+aphasia broca	3	3
+aphasia progressive	3	3
+asymptomatic	3	1
+atrioventricular block	3	1
+atrophic	3	5
+augmentation procedure	3	3
+autoimmune diseases	3	0
+basal cell carcinoma	3	3
+body dysmorphic disorders	3	3
+body fluid discharge	3	4
+bulimia nervosa	3	3
+carbon monoxide	3	4
+carcinoma in situ	3	3
+cardiac pacing	3	0
+cardiomyopathies	3	0
+cervix carcinoma	3	3
+chorea	3	1
+citalopram	3	3
+clonazepam	3	3
+comatose	3	2
+compliance behavior	3	3
+congenital heart defects	3	3
+continuous positive airway pressure	3	3
+creatinine	3	2
+current smoker	3	3
+cyclophosphamide-doxorubicin-etoposide-prednisone	3	0
+cytochromes	3	1
+deep brain stimulation	3	3
+delusional disorder	3	2
+dietary potassium	3	1
+disease susceptibility	3	1
+dopamine agonists	3	2
+ecog performance status	3	5
+electrocardiogram abnormal	3	0
+estrogens	3	2
+fibrosis	3	2
+fluvoxamine	3	3
+fmri	3	2
+frontotemporal lobar degeneration	3	3
+gastrointestinal hemorrhage	3	1
+general anesthesia	3	2
+globoid cell leukodystrophy	3	3
+glomerular filtration rate	3	3
+gonadotropins	3	5
+heart failure	3	1
+hemodynamics	3	2
+hepatitis	3	0
+hepatitis c	3	2
+hormone replacement therapy	3	3
+hormone therapy	3	4
+hoxa10 protein human	3	5
+hydrocephalus normal pressure	3	3
+hypertrophy	3	1
+hypomania	3	2
+hypopnea	3	1
+ideal body weight	3	3
+imaging of brain	3	2
+immunosuppressive agents	3	2
+instability	3	2
+irritable mood	3	3
+leukodystrophy metachromatic	3	3
+mechanical ventilation	3	3
+melanoma	3	2
+mental suffering	3	3
+methadone	3	3
+motor neuron disease	3	3
+myocardial ischemia	3	1
+naloxone	3	2
+national origin	3	4
+neoplasms intracranial	3	0
+neurologic examination	3	3
+nicotine transdermal patch	3	3
+niemann-pick disease type c1	3	3
+non-english speaking	3	0
+nose	3	3
+nuclear pore complex	3	3
+obsessions	3	3
+organic brain syndrome	3	0
+partial response	3	2
+partum	3	0
+pfaundler-hurler syndrome	3	3
+phobia specific	3	4
+phosphoric monoester hydrolases	3	2
+physical disorders	3	2
+platelets adverse event	3	3
+pressure.airway	3	4
+primary progressive nonfluent aphasia	3	3
+progesterone	3	2
+progressive supranuclear palsy	3	3
+prophylactic treatment	3	3
+psychiatric symptom	3	2
+retina	3	2
+retinal diseases	3	2
+rett syndrome	3	3
+reuptake inhibitors	3	3
+sexual sterilization	3	3
+sleep apnea central	3	3
+smokeless	3	3
+smoking cessation therapy	3	3
+social disorder	3	4
+somnolence	3	2
+stem cell transplant	3	1
+stomach	3	2
+suicidal intent	3	1
+supportive care	3	1
+tachycardia	3	0
+tetrahydrocannabinol	3	2
+therapeutic procedure	3	2
+triacetyluridine	3	3
+ulcer	3	1
+valproate	3	2
+varenicline	3	3
+violence	3	3
+weight gain	3	3
+zyban	3	3
+abnormal movement	2	0
+acetaminophen	2	0
+acetylcholinesterase	2	2
+acetylcholinesterase inhibitors	2	0
+actual effective weight	2	3
+alcohol problem	2	2
+alcohol withdrawal delirium	2	0
+analgesics	2	2
+anatomic node	2	2
+anatomic valve	2	1
+androgens	2	2
+aneurysm	2	0
+antabuse	2	0
+antiemetics	2	1
+antihistamines classical	2	2
+antihypertensive agents	2	1
+anxiety symptoms	2	2
+asperger syndrome	2	4
+auditory recruitment	2	2
+b-cell lymphomas	2	2
+bariatric surgery	2	2
+bevacizumab	2	2
+binge drinking	2	3
+binocular diameter	2	2
+bipolar ii disorder	2	2
+blood alcohol concentration	2	2
+blood urea nitrogen	2	2
+body site modifier - external	2	1
+botulinum toxins	2	2
+breast carcinoma	2	2
+cannabinoids	2	1
+cardiac surgery procedures	2	0
+cataract adverse event	2	2
+cataract surgery	2	2
+celiac disease	2	2
+cervix uteri	2	2
+change of medication	2	2
+cholesterol	2	1
+cimetidine	2	1
+clomipramine	2	2
+comorbid conditions	2	2
+coronary artery bypass surgery	2	2
+coronary heart disease	2	1
+corrected visual acuity	2	2
+cotinine	2	2
+current drinker	2	2
+cytochrome p-450 cyp2d6	2	0
+cytotoxic chemotherapy	2	3
+decreased translucency	2	0
+dehydration	2	1
+delusions	2	2
+dextroamphetamine	2	0
+diabetic	2	3
+diastasis	2	6
+diffuse large b-cell lymphoma	2	2
+disorder of eye	2	0
+doxorubicin-fluorouracil-mitomycin-vincristine protocol	2	0
+echocardiography	2	2
+endopeptidases	2	1
+erythromycin	2	1
+exacerbation acute	2	2
+examination status	2	2
+fatigue	2	3
+folic acid deficiency	2	1
+follicle	2	2
+follicle stimulating hormone	2	2
+food allergy	2	2
+fragments	2	0
+gambler	2	2
+gambling pathological	2	2
+genetic syndrome	2	2
+gingiva	2	2
+glycogen storage disease type ii	2	2
+graft-vs-host disease	2	2
+growth hormone	2	2
+guanfacine	2	2
+hand skill relative	2	2
+headache	2	2
+heart rhythm	2	2
+hematocrit level	2	1
+hemodialysis	2	2
+hemodynamic instability	2	0
+hepatitis b	2	2
+hepatitis b antigen peptide	2	1
+hepatotoxicity	2	0
+hereditary diseases	2	2
+heroin	2	2
+heroin dependence	2	2
+history of alcohol abuse	2	0
+hole finding	2	2
+hypertrophic cardiomyopathy	2	0
+hypoglycemia	2	2
+hypotension	2	0
+imaging techniques	2	2
+immunotherapy	2	1
+impulse control disorders	2	1
+indinavir	2	0
+inflammation	2	0
+intestinal diseases	2	1
+intraocular pressure test	2	2
+ketoconazole	2	1
+kidney failure chronic	2	2
+lab test abnormal	2	0
+lamotrigine	2	2
+lansky play-performance status	2	2
+laser photocoagulation	2	2
+learning disabilities	2	2
+lens diseases	2	2
+levodopa	2	2
+levonorgestrel	2	2
+light coagulation	2	2
+liver cirrhosis	2	2
+liver dysfunction	2	1
+lymph nodes	2	2
+macule	2	2
+manic episode	2	1
+measurable disease	2	2
+mechanical detachment	2	2
+mediastinum	2	2
+medroxyprogesterone acetate	2	2
+metabolite	2	2
+minerals	2	1
+morphine	2	2
+motor tic disorders	2	2
+mucopolysaccharidosis vi	2	2
+multiple system atrophy	2	2
+non-smoker	2	2
+opioid withdrawal	2	3
+oral medication	2	2
+oral region	2	0
+orthostatic intolerance	2	2
+osteoporosis	2	1
+overdose	2	2
+paliperidone	2	2
+pelvis	2	2
+perceived quality of life	2	2
+peripheral neuropathy	2	0
+peripheral vascular diseases	2	1
+photochemotherapy	2	2
+pituitary gland	2	2
+plasma	2	1
+power of attorney	2	2
+proliferative vitreoretinopathy	2	2
+protease inhibitor	2	2
+psychiatric assessment	2	2
+psychotic depression	2	0
+psychotic illness	2	1
+ptosis	2	1
+quality of sleep	2	2
+rapid eye movement	2	1
+rehabilitation therapy	2	3
+renal dialysis	2	2
+rhegmatogenous retinal detachment	2	2
+rheumatoid arthritis	2	1
+rhythm	2	1
+ritonavir	2	1
+seasonal affective disorder	2	4
+separation anxiety disorder	2	6
+sgot - glutamate oxaloacetate transaminase	2	2
+sitting position	2	3
+sleep deprivation	2	0
+sleep disturbances	2	1
+steroid therapy	2	2
+structure of carotid sinus	2	1
+surgical repair	2	2
+syncopal episode	2	2
+tachycardia ventricular	2	2
+therapeutic diet	2	0
+thyrotropin	2	2
+tic motor	2	2
+tomography optical coherence	2	2
+toxic effect	2	2
+toxin	2	2
+tranquilizing agents	2	0
+transplanted organ	2	0
+transverse cerebellar diameter	2	2
+trazodone	2	0
+treatment and maintenance	2	3
+tubal ligation	2	3
+ulcerative colitis	2	1
+upper arm	2	2
+urethra	2	1
+urinary bladder	2	2
+uveitis	2	0
+vascular diseases	2	1
+vasovagal syncope	2	2
+vegf protein human	2	2
+ventricular arrhythmia	2	2
+vitamin d-binding protein	2	0
+withdrawal convulsions	2	0
+x-ray computed tomography	2	2
+abnormal behavior	1	0
+abnormal finding	1	0
+absence of sensation	1	1
+accidents	1	1
+acetylcysteine	1	0
+acquired immunodeficiency syndrome	1	0
+actigraphy	1	1
+active method	1	0
+active peptic ulcer	1	0
+acute rejection	1	1
+adrenergic alpha-antagonists	1	0
+adrenoleukodystrophy	1	3
+aids dementia complex	1	1
+akathisia	1	1
+alagille syndrome	1	1
+alcohol detoxification	1	1
+amnesia	1	0
+amniocentesis	1	1
+amphetamine-dextroamphetamine	1	0
+amylases	1	0
+amyloid	1	1
+analgesia	1	1
+analgesics opioid	1	1
+androgen antagonists	1	1
+androgen suppression	1	1
+anemia sickle cell	1	0
+anesthetics	1	0
+angiogram	1	1
+angiotensin-converting enzyme inhibitors	1	1
+anterior chamber of eye structure	1	1
+anterior ischemic optic neuropathy	1	0
+anthracyclines	1	1
+anti-arrhythmia agents	1	1
+anti-inflammatory agents	1	1
+anti-obesity agents	1	0
+antiandrogen therapy	1	1
+anticoagulation therapy	1	1
+anticonvulsant therapy	1	0
+antifungal agents	1	0
+antimicrobial intermediate susceptibility result	1	1
+antineoplastic agents	1	1
+anus	1	1
+aorta	1	1
+aphasia	1	1
+armodafinil	1	1
+arterial stenosis	1	0
+astrocytic phosphoprotein pea-15	1	1
+atrial fibrillation-flutter	1	0
+autologous hematopoietic stem cell transplantation	1	1
+autonomic dysfunction	1	2
+autonomic function	1	1
+autonomic neuropathy	1	1
+avanafil	1	1
+avoidant personality disorder	1	0
+azole antifungals	1	0
+azoles	1	0
+balloon dilatation	1	0
+benign paroxysmal positional vertigo	1	1
+benign prostatic hyperplasia	1	1
+beta hcg positive	1	1
+blood loss	1	0
+blood specimen	1	4
+bone density	1	1
+bone marrow involvement	1	1
+bone metabolism	1	0
+brachydactyly type d	1	1
+brain concussion	1	1
+brain death	1	1
+breath tests	1	1
+budipine	1	0
+burkitt lymphoma	1	1
+butyrophenones	1	0
+bypass graft	1	0
+calcification	1	0
+calcium channel blockers	1	0
+cancer therapeutic procedure	1	1
+cannabis abuse	1	1
+cannabis dependence	1	2
+carbonate dehydratase	1	0
+carbonic anhydrase inhibitors	1	0
+cardiac arrest	1	1
+cardiac dysfunction	1	0
+cardiac symptom	1	0
+carmustine-cytarabine-etoposide-melphalan regimen	1	0
+carotid arteries	1	0
+carotid stenosis	1	0
+cataplexy	1	1
+catechol o-methyltransferase	1	0
+cd4 antigens	1	1
+central nervous system lymphoma	1	1
+central nervous system neoplasms	1	1
+cerebral trauma	1	0
+cerebrospinal fluid	1	1
+chantix	1	1
+chest	1	1
+chiari malformation type ii	1	0
+chocolate allergenic extract	1	1
+chop regimen	1	1
+chorionic villi sampling	1	1
+choroidal rupture	1	0
+chromium	1	1
+chronic active hepatitis	1	1
+chronic fatigue syndrome	1	1
+chronic insomnia	1	1
+chronic kidney diseases	1	1
+circadian rhythm disorders	1	1
+clinical depression	1	0
+coagulants	1	0
+cocaine abuse	1	2
+combined modality therapy	1	3
+complete atrioventricular block	1	0
+complex regional pain syndromes	1	1
+concomitant therapy	1	0
+congenital adrenal hyperplasia	1	1
+contact dermatitis	1	0
+cor pulmonale	1	0
+corneal opacity	1	0
+crisis	1	1
+cyclosporine	1	1
+cyclothymic disorder	1	1
+cysteine	1	0
+cysteinyl-trna synthetase cytoplasmic	1	1
+cystic fibrosis	1	0
+cytochrome p-450 cyp1a2	1	0
+cytochrome p450	1	0
+deca	1	1
+decongestants	1	0
+degenerative polyarthritis	1	1
+dementia progressive	1	0
+depo	1	1
+depo-provera	1	2
+depressive disorder treatment-resistant	1	0
+diabetes type	1	0
+diabetic neuropathies	1	0
+diabetic retinopathy	1	1
+diarrhea	1	0
+diethyl sulfate	1	1
+dihydroergotamine	1	0
+dilation procedure	1	1
+direct current cardioversion	1	1
+dislocations	1	0
+disorder of the optic nerve	1	0
+diuretics	1	0
+dnmt3b protein human	1	3
+domperidone	1	0
+dopa	1	1
+dopamine antagonists	1	0
+dopamine hydrochloride	1	1
+dopaminergic agents	1	0
+droxidopa	1	1
+drug screen positive	1	0
+duloxetine	1	1
+duration of sleep	1	1
+dyslipidemias	1	1
+dystonia	1	0
+ecstasy - drug	1	1
+edema	1	0
+ehlers-danlos syndrome	1	1
+electric countershock	1	1
+electrocardiographic finding	1	0
+encounter due to military service	1	1
+encounter due to puberty	1	1
+endocarditis	1	0
+endophthalmitis	1	0
+enlarged vestibular aqueduct syndrome	1	0
+ephedrine	1	0
+epilepsies myoclonic	1	0
+erectile dysfunction	1	1
+erotic interest	1	0
+esophageal diseases	1	1
+esthesia	1	3
+eszopiclone	1	0
+evaluable disease	1	1
+ewings sarcoma	1	1
+exercise stress test	1	1
+exposure therapy	1	1
+external beam radiation therapy	1	0
+eye infections	1	0
+eye movements	1	1
+face	1	0
+factitious disorders	1	0
+fasting blood sugar result	1	1
+fat protein human	1	0
+fear of heights	1	1
+ferritin level	1	1
+fetal growth retardation	1	0
+fibromatosis aggressive	1	1
+finding of creatinine level	1	0
+fish extract	1	1
+fludrocortisone	1	1
+fluorescein angiography	1	1
+folic acid	1	2
+foot	1	1
+fully recovered	1	0
+fundus	1	1
+gabapentin	1	1
+gastrointestinal surgical procedure	1	1
+gclc protein human	1	1
+general health	1	6
+gestational diabetes	1	0
+gigantism	1	1
+gonadal structure	1	1
+hallucinogen persisting perception disorder	1	1
+hearing impairment	1	0
+heart problem	1	0
+hemochromatosis	1	0
+hepatitis alcoholic	1	1
+hepatitis b virus	1	1
+hepato-renal	1	0
+herceptin	1	1
+high-dose chemotherapy	1	1
+hirsutism	1	1
+history of recreational running	1	1
+history of vitrectomy	1	0
+hiv protease inhibitors	1	0
+hoarding	1	0
+hormone deficiency	1	1
+hunger	1	2
+huntington disease	1	1
+hyperandrogenism	1	1
+hyperparathyroidism	1	0
+hypersensitivity desensitization	1	1
+hypersomnia	1	1
+hypersomnolence idiopathic	1	1
+hypertension untreated	1	1
+hypochondriasis	1	1
+hypogonadism	1	1
+hypokalemia	1	0
+idiopathic generalized epilepsy	1	1
+illicit substance	1	1
+immobile	1	1
+immune deficiency	1	0
+individual therapy	1	0
+indolent non-hodgkin lymphoma	1	1
+induced hyperthermia	1	0
+induction procedure	1	1
+infertility	1	1
+infiltration	1	1
+inflammatory bowel diseases	1	0
+inspired fraction of oxygen	1	1
+integrated neuromusculoskeletal release	1	0
+interstitial cystitis	1	1
+intracranial pressure	1	1
+iron deficiency anemia	1	1
+itraconazole	1	1
+joint subluxation	1	1
+karnofsky performance status	1	2
+karyotype result	1	2
+kava preparation	1	0
+ketamine	1	0
+kidney transplantation	1	1
+klinefelter syndrome	1	1
+knee pain	1	1
+knee surgery	1	0
+lactose intolerance	1	1
+lameness	1	0
+left ventricular hypertrophy	1	0
+leukemia	1	1
+level of consciousness	1	1
+life threatening	1	0
+ligamentous	1	0
+litigation affecting health status	1	0
+liver abnormal	1	0
+liver carcinoma	1	1
+lower extremity	1	1
+lupus vulgaris	1	0
+luteinizing hormone	1	1
+lymphoid leukemia	1	1
+lymphoma follicular	1	1
+lymphoma non-hodgkin	1	2
+macrolide antibiotics	1	0
+macrolides	1	0
+macular edema cystoid	1	1
+macular holes	1	1
+magnetic resonance spectroscopy	1	1
+major surgery	1	1
+marijuana abuse	1	1
+marriage life event	1	1
+marrow	1	2
+medical therapy	1	1
+medication.current	1	0
+meningitis	1	0
+mental health treatment	1	1
+metaplastic cell transformation	1	1
+methadone treatment	1	1
+methadyl acetate	1	0
+methamphetamine	1	1
+microcytic anemia	1	0
+midodrine	1	1
+migraine disorders	1	2
+milroy disease	1	1
+mineralocorticoid receptor	1	1
+mint snuff	1	1
+mitomycin	1	1
+mitral valve insufficiency	1	1
+mitral valve prolapse syndrome	1	0
+mitral valvuloplasty	1	1
+modafinil	1	1
+morphology within normal limits	1	0
+mucopolysaccharidosis ii	1	1
+multifocal choroiditis	1	0
+multiple allergies	1	0
+multiple myeloma	1	1
+muscle rigidity	1	1
+muscular dystrophy	1	1
+muscular fasciculation	1	0
+mycoses	1	1
+mydriasis	1	1
+myoclonus	1	0
+myofascial pain syndromes	1	1
+myopia	1	0
+myxedema	1	0
+nabilone	1	1
+narcolepsy-cataplexy syndrome	1	1
+narcotic analgesics	1	0
+narcotic antagonists	1	1
+neck pain	1	1
+neonatal abstinence syndrome	1	1
+neoplastic disease	1	0
+neurobehavioral manifestations	1	0
+neurofibromatoses	1	1
+neurologic deficits	1	1
+neuromuscular diseases	1	1
+neuropathy	1	1
+neurosurgical procedures	1	0
+night terrors	1	0
+nitrate	1	1
+nitric oxide donors	1	0
+nitroglycerin	1	1
+nitrosourea compounds	1	1
+nonverbal	1	1
+norepinephrine	1	1
+normal menstruation - observation	1	0
+observation - diagnostic procedure	1	5
+optic neuritis	1	0
+optic neuropathy ischemic	1	0
+overweight	1	2
+oxides	1	0
+pain disorder	1	1
+pain management	1	1
+pain score	1	1
+painful legs and moving toes	1	0
+pancreatitis	1	1
+panic attacks	1	1
+parasomnia	1	1
+paresis	1	0
+parkinsonian disorders	1	0
+patella	1	1
+patellar dislocation	1	0
+patellofemoral pain syndrome	1	1
+patient characteristics	1	2
+pelvic congestion syndrome	1	1
+pelvic pain	1	1
+pemoline	1	0
+penile erection	1	1
+penis	1	1
+peripheral t-cell lymphoma	1	1
+peyronie disease	1	1
+pharmaceutical adjuvants	1	2
+phencyclidine	1	1
+pheochromocytoma	1	1
+phosphatidylethanolamines	1	0
+phosphodiesterase 5 inhibitor	1	1
+phosphoric diester hydrolase	1	1
+physical findings	1	0
+physical therapy	1	1
+physical well-being	1	1
+pimozide	1	1
+placement of stent	1	0
+polycystic ovary syndrome	1	1
+polyneuropathy	1	0
+poor compliance	1	0
+postural orthostatic tachycardia syndrome	1	2
+prader-willi syndrome	1	1
+pramipexole	1	1
+prazosin	1	1
+precipitating factors	1	1
+prednimustine	1	1
+prednisone	1	1
+pregabalin	1	1
+premature ejaculation	1	1
+prescription drugs	1	1
+pressors	1	1
+priapism	1	0
+prior chemotherapy	1	2
+prohibit	1	0
+prolactin	1	1
+proliferative diabetic retinopathy	1	1
+proline	1	1
+prostate	1	1
+prostate-specific antigen	1	1
+protection	1	0
+proteins	1	1
+proteinuria	1	1
+protocol deviation	1	1
+provera	1	1
+psychiatric hospitalization	1	1
+psychotic episodes	1	0
+pulmonary emphysema	1	0
+pulmonary hypertension	1	1
+purge	1	1
+purging	1	1
+purine-nucleoside phosphorylase	1	0
+qt interval prolonged	1	0
+qtc interval	1	0
+race or ethnicity	1	1
+radical prostatectomy	1	1
+radiculopathy	1	0
+radioimmunotherapy	1	1
+radionuclide ventriculogram scan	1	2
+ramelteon	1	1
+ranibizumab	1	1
+recreational drugs	1	0
+recurrent disease	1	2
+recurrent malignant neoplasm	1	1
+reduction - action	1	2
+regional pain syndrome	1	1
+regurgitation	1	1
+respiratory insufficiency	1	0
+respiratory stimulants	1	0
+retinal perforations	1	1
+retinal pigments	1	0
+retinitis pigmentosa	1	0
+revision procedure	1	4
+riluzole	1	1
+rituximab	1	1
+ropinirole	1	1
+rotigotine	1	1
+salvage procedure	1	1
+saquinavir	1	0
+schizotypal personality disorder	1	1
+scleral buckling	1	1
+secondary insomnia	1	1
+self-injurious behavior	1	2
+serum potassium result	1	1
+sexual dysfunction	1	1
+shift-work sleep disorder	1	0
+sildenafil	1	1
+skin hypersensitivity	1	0
+sleep difficulties	1	1
+sleep disorders circadian rhythm	1	1
+smell of alcohol on breath	1	1
+soft tissue rheumatism	1	1
+somatoform disorder	1	1
+somatotropin deficiency	1	1
+somatropin	1	1
+somnambulism	1	0
+sore to touch	1	1
+special diet	1	0
+spinal cord diseases	1	0
+spinal cord injuries	1	2
+squamous cell carcinoma	1	1
+st13 protein human	1	1
+status epilepticus	1	0
+stenosis unspecified	1	0
+structure of retinal pigment epithelium	1	1
+structure of trapezius muscle	1	1
+substance withdrawal syndrome	1	1
+suicide	1	0
+surgical and medical procedures	1	0
+systemic infection	1	0
+tacrolimus	1	1
+tadalafil	1	1
+target lesion identification	1	2
+tattoo	1	0
+tendon structure	1	0
+testosterone	1	1
+testosterone level result	1	1
+theophylline	1	0
+therapies investigational	1	0
+thyroxine	1	0
+tobacco dependence	1	1
+topical anesthetic	1	0
+traction	1	1
+transplantation homologous	1	1
+transurethral resection of prostate	1	1
+trauma nervous system	1	0
+trichotillomania	1	1
+trigeminal neuralgia	1	1
+trigger point	1	1
+trisomy	1	1
+trunk structure	1	0
+tuberculosis	1	0
+tuberculosis active	1	0
+turner syndrome	1	1
+ultrasonography	1	1
+underweight	1	1
+unspecified deficiency anemia	1	1
+upper extremity	1	1
+uremia	1	0
+urinary tract infection	1	1
+urine sample	1	2
+uterus	1	1
+vagina	1	2
+van der woude syndrome	1	1
+vardenafil	1	1
+varicosity	1	0
+vegan diet	1	1
+vegetarian (finding	1	0
+ventricular fibrillation	1	0
+vertebral column	1	0
+verteporfin	1	1
+viagra	1	1
+vitamin deficiency	1	0
+vitrectomy	1	1
+vitreoretinopathy neovascular inflammatory	1	1
+vitreous hemorrhage	1	0
+voluntary	1	1
+vomiting self induced	1	1
+warfarin	1	0
+weeks pregnant	1	2
+wounds and injuries	1	0
+xanthine	1	1
+yoga	1	1
+zolpidem	1	1
+zopiclone	1	0
+deterioration of status	0	5
+normal intelligence	0	4
+obsessive compulsive behavior	0	4
+carbon monoxide diffusing capability test	0	3
+niemann-pick diseases	0	3
+primary amyloidosis	0	3
+semantic dementia	0	3
+severity of symptoms	0	3
+academic achievement	0	2
+amenorrhea	0	2
+biological response modifier therapy	0	2
+canadian	0	2
+disruptive behavior disorder	0	2
+educational status	0	2
+filipin	0	2
+fucosidase deficiency disease	0	2
+hiv negative finding	0	2
+poly(adp-ribose) polymerases	0	2
+presyncope	0	2
+reticulosarcoma	0	2
+sandhoff disease	0	2
+tay-sachs disease	0	2
+tic disorders vocal	0	2
+tic vocal	0	2
+transfer factor - respiratory measure	0	2
+abnormal result	0	1
+acute respiratory failure	0	1
+adjustment disorder with depressed mood	0	1
+adjustment disorders	0	1
+aromatase inhibitors	0	1
+bee pollen	0	1
+blurred vision	0	1
+body part	0	1
+carcinoma of lung	0	1
+cat eye syndrome	0	1
+cataract anterior polar	0	1
+chemotherapy adjuvant	0	1
+chorionic gonadotropin	0	1
+chronic depressive personality disorder	0	1
+combat exposure	0	1
+current every day smoker	0	1
+depression score	0	1
+diabetes insipidus	0	1
+diethylstilbestrol	0	1
+direct reacting bilirubin	0	1
+dizziness	0	1
+eating normal	0	1
+endometrial stromal sarcoma	0	1
+ethnic	0	1
+excision	0	1
+explosive personality disorder	0	1
+falls	0	1
+feeling faint	0	1
+green tea extract	0	1
+hair	0	1
+hiv-1	0	1
+hormone receptor	0	1
+hyperphagia	0	1
+hypothalamic structure	0	1
+inadequate sleep hygiene	0	1
+infusion of drug	0	1
+insidious onset of symptoms	0	1
+intermittent explosive disorder	0	1
+invasive breast carcinoma	0	1
+ki-1+ anaplastic large cell lymphoma	0	1
+lightheadedness	0	1
+marginal zone b-cell lymphoma	0	1
+medical care	0	1
+mental depression	0	1
+mixed function oxygenases	0	1
+moderate dementia	0	1
+multiple sleep latency test	0	1
+n-(4-aminophenethyl)spiroperidol	0	1
+nerve sparing	0	1
+ovarian carcinoma	0	1
+palpation	0	1
+palpitations	0	1
+panic disorder with agoraphobia	0	1
+prejudice	0	1
+pricking of skin	0	1
+progressive cognitive decline	0	1
+puncture wound	0	1
+pure autonomic failure	0	1
+recurrent episodes of binge eating	0	1
+refractory disease	0	1
+retinal pigment epithelial detachment	0	1
+rhinitis	0	1
+self-harm	0	1
+silicones	0	1
+skin prick test	0	1
+structure of fovea centralis	0	1
+structured diagnostic interview	0	1
+tamoxifen	0	1
+tilt-table test	0	1
+tobacco smoke	0	1
+track marks	0	1
+tractional retinal detachment	0	1
+vaginal spermicides	0	1
+visual analog pain scale	0	1

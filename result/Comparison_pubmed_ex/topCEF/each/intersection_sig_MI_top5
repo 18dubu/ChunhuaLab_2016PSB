@@ -1,0 +1,191 @@
+id	DiseaseName	CEF	Freq Ex	Semantic Type	Pubmed
+1	adjustment-disorders	allergy severity - severe	0.26971	finding	0
+1	adjustment-disorders	active brand of pseudoephedrine-triprolidine	0.24066	organic chemical - pharmacologic substance	0
+1	adjustment-disorders	gravidity	0.20747	finding	0
+1	adjustment-disorders	malignant neoplasms	0.18672	biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure	0
+1	adjustment-disorders	kidney	0.12448	body part, organ, or organ component	0
+6	alcohol-related-disorders	ethanol	0.42143	organic chemical - pharmacologic substance	17
+6	alcohol-related-disorders	gravidity	0.26429	finding	0
+6	alcohol-related-disorders	allergy severity - severe	0.23714	finding	0
+6	alcohol-related-disorders	mental disorders	0.23	mental or behavioral dysfunction	0
+6	alcohol-related-disorders	psychotic disorders	0.22714	mental or behavioral dysfunction	0
+7	alcoholism	ethanol	0.49716	organic chemical - pharmacologic substance	49
+7	alcoholism	gravidity	0.30813	finding	0
+7	alcoholism	allergy severity - severe	0.2741	finding	0
+7	alcoholism	psychotic disorders	0.26465	mental or behavioral dysfunction	0
+7	alcoholism	mental disorders	0.26465	mental or behavioral dysfunction	0
+8	alzheimer-disease	mental disorders	0.28973	mental or behavioral dysfunction	0
+8	alzheimer-disease	allergy severity - severe	0.25198	finding	0
+8	alzheimer-disease	ethanol	0.22915	organic chemical - pharmacologic substance	0
+8	alzheimer-disease	depressed mood	0.22739	finding - mental or behavioral dysfunction	0
+8	alzheimer-disease	unstable status	0.21159	finding	0
+11	anorexia-nervosa	substance abuse problem	0.2551	mental or behavioral dysfunction	0
+11	anorexia-nervosa	gravidity	0.23469	finding	0
+11	anorexia-nervosa	ethanol	0.21429	organic chemical - pharmacologic substance	0
+11	anorexia-nervosa	psychotic disorders	0.18367	mental or behavioral dysfunction	0
+11	anorexia-nervosa	schizophrenia	0.17347	mental or behavioral dysfunction	0
+13	asperger-syndrome	psychotic disorders	0.2931	mental or behavioral dysfunction	0
+13	asperger-syndrome	schizophrenia	0.25862	mental or behavioral dysfunction	0
+13	asperger-syndrome	epilepsy	0.24138	disease or syndrome	0
+13	asperger-syndrome	substance abuse problem	0.24138	mental or behavioral dysfunction	0
+13	asperger-syndrome	psychotropic drugs	0.22414	pharmacologic substance	0
+15	attention-deficit-disorder-with-hyperactivity	psychotic disorders	0.41627	mental or behavioral dysfunction	0
+15	attention-deficit-disorder-with-hyperactivity	attention deficit hyperactivity disorder	0.31579	disease or syndrome - mental or behavioral dysfunction	20
+15	attention-deficit-disorder-with-hyperactivity	bipolar disorder	0.30144	mental or behavioral dysfunction	0
+15	attention-deficit-disorder-with-hyperactivity	epilepsy	0.25678	disease or syndrome	0
+15	attention-deficit-disorder-with-hyperactivity	allergy severity - severe	0.25359	finding	0
+16	autistic-disorder	epilepsy	0.25926	disease or syndrome	0
+16	autistic-disorder	allergy severity - severe	0.17778	finding	0
+16	autistic-disorder	hypersensitivity	0.1679	clinical attribute - finding - pathologic function	0
+16	autistic-disorder	psychotic disorders	0.15309	mental or behavioral dysfunction	0
+16	autistic-disorder	active brand of pseudoephedrine-triprolidine	0.15309	organic chemical - pharmacologic substance	0
+18	binge-eating-disorder	gravidity	0.42623	finding	0
+18	binge-eating-disorder	psychotic disorders	0.39344	mental or behavioral dysfunction	0
+18	binge-eating-disorder	ethanol	0.35246	organic chemical - pharmacologic substance	0
+18	binge-eating-disorder	substance abuse problem	0.29508	mental or behavioral dysfunction	0
+18	binge-eating-disorder	psychotherapy	0.22951	therapeutic or preventive procedure	0
+19	bipolar-disorder	gravidity	0.29255	finding	0
+19	bipolar-disorder	ethanol	0.26383	organic chemical - pharmacologic substance	2
+19	bipolar-disorder	unstable status	0.2617	finding	0
+19	bipolar-disorder	suicidal	0.23298	finding	0
+19	bipolar-disorder	substance abuse problem	0.21489	mental or behavioral dysfunction	0
+20	borderline-personality-disorder	schizophrenia	0.37313	mental or behavioral dysfunction	0
+20	borderline-personality-disorder	bipolar disorder	0.37313	mental or behavioral dysfunction	0
+20	borderline-personality-disorder	psychotic disorders	0.34328	mental or behavioral dysfunction	0
+20	borderline-personality-disorder	gravidity	0.22388	finding	0
+20	borderline-personality-disorder	substance dependence	0.20896	mental or behavioral dysfunction	0
+21	child-behavior-disorders	psychotic disorders	0.30093	mental or behavioral dysfunction	0
+21	child-behavior-disorders	pervasive development disorder	0.20679	congenital abnormality - inorganic chemical - mental or behavioral dysfunction - pharmacologic substance	0
+21	child-behavior-disorders	allergy severity - severe	0.1929	finding	0
+21	child-behavior-disorders	developmental disabilities	0.18827	mental or behavioral dysfunction	0
+21	child-behavior-disorders	bipolar disorder	0.18673	mental or behavioral dysfunction	0
+22	cocaine-related-disorders	ethanol	0.36538	organic chemical - pharmacologic substance	4
+22	cocaine-related-disorders	mental disorders	0.36538	mental or behavioral dysfunction	0
+22	cocaine-related-disorders	gravidity	0.34341	finding	0
+22	cocaine-related-disorders	psychotic disorders	0.32143	mental or behavioral dysfunction	0
+22	cocaine-related-disorders	schizophrenia	0.23077	mental or behavioral dysfunction	0
+27	conduct-disorder	psychotic disorders	0.26976	mental or behavioral dysfunction	0
+27	conduct-disorder	ethanol	0.22647	organic chemical - pharmacologic substance	1
+27	conduct-disorder	bipolar disorder	0.20367	mental or behavioral dysfunction	0
+27	conduct-disorder	allergy severity - severe	0.18629	finding	0
+27	conduct-disorder	gravidity	0.18613	finding	0
+29	conversion-disorder	active brand of pseudoephedrine-triprolidine	0.19337	organic chemical - pharmacologic substance	0
+29	conversion-disorder	allergy severity - severe	0.19337	finding	0
+29	conversion-disorder	hypersensitivity	0.19337	clinical attribute - finding - pathologic function	0
+29	conversion-disorder	malignant neoplasms	0.1768	biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure	0
+29	conversion-disorder	gravidity	0.14917	finding	0
+30	delirium	allergy severity - severe	0.26081	finding	0
+30	delirium	mental disorders	0.24295	mental or behavioral dysfunction	1
+30	delirium	ethanol	0.22133	organic chemical - pharmacologic substance	4
+30	delirium	depressed mood	0.18797	finding - mental or behavioral dysfunction	0
+30	delirium	cerebrovascular accident	0.17293	disease or syndrome - therapeutic or preventive procedure	1
+31	dementia	allergy severity - severe	0.26055	finding	0
+31	dementia	mental disorders	0.24339	mental or behavioral dysfunction	0
+31	dementia	ethanol	0.22207	organic chemical - pharmacologic substance	2
+31	dementia	depressed mood	0.18869	finding - mental or behavioral dysfunction	0
+31	dementia	cerebrovascular accident	0.17524	disease or syndrome - therapeutic or preventive procedure	20
+32	depression	psychotic disorders	0.29685	mental or behavioral dysfunction	0
+32	depression	ethanol	0.26807	organic chemical - pharmacologic substance	10
+32	depression	bipolar disorder	0.25517	mental or behavioral dysfunction	1
+32	depression	depressed mood	0.22849	finding - mental or behavioral dysfunction	6
+32	depression	suicidal	0.21829	finding	0
+34	developmental-disabilities	epilepsy	0.24719	disease or syndrome	0
+34	developmental-disabilities	allergy severity - severe	0.17753	finding	0
+34	developmental-disabilities	psychotic disorders	0.14831	mental or behavioral dysfunction	0
+34	developmental-disabilities	hypersensitivity	0.14831	clinical attribute - finding - pathologic function	0
+34	developmental-disabilities	schizophrenia	0.14607	mental or behavioral dysfunction	0
+44	frontotemporal-dementia	allergy severity - severe	0.28986	finding	0
+44	frontotemporal-dementia	gravidity	0.23188	finding	0
+44	frontotemporal-dementia	ethanol	0.21739	organic chemical - pharmacologic substance	2
+44	frontotemporal-dementia	magnetic resonance imaging	0.2029	diagnostic procedure	1
+44	frontotemporal-dementia	substance abuse problem	0.18841	mental or behavioral dysfunction	0
+46	gambling	psychotic disorders	0.22222	mental or behavioral dysfunction	0
+46	gambling	allergy severity - severe	0.19444	finding	0
+46	gambling	ethanol	0.18056	organic chemical - pharmacologic substance	3
+46	gambling	bipolar disorder	0.18056	mental or behavioral dysfunction	0
+46	gambling	positive finding	0.15278	finding	0
+52	marijuana-abuse	marihuana	0.43913	mental or behavioral dysfunction - organic chemical - pharmacologic substance	13
+52	marijuana-abuse	gravidity	0.36522	finding	0
+52	marijuana-abuse	ethanol	0.3087	organic chemical - pharmacologic substance	0
+52	marijuana-abuse	mental disorders	0.26087	mental or behavioral dysfunction	0
+52	marijuana-abuse	schizophrenia	0.22174	mental or behavioral dysfunction	0
+55	mental-fatigue	gravidity	0.2459	finding	0
+55	mental-fatigue	ethanol	0.15574	organic chemical - pharmacologic substance	2
+55	mental-fatigue	malignant neoplasms	0.14754	biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure	1
+55	mental-fatigue	substance abuse problem	0.14754	mental or behavioral dysfunction	0
+55	mental-fatigue	allergy severity - severe	0.13115	finding	0
+60	obsessive-compulsive-disorder	psychotic disorders	0.36082	mental or behavioral dysfunction	0
+60	obsessive-compulsive-disorder	bipolar disorder	0.34021	mental or behavioral dysfunction	0
+60	obsessive-compulsive-disorder	substance abuse problem	0.29381	mental or behavioral dysfunction	0
+60	obsessive-compulsive-disorder	schizophrenia	0.2732	mental or behavioral dysfunction	0
+60	obsessive-compulsive-disorder	suicidal	0.26804	finding	0
+61	opioid-related-disorders	ethanol	0.31529	organic chemical - pharmacologic substance	0
+61	opioid-related-disorders	gravidity	0.30588	finding	0
+61	opioid-related-disorders	mental disorders	0.25882	mental or behavioral dysfunction	0
+61	opioid-related-disorders	psychotic disorders	0.2	mental or behavioral dysfunction	0
+61	opioid-related-disorders	opioids	0.19294	hazardous or poisonous substance - organic chemical - pharmacologic substance	0
+62	panic-disorder	psychotic disorders	0.41353	mental or behavioral dysfunction	0
+62	panic-disorder	bipolar disorder	0.39098	mental or behavioral dysfunction	0
+62	panic-disorder	ethanol	0.35338	organic chemical - pharmacologic substance	5
+62	panic-disorder	suicidal	0.24812	finding	0
+62	panic-disorder	schizophrenia	0.21805	mental or behavioral dysfunction	0
+64	personality-disorders	psychotic disorders	0.30117	mental or behavioral dysfunction	0
+64	personality-disorders	bipolar disorder	0.2807	mental or behavioral dysfunction	0
+64	personality-disorders	schizophrenia	0.23977	mental or behavioral dysfunction	0
+64	personality-disorders	substance abuse problem	0.2076	mental or behavioral dysfunction	0
+64	personality-disorders	gravidity	0.19591	finding	0
+66	pick-disease-of-the-brain	allergy severity - severe	0.3	finding	0
+66	pick-disease-of-the-brain	gravidity	0.2125	finding	0
+66	pick-disease-of-the-brain	ethanol	0.2	organic chemical - pharmacologic substance	0
+66	pick-disease-of-the-brain	mental disorders	0.2	mental or behavioral dysfunction	0
+66	pick-disease-of-the-brain	magnetic resonance imaging	0.175	diagnostic procedure	1
+69	restless-legs-syndrome	gravidity	0.31008	finding	0
+69	restless-legs-syndrome	neoplasm metastasis	0.27132	neoplastic process	0
+69	restless-legs-syndrome	sleep apnea syndromes	0.25581	disease or syndrome	0
+69	restless-legs-syndrome	pharmaceutical preparations	0.24031	pharmacologic substance	3
+69	restless-legs-syndrome	ethanol	0.23256	organic chemical - pharmacologic substance	0
+70	schizophrenia	gravidity	0.24382	finding	0
+70	schizophrenia	antipsychotic agents	0.23689	pharmacologic substance	2
+70	schizophrenia	ethanol	0.23046	organic chemical - pharmacologic substance	2
+70	schizophrenia	substance abuse problem	0.22997	mental or behavioral dysfunction	0
+70	schizophrenia	unstable status	0.2003	finding	0
+71	schizophrenia-and-disorders-with-psychotic-features	gravidity	0.24609	finding	0
+71	schizophrenia-and-disorders-with-psychotic-features	antipsychotic agents	0.24054	pharmacologic substance	2
+71	schizophrenia-and-disorders-with-psychotic-features	substance abuse problem	0.23248	mental or behavioral dysfunction	0
+71	schizophrenia-and-disorders-with-psychotic-features	ethanol	0.23147	organic chemical - pharmacologic substance	2
+71	schizophrenia-and-disorders-with-psychotic-features	unstable status	0.20121	finding	0
+73	sleep-deprivation	ethanol	0.24	organic chemical - pharmacologic substance	0
+73	sleep-deprivation	mental disorders	0.18667	mental or behavioral dysfunction	0
+73	sleep-deprivation	sleep apnea syndromes	0.16	disease or syndrome	3
+73	sleep-deprivation	depressed mood	0.14667	finding - mental or behavioral dysfunction	0
+73	sleep-deprivation	pharmaceutical preparations	0.13333	pharmacologic substance	2
+74	sleep-disorders	sleep apnea syndromes	0.24632	disease or syndrome	3
+74	sleep-disorders	allergy severity - severe	0.21982	finding	0
+74	sleep-disorders	ethanol	0.19725	organic chemical - pharmacologic substance	0
+74	sleep-disorders	gravidity	0.17959	finding	0
+74	sleep-disorders	mental disorders	0.16781	mental or behavioral dysfunction	0
+77	somatoform-disorders	mental disorders	0.19277	mental or behavioral dysfunction	0
+77	somatoform-disorders	psychotic disorders	0.1747	mental or behavioral dysfunction	0
+77	somatoform-disorders	allergy severity - severe	0.16867	finding	0
+77	somatoform-disorders	gravidity	0.16265	finding	0
+77	somatoform-disorders	ethanol	0.1506	organic chemical - pharmacologic substance	0
+81	suicide	psychotic disorders	0.25989	mental or behavioral dysfunction	0
+81	suicide	allergy severity - severe	0.19774	finding	0
+81	suicide	ethanol	0.15254	organic chemical - pharmacologic substance	0
+81	suicide	active brand of pseudoephedrine-triprolidine	0.14689	organic chemical - pharmacologic substance	0
+81	suicide	bipolar disorder	0.14124	mental or behavioral dysfunction	0
+82	tic-disorders	psychotic disorders	0.3913	mental or behavioral dysfunction	0
+82	tic-disorders	gravidity	0.31522	finding	0
+82	tic-disorders	bipolar disorder	0.23913	mental or behavioral dysfunction	0
+82	tic-disorders	nervous system disorder	0.22826	disease or syndrome	0
+82	tic-disorders	epilepsy	0.21739	disease or syndrome	2
+83	tobacco-use-disorder	gravidity	0.33839	finding	0
+83	tobacco-use-disorder	ethanol	0.28983	organic chemical - pharmacologic substance	1
+83	tobacco-use-disorder	unstable status	0.20334	finding	0
+83	tobacco-use-disorder	mental disorders	0.18665	mental or behavioral dysfunction	0
+83	tobacco-use-disorder	psychotic disorders	0.17906	mental or behavioral dysfunction	0
+84	tourette-syndrome	psychotic disorders	0.4375	mental or behavioral dysfunction	0
+84	tourette-syndrome	bipolar disorder	0.2875	mental or behavioral dysfunction	0
+84	tourette-syndrome	gravidity	0.275	finding	0
+84	tourette-syndrome	epilepsy	0.2375	disease or syndrome	0
+84	tourette-syndrome	depressed mood	0.2375	finding - mental or behavioral dysfunction	0

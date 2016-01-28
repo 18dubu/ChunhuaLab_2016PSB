@@ -1,0 +1,70 @@
+15	attention-deficit-disorder-with-hyperactivity	psychotic disorders	0.41627	mental or behavioral dysfunction	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	attention deficit hyperactivity disorder	0.31579	mental or behavioral dysfunction	EXUNIQUE	
+13	asperger-syndrome	psychotic disorders	0.2931	mental or behavioral dysfunction	EXUNIQUE	
+13	asperger-syndrome	schizophrenia	0.25862	mental or behavioral dysfunction	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	bipolar disorder	0.30144	mental or behavioral dysfunction	EXUNIQUE	
+16	autistic-disorder	autistic disorder	0.25432	mental or behavioral dysfunction	EXUNIQUE	
+18	binge-eating-disorder	psychotic disorders	0.39344	mental or behavioral dysfunction	EXUNIQUE	
+18	binge-eating-disorder	substance abuse problem	0.29508	mental or behavioral dysfunction	EXUNIQUE	
+21	child-behavior-disorders	psychotic disorders	0.30093	mental or behavioral dysfunction	EXUNIQUE	
+21	child-behavior-disorders	pervasive development disorder	0.20679	mental or behavioral dysfunction	EXUNIQUE	
+21	child-behavior-disorders	developmental disabilities	0.18827	mental or behavioral dysfunction	EXUNIQUE	
+21	child-behavior-disorders	bipolar disorder	0.18673	mental or behavioral dysfunction	EXUNIQUE	
+27	conduct-disorder	psychotic disorders	0.26976	mental or behavioral dysfunction	EXUNIQUE	
+30	delirium	mental disorders	0.24295	mental or behavioral dysfunction	EXUNIQUE	
+30	delirium	depressed mood	0.18797	mental or behavioral dysfunction	EXUNIQUE	
+30	delirium	schizophrenia	0.1156	mental or behavioral dysfunction	EXUNIQUE	
+32	depression	psychotic disorders	0.29685	mental or behavioral dysfunction	EXUNIQUE	
+34	developmental-disabilities	autistic disorder	0.2382	mental or behavioral dysfunction	EXUNIQUE	
+46	gambling	psychotic disorders	0.22222	mental or behavioral dysfunction	EXUNIQUE	
+52	marijuana-abuse	marihuana	0.43913	mental or behavioral dysfunction	EXUNIQUE	
+52	marijuana-abuse	mental disorders	0.26087	mental or behavioral dysfunction	EXUNIQUE	
+52	marijuana-abuse	schizophrenia	0.22174	mental or behavioral dysfunction	EXUNIQUE	
+69	restless-legs-syndrome	psychotic disorders	0.06202	mental or behavioral dysfunction	EXUNIQUE	
+70	schizophrenia	substance abuse problem	0.22997	mental or behavioral dysfunction	EXUNIQUE	
+73	sleep-deprivation	mental disorders	0.18667	mental or behavioral dysfunction	EXUNIQUE	
+73	sleep-deprivation	depressed mood	0.14667	mental or behavioral dysfunction	EXUNIQUE	
+1	adjustment-disorders	suicide attempt	1.0	mental or behavioral dysfunction	INUNIQUE	
+3	alcoholism	alcoholic intoxication chronic	19.0	mental or behavioral dysfunction	INUNIQUE	
+3	alcoholism	alcohol abuse	5.0	mental or behavioral dysfunction	INUNIQUE	
+4	alzheimer-disease	dementia	10.0	mental or behavioral dysfunction	INUNIQUE	
+6	asperger-syndrome	obsessions	2.0	mental or behavioral dysfunction	INUNIQUE	
+9	binge-eating-disorder	bulimia	10.0	mental or behavioral dysfunction	INUNIQUE	
+10	bipolar-disorder	depressive episode unspecified	2.0	mental or behavioral dysfunction	INUNIQUE	
+12	child-behavior-disorders	autistic disorder	4.0	mental or behavioral dysfunction	INUNIQUE	
+12	child-behavior-disorders	child neglect behavior	2.0	mental or behavioral dysfunction	INUNIQUE	
+13	cocaine-related-disorders	addicted to cocaine	3.0	mental or behavioral dysfunction	INUNIQUE	
+13	cocaine-related-disorders	cocaine intoxication	2.0	mental or behavioral dysfunction	INUNIQUE	
+16	delirium	confusion	6.0	mental or behavioral dysfunction	INUNIQUE	
+16	delirium	alcoholic intoxication chronic	4.0	mental or behavioral dysfunction	INUNIQUE	
+17	dementia	dementia	30.0	mental or behavioral dysfunction	INUNIQUE	
+17	dementia	dementia	11.0	mental or behavioral dysfunction	INUNIQUE	
+1	adjustment-disorders	depressed mood	1.95021	mental or behavioral dysfunction	EXCOMMON	
+13	asperger-syndrome	anxiety disorders	0.94828	mental or behavioral dysfunction	EXCOMMON	
+16	autistic-disorder	schizophrenia	0.84938	mental or behavioral dysfunction	EXCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	schizophrenia	0.86603	mental or behavioral dysfunction	EXCOMMON	
+18	binge-eating-disorder	severe depression	0.93443	mental or behavioral dysfunction	EXCOMMON	
+22	cocaine-related-disorders	attention deficit hyperactivity disorder	0.96703	mental or behavioral dysfunction	EXCOMMON	
+30	delirium	mental retardation	0.96006	mental or behavioral dysfunction	EXCOMMON	
+44	frontotemporal-dementia	depressed mood	0.86957	mental or behavioral dysfunction	EXCOMMON	
+34	developmental-disabilities	depressed mood	0.93258	mental or behavioral dysfunction	EXCOMMON	
+52	marijuana-abuse	depressed mood	0.85652	mental or behavioral dysfunction	EXCOMMON	
+46	gambling	depressed mood	0.875	mental or behavioral dysfunction	EXCOMMON	
+52	marijuana-abuse	drug abuse	0.92174	mental or behavioral dysfunction	EXCOMMON	
+62	panic-disorder	personality disorders	0.88722	mental or behavioral dysfunction	EXCOMMON	
+69	restless-legs-syndrome	mental disorders	0.85271	mental or behavioral dysfunction	EXCOMMON	
+70	schizophrenia	dementia	0.92186	mental or behavioral dysfunction	EXCOMMON	
+70	schizophrenia	bipolar disorder	0.93472	mental or behavioral dysfunction	EXCOMMON	
+70	schizophrenia	depressed mood	0.94659	mental or behavioral dysfunction	EXCOMMON	
+1	adjustment-disorders	depressed mood	1.95021	mental or behavioral dysfunction	INCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	anxiety disorders	4.80383	mental or behavioral dysfunction	INCOMMON	
+16	autistic-disorder	anxiety disorders	0.97778	mental or behavioral dysfunction	INCOMMON	
+20	borderline-personality-disorder	anorexia nervosa	3.9403	mental or behavioral dysfunction	INCOMMON	
+21	child-behavior-disorders	anxiety disorders	1.89352	mental or behavioral dysfunction	INCOMMON	
+22	cocaine-related-disorders	attention deficit hyperactivity disorder	0.96703	mental or behavioral dysfunction	INCOMMON	
+30	delirium	anxiety disorders	0.97227	mental or behavioral dysfunction	INCOMMON	
+52	marijuana-abuse	drug dependence	0.95652	mental or behavioral dysfunction	INCOMMON	
+62	panic-disorder	personality disorders	0.88722	mental or behavioral dysfunction	INCOMMON	
+69	restless-legs-syndrome	hallucinations	0.96899	mental or behavioral dysfunction	INCOMMON	
+70	schizophrenia	unipolar depression	6.98121	mental or behavioral dysfunction	INCOMMON	
+70	schizophrenia	anxiety disorders	3.98121	mental or behavioral dysfunction	INCOMMON	

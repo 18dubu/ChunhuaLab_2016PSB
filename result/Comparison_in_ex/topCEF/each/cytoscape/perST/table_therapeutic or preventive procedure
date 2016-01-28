@@ -1,0 +1,173 @@
+3	affective-symptoms	electroconvulsive therapy	0.07	therapeutic or preventive procedure	EXUNIQUE	
+9	amnesia	cerebrovascular accident	0.20588	therapeutic or preventive procedure	EXUNIQUE	
+11	anorexia-nervosa	malignant neoplasms	0.09184	therapeutic or preventive procedure	EXUNIQUE	
+14	attention-deficit-and-disruptive-behavior-disorders	investigational new drugs	0.04462	therapeutic or preventive procedure	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	investigational new drugs	0.04625	therapeutic or preventive procedure	EXUNIQUE	
+24	combat-disorders	psychotherapy	0.12766	therapeutic or preventive procedure	EXUNIQUE	
+24	combat-disorders	cerebrovascular accident	0.09574	therapeutic or preventive procedure	EXUNIQUE	
+29	conversion-disorder	investigational new drugs	0.09392	therapeutic or preventive procedure	EXUNIQUE	
+43	food-habits	fat protein human	0.10714	therapeutic or preventive procedure	EXUNIQUE	
+59	obsessive-behavior	behavior therapy	0.15	therapeutic or preventive procedure	EXUNIQUE	
+66	pick-disease-of-the-brain	investigational new drugs	0.0875	therapeutic or preventive procedure	EXUNIQUE	
+70	schizophrenia	electroconvulsive therapy	0.04451	therapeutic or preventive procedure	EXUNIQUE	
+71	schizophrenia-and-disorders-with-psychotic-features	electroconvulsive therapy	0.04539	therapeutic or preventive procedure	EXUNIQUE	
+75	sleep-initiation-and-maintenance-disorders	drugs non-prescription	0.11781	therapeutic or preventive procedure	EXUNIQUE	
+79	substance-withdrawal-syndrome	investigational new drugs	0.12658	therapeutic or preventive procedure	EXUNIQUE	
+82	tic-disorders	behavior therapy	0.09783	therapeutic or preventive procedure	EXUNIQUE	
+82	tic-disorders	investigational new drugs	0.08696	therapeutic or preventive procedure	EXUNIQUE	
+84	tourette-syndrome	behavior therapy	0.1	therapeutic or preventive procedure	EXUNIQUE	
+4	aggression	biological response modifier therapy	0.09043	therapeutic or preventive procedure	INUNIQUE	
+4	aggression	combined modality therapy	0.08777	therapeutic or preventive procedure	INUNIQUE	
+16	autistic-disorder	revision procedure	0.09877	therapeutic or preventive procedure	INUNIQUE	
+18	binge-eating-disorder	hyperphagia	0.06557	therapeutic or preventive procedure	INUNIQUE	
+24	combat-disorders	rehabilitation therapy	0.04255	therapeutic or preventive procedure	INUNIQUE	
+24	combat-disorders	body fluid discharge	0.03191	therapeutic or preventive procedure	INUNIQUE	
+34	developmental-disabilities	revision procedure	0.09213	therapeutic or preventive procedure	INUNIQUE	
+37	dissociative-disorders	folic acid	0.07812	therapeutic or preventive procedure	INUNIQUE	
+40	dysthymic-disorder	tropical spastic paraparesis	0.07576	therapeutic or preventive procedure	INUNIQUE	
+42	erectile-dysfunction	nerve sparing	0.03114	therapeutic or preventive procedure	INUNIQUE	
+46	gambling	puncture wound	0.06944	therapeutic or preventive procedure	INUNIQUE	
+48	heroin-dependence	cataract anterior polar	0.04494	therapeutic or preventive procedure	INUNIQUE	
+48	heroin-dependence	infusion of drug	0.04494	therapeutic or preventive procedure	INUNIQUE	
+55	mental-fatigue	hormone therapy	0.08197	therapeutic or preventive procedure	INUNIQUE	
+62	panic-disorder	contraception barrier	0.04511	therapeutic or preventive procedure	INUNIQUE	
+69	restless-legs-syndrome	treatment protocols	0.07752	therapeutic or preventive procedure	INUNIQUE	
+84	tourette-syndrome	treatment protocols	0.0625	therapeutic or preventive procedure	INUNIQUE	
+1	adjustment-disorders	pharmacologic substance	0.12034	therapeutic or preventive procedure	EXCOMMON	
+2	affective-disorders-psychotic	pharmacologic substance	0.20906	therapeutic or preventive procedure	EXCOMMON	
+4	aggression	pharmacologic substance	0.08777	therapeutic or preventive procedure	EXCOMMON	
+5	alcohol-drinking	pharmacologic substance	0.1612	therapeutic or preventive procedure	EXCOMMON	
+6	alcohol-related-disorders	pharmacologic substance	0.16571	therapeutic or preventive procedure	EXCOMMON	
+7	alcoholism	pharmacologic substance	0.22117	therapeutic or preventive procedure	EXCOMMON	
+8	alzheimer-disease	pharmacologic substance	0.23266	therapeutic or preventive procedure	EXCOMMON	
+9	amnesia	pharmacologic substance	0.14705	therapeutic or preventive procedure	EXCOMMON	
+10	amphetamine-related-disorders	pharmacologic substance	0.18	therapeutic or preventive procedure	EXCOMMON	
+17	behavioral-symptoms	pharmacologic substance	0.18108	therapeutic or preventive procedure	EXCOMMON	
+18	binge-eating-disorder	pharmacologic substance	0.28688	therapeutic or preventive procedure	EXCOMMON	
+18	binge-eating-disorder	psychotherapy	0.21312	therapeutic or preventive procedure	EXCOMMON	
+19	bipolar-disorder	pharmacologic substance	0.21915	therapeutic or preventive procedure	EXCOMMON	
+20	borderline-personality-disorder	pharmacologic substance	0.16417	therapeutic or preventive procedure	EXCOMMON	
+23	cognition-disorders	pharmacologic substance	0.19992	therapeutic or preventive procedure	EXCOMMON	
+25	communication-disorders	pharmacologic substance	0.09845	therapeutic or preventive procedure	EXCOMMON	
+27	conduct-disorder	pharmacologic substance	0.15595	therapeutic or preventive procedure	EXCOMMON	
+28	consciousness-disorders	pharmacologic substance	0.12429	therapeutic or preventive procedure	EXCOMMON	
+29	conversion-disorder	pharmacologic substance	0.1547	therapeutic or preventive procedure	EXCOMMON	
+29	conversion-disorder	malignant neoplasms	0.12708	therapeutic or preventive procedure	EXCOMMON	
+30	delirium	pharmacologic substance	0.20442	therapeutic or preventive procedure	EXCOMMON	
+31	dementia	pharmacologic substance	0.2012	therapeutic or preventive procedure	EXCOMMON	
+33	depressive-disorder	pharmacologic substance	0.1943	therapeutic or preventive procedure	EXCOMMON	
+36	disorders-of-sex-development	malignant neoplasms	0.11484	therapeutic or preventive procedure	EXCOMMON	
+36	disorders-of-sex-development	pharmacologic substance	0.0957	therapeutic or preventive procedure	EXCOMMON	
+37	dissociative-disorders	pharmacologic substance	0.15626	therapeutic or preventive procedure	EXCOMMON	
+38	drinking-behavior	pharmacologic substance	0.16129	therapeutic or preventive procedure	EXCOMMON	
+40	dysthymic-disorder	pharmacologic substance	0.22728	therapeutic or preventive procedure	EXCOMMON	
+41	eating-disorders	pharmacologic substance	0.1587	therapeutic or preventive procedure	EXCOMMON	
+42	erectile-dysfunction	cerebrovascular accident	0.2526	therapeutic or preventive procedure	EXCOMMON	
+43	food-habits	pharmacologic substance	0.11905	therapeutic or preventive procedure	EXCOMMON	
+44	frontotemporal-dementia	pharmacologic substance	0.17391	therapeutic or preventive procedure	EXCOMMON	
+44	frontotemporal-dementia	cerebrovascular accident	0.14493	therapeutic or preventive procedure	EXCOMMON	
+45	frontotemporal-lobar-degeneration	pharmacologic substance	0.18181	therapeutic or preventive procedure	EXCOMMON	
+45	frontotemporal-lobar-degeneration	cerebrovascular accident	0.14546	therapeutic or preventive procedure	EXCOMMON	
+46	gambling	pharmacologic substance	0.15278	therapeutic or preventive procedure	EXCOMMON	
+47	habits	pharmacologic substance	0.1607	therapeutic or preventive procedure	EXCOMMON	
+49	impulse-control-disorders	pharmacologic substance	0.21505	therapeutic or preventive procedure	EXCOMMON	
+51	learning-disorders	pharmacologic substance	0.07329	therapeutic or preventive procedure	EXCOMMON	
+52	marijuana-abuse	pharmacologic substance	0.2	therapeutic or preventive procedure	EXCOMMON	
+53	mental-disorders	pharmacologic substance	0.17637	therapeutic or preventive procedure	EXCOMMON	
+55	mental-fatigue	pharmacologic substance	0.12295	therapeutic or preventive procedure	EXCOMMON	
+56	mental-retardation	pharmacologic substance	0.13707	therapeutic or preventive procedure	EXCOMMON	
+56	mental-retardation	malignant neoplasms	0.09034	therapeutic or preventive procedure	EXCOMMON	
+57	mood-disorders	pharmacologic substance	0.20685	therapeutic or preventive procedure	EXCOMMON	
+58	neurocirculatory-asthenia	pharmacologic substance	0.18644	therapeutic or preventive procedure	EXCOMMON	
+59	obsessive-behavior	cognitive therapy	0.3	therapeutic or preventive procedure	EXCOMMON	
+59	obsessive-behavior	psychotherapy	0.2	therapeutic or preventive procedure	EXCOMMON	
+63	parasomnias	pharmacologic substance	0.14795	therapeutic or preventive procedure	EXCOMMON	
+65	phobic-disorders	psychotherapy	0.22222	therapeutic or preventive procedure	EXCOMMON	
+67	psychotic-disorders	pharmacologic substance	0.17932	therapeutic or preventive procedure	EXCOMMON	
+68	quality-of-life	pharmacologic substance	0.0753	therapeutic or preventive procedure	EXCOMMON	
+70	schizophrenia	pharmacologic substance	0.19733	therapeutic or preventive procedure	EXCOMMON	
+71	schizophrenia-and-disorders-with-psychotic-features	pharmacologic substance	0.19566	therapeutic or preventive procedure	EXCOMMON	
+73	sleep-deprivation	pharmacologic substance	0.13333	therapeutic or preventive procedure	EXCOMMON	
+74	sleep-disorders	pharmacologic substance	0.1472	therapeutic or preventive procedure	EXCOMMON	
+75	sleep-initiation-and-maintenance-disorders	pharmacologic substance	0.24658	therapeutic or preventive procedure	EXCOMMON	
+76	smoking	pharmacologic substance	0.16409	therapeutic or preventive procedure	EXCOMMON	
+77	somatoform-disorders	malignant neoplasms	0.14458	therapeutic or preventive procedure	EXCOMMON	
+79	substance-withdrawal-syndrome	pharmacologic substance	0.21519	therapeutic or preventive procedure	EXCOMMON	
+83	tobacco-use-disorder	pharmacologic substance	0.17906	therapeutic or preventive procedure	EXCOMMON	
+2	affective-disorders-psychotic	intravenous infusion procedures	0.15363	therapeutic or preventive procedure	INCOMMON	
+3	affective-symptoms	intravenous infusion procedures	0.195	therapeutic or preventive procedure	INCOMMON	
+4	aggression	contraceptive methods	0.18883	therapeutic or preventive procedure	INCOMMON	
+6	alcohol-related-disorders	intravenous infusion procedures	0.10857	therapeutic or preventive procedure	INCOMMON	
+7	alcoholism	intravenous infusion procedures	0.12098	therapeutic or preventive procedure	INCOMMON	
+8	alzheimer-disease	dactinomycin	0.13345	therapeutic or preventive procedure	INCOMMON	
+9	amnesia	cognitive therapy	0.07353	therapeutic or preventive procedure	INCOMMON	
+10	amphetamine-related-disorders	intravenous infusion procedures	0.26	therapeutic or preventive procedure	INCOMMON	
+10	amphetamine-related-disorders	contraceptive methods	0.14	therapeutic or preventive procedure	INCOMMON	
+11	anorexia-nervosa	intravenous infusion procedures	0.35715	therapeutic or preventive procedure	INCOMMON	
+12	anxiety-disorders	intravenous infusion procedures	0.11862	therapeutic or preventive procedure	INCOMMON	
+14	attention-deficit-and-disruptive-behavior-disorders	intravenous infusion procedures	0.31846	therapeutic or preventive procedure	INCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	intravenous infusion procedures	0.32377	therapeutic or preventive procedure	INCOMMON	
+16	autistic-disorder	intravenous infusion procedures	0.23457	therapeutic or preventive procedure	INCOMMON	
+17	behavioral-symptoms	intravenous infusion procedures	0.13641	therapeutic or preventive procedure	INCOMMON	
+18	binge-eating-disorder	intravenous infusion procedures	0.18033	therapeutic or preventive procedure	INCOMMON	
+19	bipolar-disorder	intravenous infusion procedures	0.20106	therapeutic or preventive procedure	INCOMMON	
+20	borderline-personality-disorder	intravenous infusion procedures	0.28358	therapeutic or preventive procedure	INCOMMON	
+20	borderline-personality-disorder	contraceptive methods	0.0597	therapeutic or preventive procedure	INCOMMON	
+21	child-behavior-disorders	intravenous infusion procedures	0.21605	therapeutic or preventive procedure	INCOMMON	
+22	cocaine-related-disorders	intravenous infusion procedures	0.17583	therapeutic or preventive procedure	INCOMMON	
+23	cognition-disorders	dactinomycin	0.05701	therapeutic or preventive procedure	INCOMMON	
+25	communication-disorders	malignant neoplasms	0.04145	therapeutic or preventive procedure	INCOMMON	
+25	communication-disorders	intravenous infusion procedures	0.04145	therapeutic or preventive procedure	INCOMMON	
+26	compulsive-behavior	intravenous infusion procedures	0.06584	therapeutic or preventive procedure	INCOMMON	
+27	conduct-disorder	intravenous infusion procedures	0.12431	therapeutic or preventive procedure	INCOMMON	
+28	consciousness-disorders	sedation	0.0452	therapeutic or preventive procedure	INCOMMON	
+29	conversion-disorder	kidney transplantation	0.04973	therapeutic or preventive procedure	INCOMMON	
+30	delirium	dactinomycin	0.06814	therapeutic or preventive procedure	INCOMMON	
+31	dementia	dactinomycin	0.06722	therapeutic or preventive procedure	INCOMMON	
+32	depression	intravenous infusion procedures	0.13343	therapeutic or preventive procedure	INCOMMON	
+33	depressive-disorder	intravenous infusion procedures	0.13523	therapeutic or preventive procedure	INCOMMON	
+34	developmental-disabilities	intravenous infusion procedures	0.22247	therapeutic or preventive procedure	INCOMMON	
+35	disorders-of-excessive-somnolence	contraceptive methods	0.30667	therapeutic or preventive procedure	INCOMMON	
+35	disorders-of-excessive-somnolence	contraception barrier	0.21334	therapeutic or preventive procedure	INCOMMON	
+35	disorders-of-excessive-somnolence	operative surgical procedures	0.13333	therapeutic or preventive procedure	INCOMMON	
+36	disorders-of-sex-development	gene therapy	0.0622	therapeutic or preventive procedure	INCOMMON	
+40	dysthymic-disorder	intravenous infusion procedures	0.24243	therapeutic or preventive procedure	INCOMMON	
+41	eating-disorders	intravenous infusion procedures	0.13043	therapeutic or preventive procedure	INCOMMON	
+46	gambling	intravenous infusion procedures	0.11111	therapeutic or preventive procedure	INCOMMON	
+48	heroin-dependence	treatment and maintenance	0.1573	therapeutic or preventive procedure	INCOMMON	
+48	heroin-dependence	contraceptive methods	0.14607	therapeutic or preventive procedure	INCOMMON	
+49	impulse-control-disorders	intravenous infusion procedures	0.09678	therapeutic or preventive procedure	INCOMMON	
+50	impulsive-behavior	intravenous infusion procedures	0.05172	therapeutic or preventive procedure	INCOMMON	
+51	learning-disorders	intravenous infusion procedures	0.01113	therapeutic or preventive procedure	INCOMMON	
+51	learning-disorders	pharmacotherapy	0.00834	therapeutic or preventive procedure	INCOMMON	
+52	marijuana-abuse	intravenous infusion procedures	0.09131	therapeutic or preventive procedure	INCOMMON	
+52	marijuana-abuse	contraceptive methods	0.0913	therapeutic or preventive procedure	INCOMMON	
+53	mental-disorders	intravenous infusion procedures	0.1192	therapeutic or preventive procedure	INCOMMON	
+54	mental-disorders-diagnosed-in-childhood	intravenous infusion procedures	0.26056	therapeutic or preventive procedure	INCOMMON	
+55	mental-fatigue	malignant neoplasms	0.2459	therapeutic or preventive procedure	INCOMMON	
+55	mental-fatigue	pharmacotherapy	0.22132	therapeutic or preventive procedure	INCOMMON	
+55	mental-fatigue	therapeutic radiology procedure	0.15573	therapeutic or preventive procedure	INCOMMON	
+56	mental-retardation	gene therapy	0.07788	therapeutic or preventive procedure	INCOMMON	
+57	mood-disorders	intravenous infusion procedures	0.14822	therapeutic or preventive procedure	INCOMMON	
+59	obsessive-behavior	intravenous infusion procedures	0.11667	therapeutic or preventive procedure	INCOMMON	
+60	obsessive-compulsive-disorder	intravenous infusion procedures	0.20618	therapeutic or preventive procedure	INCOMMON	
+61	opioid-related-disorders	intravenous infusion procedures	0.11294	therapeutic or preventive procedure	INCOMMON	
+62	panic-disorder	intravenous infusion procedures	0.1579	therapeutic or preventive procedure	INCOMMON	
+64	personality-disorders	intravenous infusion procedures	0.16959	therapeutic or preventive procedure	INCOMMON	
+65	phobic-disorders	intravenous infusion procedures	0.24183	therapeutic or preventive procedure	INCOMMON	
+67	psychotic-disorders	intravenous infusion procedures	0.12378	therapeutic or preventive procedure	INCOMMON	
+68	quality-of-life	malignant neoplasms	0.04149	therapeutic or preventive procedure	INCOMMON	
+68	quality-of-life	pharmacotherapy	0.03688	therapeutic or preventive procedure	INCOMMON	
+70	schizophrenia	intravenous infusion procedures	0.21365	therapeutic or preventive procedure	INCOMMON	
+71	schizophrenia-and-disorders-with-psychotic-features	intravenous infusion procedures	0.21432	therapeutic or preventive procedure	INCOMMON	
+72	self-injurious-behavior	intravenous infusion procedures	0.05263	therapeutic or preventive procedure	INCOMMON	
+73	sleep-deprivation	sedation	0.02667	therapeutic or preventive procedure	INCOMMON	
+75	sleep-initiation-and-maintenance-disorders	intravenous infusion procedures	0.12328	therapeutic or preventive procedure	INCOMMON	
+75	sleep-initiation-and-maintenance-disorders	contraceptive methods	0.06302	therapeutic or preventive procedure	INCOMMON	
+78	substance-related-disorders	intravenous infusion procedures	0.08742	therapeutic or preventive procedure	INCOMMON	
+79	substance-withdrawal-syndrome	intravenous infusion procedures	0.13924	therapeutic or preventive procedure	INCOMMON	
+79	substance-withdrawal-syndrome	contraceptive methods	0.13924	therapeutic or preventive procedure	INCOMMON	
+80	suicidal-ideation	intravenous infusion procedures	0.04	therapeutic or preventive procedure	INCOMMON	
+81	suicide	intravenous infusion procedures	0.07344	therapeutic or preventive procedure	INCOMMON	
+82	tic-disorders	intravenous infusion procedures	0.17391	therapeutic or preventive procedure	INCOMMON	
+84	tourette-syndrome	intravenous infusion procedures	0.1875	therapeutic or preventive procedure	INCOMMON	

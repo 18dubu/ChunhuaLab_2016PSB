@@ -1,0 +1,108 @@
+1	adjustment-disorders	adverse event associated with death	-1.97095	finding	INCOMMON	
+1	adjustment-disorders	depressed mood	-1.95021	finding	INCOMMON	
+1	adjustment-disorders	depressed mood	-1.95021	mental or behavioral dysfunction	INCOMMON	
+1	adjustment-disorders	pharmaceutical preparations	-1.92946	pharmacologic substance	INCOMMON	
+13	asperger-syndrome	ethanol	-8.91379	organic chemical	INCOMMON	
+13	asperger-syndrome	ethanol	-8.91379	pharmacologic substance	INCOMMON	
+11	anorexia-nervosa	minerals	-1.96939	inorganic chemical	INCOMMON	
+13	asperger-syndrome	disability	-1.94828	finding	INCOMMON	
+13	asperger-syndrome	brain	-1.89655	body part, organ, or organ component	INCOMMON	
+13	asperger-syndrome	brain	-1.89655	disease or syndrome	INCOMMON	
+13	asperger-syndrome	pharmaceutical preparations	-1.89655	pharmacologic substance	INCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	ethanol	-48.8437	organic chemical	INCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	ethanol	-48.8437	pharmacologic substance	INCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	anxiety disorders	-4.80383	finding	INCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	anxiety disorders	-4.80383	mental or behavioral dysfunction	INCOMMON	
+16	autistic-disorder	pharmaceutical preparations	-1.90123	pharmacologic substance	INCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	pharmaceutical preparations	-1.88836	pharmacologic substance	INCOMMON	
+16	autistic-disorder	pharmacologic substance	-1.85185	pharmacologic substance	INCOMMON	
+16	autistic-disorder	pharmacologic substance	-1.85185	therapeutic or preventive procedure	INCOMMON	
+16	autistic-disorder	magnetic resonance imaging	-2.95802	diagnostic procedure	INCOMMON	
+16	autistic-disorder	skills	-1.97531	individual behavior	INCOMMON	
+16	autistic-disorder	anxiety disorders	-0.97778	finding	INCOMMON	
+16	autistic-disorder	anxiety disorders	-0.97778	mental or behavioral dysfunction	INCOMMON	
+16	autistic-disorder	risperidone	-0.97284	organic chemical	INCOMMON	
+16	autistic-disorder	risperidone	-0.97284	pharmacologic substance	INCOMMON	
+16	autistic-disorder	neurological observations	-0.97284	finding	INCOMMON	
+20	borderline-personality-disorder	anorexia nervosa	-3.9403	mental or behavioral dysfunction	INCOMMON	
+20	borderline-personality-disorder	pharmaceutical preparations	-2.9403	pharmacologic substance	INCOMMON	
+21	child-behavior-disorders	pharmaceutical preparations	-2.93056	pharmacologic substance	INCOMMON	
+21	child-behavior-disorders	electrocardiogram	-1.95216	diagnostic procedure	INCOMMON	
+21	child-behavior-disorders	electrocardiogram	-1.95216	finding	INCOMMON	
+21	child-behavior-disorders	electrocardiogram	-1.95216	organic chemical	INCOMMON	
+21	child-behavior-disorders	electrocardiogram	-1.95216	pharmacologic substance	INCOMMON	
+21	child-behavior-disorders	anxiety disorders	-1.89352	finding	INCOMMON	
+21	child-behavior-disorders	anxiety disorders	-1.89352	mental or behavioral dysfunction	INCOMMON	
+22	cocaine-related-disorders	selective serotonin re-uptake inhibitor	-0.96703	pharmacologic substance	INCOMMON	
+22	cocaine-related-disorders	attention deficit hyperactivity disorder	-0.96703	disease or syndrome	INCOMMON	
+22	cocaine-related-disorders	attention deficit hyperactivity disorder	-0.96703	mental or behavioral dysfunction	INCOMMON	
+22	cocaine-related-disorders	stimulant	-0.96429	pharmacologic substance	INCOMMON	
+29	conversion-disorder	hepatic	-13.95028	body location or region	INCOMMON	
+30	delirium	pharmaceutical preparations	-5.84821	pharmacologic substance	INCOMMON	
+29	conversion-disorder	alanine transaminase	-4.96685	congenital abnormality	INCOMMON	
+29	conversion-disorder	alanine transaminase	-4.96685	disease or syndrome	INCOMMON	
+29	conversion-disorder	alanine transaminase	-4.96685	enzyme	INCOMMON	
+29	conversion-disorder	hyperthyroidism	-0.96685	disease or syndrome	INCOMMON	
+30	delirium	ethanol	-0.77867	organic chemical	INCOMMON	
+30	delirium	ethanol	-0.77867	pharmacologic substance	INCOMMON	
+30	delirium	congenital abnormality	-3.91118	congenital abnormality	INCOMMON	
+30	delirium	congenital abnormality	-3.91118	disease or syndrome	INCOMMON	
+30	delirium	hearing examination finding	-2.97415	finding	INCOMMON	
+30	delirium	neurological observations	-1.94878	finding	INCOMMON	
+30	delirium	anxiety disorders	-0.97227	finding	INCOMMON	
+30	delirium	anxiety disorders	-0.97227	mental or behavioral dysfunction	INCOMMON	
+30	delirium	disability	-0.97039	finding	INCOMMON	
+32	depression	antidepressive agents	-0.81979	pharmacologic substance	INCOMMON	
+34	developmental-disabilities	pharmacologic substance	-2.85843	pharmacologic substance	INCOMMON	
+34	developmental-disabilities	pharmacologic substance	-2.85843	therapeutic or preventive procedure	INCOMMON	
+44	frontotemporal-dementia	pharmacologic substance	-2.76812	pharmacologic substance	INCOMMON	
+44	frontotemporal-dementia	pharmacologic substance	-2.76812	therapeutic or preventive procedure	INCOMMON	
+34	developmental-disabilities	antidepressive agents	-1.94831	pharmacologic substance	INCOMMON	
+34	developmental-disabilities	ethanol	-1.93034	organic chemical	INCOMMON	
+34	developmental-disabilities	ethanol	-1.93034	pharmacologic substance	INCOMMON	
+44	frontotemporal-dementia	ethanol	-1.78261	organic chemical	INCOMMON	
+44	frontotemporal-dementia	ethanol	-1.78261	pharmacologic substance	INCOMMON	
+44	frontotemporal-dementia	neurological observations	-0.97101	finding	INCOMMON	
+46	gambling	ethanol	-0.81944	organic chemical	INCOMMON	
+46	gambling	ethanol	-0.81944	pharmacologic substance	INCOMMON	
+46	gambling	pharmacologic substance	-0.75	pharmacologic substance	INCOMMON	
+46	gambling	pharmacologic substance	-0.75	therapeutic or preventive procedure	INCOMMON	
+52	marijuana-abuse	ethanol	-3.6913	organic chemical	INCOMMON	
+52	marijuana-abuse	ethanol	-3.6913	pharmacologic substance	INCOMMON	
+46	gambling	malaise	-0.98611	finding	INCOMMON	
+46	gambling	malaise	-0.98611	sign or symptom	INCOMMON	
+46	gambling	neurological observations	-0.95833	finding	INCOMMON	
+52	marijuana-abuse	drug dependence	-0.95652	mental or behavioral dysfunction	INCOMMON	
+52	marijuana-abuse	asthma	-0.94783	disease or syndrome	INCOMMON	
+62	panic-disorder	behavior therapy	-0.95489	therapeutic or preventive procedure	INCOMMON	
+62	panic-disorder	personality disorders	-0.88722	mental or behavioral dysfunction	INCOMMON	
+66	pick-disease-of-the-brain	paralysed	-1.95	finding	INCOMMON	
+69	restless-legs-syndrome	ethanol	-3.76744	organic chemical	INCOMMON	
+69	restless-legs-syndrome	ethanol	-3.76744	pharmacologic substance	INCOMMON	
+69	restless-legs-syndrome	pharmaceutical preparations	-3.75969	pharmacologic substance	INCOMMON	
+69	restless-legs-syndrome	pharmacologic substance	-2.71318	pharmacologic substance	INCOMMON	
+69	restless-legs-syndrome	pharmacologic substance	-2.71318	therapeutic or preventive procedure	INCOMMON	
+66	pick-disease-of-the-brain	neurological observations	-1.975	finding	INCOMMON	
+66	pick-disease-of-the-brain	anemia	-0.975	disease or syndrome	INCOMMON	
+69	restless-legs-syndrome	smoking	-2.96899	hazardous or poisonous substance	INCOMMON	
+69	restless-legs-syndrome	smoking	-2.96899	individual behavior	INCOMMON	
+69	restless-legs-syndrome	vitamins	-1.95349	organic chemical	INCOMMON	
+69	restless-legs-syndrome	vitamins	-1.95349	pharmacologic substance	INCOMMON	
+69	restless-legs-syndrome	physical findings	-0.96899	finding	INCOMMON	
+69	restless-legs-syndrome	hallucinations	-0.96899	mental or behavioral dysfunction	INCOMMON	
+69	restless-legs-syndrome	olanzapine	-0.96899	organic chemical	INCOMMON	
+69	restless-legs-syndrome	olanzapine	-0.96899	pharmacologic substance	INCOMMON	
+70	schizophrenia	unipolar depression	-6.98121	mental or behavioral dysfunction	INCOMMON	
+70	schizophrenia	pharmaceutical preparations	-4.88328	pharmacologic substance	INCOMMON	
+70	schizophrenia	ethanol	-4.76954	organic chemical	INCOMMON	
+70	schizophrenia	ethanol	-4.76954	pharmacologic substance	INCOMMON	
+70	schizophrenia	anxiety disorders	-3.98121	finding	INCOMMON	
+70	schizophrenia	anxiety disorders	-3.98121	mental or behavioral dysfunction	INCOMMON	
+69	restless-legs-syndrome	multiple endocrine neoplasia	-1.9845	antibiotic	INCOMMON	
+69	restless-legs-syndrome	multiple endocrine neoplasia	-1.9845	neoplastic process	INCOMMON	
+69	restless-legs-syndrome	multiple endocrine neoplasia	-1.9845	organic chemical	INCOMMON	
+73	sleep-deprivation	medical history	-19.93333	finding	INCOMMON	
+73	sleep-deprivation	hepatic	-13.96	body location or region	INCOMMON	
+73	sleep-deprivation	leg	-7.93333	body location or region	INCOMMON	
+71	schizophrenia-and-disorders-with-psychotic-features	mass of body structure	-3.98739	finding	INCOMMON	
+73	sleep-deprivation	kidney	-2.94667	body part, organ, or organ component	INCOMMON	

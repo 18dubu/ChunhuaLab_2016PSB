@@ -1,0 +1,85 @@
+1	adjustment-disorders	active brand of pseudoephedrine-triprolidine	0.24066	pharmacologic substance	EXUNIQUE	
+18	binge-eating-disorder	ethanol	0.35246	pharmacologic substance	EXUNIQUE	
+21	child-behavior-disorders	pervasive development disorder	0.20679	pharmacologic substance	EXUNIQUE	
+27	conduct-disorder	ethanol	0.22647	pharmacologic substance	EXUNIQUE	
+27	conduct-disorder	pharmacologic substance	0.21089	pharmacologic substance	EXUNIQUE	
+30	delirium	malignant neoplasms	0.13017	pharmacologic substance	EXUNIQUE	
+52	marijuana-abuse	marihuana	0.43913	pharmacologic substance	EXUNIQUE	
+52	marijuana-abuse	pharmacologic substance	0.33043	pharmacologic substance	EXUNIQUE	
+62	panic-disorder	active brand of pseudoephedrine-triprolidine	0.15038	pharmacologic substance	EXUNIQUE	
+62	panic-disorder	psychotropic drugs	0.14286	pharmacologic substance	EXUNIQUE	
+69	restless-legs-syndrome	malignant neoplasms	0.06977	pharmacologic substance	EXUNIQUE	
+69	restless-legs-syndrome	kidney failure chronic	0.06977	pharmacologic substance	EXUNIQUE	
+70	schizophrenia	antipsychotic agents	0.23689	pharmacologic substance	EXUNIQUE	
+73	sleep-deprivation	ethanol	0.24	pharmacologic substance	EXUNIQUE	
+2	alcohol-related-disorders	liver	16.0	pharmacologic substance	INUNIQUE	
+3	alcoholism	support - dental	15.0	pharmacologic substance	INUNIQUE	
+3	alcoholism	amino acids	3.0	pharmacologic substance	INUNIQUE	
+4	alzheimer-disease	vitamins	5.0	pharmacologic substance	INUNIQUE	
+5	anorexia-nervosa	support - dental	4.0	pharmacologic substance	INUNIQUE	
+5	anorexia-nervosa	thyroid gland	2.0	pharmacologic substance	INUNIQUE	
+7	attention-deficit-disorder-with-hyperactivity	amph protein human	73.0	pharmacologic substance	INUNIQUE	
+8	autistic-disorder	vaccines	8.0	pharmacologic substance	INUNIQUE	
+8	autistic-disorder	pharmaceutical preparations	3.0	pharmacologic substance	INUNIQUE	
+10	bipolar-disorder	support - dental	2.0	pharmacologic substance	INUNIQUE	
+14	conduct-disorder	ethanol	1.0	pharmacologic substance	INUNIQUE	
+17	dementia	pharmaceutical preparations	9.0	pharmacologic substance	INUNIQUE	
+18	depression	support - dental	5.0	pharmacologic substance	INUNIQUE	
+1	adjustment-disorders	pharmaceutical preparations	1.92946	pharmacologic substance	EXCOMMON	
+13	asperger-syndrome	pharmacologic substance	0.84483	pharmacologic substance	EXCOMMON	
+16	autistic-disorder	malignant neoplasms	0.91605	pharmacologic substance	EXCOMMON	
+18	binge-eating-disorder	pharmacologic substance	0.70492	pharmacologic substance	EXCOMMON	
+16	autistic-disorder	antidepressive agents	0.94815	pharmacologic substance	EXCOMMON	
+18	binge-eating-disorder	monoamine oxidase inhibitors	0.95902	pharmacologic substance	EXCOMMON	
+21	child-behavior-disorders	antipsychotic agents	0.92747	pharmacologic substance	EXCOMMON	
+21	child-behavior-disorders	antidepressive agents	0.93981	pharmacologic substance	EXCOMMON	
+20	borderline-personality-disorder	antidepressive agents	0.9403	pharmacologic substance	EXCOMMON	
+22	cocaine-related-disorders	stimulant	0.96429	pharmacologic substance	EXCOMMON	
+22	cocaine-related-disorders	selective serotonin re-uptake inhibitor	0.96703	pharmacologic substance	EXCOMMON	
+30	delirium	pharmacologic substance	0.75329	pharmacologic substance	EXCOMMON	
+30	delirium	ethanol	0.77867	pharmacologic substance	EXCOMMON	
+30	delirium	pharmaceutical preparations	5.84821	pharmacologic substance	EXCOMMON	
+30	delirium	vitamins	0.93374	pharmacologic substance	EXCOMMON	
+32	depression	antidepressive agents	0.81979	pharmacologic substance	EXCOMMON	
+34	developmental-disabilities	antipsychotic agents	0.89888	pharmacologic substance	EXCOMMON	
+46	gambling	pharmacologic substance	0.75	pharmacologic substance	EXCOMMON	
+46	gambling	ethanol	0.81944	pharmacologic substance	EXCOMMON	
+46	gambling	benzodiazepines	0.91667	pharmacologic substance	EXCOMMON	
+69	restless-legs-syndrome	benzodiazepines	0.86822	pharmacologic substance	EXCOMMON	
+69	restless-legs-syndrome	electrocardiogram	0.91473	pharmacologic substance	EXCOMMON	
+69	restless-legs-syndrome	dopamine antagonists	0.91473	pharmacologic substance	EXCOMMON	
+69	restless-legs-syndrome	cimetidine	0.94574	pharmacologic substance	EXCOMMON	
+70	schizophrenia	malignant neoplasms	0.93966	pharmacologic substance	EXCOMMON	
+70	schizophrenia	antidepressive agents	0.95054	pharmacologic substance	EXCOMMON	
+73	sleep-deprivation	malignant neoplasms	0.96	pharmacologic substance	EXCOMMON	
+1	adjustment-disorders	pharmaceutical preparations	1.92946	pharmacologic substance	INCOMMON	
+13	asperger-syndrome	ethanol	8.91379	pharmacologic substance	INCOMMON	
+13	asperger-syndrome	pharmaceutical preparations	1.89655	pharmacologic substance	INCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	ethanol	48.8437	pharmacologic substance	INCOMMON	
+16	autistic-disorder	pharmaceutical preparations	1.90123	pharmacologic substance	INCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	pharmaceutical preparations	1.88836	pharmacologic substance	INCOMMON	
+16	autistic-disorder	pharmacologic substance	1.85185	pharmacologic substance	INCOMMON	
+16	autistic-disorder	risperidone	0.97284	pharmacologic substance	INCOMMON	
+20	borderline-personality-disorder	pharmaceutical preparations	2.9403	pharmacologic substance	INCOMMON	
+21	child-behavior-disorders	pharmaceutical preparations	2.93056	pharmacologic substance	INCOMMON	
+21	child-behavior-disorders	electrocardiogram	1.95216	pharmacologic substance	INCOMMON	
+22	cocaine-related-disorders	selective serotonin re-uptake inhibitor	0.96703	pharmacologic substance	INCOMMON	
+22	cocaine-related-disorders	stimulant	0.96429	pharmacologic substance	INCOMMON	
+30	delirium	pharmaceutical preparations	5.84821	pharmacologic substance	INCOMMON	
+30	delirium	ethanol	0.77867	pharmacologic substance	INCOMMON	
+32	depression	antidepressive agents	0.81979	pharmacologic substance	INCOMMON	
+34	developmental-disabilities	pharmacologic substance	2.85843	pharmacologic substance	INCOMMON	
+44	frontotemporal-dementia	pharmacologic substance	2.76812	pharmacologic substance	INCOMMON	
+34	developmental-disabilities	antidepressive agents	1.94831	pharmacologic substance	INCOMMON	
+34	developmental-disabilities	ethanol	1.93034	pharmacologic substance	INCOMMON	
+44	frontotemporal-dementia	ethanol	1.78261	pharmacologic substance	INCOMMON	
+46	gambling	ethanol	0.81944	pharmacologic substance	INCOMMON	
+46	gambling	pharmacologic substance	0.75	pharmacologic substance	INCOMMON	
+52	marijuana-abuse	ethanol	3.6913	pharmacologic substance	INCOMMON	
+69	restless-legs-syndrome	ethanol	3.76744	pharmacologic substance	INCOMMON	
+69	restless-legs-syndrome	pharmaceutical preparations	3.75969	pharmacologic substance	INCOMMON	
+69	restless-legs-syndrome	pharmacologic substance	2.71318	pharmacologic substance	INCOMMON	
+69	restless-legs-syndrome	vitamins	1.95349	pharmacologic substance	INCOMMON	
+69	restless-legs-syndrome	olanzapine	0.96899	pharmacologic substance	INCOMMON	
+70	schizophrenia	pharmaceutical preparations	4.88328	pharmacologic substance	INCOMMON	
+70	schizophrenia	ethanol	4.76954	pharmacologic substance	INCOMMON	

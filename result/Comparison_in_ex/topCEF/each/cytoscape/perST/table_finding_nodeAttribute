@@ -1,0 +1,800 @@
+adjustment-disorders	DISEASE
+suicidal	CEF
+affective-symptoms	DISEASE
+hypersensitivity	CEF
+alcohol-drinking	DISEASE
+suicidal	CEF
+alcohol-drinking	DISEASE
+unstable status	CEF
+alcohol-related-disorders	DISEASE
+homicidal ideation	CEF
+amnesia	DISEASE
+hypersensitivity	CEF
+amphetamine-related-disorders	DISEASE
+hypertensive disease	CEF
+amphetamine-related-disorders	DISEASE
+suicidal	CEF
+anorexia-nervosa	DISEASE
+hypersensitivity	CEF
+anorexia-nervosa	DISEASE
+malignant neoplasms	CEF
+anxiety-disorders	DISEASE
+suicide risk	CEF
+asperger-syndrome	DISEASE
+gravidity	CEF
+asperger-syndrome	DISEASE
+suicidal	CEF
+autistic-disorder	DISEASE
+hypertensive disease	CEF
+autistic-disorder	DISEASE
+research outcome	CEF
+binge-eating-disorder	DISEASE
+hypersensitivity	CEF
+bipolar-disorder	DISEASE
+cardiac arrhythmia	CEF
+borderline-personality-disorder	DISEASE
+unstable status	CEF
+child-behavior-disorders	DISEASE
+family history	CEF
+child-behavior-disorders	DISEASE
+suicide attempt	CEF
+cocaine-related-disorders	DISEASE
+hypertensive disease	CEF
+cocaine-related-disorders	DISEASE
+myocardial infarction	CEF
+communication-disorders	DISEASE
+medical contraindication	CEF
+compulsive-behavior	DISEASE
+hypersensitivity	CEF
+compulsive-behavior	DISEASE
+suicide attempt	CEF
+consciousness-disorders	DISEASE
+hypersensitivity	CEF
+consciousness-disorders	DISEASE
+medical contraindication	CEF
+conversion-disorder	DISEASE
+glaucoma	CEF
+developmental-disabilities	DISEASE
+hypertensive disease	CEF
+developmental-disabilities	DISEASE
+research outcome	CEF
+disorders-of-excessive-somnolence	DISEASE
+hypersensitivity	CEF
+disorders-of-excessive-somnolence	DISEASE
+myocardial infarction	CEF
+disorders-of-sex-development	DISEASE
+hypersensitivity	CEF
+dissociative-disorders	DISEASE
+glaucoma	CEF
+dissociative-disorders	DISEASE
+hypersensitivity	CEF
+dissociative-disorders	DISEASE
+uveitis	CEF
+drinking-behavior	DISEASE
+suicidal	CEF
+drinking-behavior	DISEASE
+unstable status	CEF
+dysthymic-disorder	DISEASE
+suicidal	CEF
+eating-disorders	DISEASE
+suicide	CEF
+erectile-dysfunction	DISEASE
+erotic interest	CEF
+erectile-dysfunction	DISEASE
+hypotension orthostatic	CEF
+food-habits	DISEASE
+unstable status	CEF
+food-habits	DISEASE
+hypertensive disease	CEF
+frontotemporal-dementia	DISEASE
+allergy severity - severe	CEF
+frontotemporal-dementia	DISEASE
+unstable status	CEF
+frontotemporal-lobar-degeneration	DISEASE
+allergy severity - severe	CEF
+frontotemporal-lobar-degeneration	DISEASE
+unstable status	CEF
+gambling	DISEASE
+unstable status	CEF
+heroin-dependence	DISEASE
+allergy severity - severe	CEF
+heroin-dependence	DISEASE
+hypersensitivity	CEF
+impulse-control-disorders	DISEASE
+unstable status	CEF
+marijuana-abuse	DISEASE
+cardiac arrhythmia	CEF
+mental-retardation	DISEASE
+hypersensitivity	CEF
+neurocirculatory-asthenia	DISEASE
+hypersensitivity	CEF
+obsessive-behavior	DISEASE
+unstable status	CEF
+opioid-related-disorders	DISEASE
+cardiac arrhythmia	CEF
+panic-disorder	DISEASE
+hypertensive disease	CEF
+panic-disorder	DISEASE
+hypersensitivity	CEF
+phobic-disorders	DISEASE
+suicidal	CEF
+phobic-disorders	DISEASE
+unstable status	CEF
+pick-disease-of-the-brain	DISEASE
+unstable status	CEF
+restless-legs-syndrome	DISEASE
+hypotension orthostatic	CEF
+restless-legs-syndrome	DISEASE
+unstable status	CEF
+restless-legs-syndrome	DISEASE
+shift worker	CEF
+self-injurious-behavior	DISEASE
+gravidity	CEF
+sleep-deprivation	DISEASE
+unstable status	CEF
+somatoform-disorders	DISEASE
+suicidal	CEF
+somatoform-disorders	DISEASE
+hypersensitivity	CEF
+substance-withdrawal-syndrome	DISEASE
+hypersensitivity	CEF
+substance-withdrawal-syndrome	DISEASE
+unstable status	CEF
+substance-withdrawal-syndrome	DISEASE
+depressed mood	CEF
+suicidal-ideation	DISEASE
+gravidity	CEF
+suicidal-ideation	DISEASE
+hypertensive disease	CEF
+suicide	DISEASE
+gravidity	CEF
+suicide	DISEASE
+impaired cognition	CEF
+suicide	DISEASE
+hypersensitivity	CEF
+tic-disorders	DISEASE
+suicidal	CEF
+tourette-syndrome	DISEASE
+positive finding	CEF
+tourette-syndrome	DISEASE
+suicidal	CEF
+adjustment-disorders	DISEASE
+hiv negative finding	CEF
+aggression	DISEASE
+hiv negative finding	CEF
+alcoholism	DISEASE
+personal satisfaction	CEF
+amnesia	DISEASE
+moderate adverse event	CEF
+amnesia	DISEASE
+communication impairment	CEF
+amnesia	DISEASE
+general health	CEF
+amphetamine-related-disorders	DISEASE
+pregnancy test negative	CEF
+anorexia-nervosa	DISEASE
+actual effective weight	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+personal satisfaction	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+normal intelligence	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+personal satisfaction	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+normal intelligence	CEF
+binge-eating-disorder	DISEASE
+recurrent episodes of binge eating	CEF
+binge-eating-disorder	DISEASE
+esthesia	CEF
+binge-eating-disorder	DISEASE
+general health	CEF
+borderline-personality-disorder	DISEASE
+negative finding	CEF
+cocaine-related-disorders	DISEASE
+pregnancy test negative	CEF
+cocaine-related-disorders	DISEASE
+personal satisfaction	CEF
+cocaine-related-disorders	DISEASE
+general health	CEF
+combat-disorders	DISEASE
+combat exposure	CEF
+combat-disorders	DISEASE
+pregnancy test negative	CEF
+compulsive-behavior	DISEASE
+pregnancy test negative	CEF
+conversion-disorder	DISEASE
+pregnancy test negative	CEF
+disorders-of-excessive-somnolence	DISEASE
+personal satisfaction	CEF
+disorders-of-excessive-somnolence	DISEASE
+negative finding	CEF
+disorders-of-sex-development	DISEASE
+pregnancy test negative	CEF
+disorders-of-sex-development	DISEASE
+mass of body structure	CEF
+dissociative-disorders	DISEASE
+tractional retinal detachment	CEF
+drinking-behavior	DISEASE
+smoker	CEF
+dysthymic-disorder	DISEASE
+mental depression	CEF
+erectile-dysfunction	DISEASE
+sexually active	CEF
+erectile-dysfunction	DISEASE
+weighing patient	CEF
+frontotemporal-dementia	DISEASE
+hearing examination finding	CEF
+frontotemporal-lobar-degeneration	DISEASE
+hearing examination finding	CEF
+frontotemporal-lobar-degeneration	DISEASE
+mild adverse event	CEF
+gambling	DISEASE
+moderate adverse event	CEF
+gambling	DISEASE
+puncture wound	CEF
+heroin-dependence	DISEASE
+negative finding	CEF
+impulse-control-disorders	DISEASE
+progressive disease	CEF
+impulsive-behavior	DISEASE
+pregnancy test negative	CEF
+impulsive-behavior	DISEASE
+personal satisfaction	CEF
+marijuana-abuse	DISEASE
+deterioration of status	CEF
+mental-retardation	DISEASE
+weeks pregnant	CEF
+neurocirculatory-asthenia	DISEASE
+dizziness	CEF
+neurocirculatory-asthenia	DISEASE
+falls	CEF
+neurocirculatory-asthenia	DISEASE
+deterioration of status	CEF
+obsessive-compulsive-disorder	DISEASE
+severity of symptoms	CEF
+opioid-related-disorders	DISEASE
+personal satisfaction	CEF
+panic-disorder	DISEASE
+negative finding	CEF
+panic-disorder	DISEASE
+pregnancy test negative	CEF
+phobic-disorders	DISEASE
+negative finding	CEF
+pick-disease-of-the-brain	DISEASE
+hearing examination finding	CEF
+restless-legs-syndrome	DISEASE
+esthesia	CEF
+restless-legs-syndrome	DISEASE
+deterioration of status	CEF
+restless-legs-syndrome	DISEASE
+malaise	CEF
+self-injurious-behavior	DISEASE
+self-harm	CEF
+sleep-deprivation	DISEASE
+personal satisfaction	CEF
+sleep-deprivation	DISEASE
+asleep	CEF
+sleep-initiation-and-maintenance-disorders	DISEASE
+sexually active	CEF
+sleep-initiation-and-maintenance-disorders	DISEASE
+personal satisfaction	CEF
+somatoform-disorders	DISEASE
+insidious onset of symptoms	CEF
+somatoform-disorders	DISEASE
+sitting position	CEF
+substance-related-disorders	DISEASE
+personal satisfaction	CEF
+substance-withdrawal-syndrome	DISEASE
+personal satisfaction	CEF
+substance-withdrawal-syndrome	DISEASE
+mass of body structure	CEF
+substance-withdrawal-syndrome	DISEASE
+general health	CEF
+tic-disorders	DISEASE
+severity of symptoms	CEF
+tic-disorders	DISEASE
+personal satisfaction	CEF
+tobacco-use-disorder	DISEASE
+personal satisfaction	CEF
+tobacco-use-disorder	DISEASE
+current every day smoker	CEF
+tourette-syndrome	DISEASE
+pregnancy test negative	CEF
+adjustment-disorders	DISEASE
+allergy severity - severe	CEF
+adjustment-disorders	DISEASE
+gravidity	CEF
+adjustment-disorders	DISEASE
+hypersensitivity	CEF
+affective-disorders-psychotic	DISEASE
+suicidal	CEF
+affective-symptoms	DISEASE
+gravidity	CEF
+affective-symptoms	DISEASE
+unstable status	CEF
+affective-symptoms	DISEASE
+suicidal	CEF
+aggression	DISEASE
+allergy severity - severe	CEF
+aggression	DISEASE
+hypersensitivity	CEF
+aggression	DISEASE
+gravidity	CEF
+alcohol-drinking	DISEASE
+allergy severity - severe	CEF
+alcohol-drinking	DISEASE
+gravidity	CEF
+alcohol-related-disorders	DISEASE
+gravidity	CEF
+alcohol-related-disorders	DISEASE
+allergy severity - severe	CEF
+alcoholism	DISEASE
+gravidity	CEF
+alcoholism	DISEASE
+allergy severity - severe	CEF
+alzheimer-disease	DISEASE
+allergy severity - severe	CEF
+alzheimer-disease	DISEASE
+unstable status	CEF
+amnesia	DISEASE
+allergy severity - severe	CEF
+amnesia	DISEASE
+unstable status	CEF
+amphetamine-related-disorders	DISEASE
+gravidity	CEF
+anorexia-nervosa	DISEASE
+gravidity	CEF
+anxiety-disorders	DISEASE
+suicidal	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+allergy severity - severe	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+allergy severity - severe	CEF
+autistic-disorder	DISEASE
+allergy severity - severe	CEF
+autistic-disorder	DISEASE
+hypersensitivity	CEF
+binge-eating-disorder	DISEASE
+gravidity	CEF
+bipolar-disorder	DISEASE
+unstable status	CEF
+bipolar-disorder	DISEASE
+gravidity	CEF
+bipolar-disorder	DISEASE
+suicidal	CEF
+borderline-personality-disorder	DISEASE
+gravidity	CEF
+borderline-personality-disorder	DISEASE
+allergy severity - severe	CEF
+child-behavior-disorders	DISEASE
+allergy severity - severe	CEF
+cocaine-related-disorders	DISEASE
+gravidity	CEF
+cognition-disorders	DISEASE
+allergy severity - severe	CEF
+cognition-disorders	DISEASE
+unstable status	CEF
+communication-disorders	DISEASE
+allergy severity - severe	CEF
+compulsive-behavior	DISEASE
+gravidity	CEF
+compulsive-behavior	DISEASE
+unstable status	CEF
+consciousness-disorders	DISEASE
+gravidity	CEF
+conversion-disorder	DISEASE
+hypersensitivity	CEF
+conversion-disorder	DISEASE
+allergy severity - severe	CEF
+conversion-disorder	DISEASE
+malignant neoplasms	CEF
+delirium	DISEASE
+allergy severity - severe	CEF
+delirium	DISEASE
+unstable status	CEF
+dementia	DISEASE
+allergy severity - severe	CEF
+dementia	DISEASE
+unstable status	CEF
+depression	DISEASE
+suicidal	CEF
+depressive-disorder	DISEASE
+suicidal	CEF
+developmental-disabilities	DISEASE
+allergy severity - severe	CEF
+developmental-disabilities	DISEASE
+hypersensitivity	CEF
+disorders-of-excessive-somnolence	DISEASE
+gravidity	CEF
+disorders-of-excessive-somnolence	DISEASE
+allergy severity - severe	CEF
+disorders-of-excessive-somnolence	DISEASE
+suicidal	CEF
+disorders-of-sex-development	DISEASE
+malignant neoplasms	CEF
+disorders-of-sex-development	DISEASE
+allergy severity - severe	CEF
+dissociative-disorders	DISEASE
+blood vessel	CEF
+dissociative-disorders	DISEASE
+cataract adverse event	CEF
+drinking-behavior	DISEASE
+allergy severity - severe	CEF
+drinking-behavior	DISEASE
+gravidity	CEF
+dyssomnias	DISEASE
+allergy severity - severe	CEF
+dyssomnias	DISEASE
+unstable status	CEF
+dyssomnias	DISEASE
+gravidity	CEF
+dysthymic-disorder	DISEASE
+unstable status	CEF
+eating-disorders	DISEASE
+gravidity	CEF
+erectile-dysfunction	DISEASE
+myocardial infarction	CEF
+erectile-dysfunction	DISEASE
+cardiac arrhythmia	CEF
+erectile-dysfunction	DISEASE
+unstable status	CEF
+food-habits	DISEASE
+gravidity	CEF
+food-habits	DISEASE
+hypersensitivity	CEF
+frontotemporal-dementia	DISEASE
+gravidity	CEF
+frontotemporal-lobar-degeneration	DISEASE
+gravidity	CEF
+gambling	DISEASE
+allergy severity - severe	CEF
+habits	DISEASE
+gravidity	CEF
+habits	DISEASE
+allergy severity - severe	CEF
+habits	DISEASE
+unstable status	CEF
+heroin-dependence	DISEASE
+gravidity	CEF
+impulse-control-disorders	DISEASE
+allergy severity - severe	CEF
+impulse-control-disorders	DISEASE
+depressed mood	CEF
+impulsive-behavior	DISEASE
+gravidity	CEF
+learning-disorders	DISEASE
+allergy severity - severe	CEF
+learning-disorders	DISEASE
+gravidity	CEF
+marijuana-abuse	DISEASE
+gravidity	CEF
+marijuana-abuse	DISEASE
+hypertensive disease	CEF
+mental-disorders	DISEASE
+unstable status	CEF
+mental-disorders	DISEASE
+gravidity	CEF
+mental-disorders-diagnosed-in-childhood	DISEASE
+allergy severity - severe	CEF
+mental-disorders-diagnosed-in-childhood	DISEASE
+hypersensitivity	CEF
+mental-fatigue	DISEASE
+gravidity	CEF
+mental-fatigue	DISEASE
+allergy severity - severe	CEF
+mental-retardation	DISEASE
+allergy severity - severe	CEF
+mental-retardation	DISEASE
+unstable status	CEF
+mental-retardation	DISEASE
+malignant neoplasms	CEF
+mood-disorders	DISEASE
+suicidal	CEF
+neurocirculatory-asthenia	DISEASE
+gravidity	CEF
+neurocirculatory-asthenia	DISEASE
+hypertensive disease	CEF
+neurocirculatory-asthenia	DISEASE
+cardiac arrhythmia	CEF
+neurocirculatory-asthenia	DISEASE
+allergy severity - severe	CEF
+obsessive-compulsive-disorder	DISEASE
+suicidal	CEF
+opioid-related-disorders	DISEASE
+gravidity	CEF
+panic-disorder	DISEASE
+suicidal	CEF
+panic-disorder	DISEASE
+unstable status	CEF
+parasomnias	DISEASE
+allergy severity - severe	CEF
+parasomnias	DISEASE
+unstable status	CEF
+parasomnias	DISEASE
+gravidity	CEF
+personality-disorders	DISEASE
+gravidity	CEF
+pick-disease-of-the-brain	DISEASE
+allergy severity - severe	CEF
+pick-disease-of-the-brain	DISEASE
+gravidity	CEF
+psychotic-disorders	DISEASE
+gravidity	CEF
+psychotic-disorders	DISEASE
+unstable status	CEF
+quality-of-life	DISEASE
+allergy severity - severe	CEF
+quality-of-life	DISEASE
+gravidity	CEF
+quality-of-life	DISEASE
+hypersensitivity	CEF
+restless-legs-syndrome	DISEASE
+gravidity	CEF
+schizophrenia	DISEASE
+gravidity	CEF
+schizophrenia	DISEASE
+unstable status	CEF
+schizophrenia-and-disorders-with-psychotic-features	DISEASE
+gravidity	CEF
+schizophrenia-and-disorders-with-psychotic-features	DISEASE
+unstable status	CEF
+self-injurious-behavior	DISEASE
+allergy severity - severe	CEF
+self-injurious-behavior	DISEASE
+unstable status	CEF
+sleep-deprivation	DISEASE
+allergy severity - severe	CEF
+sleep-disorders	DISEASE
+allergy severity - severe	CEF
+sleep-disorders	DISEASE
+unstable status	CEF
+sleep-disorders	DISEASE
+gravidity	CEF
+smoking	DISEASE
+gravidity	CEF
+smoking	DISEASE
+unstable status	CEF
+smoking	DISEASE
+hypersensitivity	CEF
+somatoform-disorders	DISEASE
+gravidity	CEF
+somatoform-disorders	DISEASE
+malignant neoplasms	CEF
+substance-related-disorders	DISEASE
+gravidity	CEF
+substance-related-disorders	DISEASE
+allergy severity - severe	CEF
+substance-related-disorders	DISEASE
+hypersensitivity	CEF
+substance-withdrawal-syndrome	DISEASE
+gravidity	CEF
+substance-withdrawal-syndrome	DISEASE
+allergy severity - severe	CEF
+suicidal-ideation	DISEASE
+unstable status	CEF
+suicidal-ideation	DISEASE
+allergy severity - severe	CEF
+suicide	DISEASE
+allergy severity - severe	CEF
+suicide	DISEASE
+unstable status	CEF
+tic-disorders	DISEASE
+gravidity	CEF
+tic-disorders	DISEASE
+hypersensitivity	CEF
+tobacco-use-disorder	DISEASE
+gravidity	CEF
+tobacco-use-disorder	DISEASE
+unstable status	CEF
+tourette-syndrome	DISEASE
+depressed mood	CEF
+adjustment-disorders	DISEASE
+pregnancy test negative	CEF
+adjustment-disorders	DISEASE
+creatinine clearance	CEF
+affective-disorders-psychotic	DISEASE
+depressed mood	CEF
+affective-symptoms	DISEASE
+depressed mood	CEF
+alzheimer-disease	DISEASE
+mild adverse event	CEF
+alzheimer-disease	DISEASE
+communication impairment	CEF
+amnesia	DISEASE
+mild adverse event	CEF
+amnesia	DISEASE
+memory observations	CEF
+amnesia	DISEASE
+memory impairment	CEF
+amnesia	DISEASE
+impaired cognition	CEF
+amphetamine-related-disorders	DISEASE
+mass of body structure	CEF
+amphetamine-related-disorders	DISEASE
+negative finding	CEF
+anorexia-nervosa	DISEASE
+weighing patient	CEF
+anxiety-disorders	DISEASE
+anxiety disorders	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+hyperactive behavior	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+negative finding	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+hyperactive behavior	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+negative finding	CEF
+behavioral-symptoms	DISEASE
+depressed mood	CEF
+bipolar-disorder	DISEASE
+depressed mood	CEF
+child-behavior-disorders	DISEASE
+hyperactive behavior	CEF
+child-behavior-disorders	DISEASE
+negative finding	CEF
+cocaine-related-disorders	DISEASE
+positive finding	CEF
+cocaine-related-disorders	DISEASE
+negative finding	CEF
+cognition-disorders	DISEASE
+mild adverse event	CEF
+cognition-disorders	DISEASE
+memory observations	CEF
+communication-disorders	DISEASE
+malignant neoplasms	CEF
+communication-disorders	DISEASE
+unmarried	CEF
+compulsive-behavior	DISEASE
+smoker	CEF
+conduct-disorder	DISEASE
+negative finding	CEF
+conduct-disorder	DISEASE
+depressed mood	CEF
+consciousness-disorders	DISEASE
+physical assessment findings	CEF
+conversion-disorder	DISEASE
+negative finding	CEF
+conversion-disorder	DISEASE
+kidney transplantation	CEF
+conversion-disorder	DISEASE
+unmarried	CEF
+delirium	DISEASE
+mild adverse event	CEF
+delirium	DISEASE
+memory observations	CEF
+dementia	DISEASE
+mild adverse event	CEF
+dementia	DISEASE
+memory observations	CEF
+depression	DISEASE
+depressed mood	CEF
+depressive-disorder	DISEASE
+depressed mood	CEF
+disorders-of-sex-development	DISEASE
+negative finding	CEF
+dyssomnias	DISEASE
+sleeplessness	CEF
+eating-disorders	DISEASE
+mass of body structure	CEF
+erectile-dysfunction	DISEASE
+erectile dysfunction	CEF
+erectile-dysfunction	DISEASE
+mild adverse event	CEF
+food-habits	DISEASE
+mass of body structure	CEF
+food-habits	DISEASE
+weeks pregnant	CEF
+food-habits	DISEASE
+obesity	CEF
+gambling	DISEASE
+negative finding	CEF
+habits	DISEASE
+current smoker	CEF
+habits	DISEASE
+negative finding	CEF
+heroin-dependence	DISEASE
+positive finding	CEF
+impulse-control-disorders	DISEASE
+negative finding	CEF
+impulsive-behavior	DISEASE
+smoker	CEF
+impulsive-behavior	DISEASE
+medical history	CEF
+mental-disorders	DISEASE
+negative finding	CEF
+mental-disorders	DISEASE
+mild adverse event	CEF
+mental-disorders-diagnosed-in-childhood	DISEASE
+negative finding	CEF
+mental-fatigue	DISEASE
+malignant neoplasms	CEF
+mental-fatigue	DISEASE
+therapeutic radiology procedure	CEF
+mental-fatigue	DISEASE
+hemoglobin	CEF
+mood-disorders	DISEASE
+depressed mood	CEF
+neurocirculatory-asthenia	DISEASE
+hypotension orthostatic	CEF
+obsessive-behavior	DISEASE
+anxiety disorders	CEF
+obsessive-behavior	DISEASE
+compulsive disorder	CEF
+obsessive-compulsive-disorder	DISEASE
+compulsive disorder	CEF
+opioid-related-disorders	DISEASE
+negative finding	CEF
+panic-disorder	DISEASE
+observation of attack	CEF
+panic-disorder	DISEASE
+anxiety disorders	CEF
+parasomnias	DISEASE
+sleeplessness	CEF
+phobic-disorders	DISEASE
+anxiety disorders	CEF
+psychotic-disorders	DISEASE
+negative finding	CEF
+psychotic-disorders	DISEASE
+mild adverse event	CEF
+quality-of-life	DISEASE
+malignant neoplasms	CEF
+quality-of-life	DISEASE
+negative finding	CEF
+restless-legs-syndrome	DISEASE
+agitation	CEF
+restless-legs-syndrome	DISEASE
+moderate adverse event	CEF
+schizophrenia	DISEASE
+negative finding	CEF
+schizophrenia-and-disorders-with-psychotic-features	DISEASE
+negative finding	CEF
+self-injurious-behavior	DISEASE
+suicide attempt	CEF
+self-injurious-behavior	DISEASE
+negative finding	CEF
+sleep-deprivation	DISEASE
+electrocardiogram	CEF
+sleep-deprivation	DISEASE
+rhythm	CEF
+sleep-disorders	DISEASE
+sleeplessness	CEF
+sleep-disorders	DISEASE
+negative finding	CEF
+sleep-initiation-and-maintenance-disorders	DISEASE
+sleeplessness	CEF
+sleep-initiation-and-maintenance-disorders	DISEASE
+asleep	CEF
+smoking	DISEASE
+current smoker	CEF
+smoking	DISEASE
+negative finding	CEF
+somatoform-disorders	DISEASE
+pain score	CEF
+somatoform-disorders	DISEASE
+negative finding	CEF
+substance-related-disorders	DISEASE
+negative finding	CEF
+substance-related-disorders	DISEASE
+smoker	CEF
+suicidal-ideation	DISEASE
+suicide attempt	CEF
+suicidal-ideation	DISEASE
+depressed mood	CEF
+suicide	DISEASE
+suicide attempt	CEF
+suicide	DISEASE
+negative finding	CEF
+tic-disorders	DISEASE
+gilles de la tourette syndrome	CEF
+tic-disorders	DISEASE
+negative finding	CEF
+tobacco-use-disorder	DISEASE
+negative finding	CEF
+tobacco-use-disorder	DISEASE
+physical assessment findings	CEF
+tobacco-use-disorder	DISEASE
+medical history	CEF
+tourette-syndrome	DISEASE
+gilles de la tourette syndrome	CEF
+tourette-syndrome	DISEASE
+negative finding	CEF

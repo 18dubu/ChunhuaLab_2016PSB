@@ -1,0 +1,15 @@
+1	adjustment-disorders	neck	0.04149	body location or region	EXUNIQUE	
+21	child-behavior-disorders	hepatic	0.03704	body location or region	EXUNIQUE	
+36	disorders-of-sex-development	hepatic	0.07656	body location or region	EXUNIQUE	
+50	impulsive-behavior	hepatic	0.12069	body location or region	EXUNIQUE	
+61	opioid-related-disorders	hepatic	0.09176	body location or region	EXUNIQUE	
+69	restless-legs-syndrome	hepatic	0.13178	body location or region	EXUNIQUE	
+70	schizophrenia	hepatic	0.10138	body location or region	EXUNIQUE	
+71	schizophrenia-and-disorders-with-psychotic-features	hepatic	0.10086	body location or region	EXUNIQUE	
+69	restless-legs-syndrome	body part	0.04651	body location or region	INUNIQUE	
+82	tic-disorders	hoxa10 protein human	0.05435	body location or region	INUNIQUE	
+84	tourette-syndrome	hoxa10 protein human	0.0625	body location or region	INUNIQUE	
+75	sleep-initiation-and-maintenance-disorders	leg	0.27123	body location or region	EXCOMMON	
+36	disorders-of-sex-development	skeletal bone	0.04785	body location or region	INCOMMON	
+55	mental-fatigue	therapeutic radiology procedure	0.15573	body location or region	INCOMMON	
+69	restless-legs-syndrome	leg	0.29457	body location or region	INCOMMON	

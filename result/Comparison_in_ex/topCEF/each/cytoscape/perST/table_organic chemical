@@ -1,0 +1,119 @@
+5	alcohol-drinking	disulfiram	0.07164	organic chemical	EXUNIQUE	
+7	alcoholism	bilirubin	0.06049	organic chemical	EXUNIQUE	
+10	amphetamine-related-disorders	monoamine oxidase inhibitors	0.18	organic chemical	EXUNIQUE	
+28	consciousness-disorders	refusal	0.06215	organic chemical	EXUNIQUE	
+36	disorders-of-sex-development	ethanol	0.07177	organic chemical	EXUNIQUE	
+38	drinking-behavior	benzodiazepines	0.08756	organic chemical	EXUNIQUE	
+44	frontotemporal-dementia	ethanol	0.21739	organic chemical	EXUNIQUE	
+45	frontotemporal-lobar-degeneration	ethanol	0.18182	organic chemical	EXUNIQUE	
+48	heroin-dependence	benzodiazepines	0.20225	organic chemical	EXUNIQUE	
+58	neurocirculatory-asthenia	active brand of pseudoephedrine-triprolidine	0.14407	organic chemical	EXUNIQUE	
+60	obsessive-compulsive-disorder	nicotine	0.07216	organic chemical	EXUNIQUE	
+64	personality-disorders	nicotine	0.04386	organic chemical	EXUNIQUE	
+73	sleep-deprivation	ethanol	0.24	organic chemical	EXUNIQUE	
+75	sleep-initiation-and-maintenance-disorders	antihistamines	0.08493	organic chemical	EXUNIQUE	
+20	borderline-personality-disorder	multiple endocrine neoplasia	0.04478	organic chemical	INUNIQUE	
+37	dissociative-disorders	relate - vinyl resin	0.07812	organic chemical	INUNIQUE	
+37	dissociative-disorders	folic acid	0.07812	organic chemical	INUNIQUE	
+37	dissociative-disorders	diethylstilbestrol	0.0625	organic chemical	INUNIQUE	
+46	gambling	bee pollen	0.125	organic chemical	INUNIQUE	
+48	heroin-dependence	relate - vinyl resin	0.06742	organic chemical	INUNIQUE	
+49	impulse-control-disorders	multiple endocrine neoplasia	0.13978	organic chemical	INUNIQUE	
+60	obsessive-compulsive-disorder	multiple endocrine neoplasia	0.0567	organic chemical	INUNIQUE	
+64	personality-disorders	multiple endocrine neoplasia	0.03801	organic chemical	INUNIQUE	
+73	sleep-deprivation	multiple endocrine neoplasia	0.05333	organic chemical	INUNIQUE	
+80	suicidal-ideation	valproic acid	0.1	organic chemical	INUNIQUE	
+1	adjustment-disorders	active brand of pseudoephedrine-triprolidine	0.14107	organic chemical	EXCOMMON	
+2	affective-disorders-psychotic	ethanol	0.24535	organic chemical	EXCOMMON	
+3	affective-symptoms	ethanol	0.2725	organic chemical	EXCOMMON	
+4	aggression	active brand of pseudoephedrine-triprolidine	0.11436	organic chemical	EXCOMMON	
+8	alzheimer-disease	ethanol	0.21861	organic chemical	EXCOMMON	
+9	amnesia	active brand of pseudoephedrine-triprolidine	0.17647	organic chemical	EXCOMMON	
+11	anorexia-nervosa	ethanol	0.20409	organic chemical	EXCOMMON	
+12	anxiety-disorders	ethanol	0.17939	organic chemical	EXCOMMON	
+17	behavioral-symptoms	ethanol	0.21034	organic chemical	EXCOMMON	
+18	binge-eating-disorder	ethanol	0.29508	organic chemical	EXCOMMON	
+19	bipolar-disorder	ethanol	0.2266	organic chemical	EXCOMMON	
+20	borderline-personality-disorder	ethanol	0.14925	organic chemical	EXCOMMON	
+20	borderline-personality-disorder	active brand of pseudoephedrine-triprolidine	0.08955	organic chemical	EXCOMMON	
+22	cocaine-related-disorders	ethanol	0.23076	organic chemical	EXCOMMON	
+23	cognition-disorders	ethanol	0.21377	organic chemical	EXCOMMON	
+24	combat-disorders	ethanol	0.21277	organic chemical	EXCOMMON	
+25	communication-disorders	ethanol	0.09845	organic chemical	EXCOMMON	
+27	conduct-disorder	ethanol	0.18646	organic chemical	EXCOMMON	
+28	consciousness-disorders	ethanol	0.12429	organic chemical	EXCOMMON	
+29	conversion-disorder	active brand of pseudoephedrine-triprolidine	0.16022	organic chemical	EXCOMMON	
+30	delirium	ethanol	0.20817	organic chemical	EXCOMMON	
+31	dementia	ethanol	0.20863	organic chemical	EXCOMMON	
+32	depression	ethanol	0.24378	organic chemical	EXCOMMON	
+33	depressive-disorder	ethanol	0.24258	organic chemical	EXCOMMON	
+35	disorders-of-excessive-somnolence	ethanol	0.28	organic chemical	EXCOMMON	
+37	dissociative-disorders	active brand of pseudoephedrine-triprolidine	0.125	organic chemical	EXCOMMON	
+39	dyssomnias	ethanol	0.18067	organic chemical	EXCOMMON	
+40	dysthymic-disorder	ethanol	0.34849	organic chemical	EXCOMMON	
+40	dysthymic-disorder	active brand of pseudoephedrine-triprolidine	0.31818	organic chemical	EXCOMMON	
+41	eating-disorders	ethanol	0.19565	organic chemical	EXCOMMON	
+43	food-habits	ethanol	0.17857	organic chemical	EXCOMMON	
+46	gambling	ethanol	0.13889	organic chemical	EXCOMMON	
+46	gambling	active brand of pseudoephedrine-triprolidine	0.13889	organic chemical	EXCOMMON	
+47	habits	ethanol	0.17723	organic chemical	EXCOMMON	
+48	heroin-dependence	ethanol	0.26966	organic chemical	EXCOMMON	
+48	heroin-dependence	active brand of pseudoephedrine-triprolidine	0.20224	organic chemical	EXCOMMON	
+49	impulse-control-disorders	ethanol	0.2043	organic chemical	EXCOMMON	
+50	impulsive-behavior	ethanol	0.17672	organic chemical	EXCOMMON	
+51	learning-disorders	ethanol	0.05844	organic chemical	EXCOMMON	
+52	marijuana-abuse	ethanol	0.23044	organic chemical	EXCOMMON	
+53	mental-disorders	ethanol	0.18791	organic chemical	EXCOMMON	
+55	mental-fatigue	ethanol	0.14754	organic chemical	EXCOMMON	
+57	mood-disorders	ethanol	0.2452	organic chemical	EXCOMMON	
+61	opioid-related-disorders	ethanol	0.26823	organic chemical	EXCOMMON	
+61	opioid-related-disorders	benzodiazepines	0.17177	organic chemical	EXCOMMON	
+62	panic-disorder	ethanol	0.33834	organic chemical	EXCOMMON	
+63	parasomnias	ethanol	0.17661	organic chemical	EXCOMMON	
+65	phobic-disorders	ethanol	0.20915	organic chemical	EXCOMMON	
+66	pick-disease-of-the-brain	ethanol	0.1875	organic chemical	EXCOMMON	
+67	psychotic-disorders	ethanol	0.19217	organic chemical	EXCOMMON	
+70	schizophrenia	ethanol	0.21117	organic chemical	EXCOMMON	
+71	schizophrenia-and-disorders-with-psychotic-features	ethanol	0.21231	organic chemical	EXCOMMON	
+74	sleep-disorders	ethanol	0.17615	organic chemical	EXCOMMON	
+75	sleep-initiation-and-maintenance-disorders	ethanol	0.32876	organic chemical	EXCOMMON	
+76	smoking	ethanol	0.18763	organic chemical	EXCOMMON	
+77	somatoform-disorders	ethanol	0.14458	organic chemical	EXCOMMON	
+80	suicidal-ideation	ethanol	0.24	organic chemical	EXCOMMON	
+81	suicide	ethanol	0.12429	organic chemical	EXCOMMON	
+83	tobacco-use-disorder	ethanol	0.21547	organic chemical	EXCOMMON	
+1	adjustment-disorders	bilirubin	0.07469	organic chemical	INCOMMON	
+4	aggression	bilirubin	0.16756	organic chemical	INCOMMON	
+5	alcohol-drinking	multiple endocrine neoplasia	0.13731	organic chemical	INCOMMON	
+5	alcohol-drinking	ethanol	0.0806	organic chemical	INCOMMON	
+6	alcohol-related-disorders	ethanol	0.25714	organic chemical	INCOMMON	
+6	alcohol-related-disorders	multiple endocrine neoplasia	0.12714	organic chemical	INCOMMON	
+7	alcoholism	ethanol	0.24953	organic chemical	INCOMMON	
+7	alcoholism	multiple endocrine neoplasia	0.13233	organic chemical	INCOMMON	
+8	alzheimer-disease	relate - vinyl resin	0.11941	organic chemical	INCOMMON	
+10	amphetamine-related-disorders	methamphetamine	0.22	organic chemical	INCOMMON	
+24	combat-disorders	relate - vinyl resin	0.09575	organic chemical	INCOMMON	
+24	combat-disorders	valproic acid	0.06383	organic chemical	INCOMMON	
+29	conversion-disorder	relate - vinyl resin	0.0442	organic chemical	INCOMMON	
+30	delirium	relate - vinyl resin	0.06203	organic chemical	INCOMMON	
+38	drinking-behavior	multiple endocrine neoplasia	0.13825	organic chemical	INCOMMON	
+38	drinking-behavior	ethanol	0.11982	organic chemical	INCOMMON	
+42	erectile-dysfunction	multiple endocrine neoplasia	0.17301	organic chemical	INCOMMON	
+43	food-habits	multiple endocrine neoplasia	0.05953	organic chemical	INCOMMON	
+50	impulsive-behavior	opioids	0.05173	organic chemical	INCOMMON	
+51	learning-disorders	multiple endocrine neoplasia	0.03896	organic chemical	INCOMMON	
+52	marijuana-abuse	marihuana	0.22609	organic chemical	INCOMMON	
+52	marijuana-abuse	cannabis abuse	0.06087	organic chemical	INCOMMON	
+53	mental-disorders	multiple endocrine neoplasia	0.04133	organic chemical	INCOMMON	
+58	neurocirculatory-asthenia	multiple system atrophy	0.09322	organic chemical	INCOMMON	
+60	obsessive-compulsive-disorder	clomipramine	0.07732	organic chemical	INCOMMON	
+61	opioid-related-disorders	opioids	0.24235	organic chemical	INCOMMON	
+66	pick-disease-of-the-brain	cholinesterase inhibitors	0.0375	organic chemical	INCOMMON	
+67	psychotic-disorders	multiple endocrine neoplasia	0.04232	organic chemical	INCOMMON	
+72	self-injurious-behavior	valproic acid	0.06433	organic chemical	INCOMMON	
+73	sleep-deprivation	electrocardiogram	0.04	organic chemical	INCOMMON	
+76	smoking	cotinine	0.02502	organic chemical	INCOMMON	
+78	substance-related-disorders	multiple endocrine neoplasia	0.04548	organic chemical	INCOMMON	
+79	substance-withdrawal-syndrome	opioids	0.1519	organic chemical	INCOMMON	
+81	suicide	valproic acid	0.0678	organic chemical	INCOMMON	
+81	suicide	bilirubin	0.02825	organic chemical	INCOMMON	

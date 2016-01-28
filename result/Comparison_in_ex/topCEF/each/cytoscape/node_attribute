@@ -1,0 +1,435 @@
+somatoform-disorders	Disease
+binge-eating-disorder	Disease
+mood-disorders	Disease
+consciousness-disorders	Disease
+alcohol-related-disorders	Disease
+eating-disorders	Disease
+compulsive-behavior	Disease
+amphetamine-related-disorders	Disease
+aggression	Disease
+psychotic-disorders	Disease
+dementia	Disease
+developmental-disabilities	Disease
+disorders-of-excessive-somnolence	Disease
+depression	Disease
+autistic-disorder	Disease
+child-behavior-disorders	Disease
+dyssomnias	Disease
+mental-fatigue	Disease
+mental-disorders-diagnosed-in-childhood	Disease
+frontotemporal-lobar-degeneration	Disease
+borderline-personality-disorder	Disease
+depressive-disorder	Disease
+asperger-syndrome	Disease
+attention-deficit-and-disruptive-behavior-disorders	Disease
+communication-disorders	Disease
+panic-disorder	Disease
+personality-disorders	Disease
+drinking-behavior	Disease
+alcohol-drinking	Disease
+mental-disorders	Disease
+parasomnias	Disease
+substance-withdrawal-syndrome	Disease
+impulse-control-disorders	Disease
+disorders-of-sex-development	Disease
+sleep-deprivation	Disease
+neurocirculatory-asthenia	Disease
+sleep-initiation-and-maintenance-disorders	Disease
+amnesia	Disease
+bipolar-disorder	Disease
+affective-disorders-psychotic	Disease
+learning-disorders	Disease
+gambling	Disease
+erectile-dysfunction	Disease
+alcoholism	Disease
+restless-legs-syndrome	Disease
+tobacco-use-disorder	Disease
+adjustment-disorders	Disease
+quality-of-life	Disease
+self-injurious-behavior	Disease
+affective-symptoms	Disease
+schizophrenia	Disease
+phobic-disorders	Disease
+combat-disorders	Disease
+heroin-dependence	Disease
+substance-related-disorders	Disease
+food-habits	Disease
+attention-deficit-disorder-with-hyperactivity	Disease
+mental-retardation	Disease
+conversion-disorder	Disease
+suicide	Disease
+conduct-disorder	Disease
+alzheimer-disease	Disease
+sleep-disorders	Disease
+dissociative-disorders	Disease
+tourette-syndrome	Disease
+smoking	Disease
+opioid-related-disorders	Disease
+behavioral-symptoms	Disease
+schizophrenia-and-disorders-with-psychotic-features	Disease
+impulsive-behavior	Disease
+dysthymic-disorder	Disease
+obsessive-behavior	Disease
+cognition-disorders	Disease
+anorexia-nervosa	Disease
+marijuana-abuse	Disease
+cocaine-related-disorders	Disease
+habits	Disease
+suicidal-ideation	Disease
+pick-disease-of-the-brain	Disease
+delirium	Disease
+frontotemporal-dementia	Disease
+anxiety-disorders	Disease
+tic-disorders	Disease
+obsessive-compulsive-disorder	Disease
+suicidal	CEF
+alcohol use disorder	CEF
+hormone therapy	CEF
+kidney diseases	CEF
+endometrial stromal sarcoma	CEF
+trichotillomania	CEF
+psychotic disorders	CEF
+treatment protocols	CEF
+skin prick test	CEF
+suicide	CEF
+cataract anterior polar	CEF
+gilles de la tourette syndrome	CEF
+rhythm	CEF
+adrenal cortex	CEF
+integumentary scale	CEF
+esthesia	CEF
+benzodiazepines	CEF
+tomography optical coherence	CEF
+shift worker	CEF
+erotic interest	CEF
+pharmacologic substance	CEF
+multiple sleep latency test	CEF
+organic disorders	CEF
+pharmaceutical adjuvants	CEF
+homicidal	CEF
+postural orthostatic tachycardia syndrome	CEF
+progesterone	CEF
+sedation	CEF
+myocardial infarction	CEF
+obesity	CEF
+positive finding	CEF
+sleep apnea obstructive	CEF
+illicit drugs	CEF
+severe combined immunodeficiency	CEF
+electroconvulsive therapy	CEF
+trisomy	CEF
+semantic dementia	CEF
+karyotype result	CEF
+bipolar disorder	CEF
+substance dependence	CEF
+cholinesterase inhibitors	CEF
+febrile convulsions	CEF
+patient characteristics	CEF
+leg	CEF
+suicidality	CEF
+penile erection	CEF
+ethanol	CEF
+drugs non-prescription	CEF
+osteochondritis dissecans	CEF
+karnofsky performance status	CEF
+glycogen storage disease type ii	CEF
+mental depression	CEF
+restless legs syndrome	CEF
+mental retardation	CEF
+operative surgical procedures	CEF
+congenital abnormality	CEF
+hearing examination finding	CEF
+anorexia nervosa	CEF
+hypothalamic structure	CEF
+pregnancy test negative	CEF
+self-harm	CEF
+attention deficit disorder	CEF
+primary insomnia	CEF
+phobia social	CEF
+opiate addiction	CEF
+pregnancy tests	CEF
+opiates	CEF
+counter brand of terbufos	CEF
+revision procedure	CEF
+opioids	CEF
+suicide risk	CEF
+hypertensive disease	CEF
+hemoglobin	CEF
+neuroleptic malignant syndrome	CEF
+weighing patient	CEF
+mini-mental status exam	CEF
+aspartate transaminase	CEF
+weeks pregnant	CEF
+hypersensitivity	CEF
+combat exposure	CEF
+sitting position	CEF
+sleep apnea syndromes	CEF
+malignant syndrome nos	CEF
+fatigue	CEF
+tic motor	CEF
+behaviorial habits	CEF
+neck	CEF
+biological response modifier therapy	CEF
+developmental disabilities	CEF
+cannabis abuse	CEF
+comatose	CEF
+dysthymic disorder	CEF
+skeletal bone	CEF
+epilepsy	CEF
+diabetes mellitus	CEF
+rhegmatogenous retinal detachment	CEF
+rehabilitation therapy	CEF
+nicotine dependence	CEF
+pharmacotherapy	CEF
+diabetes mellitus non-insulin-dependent	CEF
+personality disorders	CEF
+contraceptive methods	CEF
+body mass index	CEF
+sterility	CEF
+self-injurious behavior	CEF
+arteriopathic disease	CEF
+lightheadedness	CEF
+diastasis	CEF
+aphasia	CEF
+alcohol abuse	CEF
+lymphoma non-hodgkin	CEF
+hormone receptor	CEF
+aphasia progressive	CEF
+cognitive therapy	CEF
+lung	CEF
+communication impairment	CEF
+nicotine	CEF
+severity of symptoms	CEF
+current every day smoker	CEF
+kidney transplantation	CEF
+alcoholic intoxication chronic	CEF
+anxiety generalized	CEF
+visual analog pain scale	CEF
+depression scale	CEF
+observation - diagnostic procedure	CEF
+refusal	CEF
+chorionic gonadotropin	CEF
+antihistamines	CEF
+generalized anxiety disorder	CEF
+xanthine	CEF
+valproic acid	CEF
+ecog performance status	CEF
+sleeplessness	CEF
+lactation	CEF
+memory observations	CEF
+folic acid	CEF
+cardiac conduction	CEF
+retinal pigment epithelial detachment	CEF
+family history	CEF
+reticulosarcoma	CEF
+combined modality therapy	CEF
+b-cell lymphomas	CEF
+spermatocidal agents	CEF
+thyroid gland	CEF
+clomipramine	CEF
+vagina	CEF
+intravenous infusion procedures	CEF
+unstable status	CEF
+cannabis dependence	CEF
+personality inventories	CEF
+bee pollen	CEF
+moderate dementia	CEF
+pure autonomic failure	CEF
+insidious onset of symptoms	CEF
+social anxiety	CEF
+gene therapy	CEF
+attention deficit hyperactivity disorder	CEF
+body fluid discharge	CEF
+explosive personality disorder	CEF
+dementia	CEF
+major depressive disorder	CEF
+current smoker	CEF
+corrected visual acuity	CEF
+liver diseases	CEF
+physical assessment findings	CEF
+structured diagnostic interview	CEF
+falls	CEF
+hoxa10 protein human	CEF
+cerebrovascular accident	CEF
+malignant neoplasms	CEF
+multiple endocrine neoplasia	CEF
+phobic anxiety disorder	CEF
+medical contraindication	CEF
+mental disorders	CEF
+hunger	CEF
+cocaine dependence	CEF
+hyperactive behavior	CEF
+creatinine clearance	CEF
+panic disorder	CEF
+asperger syndrome	CEF
+substance abuse problem	CEF
+anti-anxiety agents	CEF
+lung diseases obstructive	CEF
+pervasive development disorder	CEF
+nerve sparing	CEF
+hiv	CEF
+retinitis pigmentosa	CEF
+alanine transaminase	CEF
+malaise	CEF
+breast	CEF
+panic disorder with agoraphobia	CEF
+neoplasm metastasis	CEF
+palpation	CEF
+diethylstilbestrol	CEF
+tropical spastic paraparesis	CEF
+normal intelligence	CEF
+cardiovascular diseases	CEF
+body part	CEF
+dizziness	CEF
+uveitis	CEF
+gastrointestinal diseases	CEF
+unmarried	CEF
+immunologic deficiency syndromes	CEF
+schizophrenia	CEF
+dermatologic disorders	CEF
+asleep	CEF
+relate - vinyl resin	CEF
+infusion of drug	CEF
+prostaglandins	CEF
+frontotemporal dementia	CEF
+prostate carcinoma	CEF
+antipsychotic agents	CEF
+mechanical detachment	CEF
+heavy drinking	CEF
+eating disorders	CEF
+atrophic	CEF
+research outcome	CEF
+hiv-1	CEF
+pain disorder	CEF
+tic disorder	CEF
+bulimia nervosa	CEF
+obsessive compulsive behavior	CEF
+anaplastic oligodendroglioma	CEF
+tractional retinal detachment	CEF
+sleep disorders	CEF
+recurrent disease	CEF
+medical history	CEF
+memory impairment	CEF
+allergy severity - severe	CEF
+electrocardiogram	CEF
+fat protein human	CEF
+depressive episode unspecified	CEF
+electrocorticogram	CEF
+anticoagulants	CEF
+ideal body weight	CEF
+borderline personality disorder	CEF
+contraception barrier	CEF
+turner syndrome	CEF
+cardiac arrhythmia	CEF
+marihuana	CEF
+dactinomycin	CEF
+autistic disorder	CEF
+niemann-pick diseases	CEF
+screening for cancer	CEF
+psychotherapy	CEF
+hyperphagia	CEF
+bone metabolism	CEF
+liver function	CEF
+depression score	CEF
+monoamine oxidase inhibitors	CEF
+knee pain	CEF
+bipolar i disorder	CEF
+national origin	CEF
+puncture wound	CEF
+agitation	CEF
+stress disorders traumatic	CEF
+investigational new drugs	CEF
+compulsive disorder	CEF
+injury wounds	CEF
+psychoactive substances	CEF
+drug abuse	CEF
+polysomnography	CEF
+smoke	CEF
+gambling pathological	CEF
+multiple system atrophy	CEF
+brain diseases	CEF
+depressed mood	CEF
+alcohol withdrawal delirium	CEF
+hiv negative finding	CEF
+separation anxiety disorder	CEF
+smoker	CEF
+mass of body structure	CEF
+mild cognitive disorder	CEF
+psychotic symptoms	CEF
+carbon monoxide diffusing capability test	CEF
+panic attacks	CEF
+autism spectrum disorders	CEF
+carbon monoxide	CEF
+abnormal degeneration	CEF
+gclc protein human	CEF
+congestive heart failure	CEF
+binge eating disorder	CEF
+craniocerebral trauma	CEF
+autonomic dysfunction	CEF
+negative finding	CEF
+moderate adverse event	CEF
+delirium dementia amnestic cognitive disorders	CEF
+narcolepsy	CEF
+anxiety disorders	CEF
+general health	CEF
+schizoaffective disorder	CEF
+urine sample	CEF
+cdr1 protein human	CEF
+hepatic	CEF
+actual effective weight	CEF
+therapeutic radiology procedure	CEF
+hair	CEF
+cotinine	CEF
+breast carcinoma	CEF
+hypotension orthostatic	CEF
+claustrophobia	CEF
+pharmaceutical preparations	CEF
+methamphetamine	CEF
+personal satisfaction	CEF
+active brand of pseudoephedrine-triprolidine	CEF
+adverse reaction to drug	CEF
+psychotropic drugs	CEF
+nitric oxide synthase	CEF
+anticonvulsants	CEF
+complex regional pain syndromes	CEF
+glaucoma	CEF
+disease of diaphragm	CEF
+primary amyloidosis	CEF
+heart diseases	CEF
+deterioration of status	CEF
+unipolar depression	CEF
+gravidity	CEF
+post-traumatic stress disorder	CEF
+progressive disease	CEF
+blood vessel	CEF
+pain score	CEF
+presyncope	CEF
+acute respiratory failure	CEF
+obsessive-compulsive disorder	CEF
+observation of attack	CEF
+impaired cognition	CEF
+prader-willi syndrome	CEF
+brain injuries	CEF
+heart rate	CEF
+aggressive behavior	CEF
+kidney	CEF
+suicide attempt	CEF
+recurrent episodes of binge eating	CEF
+antidepressive agents	CEF
+bilirubin	CEF
+chocolate allergenic extract	CEF
+nervous system disorder	CEF
+narcotics	CEF
+erectile dysfunction	CEF
+sexually active	CEF
+behavior therapy	CEF
+tic vocal	CEF
+mild adverse event	CEF
+alcohol consumption	CEF
+homicidal ideation	CEF
+hemodynamic instability	CEF
+treatment and maintenance	CEF
+disulfiram	CEF
+amenorrhea	CEF
+cataract adverse event	CEF
+chronic disease	CEF

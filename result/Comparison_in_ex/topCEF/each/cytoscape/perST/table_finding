@@ -1,0 +1,400 @@
+1	adjustment-disorders	suicidal	0.03734	finding	EXUNIQUE	
+3	affective-symptoms	hypersensitivity	0.1575	finding	EXUNIQUE	
+5	alcohol-drinking	suicidal	0.12239	finding	EXUNIQUE	
+5	alcohol-drinking	unstable status	0.11642	finding	EXUNIQUE	
+6	alcohol-related-disorders	homicidal ideation	0.03857	finding	EXUNIQUE	
+9	amnesia	hypersensitivity	0.17647	finding	EXUNIQUE	
+10	amphetamine-related-disorders	hypertensive disease	0.26	finding	EXUNIQUE	
+10	amphetamine-related-disorders	suicidal	0.24	finding	EXUNIQUE	
+11	anorexia-nervosa	hypersensitivity	0.11224	finding	EXUNIQUE	
+11	anorexia-nervosa	malignant neoplasms	0.09184	finding	EXUNIQUE	
+12	anxiety-disorders	suicide risk	0.03695	finding	EXUNIQUE	
+13	asperger-syndrome	gravidity	0.17241	finding	EXUNIQUE	
+13	asperger-syndrome	suicidal	0.15517	finding	EXUNIQUE	
+16	autistic-disorder	hypertensive disease	0.06173	finding	EXUNIQUE	
+16	autistic-disorder	research outcome	0.05185	finding	EXUNIQUE	
+18	binge-eating-disorder	hypersensitivity	0.09836	finding	EXUNIQUE	
+19	bipolar-disorder	cardiac arrhythmia	0.03617	finding	EXUNIQUE	
+20	borderline-personality-disorder	unstable status	0.16418	finding	EXUNIQUE	
+21	child-behavior-disorders	family history	0.04784	finding	EXUNIQUE	
+21	child-behavior-disorders	suicide attempt	0.03858	finding	EXUNIQUE	
+22	cocaine-related-disorders	hypertensive disease	0.17582	finding	EXUNIQUE	
+22	cocaine-related-disorders	myocardial infarction	0.09615	finding	EXUNIQUE	
+25	communication-disorders	medical contraindication	0.03109	finding	EXUNIQUE	
+26	compulsive-behavior	hypersensitivity	0.11934	finding	EXUNIQUE	
+26	compulsive-behavior	suicide attempt	0.0823	finding	EXUNIQUE	
+28	consciousness-disorders	hypersensitivity	0.20904	finding	EXUNIQUE	
+28	consciousness-disorders	medical contraindication	0.05085	finding	EXUNIQUE	
+29	conversion-disorder	glaucoma	0.07735	finding	EXUNIQUE	
+34	developmental-disabilities	hypertensive disease	0.06067	finding	EXUNIQUE	
+34	developmental-disabilities	research outcome	0.04494	finding	EXUNIQUE	
+35	disorders-of-excessive-somnolence	hypersensitivity	0.16	finding	EXUNIQUE	
+35	disorders-of-excessive-somnolence	myocardial infarction	0.10667	finding	EXUNIQUE	
+36	disorders-of-sex-development	hypersensitivity	0.10048	finding	EXUNIQUE	
+37	dissociative-disorders	glaucoma	0.20312	finding	EXUNIQUE	
+37	dissociative-disorders	hypersensitivity	0.15625	finding	EXUNIQUE	
+37	dissociative-disorders	uveitis	0.14062	finding	EXUNIQUE	
+38	drinking-behavior	suicidal	0.12442	finding	EXUNIQUE	
+38	drinking-behavior	unstable status	0.12442	finding	EXUNIQUE	
+40	dysthymic-disorder	suicidal	0.40909	finding	EXUNIQUE	
+41	eating-disorders	suicide	0.03043	finding	EXUNIQUE	
+42	erectile-dysfunction	erotic interest	0.12803	finding	EXUNIQUE	
+42	erectile-dysfunction	hypotension orthostatic	0.09689	finding	EXUNIQUE	
+43	food-habits	unstable status	0.11905	finding	EXUNIQUE	
+43	food-habits	hypertensive disease	0.09524	finding	EXUNIQUE	
+44	frontotemporal-dementia	allergy severity - severe	0.28986	finding	EXUNIQUE	
+44	frontotemporal-dementia	unstable status	0.13043	finding	EXUNIQUE	
+45	frontotemporal-lobar-degeneration	allergy severity - severe	0.34545	finding	EXUNIQUE	
+45	frontotemporal-lobar-degeneration	unstable status	0.14545	finding	EXUNIQUE	
+46	gambling	unstable status	0.15278	finding	EXUNIQUE	
+48	heroin-dependence	allergy severity - severe	0.22472	finding	EXUNIQUE	
+48	heroin-dependence	hypersensitivity	0.19101	finding	EXUNIQUE	
+49	impulse-control-disorders	unstable status	0.26882	finding	EXUNIQUE	
+52	marijuana-abuse	cardiac arrhythmia	0.07391	finding	EXUNIQUE	
+56	mental-retardation	hypersensitivity	0.14642	finding	EXUNIQUE	
+58	neurocirculatory-asthenia	hypersensitivity	0.17797	finding	EXUNIQUE	
+59	obsessive-behavior	unstable status	0.21667	finding	EXUNIQUE	
+61	opioid-related-disorders	cardiac arrhythmia	0.04941	finding	EXUNIQUE	
+62	panic-disorder	hypertensive disease	0.14286	finding	EXUNIQUE	
+62	panic-disorder	hypersensitivity	0.13534	finding	EXUNIQUE	
+65	phobic-disorders	suicidal	0.30719	finding	EXUNIQUE	
+65	phobic-disorders	unstable status	0.17647	finding	EXUNIQUE	
+66	pick-disease-of-the-brain	unstable status	0.1125	finding	EXUNIQUE	
+69	restless-legs-syndrome	hypotension orthostatic	0.15504	finding	EXUNIQUE	
+69	restless-legs-syndrome	unstable status	0.14729	finding	EXUNIQUE	
+69	restless-legs-syndrome	shift worker	0.12403	finding	EXUNIQUE	
+72	self-injurious-behavior	gravidity	0.12281	finding	EXUNIQUE	
+73	sleep-deprivation	unstable status	0.10667	finding	EXUNIQUE	
+77	somatoform-disorders	suicidal	0.14458	finding	EXUNIQUE	
+77	somatoform-disorders	hypersensitivity	0.13253	finding	EXUNIQUE	
+79	substance-withdrawal-syndrome	hypersensitivity	0.25316	finding	EXUNIQUE	
+79	substance-withdrawal-syndrome	unstable status	0.21519	finding	EXUNIQUE	
+79	substance-withdrawal-syndrome	depressed mood	0.20253	finding	EXUNIQUE	
+80	suicidal-ideation	gravidity	0.12	finding	EXUNIQUE	
+80	suicidal-ideation	hypertensive disease	0.1	finding	EXUNIQUE	
+81	suicide	gravidity	0.10734	finding	EXUNIQUE	
+81	suicide	impaired cognition	0.0791	finding	EXUNIQUE	
+81	suicide	hypersensitivity	0.05085	finding	EXUNIQUE	
+82	tic-disorders	suicidal	0.07609	finding	EXUNIQUE	
+84	tourette-syndrome	positive finding	0.1875	finding	EXUNIQUE	
+84	tourette-syndrome	suicidal	0.0875	finding	EXUNIQUE	
+1	adjustment-disorders	hiv negative finding	0.07054	finding	INUNIQUE	
+4	aggression	hiv negative finding	0.06383	finding	INUNIQUE	
+7	alcoholism	personal satisfaction	0.03214	finding	INUNIQUE	
+9	amnesia	moderate adverse event	0.07353	finding	INUNIQUE	
+9	amnesia	communication impairment	0.07353	finding	INUNIQUE	
+9	amnesia	general health	0.07353	finding	INUNIQUE	
+10	amphetamine-related-disorders	pregnancy test negative	0.12	finding	INUNIQUE	
+11	anorexia-nervosa	actual effective weight	0.04082	finding	INUNIQUE	
+14	attention-deficit-and-disruptive-behavior-disorders	personal satisfaction	0.03692	finding	INUNIQUE	
+14	attention-deficit-and-disruptive-behavior-disorders	normal intelligence	0.03538	finding	INUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	personal satisfaction	0.03828	finding	INUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	normal intelligence	0.03668	finding	INUNIQUE	
+18	binge-eating-disorder	recurrent episodes of binge eating	0.07377	finding	INUNIQUE	
+18	binge-eating-disorder	esthesia	0.06557	finding	INUNIQUE	
+18	binge-eating-disorder	general health	0.04918	finding	INUNIQUE	
+20	borderline-personality-disorder	negative finding	0.0597	finding	INUNIQUE	
+22	cocaine-related-disorders	pregnancy test negative	0.07692	finding	INUNIQUE	
+22	cocaine-related-disorders	personal satisfaction	0.04945	finding	INUNIQUE	
+22	cocaine-related-disorders	general health	0.03571	finding	INUNIQUE	
+24	combat-disorders	combat exposure	0.04255	finding	INUNIQUE	
+24	combat-disorders	pregnancy test negative	0.03191	finding	INUNIQUE	
+26	compulsive-behavior	pregnancy test negative	0.03704	finding	INUNIQUE	
+29	conversion-disorder	pregnancy test negative	0.03315	finding	INUNIQUE	
+35	disorders-of-excessive-somnolence	personal satisfaction	0.2	finding	INUNIQUE	
+35	disorders-of-excessive-somnolence	negative finding	0.13333	finding	INUNIQUE	
+36	disorders-of-sex-development	pregnancy test negative	0.03828	finding	INUNIQUE	
+36	disorders-of-sex-development	mass of body structure	0.03349	finding	INUNIQUE	
+37	dissociative-disorders	tractional retinal detachment	0.04688	finding	INUNIQUE	
+38	drinking-behavior	smoker	0.03687	finding	INUNIQUE	
+40	dysthymic-disorder	mental depression	0.06061	finding	INUNIQUE	
+42	erectile-dysfunction	sexually active	0.04844	finding	INUNIQUE	
+42	erectile-dysfunction	weighing patient	0.03806	finding	INUNIQUE	
+44	frontotemporal-dementia	hearing examination finding	0.05797	finding	INUNIQUE	
+45	frontotemporal-lobar-degeneration	hearing examination finding	0.07273	finding	INUNIQUE	
+45	frontotemporal-lobar-degeneration	mild adverse event	0.07273	finding	INUNIQUE	
+46	gambling	moderate adverse event	0.08333	finding	INUNIQUE	
+46	gambling	puncture wound	0.06944	finding	INUNIQUE	
+48	heroin-dependence	negative finding	0.08989	finding	INUNIQUE	
+49	impulse-control-disorders	progressive disease	0.03226	finding	INUNIQUE	
+50	impulsive-behavior	pregnancy test negative	0.04741	finding	INUNIQUE	
+50	impulsive-behavior	personal satisfaction	0.03017	finding	INUNIQUE	
+52	marijuana-abuse	deterioration of status	0.03478	finding	INUNIQUE	
+56	mental-retardation	weeks pregnant	0.03427	finding	INUNIQUE	
+58	neurocirculatory-asthenia	dizziness	0.08475	finding	INUNIQUE	
+58	neurocirculatory-asthenia	falls	0.08475	finding	INUNIQUE	
+58	neurocirculatory-asthenia	deterioration of status	0.07627	finding	INUNIQUE	
+60	obsessive-compulsive-disorder	severity of symptoms	0.04124	finding	INUNIQUE	
+61	opioid-related-disorders	personal satisfaction	0.03765	finding	INUNIQUE	
+62	panic-disorder	negative finding	0.06015	finding	INUNIQUE	
+62	panic-disorder	pregnancy test negative	0.03008	finding	INUNIQUE	
+65	phobic-disorders	negative finding	0.08497	finding	INUNIQUE	
+66	pick-disease-of-the-brain	hearing examination finding	0.05	finding	INUNIQUE	
+69	restless-legs-syndrome	esthesia	0.10853	finding	INUNIQUE	
+69	restless-legs-syndrome	deterioration of status	0.09302	finding	INUNIQUE	
+69	restless-legs-syndrome	malaise	0.03876	finding	INUNIQUE	
+72	self-injurious-behavior	self-harm	0.03509	finding	INUNIQUE	
+73	sleep-deprivation	personal satisfaction	0.05333	finding	INUNIQUE	
+73	sleep-deprivation	asleep	0.04	finding	INUNIQUE	
+75	sleep-initiation-and-maintenance-disorders	sexually active	0.03836	finding	INUNIQUE	
+75	sleep-initiation-and-maintenance-disorders	personal satisfaction	0.03288	finding	INUNIQUE	
+77	somatoform-disorders	insidious onset of symptoms	0.04217	finding	INUNIQUE	
+77	somatoform-disorders	sitting position	0.03614	finding	INUNIQUE	
+78	substance-related-disorders	personal satisfaction	0.03419	finding	INUNIQUE	
+79	substance-withdrawal-syndrome	personal satisfaction	0.07595	finding	INUNIQUE	
+79	substance-withdrawal-syndrome	mass of body structure	0.06329	finding	INUNIQUE	
+79	substance-withdrawal-syndrome	general health	0.05063	finding	INUNIQUE	
+82	tic-disorders	severity of symptoms	0.04348	finding	INUNIQUE	
+82	tic-disorders	personal satisfaction	0.04348	finding	INUNIQUE	
+83	tobacco-use-disorder	personal satisfaction	0.05918	finding	INUNIQUE	
+83	tobacco-use-disorder	current every day smoker	0.03035	finding	INUNIQUE	
+84	tourette-syndrome	pregnancy test negative	0.05	finding	INUNIQUE	
+1	adjustment-disorders	allergy severity - severe	0.21577	finding	EXCOMMON	
+1	adjustment-disorders	gravidity	0.11203	finding	EXCOMMON	
+1	adjustment-disorders	hypersensitivity	0.10788	finding	EXCOMMON	
+2	affective-disorders-psychotic	suicidal	0.21357	finding	EXCOMMON	
+3	affective-symptoms	gravidity	0.2925	finding	EXCOMMON	
+3	affective-symptoms	unstable status	0.2575	finding	EXCOMMON	
+3	affective-symptoms	suicidal	0.2125	finding	EXCOMMON	
+4	aggression	allergy severity - severe	0.10106	finding	EXCOMMON	
+4	aggression	hypersensitivity	0.10106	finding	EXCOMMON	
+4	aggression	gravidity	0.06117	finding	EXCOMMON	
+5	alcohol-drinking	allergy severity - severe	0.18806	finding	EXCOMMON	
+5	alcohol-drinking	gravidity	0.16417	finding	EXCOMMON	
+6	alcohol-related-disorders	gravidity	0.22572	finding	EXCOMMON	
+6	alcohol-related-disorders	allergy severity - severe	0.21571	finding	EXCOMMON	
+7	alcoholism	gravidity	0.27221	finding	EXCOMMON	
+7	alcoholism	allergy severity - severe	0.25709	finding	EXCOMMON	
+8	alzheimer-disease	allergy severity - severe	0.2195	finding	EXCOMMON	
+8	alzheimer-disease	unstable status	0.20457	finding	EXCOMMON	
+9	amnesia	allergy severity - severe	0.22059	finding	EXCOMMON	
+9	amnesia	unstable status	0.20588	finding	EXCOMMON	
+10	amphetamine-related-disorders	gravidity	0.32	finding	EXCOMMON	
+11	anorexia-nervosa	gravidity	0.21428	finding	EXCOMMON	
+12	anxiety-disorders	suicidal	0.19543	finding	EXCOMMON	
+14	attention-deficit-and-disruptive-behavior-disorders	allergy severity - severe	0.22923	finding	EXCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	allergy severity - severe	0.23126	finding	EXCOMMON	
+16	autistic-disorder	allergy severity - severe	0.15556	finding	EXCOMMON	
+16	autistic-disorder	hypersensitivity	0.14321	finding	EXCOMMON	
+18	binge-eating-disorder	gravidity	0.38525	finding	EXCOMMON	
+19	bipolar-disorder	unstable status	0.25638	finding	EXCOMMON	
+19	bipolar-disorder	gravidity	0.25106	finding	EXCOMMON	
+19	bipolar-disorder	suicidal	0.21702	finding	EXCOMMON	
+20	borderline-personality-disorder	gravidity	0.20895	finding	EXCOMMON	
+20	borderline-personality-disorder	allergy severity - severe	0.10447	finding	EXCOMMON	
+21	child-behavior-disorders	allergy severity - severe	0.16512	finding	EXCOMMON	
+22	cocaine-related-disorders	gravidity	0.26099	finding	EXCOMMON	
+23	cognition-disorders	allergy severity - severe	0.22447	finding	EXCOMMON	
+23	cognition-disorders	unstable status	0.16429	finding	EXCOMMON	
+25	communication-disorders	allergy severity - severe	0.17098	finding	EXCOMMON	
+26	compulsive-behavior	gravidity	0.22222	finding	EXCOMMON	
+26	compulsive-behavior	unstable status	0.20164	finding	EXCOMMON	
+28	consciousness-disorders	gravidity	0.11299	finding	EXCOMMON	
+29	conversion-disorder	hypersensitivity	0.18232	finding	EXCOMMON	
+29	conversion-disorder	allergy severity - severe	0.16575	finding	EXCOMMON	
+29	conversion-disorder	malignant neoplasms	0.12708	finding	EXCOMMON	
+30	delirium	allergy severity - severe	0.23073	finding	EXCOMMON	
+30	delirium	unstable status	0.16259	finding	EXCOMMON	
+31	dementia	allergy severity - severe	0.23134	finding	EXCOMMON	
+31	dementia	unstable status	0.16365	finding	EXCOMMON	
+32	depression	suicidal	0.2006	finding	EXCOMMON	
+33	depressive-disorder	suicidal	0.2015	finding	EXCOMMON	
+34	developmental-disabilities	allergy severity - severe	0.14832	finding	EXCOMMON	
+34	developmental-disabilities	hypersensitivity	0.12584	finding	EXCOMMON	
+35	disorders-of-excessive-somnolence	gravidity	0.30667	finding	EXCOMMON	
+35	disorders-of-excessive-somnolence	allergy severity - severe	0.26667	finding	EXCOMMON	
+35	disorders-of-excessive-somnolence	suicidal	0.22667	finding	EXCOMMON	
+36	disorders-of-sex-development	malignant neoplasms	0.11484	finding	EXCOMMON	
+36	disorders-of-sex-development	allergy severity - severe	0.07177	finding	EXCOMMON	
+37	dissociative-disorders	blood vessel	0.10938	finding	EXCOMMON	
+37	dissociative-disorders	cataract adverse event	0.10938	finding	EXCOMMON	
+38	drinking-behavior	allergy severity - severe	0.17051	finding	EXCOMMON	
+38	drinking-behavior	gravidity	0.15207	finding	EXCOMMON	
+39	dyssomnias	allergy severity - severe	0.16867	finding	EXCOMMON	
+39	dyssomnias	unstable status	0.16804	finding	EXCOMMON	
+39	dyssomnias	gravidity	0.15603	finding	EXCOMMON	
+40	dysthymic-disorder	unstable status	0.28788	finding	EXCOMMON	
+41	eating-disorders	gravidity	0.23696	finding	EXCOMMON	
+42	erectile-dysfunction	myocardial infarction	0.30104	finding	EXCOMMON	
+42	erectile-dysfunction	cardiac arrhythmia	0.26298	finding	EXCOMMON	
+42	erectile-dysfunction	unstable status	0.20415	finding	EXCOMMON	
+43	food-habits	gravidity	0.20238	finding	EXCOMMON	
+43	food-habits	hypersensitivity	0.13095	finding	EXCOMMON	
+44	frontotemporal-dementia	gravidity	0.1884	finding	EXCOMMON	
+45	frontotemporal-lobar-degeneration	gravidity	0.18181	finding	EXCOMMON	
+46	gambling	allergy severity - severe	0.16666	finding	EXCOMMON	
+47	habits	gravidity	0.21855	finding	EXCOMMON	
+47	habits	allergy severity - severe	0.14049	finding	EXCOMMON	
+47	habits	unstable status	0.13958	finding	EXCOMMON	
+48	heroin-dependence	gravidity	0.41573	finding	EXCOMMON	
+49	impulse-control-disorders	allergy severity - severe	0.2043	finding	EXCOMMON	
+49	impulse-control-disorders	depressed mood	0.19355	finding	EXCOMMON	
+50	impulsive-behavior	gravidity	0.21983	finding	EXCOMMON	
+51	learning-disorders	allergy severity - severe	0.14007	finding	EXCOMMON	
+51	learning-disorders	gravidity	0.08441	finding	EXCOMMON	
+52	marijuana-abuse	gravidity	0.31739	finding	EXCOMMON	
+52	marijuana-abuse	hypertensive disease	0.21304	finding	EXCOMMON	
+53	mental-disorders	unstable status	0.16062	finding	EXCOMMON	
+53	mental-disorders	gravidity	0.15925	finding	EXCOMMON	
+54	mental-disorders-diagnosed-in-childhood	allergy severity - severe	0.18327	finding	EXCOMMON	
+54	mental-disorders-diagnosed-in-childhood	hypersensitivity	0.16334	finding	EXCOMMON	
+55	mental-fatigue	gravidity	0.17213	finding	EXCOMMON	
+55	mental-fatigue	allergy severity - severe	0.10656	finding	EXCOMMON	
+56	mental-retardation	allergy severity - severe	0.12149	finding	EXCOMMON	
+56	mental-retardation	unstable status	0.09034	finding	EXCOMMON	
+56	mental-retardation	malignant neoplasms	0.09034	finding	EXCOMMON	
+57	mood-disorders	suicidal	0.20822	finding	EXCOMMON	
+58	neurocirculatory-asthenia	gravidity	0.26272	finding	EXCOMMON	
+58	neurocirculatory-asthenia	hypertensive disease	0.24576	finding	EXCOMMON	
+58	neurocirculatory-asthenia	cardiac arrhythmia	0.19492	finding	EXCOMMON	
+58	neurocirculatory-asthenia	allergy severity - severe	0.16102	finding	EXCOMMON	
+60	obsessive-compulsive-disorder	suicidal	0.26289	finding	EXCOMMON	
+61	opioid-related-disorders	gravidity	0.23529	finding	EXCOMMON	
+62	panic-disorder	suicidal	0.22556	finding	EXCOMMON	
+62	panic-disorder	unstable status	0.21053	finding	EXCOMMON	
+63	parasomnias	allergy severity - severe	0.16725	finding	EXCOMMON	
+63	parasomnias	unstable status	0.15965	finding	EXCOMMON	
+63	parasomnias	gravidity	0.15263	finding	EXCOMMON	
+64	personality-disorders	gravidity	0.16959	finding	EXCOMMON	
+66	pick-disease-of-the-brain	allergy severity - severe	0.2875	finding	EXCOMMON	
+66	pick-disease-of-the-brain	gravidity	0.175	finding	EXCOMMON	
+67	psychotic-disorders	gravidity	0.16543	finding	EXCOMMON	
+67	psychotic-disorders	unstable status	0.16359	finding	EXCOMMON	
+68	quality-of-life	allergy severity - severe	0.13715	finding	EXCOMMON	
+68	quality-of-life	gravidity	0.10795	finding	EXCOMMON	
+68	quality-of-life	hypersensitivity	0.09066	finding	EXCOMMON	
+69	restless-legs-syndrome	gravidity	0.26357	finding	EXCOMMON	
+70	schizophrenia	gravidity	0.20673	finding	EXCOMMON	
+70	schizophrenia	unstable status	0.19535	finding	EXCOMMON	
+71	schizophrenia-and-disorders-with-psychotic-features	gravidity	0.20928	finding	EXCOMMON	
+71	schizophrenia-and-disorders-with-psychotic-features	unstable status	0.19617	finding	EXCOMMON	
+72	self-injurious-behavior	allergy severity - severe	0.19298	finding	EXCOMMON	
+72	self-injurious-behavior	unstable status	0.14035	finding	EXCOMMON	
+73	sleep-deprivation	allergy severity - severe	0.12	finding	EXCOMMON	
+74	sleep-disorders	allergy severity - severe	0.17321	finding	EXCOMMON	
+74	sleep-disorders	unstable status	0.15505	finding	EXCOMMON	
+74	sleep-disorders	gravidity	0.14819	finding	EXCOMMON	
+76	smoking	gravidity	0.21045	finding	EXCOMMON	
+76	smoking	unstable status	0.14496	finding	EXCOMMON	
+76	smoking	hypersensitivity	0.14055	finding	EXCOMMON	
+77	somatoform-disorders	gravidity	0.1506	finding	EXCOMMON	
+77	somatoform-disorders	malignant neoplasms	0.14458	finding	EXCOMMON	
+78	substance-related-disorders	gravidity	0.20516	finding	EXCOMMON	
+78	substance-related-disorders	allergy severity - severe	0.14806	finding	EXCOMMON	
+78	substance-related-disorders	hypersensitivity	0.13452	finding	EXCOMMON	
+79	substance-withdrawal-syndrome	gravidity	0.31646	finding	EXCOMMON	
+79	substance-withdrawal-syndrome	allergy severity - severe	0.20254	finding	EXCOMMON	
+80	suicidal-ideation	unstable status	0.26	finding	EXCOMMON	
+80	suicidal-ideation	allergy severity - severe	0.16	finding	EXCOMMON	
+81	suicide	allergy severity - severe	0.16384	finding	EXCOMMON	
+81	suicide	unstable status	0.11299	finding	EXCOMMON	
+82	tic-disorders	gravidity	0.20652	finding	EXCOMMON	
+82	tic-disorders	hypersensitivity	0.19565	finding	EXCOMMON	
+83	tobacco-use-disorder	gravidity	0.2519	finding	EXCOMMON	
+83	tobacco-use-disorder	unstable status	0.17451	finding	EXCOMMON	
+84	tourette-syndrome	depressed mood	0.1875	finding	EXCOMMON	
+1	adjustment-disorders	pregnancy test negative	0.07054	finding	INCOMMON	
+1	adjustment-disorders	creatinine clearance	0.05394	finding	INCOMMON	
+2	affective-disorders-psychotic	depressed mood	0.16798	finding	INCOMMON	
+3	affective-symptoms	depressed mood	0.27	finding	INCOMMON	
+8	alzheimer-disease	mild adverse event	0.22739	finding	INCOMMON	
+8	alzheimer-disease	communication impairment	0.09219	finding	INCOMMON	
+9	amnesia	mild adverse event	0.2353	finding	INCOMMON	
+9	amnesia	memory observations	0.22059	finding	INCOMMON	
+9	amnesia	memory impairment	0.08823	finding	INCOMMON	
+9	amnesia	impaired cognition	0.07353	finding	INCOMMON	
+10	amphetamine-related-disorders	mass of body structure	0.18	finding	INCOMMON	
+10	amphetamine-related-disorders	negative finding	0.16	finding	INCOMMON	
+11	anorexia-nervosa	weighing patient	0.15306	finding	INCOMMON	
+12	anxiety-disorders	anxiety disorders	0.10598	finding	INCOMMON	
+14	attention-deficit-and-disruptive-behavior-disorders	hyperactive behavior	0.14462	finding	INCOMMON	
+14	attention-deficit-and-disruptive-behavior-disorders	negative finding	0.10616	finding	INCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	hyperactive behavior	0.15152	finding	INCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	negative finding	0.10686	finding	INCOMMON	
+17	behavioral-symptoms	depressed mood	0.09329	finding	INCOMMON	
+19	bipolar-disorder	depressed mood	0.13405	finding	INCOMMON	
+21	child-behavior-disorders	hyperactive behavior	0.06328	finding	INCOMMON	
+21	child-behavior-disorders	negative finding	0.04013	finding	INCOMMON	
+22	cocaine-related-disorders	positive finding	0.11813	finding	INCOMMON	
+22	cocaine-related-disorders	negative finding	0.11813	finding	INCOMMON	
+23	cognition-disorders	mild adverse event	0.12827	finding	INCOMMON	
+23	cognition-disorders	memory observations	0.05859	finding	INCOMMON	
+25	communication-disorders	malignant neoplasms	0.04145	finding	INCOMMON	
+25	communication-disorders	unmarried	0.0285	finding	INCOMMON	
+26	compulsive-behavior	smoker	0.05761	finding	INCOMMON	
+27	conduct-disorder	negative finding	0.04329	finding	INCOMMON	
+27	conduct-disorder	depressed mood	0.04296	finding	INCOMMON	
+28	consciousness-disorders	physical assessment findings	0.05085	finding	INCOMMON	
+29	conversion-disorder	negative finding	0.05525	finding	INCOMMON	
+29	conversion-disorder	kidney transplantation	0.04973	finding	INCOMMON	
+29	conversion-disorder	unmarried	0.03868	finding	INCOMMON	
+30	delirium	mild adverse event	0.14943	finding	INCOMMON	
+30	delirium	memory observations	0.06813	finding	INCOMMON	
+31	dementia	mild adverse event	0.14742	finding	INCOMMON	
+31	dementia	memory observations	0.06907	finding	INCOMMON	
+32	depression	depressed mood	0.17511	finding	INCOMMON	
+33	depressive-disorder	depressed mood	0.17481	finding	INCOMMON	
+36	disorders-of-sex-development	negative finding	0.07655	finding	INCOMMON	
+39	dyssomnias	sleeplessness	0.07392	finding	INCOMMON	
+41	eating-disorders	mass of body structure	0.13696	finding	INCOMMON	
+42	erectile-dysfunction	erectile dysfunction	0.33564	finding	INCOMMON	
+42	erectile-dysfunction	mild adverse event	0.06228	finding	INCOMMON	
+43	food-habits	mass of body structure	0.08333	finding	INCOMMON	
+43	food-habits	weeks pregnant	0.03572	finding	INCOMMON	
+43	food-habits	obesity	0.02381	finding	INCOMMON	
+46	gambling	negative finding	0.125	finding	INCOMMON	
+47	habits	current smoker	0.04132	finding	INCOMMON	
+47	habits	negative finding	0.02571	finding	INCOMMON	
+48	heroin-dependence	positive finding	0.1573	finding	INCOMMON	
+49	impulse-control-disorders	negative finding	0.07526	finding	INCOMMON	
+50	impulsive-behavior	smoker	0.07328	finding	INCOMMON	
+50	impulsive-behavior	medical history	0.05604	finding	INCOMMON	
+53	mental-disorders	negative finding	0.05975	finding	INCOMMON	
+53	mental-disorders	mild adverse event	0.03001	finding	INCOMMON	
+54	mental-disorders-diagnosed-in-childhood	negative finding	0.0749	finding	INCOMMON	
+55	mental-fatigue	malignant neoplasms	0.2459	finding	INCOMMON	
+55	mental-fatigue	therapeutic radiology procedure	0.15573	finding	INCOMMON	
+55	mental-fatigue	hemoglobin	0.04918	finding	INCOMMON	
+57	mood-disorders	depressed mood	0.16027	finding	INCOMMON	
+58	neurocirculatory-asthenia	hypotension orthostatic	0.16102	finding	INCOMMON	
+59	obsessive-behavior	anxiety disorders	0.16667	finding	INCOMMON	
+59	obsessive-behavior	compulsive disorder	0.15	finding	INCOMMON	
+60	obsessive-compulsive-disorder	compulsive disorder	0.12886	finding	INCOMMON	
+61	opioid-related-disorders	negative finding	0.08471	finding	INCOMMON	
+62	panic-disorder	observation of attack	0.10527	finding	INCOMMON	
+62	panic-disorder	anxiety disorders	0.09775	finding	INCOMMON	
+63	parasomnias	sleeplessness	0.07134	finding	INCOMMON	
+65	phobic-disorders	anxiety disorders	0.3268	finding	INCOMMON	
+67	psychotic-disorders	negative finding	0.06079	finding	INCOMMON	
+67	psychotic-disorders	mild adverse event	0.03072	finding	INCOMMON	
+68	quality-of-life	malignant neoplasms	0.04149	finding	INCOMMON	
+68	quality-of-life	negative finding	0.03112	finding	INCOMMON	
+69	restless-legs-syndrome	agitation	0.31008	finding	INCOMMON	
+69	restless-legs-syndrome	moderate adverse event	0.10853	finding	INCOMMON	
+70	schizophrenia	negative finding	0.12759	finding	INCOMMON	
+71	schizophrenia-and-disorders-with-psychotic-features	negative finding	0.12859	finding	INCOMMON	
+72	self-injurious-behavior	suicide attempt	0.21637	finding	INCOMMON	
+72	self-injurious-behavior	negative finding	0.04678	finding	INCOMMON	
+73	sleep-deprivation	electrocardiogram	0.04	finding	INCOMMON	
+73	sleep-deprivation	rhythm	0.02667	finding	INCOMMON	
+74	sleep-disorders	sleeplessness	0.05446	finding	INCOMMON	
+74	sleep-disorders	negative finding	0.03483	finding	INCOMMON	
+75	sleep-initiation-and-maintenance-disorders	sleeplessness	0.41643	finding	INCOMMON	
+75	sleep-initiation-and-maintenance-disorders	asleep	0.07671	finding	INCOMMON	
+76	smoking	current smoker	0.05004	finding	INCOMMON	
+76	smoking	negative finding	0.04121	finding	INCOMMON	
+77	somatoform-disorders	pain score	0.05422	finding	INCOMMON	
+77	somatoform-disorders	negative finding	0.0482	finding	INCOMMON	
+78	substance-related-disorders	negative finding	0.06742	finding	INCOMMON	
+78	substance-related-disorders	smoker	0.05323	finding	INCOMMON	
+80	suicidal-ideation	suicide attempt	0.14	finding	INCOMMON	
+80	suicidal-ideation	depressed mood	0.08	finding	INCOMMON	
+81	suicide	suicide attempt	0.22034	finding	INCOMMON	
+81	suicide	negative finding	0.0339	finding	INCOMMON	
+82	tic-disorders	gilles de la tourette syndrome	0.28261	finding	INCOMMON	
+82	tic-disorders	negative finding	0.09783	finding	INCOMMON	
+83	tobacco-use-disorder	negative finding	0.05615	finding	INCOMMON	
+83	tobacco-use-disorder	physical assessment findings	0.04401	finding	INCOMMON	
+83	tobacco-use-disorder	medical history	0.03946	finding	INCOMMON	
+84	tourette-syndrome	gilles de la tourette syndrome	0.325	finding	INCOMMON	
+84	tourette-syndrome	negative finding	0.125	finding	INCOMMON	

@@ -1,0 +1,33 @@
+3	affective-symptoms	thyroid gland	0.055	body part, organ, or organ component	EXUNIQUE	
+5	alcohol-drinking	disulfiram	0.07164	body part, organ, or organ component	EXUNIQUE	
+9	amnesia	kidney	0.23529	body part, organ, or organ component	EXUNIQUE	
+18	binge-eating-disorder	kidney	0.11475	body part, organ, or organ component	EXUNIQUE	
+29	conversion-disorder	breast	0.05525	body part, organ, or organ component	EXUNIQUE	
+35	disorders-of-excessive-somnolence	lung	0.10667	body part, organ, or organ component	EXUNIQUE	
+42	erectile-dysfunction	retinitis pigmentosa	0.12457	body part, organ, or organ component	EXUNIQUE	
+52	marijuana-abuse	kidney	0.14783	body part, organ, or organ component	EXUNIQUE	
+36	disorders-of-sex-development	hypothalamic structure	0.03349	body part, organ, or organ component	INUNIQUE	
+42	erectile-dysfunction	vagina	0.03114	body part, organ, or organ component	INUNIQUE	
+49	impulse-control-disorders	hair	0.06452	body part, organ, or organ component	INUNIQUE	
+69	restless-legs-syndrome	body part	0.04651	body part, organ, or organ component	INUNIQUE	
+80	suicidal-ideation	valproic acid	0.1	body part, organ, or organ component	INUNIQUE	
+82	tic-disorders	integumentary scale	0.04348	body part, organ, or organ component	INUNIQUE	
+84	tourette-syndrome	integumentary scale	0.05	body part, organ, or organ component	INUNIQUE	
+10	amphetamine-related-disorders	kidney	0.14	body part, organ, or organ component	EXCOMMON	
+37	dissociative-disorders	blood vessel	0.10938	body part, organ, or organ component	EXCOMMON	
+56	mental-retardation	kidney	0.10592	body part, organ, or organ component	EXCOMMON	
+8	alzheimer-disease	dactinomycin	0.13345	body part, organ, or organ component	INCOMMON	
+23	cognition-disorders	dactinomycin	0.05701	body part, organ, or organ component	INCOMMON	
+24	combat-disorders	valproic acid	0.06383	body part, organ, or organ component	INCOMMON	
+29	conversion-disorder	kidney transplantation	0.04973	body part, organ, or organ component	INCOMMON	
+30	delirium	dactinomycin	0.06814	body part, organ, or organ component	INCOMMON	
+31	dementia	dactinomycin	0.06722	body part, organ, or organ component	INCOMMON	
+36	disorders-of-sex-development	skeletal bone	0.04785	body part, organ, or organ component	INCOMMON	
+44	frontotemporal-dementia	adrenal cortex	0.04348	body part, organ, or organ component	INCOMMON	
+45	frontotemporal-lobar-degeneration	adrenal cortex	0.05455	body part, organ, or organ component	INCOMMON	
+66	pick-disease-of-the-brain	adrenal cortex	0.0375	body part, organ, or organ component	INCOMMON	
+72	self-injurious-behavior	valproic acid	0.06433	body part, organ, or organ component	INCOMMON	
+79	substance-withdrawal-syndrome	disease of diaphragm	0.08861	body part, organ, or organ component	INCOMMON	
+81	suicide	valproic acid	0.0678	body part, organ, or organ component	INCOMMON	
+82	tic-disorders	gilles de la tourette syndrome	0.28261	body part, organ, or organ component	INCOMMON	
+84	tourette-syndrome	gilles de la tourette syndrome	0.325	body part, organ, or organ component	INCOMMON	

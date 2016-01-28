@@ -1,0 +1,104 @@
+1	adjustment-disorders	precipitating factors	2	clinical attribute	INUNIQUE	
+1	adjustment-disorders	feeling hopeless	2	finding	INUNIQUE	
+1	adjustment-disorders	suicide attempt	1	finding	INUNIQUE	
+1	adjustment-disorders	suicide attempt	1	mental or behavioral dysfunction	INUNIQUE	
+2	alcohol-related-disorders	liver	16	body part organ or organ component	INUNIQUE	
+2	alcohol-related-disorders	liver	16	disease or syndrome	INUNIQUE	
+2	alcohol-related-disorders	liver	16	organic chemical	INUNIQUE	
+2	alcohol-related-disorders	liver	16	pharmacologic substance	INUNIQUE	
+2	alcohol-related-disorders	alcohol withdrawal syndrome	13	disease or syndrome	INUNIQUE	
+2	alcohol-related-disorders	alcohol consumption	6	individual behavior	INUNIQUE	
+2	alcohol-related-disorders	alcoholic neuropathy	6	disease or syndrome	INUNIQUE	
+2	alcohol-related-disorders	esthesia	5	finding	INUNIQUE	
+2	alcohol-related-disorders	esthesia	5	organ or tissue function	INUNIQUE	
+3	alcoholism	alcoholic intoxication chronic	19	mental or behavioral dysfunction	INUNIQUE	
+3	alcoholism	support - dental	15	clinical attribute	INUNIQUE	
+3	alcoholism	support - dental	15	organic chemical	INUNIQUE	
+3	alcoholism	support - dental	15	pharmacologic substance	INUNIQUE	
+3	alcoholism	alcohol consumption	8	individual behavior	INUNIQUE	
+3	alcoholism	alcohol abuse	5	mental or behavioral dysfunction	INUNIQUE	
+3	alcoholism	amino acids	3	biologically active substance	INUNIQUE	
+3	alcoholism	amino acids	3	disease or syndrome	INUNIQUE	
+3	alcoholism	amino acids	3	pharmacologic substance	INUNIQUE	
+4	alzheimer-disease	brain	10	body part organ or organ component	INUNIQUE	
+4	alzheimer-disease	brain	10	disease or syndrome	INUNIQUE	
+4	alzheimer-disease	dementia	10	mental or behavioral dysfunction	INUNIQUE	
+4	alzheimer-disease	vitamins	5	organic chemical	INUNIQUE	
+4	alzheimer-disease	vitamins	5	pharmacologic substance	INUNIQUE	
+4	alzheimer-disease	senile plaques	4	acquired abnormality	INUNIQUE	
+4	alzheimer-disease	senile plaques	4	disease or syndrome	INUNIQUE	
+4	alzheimer-disease	does talk	3	finding	INUNIQUE	
+5	anorexia-nervosa	body weight decreased	4	finding	INUNIQUE	
+5	anorexia-nervosa	support - dental	4	clinical attribute	INUNIQUE	
+5	anorexia-nervosa	support - dental	4	organic chemical	INUNIQUE	
+5	anorexia-nervosa	support - dental	4	pharmacologic substance	INUNIQUE	
+5	anorexia-nervosa	does talk	3	finding	INUNIQUE	
+5	anorexia-nervosa	potassium low	2	finding	INUNIQUE	
+5	anorexia-nervosa	thyroid gland	2	body part organ or organ component	INUNIQUE	
+5	anorexia-nervosa	thyroid gland	2	disease or syndrome	INUNIQUE	
+5	anorexia-nervosa	thyroid gland	2	pharmacologic substance	INUNIQUE	
+6	asperger-syndrome	skills	4	individual behavior	INUNIQUE	
+6	asperger-syndrome	obsessions	2	mental or behavioral dysfunction	INUNIQUE	
+6	asperger-syndrome	physical findings	2	finding	INUNIQUE	
+7	attention-deficit-disorder-with-hyperactivity	amph protein human	73	biologically active substance	INUNIQUE	
+7	attention-deficit-disorder-with-hyperactivity	amph protein human	73	pharmacologic substance	INUNIQUE	
+7	attention-deficit-disorder-with-hyperactivity	uterine fibroids	41	neoplastic process	INUNIQUE	
+7	attention-deficit-disorder-with-hyperactivity	rhythm	24	finding	INUNIQUE	
+7	attention-deficit-disorder-with-hyperactivity	histone h3	24	biologically active substance	INUNIQUE	
+7	attention-deficit-disorder-with-hyperactivity	js	24	body part organ or organ component	INUNIQUE	
+8	autistic-disorder	vaccines	8	pharmacologic substance	INUNIQUE	
+8	autistic-disorder	skills	7	individual behavior	INUNIQUE	
+8	autistic-disorder	brain	3	body part organ or organ component	INUNIQUE	
+8	autistic-disorder	brain	3	disease or syndrome	INUNIQUE	
+8	autistic-disorder	today	3	antibiotic	INUNIQUE	
+8	autistic-disorder	today	3	organic chemical	INUNIQUE	
+8	autistic-disorder	pharmaceutical preparations	3	pharmacologic substance	INUNIQUE	
+9	binge-eating-disorder	bulimia	10	mental or behavioral dysfunction	INUNIQUE	
+10	bipolar-disorder	feeling hopeless	3	finding	INUNIQUE	
+10	bipolar-disorder	deterioration of status	2	finding	INUNIQUE	
+10	bipolar-disorder	support - dental	2	clinical attribute	INUNIQUE	
+10	bipolar-disorder	support - dental	2	organic chemical	INUNIQUE	
+10	bipolar-disorder	support - dental	2	pharmacologic substance	INUNIQUE	
+10	bipolar-disorder	depressive episode unspecified	2	mental or behavioral dysfunction	INUNIQUE	
+10	bipolar-disorder	precipitating factors	2	clinical attribute	INUNIQUE	
+12	child-behavior-disorders	autistic disorder	4	mental or behavioral dysfunction	INUNIQUE	
+12	child-behavior-disorders	parenting caregiver status	2	finding	INUNIQUE	
+12	child-behavior-disorders	child neglect behavior	2	finding	INUNIQUE	
+12	child-behavior-disorders	child neglect behavior	2	mental or behavioral dysfunction	INUNIQUE	
+13	cocaine-related-disorders	cocaine withdrawal	4	disease or syndrome	INUNIQUE	
+13	cocaine-related-disorders	craving	4	individual behavior	INUNIQUE	
+13	cocaine-related-disorders	agitation	3	finding	INUNIQUE	
+13	cocaine-related-disorders	agitation	3	sign or symptom	INUNIQUE	
+13	cocaine-related-disorders	addicted to cocaine	3	mental or behavioral dysfunction	INUNIQUE	
+13	cocaine-related-disorders	cocaine intoxication	2	mental or behavioral dysfunction	INUNIQUE	
+14	conduct-disorder	ethanol	1	organic chemical	INUNIQUE	
+14	conduct-disorder	ethanol	1	pharmacologic substance	INUNIQUE	
+14	conduct-disorder	behavior adaptive	1	individual behavior	INUNIQUE	
+15	conversion-disorder	diagnostic tests	3	diagnostic procedure	INUNIQUE	
+16	delirium	alcohol withdrawal delirium	7	disease or syndrome	INUNIQUE	
+16	delirium	alcohol withdrawal delirium	7	receptor	INUNIQUE	
+16	delirium	confusion	6	finding	INUNIQUE	
+16	delirium	confusion	6	mental or behavioral dysfunction	INUNIQUE	
+16	delirium	alcohol withdrawal syndrome	5	disease or syndrome	INUNIQUE	
+16	delirium	alcoholic intoxication chronic	4	mental or behavioral dysfunction	INUNIQUE	
+16	delirium	heart beat	4	organ or tissue function	INUNIQUE	
+17	dementia	dementia	30	mental or behavioral dysfunction	INUNIQUE	
+17	dementia	cerebrovascular accident	18	disease or syndrome	INUNIQUE	
+17	dementia	cerebrovascular accident	18	therapeutic or preventive procedure	INUNIQUE	
+17	dementia	brain	11	body part organ or organ component	INUNIQUE	
+17	dementia	brain	11	disease or syndrome	INUNIQUE	
+17	dementia	dementia	11	mental or behavioral dysfunction	INUNIQUE	
+17	dementia	pharmaceutical preparations	9	pharmacologic substance	INUNIQUE	
+18	depression	does talk	8	finding	INUNIQUE	
+18	depression	deterioration of status	5	finding	INUNIQUE	
+18	depression	support - dental	5	clinical attribute	INUNIQUE	
+18	depression	support - dental	5	organic chemical	INUNIQUE	
+18	depression	support - dental	5	pharmacologic substance	INUNIQUE	
+18	depression	does talk	5	finding	INUNIQUE	
+18	depression	does talk	4	finding	INUNIQUE	
+19	developmental-disabilities	uterine fibroids	37	neoplastic process	INUNIQUE	
+19	developmental-disabilities	js	24	body part organ or organ component	INUNIQUE	
+19	developmental-disabilities	coffin-siris syndrome	23	congenital abnormality	INUNIQUE	
+19	developmental-disabilities	coffin-siris syndrome	23	disease or syndrome	INUNIQUE	
+19	developmental-disabilities	histone h3	22	biologically active substance	INUNIQUE	
+19	developmental-disabilities	rhythm	15	finding	INUNIQUE	

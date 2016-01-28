@@ -1,0 +1,346 @@
+affective-symptoms	DISEASE
+electroconvulsive therapy	CEF
+amnesia	DISEASE
+cerebrovascular accident	CEF
+anorexia-nervosa	DISEASE
+malignant neoplasms	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+investigational new drugs	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+investigational new drugs	CEF
+combat-disorders	DISEASE
+psychotherapy	CEF
+combat-disorders	DISEASE
+cerebrovascular accident	CEF
+conversion-disorder	DISEASE
+investigational new drugs	CEF
+food-habits	DISEASE
+fat protein human	CEF
+obsessive-behavior	DISEASE
+behavior therapy	CEF
+pick-disease-of-the-brain	DISEASE
+investigational new drugs	CEF
+schizophrenia	DISEASE
+electroconvulsive therapy	CEF
+schizophrenia-and-disorders-with-psychotic-features	DISEASE
+electroconvulsive therapy	CEF
+sleep-initiation-and-maintenance-disorders	DISEASE
+drugs non-prescription	CEF
+substance-withdrawal-syndrome	DISEASE
+investigational new drugs	CEF
+tic-disorders	DISEASE
+behavior therapy	CEF
+tic-disorders	DISEASE
+investigational new drugs	CEF
+tourette-syndrome	DISEASE
+behavior therapy	CEF
+aggression	DISEASE
+biological response modifier therapy	CEF
+aggression	DISEASE
+combined modality therapy	CEF
+autistic-disorder	DISEASE
+revision procedure	CEF
+binge-eating-disorder	DISEASE
+hyperphagia	CEF
+combat-disorders	DISEASE
+rehabilitation therapy	CEF
+combat-disorders	DISEASE
+body fluid discharge	CEF
+developmental-disabilities	DISEASE
+revision procedure	CEF
+dissociative-disorders	DISEASE
+folic acid	CEF
+dysthymic-disorder	DISEASE
+tropical spastic paraparesis	CEF
+erectile-dysfunction	DISEASE
+nerve sparing	CEF
+gambling	DISEASE
+puncture wound	CEF
+heroin-dependence	DISEASE
+cataract anterior polar	CEF
+heroin-dependence	DISEASE
+infusion of drug	CEF
+mental-fatigue	DISEASE
+hormone therapy	CEF
+panic-disorder	DISEASE
+contraception barrier	CEF
+restless-legs-syndrome	DISEASE
+treatment protocols	CEF
+tourette-syndrome	DISEASE
+treatment protocols	CEF
+adjustment-disorders	DISEASE
+pharmacologic substance	CEF
+affective-disorders-psychotic	DISEASE
+pharmacologic substance	CEF
+aggression	DISEASE
+pharmacologic substance	CEF
+alcohol-drinking	DISEASE
+pharmacologic substance	CEF
+alcohol-related-disorders	DISEASE
+pharmacologic substance	CEF
+alcoholism	DISEASE
+pharmacologic substance	CEF
+alzheimer-disease	DISEASE
+pharmacologic substance	CEF
+amnesia	DISEASE
+pharmacologic substance	CEF
+amphetamine-related-disorders	DISEASE
+pharmacologic substance	CEF
+behavioral-symptoms	DISEASE
+pharmacologic substance	CEF
+binge-eating-disorder	DISEASE
+pharmacologic substance	CEF
+binge-eating-disorder	DISEASE
+psychotherapy	CEF
+bipolar-disorder	DISEASE
+pharmacologic substance	CEF
+borderline-personality-disorder	DISEASE
+pharmacologic substance	CEF
+cognition-disorders	DISEASE
+pharmacologic substance	CEF
+communication-disorders	DISEASE
+pharmacologic substance	CEF
+conduct-disorder	DISEASE
+pharmacologic substance	CEF
+consciousness-disorders	DISEASE
+pharmacologic substance	CEF
+conversion-disorder	DISEASE
+pharmacologic substance	CEF
+conversion-disorder	DISEASE
+malignant neoplasms	CEF
+delirium	DISEASE
+pharmacologic substance	CEF
+dementia	DISEASE
+pharmacologic substance	CEF
+depressive-disorder	DISEASE
+pharmacologic substance	CEF
+disorders-of-sex-development	DISEASE
+malignant neoplasms	CEF
+disorders-of-sex-development	DISEASE
+pharmacologic substance	CEF
+dissociative-disorders	DISEASE
+pharmacologic substance	CEF
+drinking-behavior	DISEASE
+pharmacologic substance	CEF
+dysthymic-disorder	DISEASE
+pharmacologic substance	CEF
+eating-disorders	DISEASE
+pharmacologic substance	CEF
+erectile-dysfunction	DISEASE
+cerebrovascular accident	CEF
+food-habits	DISEASE
+pharmacologic substance	CEF
+frontotemporal-dementia	DISEASE
+pharmacologic substance	CEF
+frontotemporal-dementia	DISEASE
+cerebrovascular accident	CEF
+frontotemporal-lobar-degeneration	DISEASE
+pharmacologic substance	CEF
+frontotemporal-lobar-degeneration	DISEASE
+cerebrovascular accident	CEF
+gambling	DISEASE
+pharmacologic substance	CEF
+habits	DISEASE
+pharmacologic substance	CEF
+impulse-control-disorders	DISEASE
+pharmacologic substance	CEF
+learning-disorders	DISEASE
+pharmacologic substance	CEF
+marijuana-abuse	DISEASE
+pharmacologic substance	CEF
+mental-disorders	DISEASE
+pharmacologic substance	CEF
+mental-fatigue	DISEASE
+pharmacologic substance	CEF
+mental-retardation	DISEASE
+pharmacologic substance	CEF
+mental-retardation	DISEASE
+malignant neoplasms	CEF
+mood-disorders	DISEASE
+pharmacologic substance	CEF
+neurocirculatory-asthenia	DISEASE
+pharmacologic substance	CEF
+obsessive-behavior	DISEASE
+cognitive therapy	CEF
+obsessive-behavior	DISEASE
+psychotherapy	CEF
+parasomnias	DISEASE
+pharmacologic substance	CEF
+phobic-disorders	DISEASE
+psychotherapy	CEF
+psychotic-disorders	DISEASE
+pharmacologic substance	CEF
+quality-of-life	DISEASE
+pharmacologic substance	CEF
+schizophrenia	DISEASE
+pharmacologic substance	CEF
+schizophrenia-and-disorders-with-psychotic-features	DISEASE
+pharmacologic substance	CEF
+sleep-deprivation	DISEASE
+pharmacologic substance	CEF
+sleep-disorders	DISEASE
+pharmacologic substance	CEF
+sleep-initiation-and-maintenance-disorders	DISEASE
+pharmacologic substance	CEF
+smoking	DISEASE
+pharmacologic substance	CEF
+somatoform-disorders	DISEASE
+malignant neoplasms	CEF
+substance-withdrawal-syndrome	DISEASE
+pharmacologic substance	CEF
+tobacco-use-disorder	DISEASE
+pharmacologic substance	CEF
+affective-disorders-psychotic	DISEASE
+intravenous infusion procedures	CEF
+affective-symptoms	DISEASE
+intravenous infusion procedures	CEF
+aggression	DISEASE
+contraceptive methods	CEF
+alcohol-related-disorders	DISEASE
+intravenous infusion procedures	CEF
+alcoholism	DISEASE
+intravenous infusion procedures	CEF
+alzheimer-disease	DISEASE
+dactinomycin	CEF
+amnesia	DISEASE
+cognitive therapy	CEF
+amphetamine-related-disorders	DISEASE
+intravenous infusion procedures	CEF
+amphetamine-related-disorders	DISEASE
+contraceptive methods	CEF
+anorexia-nervosa	DISEASE
+intravenous infusion procedures	CEF
+anxiety-disorders	DISEASE
+intravenous infusion procedures	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+intravenous infusion procedures	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+intravenous infusion procedures	CEF
+autistic-disorder	DISEASE
+intravenous infusion procedures	CEF
+behavioral-symptoms	DISEASE
+intravenous infusion procedures	CEF
+binge-eating-disorder	DISEASE
+intravenous infusion procedures	CEF
+bipolar-disorder	DISEASE
+intravenous infusion procedures	CEF
+borderline-personality-disorder	DISEASE
+intravenous infusion procedures	CEF
+borderline-personality-disorder	DISEASE
+contraceptive methods	CEF
+child-behavior-disorders	DISEASE
+intravenous infusion procedures	CEF
+cocaine-related-disorders	DISEASE
+intravenous infusion procedures	CEF
+cognition-disorders	DISEASE
+dactinomycin	CEF
+communication-disorders	DISEASE
+malignant neoplasms	CEF
+communication-disorders	DISEASE
+intravenous infusion procedures	CEF
+compulsive-behavior	DISEASE
+intravenous infusion procedures	CEF
+conduct-disorder	DISEASE
+intravenous infusion procedures	CEF
+consciousness-disorders	DISEASE
+sedation	CEF
+conversion-disorder	DISEASE
+kidney transplantation	CEF
+delirium	DISEASE
+dactinomycin	CEF
+dementia	DISEASE
+dactinomycin	CEF
+depression	DISEASE
+intravenous infusion procedures	CEF
+depressive-disorder	DISEASE
+intravenous infusion procedures	CEF
+developmental-disabilities	DISEASE
+intravenous infusion procedures	CEF
+disorders-of-excessive-somnolence	DISEASE
+contraceptive methods	CEF
+disorders-of-excessive-somnolence	DISEASE
+contraception barrier	CEF
+disorders-of-excessive-somnolence	DISEASE
+operative surgical procedures	CEF
+disorders-of-sex-development	DISEASE
+gene therapy	CEF
+dysthymic-disorder	DISEASE
+intravenous infusion procedures	CEF
+eating-disorders	DISEASE
+intravenous infusion procedures	CEF
+gambling	DISEASE
+intravenous infusion procedures	CEF
+heroin-dependence	DISEASE
+treatment and maintenance	CEF
+heroin-dependence	DISEASE
+contraceptive methods	CEF
+impulse-control-disorders	DISEASE
+intravenous infusion procedures	CEF
+impulsive-behavior	DISEASE
+intravenous infusion procedures	CEF
+learning-disorders	DISEASE
+intravenous infusion procedures	CEF
+learning-disorders	DISEASE
+pharmacotherapy	CEF
+marijuana-abuse	DISEASE
+intravenous infusion procedures	CEF
+marijuana-abuse	DISEASE
+contraceptive methods	CEF
+mental-disorders	DISEASE
+intravenous infusion procedures	CEF
+mental-disorders-diagnosed-in-childhood	DISEASE
+intravenous infusion procedures	CEF
+mental-fatigue	DISEASE
+malignant neoplasms	CEF
+mental-fatigue	DISEASE
+pharmacotherapy	CEF
+mental-fatigue	DISEASE
+therapeutic radiology procedure	CEF
+mental-retardation	DISEASE
+gene therapy	CEF
+mood-disorders	DISEASE
+intravenous infusion procedures	CEF
+obsessive-behavior	DISEASE
+intravenous infusion procedures	CEF
+obsessive-compulsive-disorder	DISEASE
+intravenous infusion procedures	CEF
+opioid-related-disorders	DISEASE
+intravenous infusion procedures	CEF
+panic-disorder	DISEASE
+intravenous infusion procedures	CEF
+personality-disorders	DISEASE
+intravenous infusion procedures	CEF
+phobic-disorders	DISEASE
+intravenous infusion procedures	CEF
+psychotic-disorders	DISEASE
+intravenous infusion procedures	CEF
+quality-of-life	DISEASE
+malignant neoplasms	CEF
+quality-of-life	DISEASE
+pharmacotherapy	CEF
+schizophrenia	DISEASE
+intravenous infusion procedures	CEF
+schizophrenia-and-disorders-with-psychotic-features	DISEASE
+intravenous infusion procedures	CEF
+self-injurious-behavior	DISEASE
+intravenous infusion procedures	CEF
+sleep-deprivation	DISEASE
+sedation	CEF
+sleep-initiation-and-maintenance-disorders	DISEASE
+intravenous infusion procedures	CEF
+sleep-initiation-and-maintenance-disorders	DISEASE
+contraceptive methods	CEF
+substance-related-disorders	DISEASE
+intravenous infusion procedures	CEF
+substance-withdrawal-syndrome	DISEASE
+intravenous infusion procedures	CEF
+substance-withdrawal-syndrome	DISEASE
+contraceptive methods	CEF
+suicidal-ideation	DISEASE
+intravenous infusion procedures	CEF
+suicide	DISEASE
+intravenous infusion procedures	CEF
+tic-disorders	DISEASE
+intravenous infusion procedures	CEF
+tourette-syndrome	DISEASE
+intravenous infusion procedures	CEF

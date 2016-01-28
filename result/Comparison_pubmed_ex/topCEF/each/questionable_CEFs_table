@@ -1,0 +1,171 @@
+DiseaseName	CEF	Freq.Ex	Semantic.Type	Pubmed
+tourette-syndrome	pharmaceutical preparations	0.175	pharmacologic substance	2
+tourette-syndrome	attention deficit hyperactivity disorder	0.1625	disease or syndrome - mental or behavioral dysfunction	2
+tobacco-use-disorder	pharmaceutical preparations	0.13657	pharmacologic substance	2
+tobacco-use-disorder	ethanol	0.28983	organic chemical - pharmacologic substance	1
+tobacco-use-disorder	malignant neoplasms	0.10015	biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure	1
+tic-disorders	pharmaceutical preparations	0.16304	pharmacologic substance	3
+tic-disorders	epilepsy	0.21739	disease or syndrome	2
+suicide	pharmaceutical preparations	0.0565	pharmacologic substance	5
+suicide	borderline personality disorder	0.02825	disease or syndrome - mental or behavioral dysfunction	4
+suicide	schizophrenia	0.11864	mental or behavioral dysfunction	2
+somatoform-disorders	cognitive therapy	0.04217	diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure	2
+sleep-disorders	hepatic	0.0682	body location or region	14
+sleep-disorders	sleep apnea syndromes	0.24632	disease or syndrome	3
+sleep-disorders	sleep apnea obstructive	0.12512	biologically active substance - disease or syndrome	2
+sleep-disorders	shift worker	0.08391	finding	2
+sleep-disorders	narcolepsy	0.08047	disease or syndrome	2
+sleep-disorders	caffeine	0.05103	organic chemical - pharmacologic substance - therapeutic or preventive procedure	2
+sleep-disorders	hypersensitivity	0.13641	clinical attribute - finding - pathologic function	1
+sleep-disorders	pharmaceutical preparations	0.12561	pharmacologic substance	1
+sleep-disorders	malignant neoplasms	0.09519	biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure	1
+sleep-disorders	psychotic disorders	0.07556	mental or behavioral dysfunction	1
+sleep-deprivation	sleep apnea syndromes	0.16	disease or syndrome	3
+sleep-deprivation	pharmaceutical preparations	0.13333	pharmacologic substance	2
+sleep-deprivation	shift worker	0.12	finding	2
+sleep-deprivation	narcolepsy	0.08	disease or syndrome	2
+sleep-deprivation	caffeine	0.05333	organic chemical - pharmacologic substance - therapeutic or preventive procedure	2
+sleep-deprivation	psychotic disorders	0.12	mental or behavioral dysfunction	1
+sleep-deprivation	hypersensitivity	0.10667	clinical attribute - finding - pathologic function	1
+sleep-deprivation	comatose	0.06667	congenital abnormality - disease or syndrome	1
+schizophrenia-and-disorders-with-psychotic-features	antipsychotic agents	0.24054	pharmacologic substance	2
+schizophrenia-and-disorders-with-psychotic-features	ethanol	0.23147	organic chemical - pharmacologic substance	2
+schizophrenia	antipsychotic agents	0.23689	pharmacologic substance	2
+schizophrenia	ethanol	0.23046	organic chemical - pharmacologic substance	2
+restless-legs-syndrome	pharmaceutical preparations	0.24031	pharmacologic substance	3
+restless-legs-syndrome	antipsychotic agents	0.13953	pharmacologic substance	1
+restless-legs-syndrome	peripheral neuropathy	0.09302	disease or syndrome	1
+pick-disease-of-the-brain	pharmaceutical preparations	0.1125	pharmacologic substance	6
+pick-disease-of-the-brain	magnetic resonance imaging	0.175	diagnostic procedure	1
+personality-disorders	pharmaceutical preparations	0.05556	pharmacologic substance	1
+panic-disorder	pharmaceutical preparations	0.17293	pharmacologic substance	13
+panic-disorder	ethanol	0.35338	organic chemical - pharmacologic substance	5
+panic-disorder	cognitive therapy	0.07519	diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure	4
+panic-disorder	alcohol abuse	0.06015	mental or behavioral dysfunction	3
+panic-disorder	benzodiazepines	0.1203	organic chemical - pharmacologic substance	1
+opioid-related-disorders	pharmaceutical preparations	0.12941	pharmacologic substance	1
+opioid-related-disorders	naloxone	0.06824	organic chemical - pharmacologic substance	1
+obsessive-compulsive-disorder	cognitive therapy	0.19072	diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure	3
+obsessive-compulsive-disorder	mental disorders	0.1701	mental or behavioral dysfunction	1
+obsessive-compulsive-disorder	antipsychotic agents	0.15979	pharmacologic substance	1
+obsessive-compulsive-disorder	antidepressive agents	0.1134	pharmacologic substance	1
+obsessive-compulsive-disorder	pharmaceutical preparations	0.06701	pharmacologic substance	1
+mental-fatigue	ethanol	0.15574	organic chemical - pharmacologic substance	2
+mental-fatigue	exercise pain management	0.04098	therapeutic or preventive procedure	2
+mental-fatigue	malignant neoplasms	0.14754	biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure	1
+mental-fatigue	hypersensitivity	0.12295	clinical attribute - finding - pathologic function	1
+mental-fatigue	sleep apnea syndromes	0.07377	disease or syndrome	1
+mental-fatigue	rheumatoid arthritis	0.06557	disease or syndrome - pharmacologic substance	1
+mental-fatigue	antidepressive agents	0.04098	pharmacologic substance	1
+mental-fatigue	narcolepsy	0.03279	disease or syndrome	1
+mental-fatigue	caffeine	0.03279	organic chemical - pharmacologic substance - therapeutic or preventive procedure	1
+mental-fatigue	stimulant	0.03279	pharmacologic substance	1
+marijuana-abuse	marihuana	0.43913	mental or behavioral dysfunction - organic chemical - pharmacologic substance	13
+marijuana-abuse	pharmaceutical preparations	0.18696	pharmacologic substance	2
+marijuana-abuse	psychotic disorders	0.19565	mental or behavioral dysfunction	1
+marijuana-abuse	illicit drugs	0.1	hazardous or poisonous substance - pharmacologic substance	1
+marijuana-abuse	benzodiazepines	0.06087	organic chemical - pharmacologic substance	1
+gambling	ethanol	0.18056	organic chemical - pharmacologic substance	3
+gambling	pharmaceutical preparations	0.13889	pharmacologic substance	2
+gambling	depressed mood	0.125	finding - mental or behavioral dysfunction	1
+gambling	myocardial infarction	0.09722	disease or syndrome - finding	1
+gambling	antidepressive agents	0.06944	pharmacologic substance	1
+frontotemporal-dementia	pharmaceutical preparations	0.14493	pharmacologic substance	9
+frontotemporal-dementia	ethanol	0.21739	organic chemical - pharmacologic substance	2
+frontotemporal-dementia	cerebrovascular accident	0.15942	disease or syndrome - therapeutic or preventive procedure	2
+frontotemporal-dementia	magnetic resonance imaging	0.2029	diagnostic procedure	1
+frontotemporal-dementia	antipsychotic agents	0.08696	pharmacologic substance	1
+frontotemporal-dementia	brain injuries	0.08696	injury or poisoning	1
+developmental-disabilities	hepatic	0.08989	body location or region	14
+developmental-disabilities	pharmaceutical preparations	0.09888	pharmacologic substance	3
+developmental-disabilities	developmental disabilities	0.05393	mental or behavioral dysfunction	3
+developmental-disabilities	gravidity	0.13258	finding	1
+developmental-disabilities	malignant neoplasms	0.07865	biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure	1
+developmental-disabilities	mental retardation	0.05393	mental or behavioral dysfunction	1
+developmental-disabilities	research outcome	0.04494	finding	1
+developmental-disabilities	deafness	0.04494	disease or syndrome - finding	1
+depression	pharmaceutical preparations	0.12504	pharmacologic substance	19
+depression	ethanol	0.26807	organic chemical - pharmacologic substance	10
+depression	depressed mood	0.22849	finding - mental or behavioral dysfunction	6
+depression	antidepressive agents	0.18021	pharmacologic substance	6
+depression	malignant neoplasms	0.08366	biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure	5
+depression	benign rolandic epilepsy	0.06057	disease or syndrome - therapeutic or preventive procedure	2
+depression	bipolar disorder	0.25517	mental or behavioral dysfunction	1
+depression	dementia	0.10465	mental or behavioral dysfunction	1
+depression	psychotherapy	0.09685	therapeutic or preventive procedure	1
+depression	manic	0.05667	finding - mental or behavioral dysfunction	1
+depression	cerebrovascular accident	0.05427	disease or syndrome - therapeutic or preventive procedure	1
+dementia	cerebrovascular accident	0.17524	disease or syndrome - therapeutic or preventive procedure	20
+dementia	pharmaceutical preparations	0.1516	pharmacologic substance	16
+dementia	magnetic resonance imaging	0.14047	diagnostic procedure	3
+dementia	vitamins	0.06583	organic chemical - pharmacologic substance	3
+dementia	ethanol	0.22207	organic chemical - pharmacologic substance	2
+dementia	hypertensive disease	0.09504	biologically active substance - disease or syndrome - finding	1
+dementia	antipsychotic agents	0.08716	pharmacologic substance	1
+dementia	multiple sclerosis	0.05702	body part, organ, or organ component - disease or syndrome - finding	1
+delirium	pharmaceutical preparations	0.15179	pharmacologic substance	9
+delirium	ethanol	0.22133	organic chemical - pharmacologic substance	4
+delirium	mental disorders	0.24295	mental or behavioral dysfunction	1
+delirium	cerebrovascular accident	0.17293	disease or syndrome - therapeutic or preventive procedure	1
+delirium	magnetic resonance imaging	0.14004	diagnostic procedure	1
+delirium	vitamins	0.06626	organic chemical - pharmacologic substance	1
+delirium	consciousness related finding	0.05357	finding	1
+conduct-disorder	ethanol	0.22647	organic chemical - pharmacologic substance	1
+conduct-disorder	pharmaceutical preparations	0.10512	pharmacologic substance	1
+conduct-disorder	personality disorders	0.05297	mental or behavioral dysfunction	1
+cocaine-related-disorders	ethanol	0.36538	organic chemical - pharmacologic substance	4
+cocaine-related-disorders	depressed mood	0.14286	finding - mental or behavioral dysfunction	1
+cocaine-related-disorders	benzodiazepines	0.14011	organic chemical - pharmacologic substance	1
+cocaine-related-disorders	diabetes	0.08516	disease or syndrome	1
+child-behavior-disorders	ethanol	0.08179	organic chemical - pharmacologic substance	1
+child-behavior-disorders	pharmaceutical preparations	0.06944	pharmacologic substance	1
+child-behavior-disorders	eating disorders	0.0463	mental or behavioral dysfunction	1
+borderline-personality-disorder	pharmaceutical preparations	0.0597	pharmacologic substance	1
+borderline-personality-disorder	suicide attempt	0.04478	finding - mental or behavioral dysfunction	1
+bipolar-disorder	ethanol	0.26383	organic chemical - pharmacologic substance	2
+bipolar-disorder	antidepressive agents	0.10957	pharmacologic substance	2
+bipolar-disorder	antipsychotic agents	0.16277	pharmacologic substance	1
+bipolar-disorder	depressed mood	0.10957	finding - mental or behavioral dysfunction	1
+bipolar-disorder	stabilizer - function	0.07021	organ or tissue function	1
+bipolar-disorder	benign rolandic epilepsy	0.06489	disease or syndrome - therapeutic or preventive procedure	1
+autistic-disorder	congenital abnormality	0.07901	congenital abnormality - disease or syndrome	4
+autistic-disorder	pharmaceutical preparations	0.09877	pharmacologic substance	3
+autistic-disorder	pervasive development disorder	0.0963	congenital abnormality - inorganic chemical - mental or behavioral dysfunction - pharmacologic substance	2
+autistic-disorder	developmental disabilities	0.05679	mental or behavioral dysfunction	2
+autistic-disorder	tuberous sclerosis	0.10617	body part, organ, or organ component - congenital abnormality - disease or syndrome - finding - mental or behavioral dysfunction - neoplastic process - pharmacologic substance	1
+autistic-disorder	mental retardation	0.05432	mental or behavioral dysfunction	1
+attention-deficit-disorder-with-hyperactivity	attention deficit hyperactivity disorder	0.31579	disease or syndrome - mental or behavioral dysfunction	20
+attention-deficit-disorder-with-hyperactivity	pharmaceutical preparations	0.11164	pharmacologic substance	7
+attention-deficit-disorder-with-hyperactivity	neurological observations	0.07974	finding	3
+attention-deficit-disorder-with-hyperactivity	stimulant	0.13876	pharmacologic substance	2
+attention-deficit-disorder-with-hyperactivity	ethanol	0.1563	organic chemical - pharmacologic substance	1
+attention-deficit-disorder-with-hyperactivity	disability	0.08772	finding	1
+asperger-syndrome	antipsychotic agents	0.2069	pharmacologic substance	1
+asperger-syndrome	brain	0.10345	body part, organ, or organ component - disease or syndrome	1
+asperger-syndrome	pharmaceutical preparations	0.10345	pharmacologic substance	1
+asperger-syndrome	pervasive development disorder	0.08621	congenital abnormality - inorganic chemical - mental or behavioral dysfunction - pharmacologic substance	1
+anorexia-nervosa	anorexia nervosa	0.07143	mental or behavioral dysfunction	4
+anorexia-nervosa	pharmaceutical preparations	0.06122	pharmacologic substance	3
+anorexia-nervosa	electrocardiogram	0.06122	diagnostic procedure - finding - organic chemical - pharmacologic substance	2
+anorexia-nervosa	dietary potassium	0.05102	inorganic chemical	2
+anorexia-nervosa	antipsychotic agents	0.12245	pharmacologic substance	1
+anorexia-nervosa	antidepressive agents	0.07143	pharmacologic substance	1
+anorexia-nervosa	intestines	0.04082	body part, organ, or organ component	1
+alcoholism	ethanol	0.49716	organic chemical - pharmacologic substance	49
+alcoholism	alcoholic intoxication chronic	0.15123	mental or behavioral dysfunction	19
+alcoholism	alcohol consumption	0.07183	individual behavior	8
+alcoholism	pharmaceutical preparations	0.16446	pharmacologic substance	2
+alcoholism	alcohol withdrawal syndrome	0.13989	disease or syndrome	2
+alcoholism	schizophrenia	0.20416	mental or behavioral dysfunction	1
+alcoholism	naltrexone	0.17202	organic chemical - pharmacologic substance	1
+alcoholism	disulfiram	0.16824	body part, organ, or organ component - hazardous or poisonous substance - organic chemical - pharmacologic substance	1
+alcoholism	acamprosate	0.0775	organic chemical - pharmacologic substance	1
+alcohol-related-disorders	ethanol	0.42143	organic chemical - pharmacologic substance	17
+alcohol-related-disorders	alcohol withdrawal syndrome	0.11	disease or syndrome	13
+alcohol-related-disorders	alcoholic intoxication chronic	0.12571	mental or behavioral dysfunction	9
+alcohol-related-disorders	pharmaceutical preparations	0.12714	pharmacologic substance	8
+alcohol-related-disorders	alcohol consumption	0.05857	individual behavior	8
+alcohol-related-disorders	screening for cancer	0.11714	diagnostic procedure	1
+alcohol-related-disorders	benzodiazepines	0.10857	organic chemical - pharmacologic substance	1
+adjustment-disorders	pharmaceutical preparations	0.07054	pharmacologic substance	2
+adjustment-disorders	depressed mood	0.04979	finding - mental or behavioral dysfunction	2

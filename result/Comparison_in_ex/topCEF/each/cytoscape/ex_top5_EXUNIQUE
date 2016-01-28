@@ -1,0 +1,437 @@
+1	adjustment-disorders	psychotic disorders	0.07884	mental or behavioral dysfunction	EXUNIQUE	
+1	adjustment-disorders	substance abuse problem	0.05394	mental or behavioral dysfunction	EXUNIQUE	
+1	adjustment-disorders	hemodynamic instability	0.04564	disease or syndrome	EXUNIQUE	
+1	adjustment-disorders	neck	0.04149	body location or region	EXUNIQUE	
+1	adjustment-disorders	suicidal	0.03734	finding	EXUNIQUE	
+3	affective-symptoms	hypersensitivity	0.1575	clinical attribute	EXUNIQUE	
+3	affective-symptoms	hypersensitivity	0.1575	finding	EXUNIQUE	
+3	affective-symptoms	hypersensitivity	0.1575	pathologic function	EXUNIQUE	
+3	affective-symptoms	electroconvulsive therapy	0.07	disease or syndrome	EXUNIQUE	
+3	affective-symptoms	electroconvulsive therapy	0.07	therapeutic or preventive procedure	EXUNIQUE	
+3	affective-symptoms	alcohol abuse	0.07	mental or behavioral dysfunction	EXUNIQUE	
+3	affective-symptoms	thyroid gland	0.055	body part, organ, or organ component	EXUNIQUE	
+3	affective-symptoms	thyroid gland	0.055	disease or syndrome	EXUNIQUE	
+3	affective-symptoms	thyroid gland	0.055	pharmacologic substance	EXUNIQUE	
+3	affective-symptoms	homicidal	0.05	mental or behavioral dysfunction	EXUNIQUE	
+4	aggression	bipolar disorder	0.04521	mental or behavioral dysfunction	EXUNIQUE	
+5	alcohol-drinking	suicidal	0.12239	finding	EXUNIQUE	
+5	alcohol-drinking	unstable status	0.11642	finding	EXUNIQUE	
+5	alcohol-drinking	aspartate transaminase	0.08955	enzyme	EXUNIQUE	
+5	alcohol-drinking	epilepsy	0.07463	disease or syndrome	EXUNIQUE	
+5	alcohol-drinking	disulfiram	0.07164	body part, organ, or organ component	EXUNIQUE	
+5	alcohol-drinking	disulfiram	0.07164	hazardous or poisonous substance	EXUNIQUE	
+5	alcohol-drinking	disulfiram	0.07164	organic chemical	EXUNIQUE	
+5	alcohol-drinking	disulfiram	0.07164	pharmacologic substance	EXUNIQUE	
+6	alcohol-related-disorders	nervous system disorder	0.04714	disease or syndrome	EXUNIQUE	
+6	alcohol-related-disorders	psychoactive substances	0.04571	hazardous or poisonous substance	EXUNIQUE	
+6	alcohol-related-disorders	psychoactive substances	0.04571	pharmacologic substance	EXUNIQUE	
+6	alcohol-related-disorders	alcohol withdrawal delirium	0.04571	disease or syndrome	EXUNIQUE	
+6	alcohol-related-disorders	alcohol withdrawal delirium	0.04571	receptor	EXUNIQUE	
+6	alcohol-related-disorders	lactation	0.03857	organ or tissue function	EXUNIQUE	
+6	alcohol-related-disorders	homicidal ideation	0.03857	finding	EXUNIQUE	
+7	alcoholism	nervous system disorder	0.06427	disease or syndrome	EXUNIQUE	
+7	alcoholism	alcohol withdrawal delirium	0.06049	disease or syndrome	EXUNIQUE	
+7	alcoholism	alcohol withdrawal delirium	0.06049	receptor	EXUNIQUE	
+7	alcoholism	bilirubin	0.06049	biologically active substance	EXUNIQUE	
+7	alcoholism	bilirubin	0.06049	laboratory or test result	EXUNIQUE	
+7	alcoholism	bilirubin	0.06049	organic chemical	EXUNIQUE	
+7	alcoholism	congenital abnormality	0.0586	congenital abnormality	EXUNIQUE	
+7	alcoholism	congenital abnormality	0.0586	disease or syndrome	EXUNIQUE	
+7	alcoholism	psychoactive substances	0.0586	hazardous or poisonous substance	EXUNIQUE	
+7	alcoholism	psychoactive substances	0.0586	pharmacologic substance	EXUNIQUE	
+8	alzheimer-disease	immunologic deficiency syndromes	0.05356	disease or syndrome	EXUNIQUE	
+8	alzheimer-disease	hiv	0.04741	disease or syndrome	EXUNIQUE	
+8	alzheimer-disease	hiv	0.04741	pharmacologic substance	EXUNIQUE	
+8	alzheimer-disease	hiv	0.04741	virus	EXUNIQUE	
+8	alzheimer-disease	anticoagulants	0.04302	pharmacologic substance	EXUNIQUE	
+8	alzheimer-disease	prostate carcinoma	0.03775	neoplastic process	EXUNIQUE	
+8	alzheimer-disease	narcotics	0.03512	biologically active substance	EXUNIQUE	
+8	alzheimer-disease	narcotics	0.03512	hazardous or poisonous substance	EXUNIQUE	
+8	alzheimer-disease	narcotics	0.03512	pharmacologic substance	EXUNIQUE	
+9	amnesia	epilepsy	0.23529	disease or syndrome	EXUNIQUE	
+9	amnesia	kidney	0.23529	body part, organ, or organ component	EXUNIQUE	
+9	amnesia	cerebrovascular accident	0.20588	disease or syndrome	EXUNIQUE	
+9	amnesia	cerebrovascular accident	0.20588	therapeutic or preventive procedure	EXUNIQUE	
+9	amnesia	hypersensitivity	0.17647	clinical attribute	EXUNIQUE	
+9	amnesia	hypersensitivity	0.17647	finding	EXUNIQUE	
+9	amnesia	hypersensitivity	0.17647	pathologic function	EXUNIQUE	
+9	amnesia	injury wounds	0.17647	body substance	EXUNIQUE	
+9	amnesia	injury wounds	0.17647	injury or poisoning	EXUNIQUE	
+10	amphetamine-related-disorders	hypertensive disease	0.26	biologically active substance	EXUNIQUE	
+10	amphetamine-related-disorders	hypertensive disease	0.26	disease or syndrome	EXUNIQUE	
+10	amphetamine-related-disorders	hypertensive disease	0.26	finding	EXUNIQUE	
+10	amphetamine-related-disorders	suicidal	0.24	finding	EXUNIQUE	
+10	amphetamine-related-disorders	nervous system disorder	0.22	disease or syndrome	EXUNIQUE	
+10	amphetamine-related-disorders	monoamine oxidase inhibitors	0.18	organic chemical	EXUNIQUE	
+10	amphetamine-related-disorders	monoamine oxidase inhibitors	0.18	pharmacologic substance	EXUNIQUE	
+10	amphetamine-related-disorders	psychotic disorders	0.16	mental or behavioral dysfunction	EXUNIQUE	
+11	anorexia-nervosa	diabetes mellitus	0.13265	disease or syndrome	EXUNIQUE	
+11	anorexia-nervosa	diabetes mellitus	0.13265	pharmacologic substance	EXUNIQUE	
+11	anorexia-nervosa	bipolar disorder	0.12245	mental or behavioral dysfunction	EXUNIQUE	
+11	anorexia-nervosa	hypersensitivity	0.11224	clinical attribute	EXUNIQUE	
+11	anorexia-nervosa	hypersensitivity	0.11224	finding	EXUNIQUE	
+11	anorexia-nervosa	hypersensitivity	0.11224	pathologic function	EXUNIQUE	
+11	anorexia-nervosa	bone metabolism	0.10204	organ or tissue function	EXUNIQUE	
+11	anorexia-nervosa	malignant neoplasms	0.09184	biologically active substance	EXUNIQUE	
+11	anorexia-nervosa	malignant neoplasms	0.09184	finding	EXUNIQUE	
+11	anorexia-nervosa	malignant neoplasms	0.09184	neoplastic process	EXUNIQUE	
+11	anorexia-nervosa	malignant neoplasms	0.09184	pharmacologic substance	EXUNIQUE	
+11	anorexia-nervosa	malignant neoplasms	0.09184	therapeutic or preventive procedure	EXUNIQUE	
+12	anxiety-disorders	mental retardation	0.08896	mental or behavioral dysfunction	EXUNIQUE	
+12	anxiety-disorders	suicide risk	0.03695	finding	EXUNIQUE	
+13	asperger-syndrome	substance abuse problem	0.24138	mental or behavioral dysfunction	EXUNIQUE	
+13	asperger-syndrome	gravidity	0.17241	finding	EXUNIQUE	
+13	asperger-syndrome	suicidal	0.15517	finding	EXUNIQUE	
+13	asperger-syndrome	nervous system disorder	0.13793	disease or syndrome	EXUNIQUE	
+13	asperger-syndrome	suicidality	0.12069	clinical attribute	EXUNIQUE	
+14	attention-deficit-and-disruptive-behavior-disorders	anticonvulsants	0.06308	pharmacologic substance	EXUNIQUE	
+14	attention-deficit-and-disruptive-behavior-disorders	brain diseases	0.06308	disease or syndrome	EXUNIQUE	
+14	attention-deficit-and-disruptive-behavior-disorders	investigational new drugs	0.04462	pharmacologic substance	EXUNIQUE	
+14	attention-deficit-and-disruptive-behavior-disorders	investigational new drugs	0.04462	therapeutic or preventive procedure	EXUNIQUE	
+14	attention-deficit-and-disruptive-behavior-disorders	schizoaffective disorder	0.04	mental or behavioral dysfunction	EXUNIQUE	
+14	attention-deficit-and-disruptive-behavior-disorders	organic disorders	0.03692	disease or syndrome	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	anticonvulsants	0.06539	pharmacologic substance	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	brain diseases	0.06539	disease or syndrome	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	investigational new drugs	0.04625	pharmacologic substance	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	investigational new drugs	0.04625	therapeutic or preventive procedure	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	schizoaffective disorder	0.04147	mental or behavioral dysfunction	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	organic disorders	0.03668	disease or syndrome	EXUNIQUE	
+16	autistic-disorder	substance abuse problem	0.08395	mental or behavioral dysfunction	EXUNIQUE	
+16	autistic-disorder	craniocerebral trauma	0.08395	injury or poisoning	EXUNIQUE	
+16	autistic-disorder	hypertensive disease	0.06173	biologically active substance	EXUNIQUE	
+16	autistic-disorder	hypertensive disease	0.06173	disease or syndrome	EXUNIQUE	
+16	autistic-disorder	hypertensive disease	0.06173	finding	EXUNIQUE	
+16	autistic-disorder	research outcome	0.05185	finding	EXUNIQUE	
+16	autistic-disorder	gastrointestinal diseases	0.04691	disease or syndrome	EXUNIQUE	
+18	binge-eating-disorder	substance abuse problem	0.29508	mental or behavioral dysfunction	EXUNIQUE	
+18	binge-eating-disorder	alcohol abuse	0.12295	mental or behavioral dysfunction	EXUNIQUE	
+18	binge-eating-disorder	kidney	0.11475	body part, organ, or organ component	EXUNIQUE	
+18	binge-eating-disorder	hypersensitivity	0.09836	clinical attribute	EXUNIQUE	
+18	binge-eating-disorder	hypersensitivity	0.09836	finding	EXUNIQUE	
+18	binge-eating-disorder	hypersensitivity	0.09836	pathologic function	EXUNIQUE	
+18	binge-eating-disorder	pharmaceutical preparations	0.09016	pharmacologic substance	EXUNIQUE	
+19	bipolar-disorder	cardiac arrhythmia	0.03617	finding	EXUNIQUE	
+19	bipolar-disorder	cardiac arrhythmia	0.03617	pathologic function	EXUNIQUE	
+19	bipolar-disorder	delirium dementia amnestic cognitive disorders	0.03511	mental or behavioral dysfunction	EXUNIQUE	
+20	borderline-personality-disorder	schizophrenia	0.37313	mental or behavioral dysfunction	EXUNIQUE	
+20	borderline-personality-disorder	bipolar disorder	0.37313	mental or behavioral dysfunction	EXUNIQUE	
+20	borderline-personality-disorder	psychotic disorders	0.34328	mental or behavioral dysfunction	EXUNIQUE	
+20	borderline-personality-disorder	substance dependence	0.20896	mental or behavioral dysfunction	EXUNIQUE	
+20	borderline-personality-disorder	unstable status	0.16418	finding	EXUNIQUE	
+21	child-behavior-disorders	febrile convulsions	0.05093	disease or syndrome	EXUNIQUE	
+21	child-behavior-disorders	febrile convulsions	0.05093	pharmacologic substance	EXUNIQUE	
+21	child-behavior-disorders	family history	0.04784	congenital abnormality	EXUNIQUE	
+21	child-behavior-disorders	family history	0.04784	disease or syndrome	EXUNIQUE	
+21	child-behavior-disorders	family history	0.04784	enzyme	EXUNIQUE	
+21	child-behavior-disorders	family history	0.04784	finding	EXUNIQUE	
+21	child-behavior-disorders	suicidality	0.0463	clinical attribute	EXUNIQUE	
+21	child-behavior-disorders	suicide attempt	0.03858	finding	EXUNIQUE	
+21	child-behavior-disorders	suicide attempt	0.03858	mental or behavioral dysfunction	EXUNIQUE	
+21	child-behavior-disorders	hepatic	0.03704	body location or region	EXUNIQUE	
+22	cocaine-related-disorders	hypertensive disease	0.17582	biologically active substance	EXUNIQUE	
+22	cocaine-related-disorders	hypertensive disease	0.17582	disease or syndrome	EXUNIQUE	
+22	cocaine-related-disorders	hypertensive disease	0.17582	finding	EXUNIQUE	
+22	cocaine-related-disorders	epilepsy	0.16484	disease or syndrome	EXUNIQUE	
+22	cocaine-related-disorders	heart diseases	0.12363	disease or syndrome	EXUNIQUE	
+22	cocaine-related-disorders	myocardial infarction	0.09615	disease or syndrome	EXUNIQUE	
+22	cocaine-related-disorders	myocardial infarction	0.09615	finding	EXUNIQUE	
+22	cocaine-related-disorders	craniocerebral trauma	0.09341	injury or poisoning	EXUNIQUE	
+24	combat-disorders	psychotherapy	0.12766	therapeutic or preventive procedure	EXUNIQUE	
+24	combat-disorders	antidepressive agents	0.10638	pharmacologic substance	EXUNIQUE	
+24	combat-disorders	alcoholic intoxication chronic	0.09574	mental or behavioral dysfunction	EXUNIQUE	
+24	combat-disorders	cerebrovascular accident	0.09574	disease or syndrome	EXUNIQUE	
+24	combat-disorders	cerebrovascular accident	0.09574	therapeutic or preventive procedure	EXUNIQUE	
+24	combat-disorders	mental disorders	0.09574	mental or behavioral dysfunction	EXUNIQUE	
+25	communication-disorders	claustrophobia	0.03627	mental or behavioral dysfunction	EXUNIQUE	
+25	communication-disorders	medical contraindication	0.03109	finding	EXUNIQUE	
+26	compulsive-behavior	hypersensitivity	0.11934	clinical attribute	EXUNIQUE	
+26	compulsive-behavior	hypersensitivity	0.11934	finding	EXUNIQUE	
+26	compulsive-behavior	hypersensitivity	0.11934	pathologic function	EXUNIQUE	
+26	compulsive-behavior	heart diseases	0.11523	disease or syndrome	EXUNIQUE	
+26	compulsive-behavior	suicidality	0.09877	clinical attribute	EXUNIQUE	
+26	compulsive-behavior	suicide attempt	0.0823	finding	EXUNIQUE	
+26	compulsive-behavior	suicide attempt	0.0823	mental or behavioral dysfunction	EXUNIQUE	
+26	compulsive-behavior	craniocerebral trauma	0.06996	injury or poisoning	EXUNIQUE	
+28	consciousness-disorders	hypersensitivity	0.20904	clinical attribute	EXUNIQUE	
+28	consciousness-disorders	hypersensitivity	0.20904	finding	EXUNIQUE	
+28	consciousness-disorders	hypersensitivity	0.20904	pathologic function	EXUNIQUE	
+28	consciousness-disorders	mental disorders	0.0904	mental or behavioral dysfunction	EXUNIQUE	
+28	consciousness-disorders	refusal	0.06215	organic chemical	EXUNIQUE	
+28	consciousness-disorders	refusal	0.06215	pharmacologic substance	EXUNIQUE	
+28	consciousness-disorders	cardiac conduction	0.06215	organ or tissue function	EXUNIQUE	
+28	consciousness-disorders	medical contraindication	0.05085	finding	EXUNIQUE	
+29	conversion-disorder	investigational new drugs	0.09392	pharmacologic substance	EXUNIQUE	
+29	conversion-disorder	investigational new drugs	0.09392	therapeutic or preventive procedure	EXUNIQUE	
+29	conversion-disorder	glaucoma	0.07735	disease or syndrome	EXUNIQUE	
+29	conversion-disorder	glaucoma	0.07735	finding	EXUNIQUE	
+29	conversion-disorder	mental disorders	0.07735	mental or behavioral dysfunction	EXUNIQUE	
+29	conversion-disorder	substance abuse problem	0.0663	mental or behavioral dysfunction	EXUNIQUE	
+29	conversion-disorder	breast	0.05525	body part, organ, or organ component	EXUNIQUE	
+30	delirium	immunologic deficiency syndromes	0.03618	disease or syndrome	EXUNIQUE	
+31	dementia	immunologic deficiency syndromes	0.0357	disease or syndrome	EXUNIQUE	
+34	developmental-disabilities	substance abuse problem	0.08315	mental or behavioral dysfunction	EXUNIQUE	
+34	developmental-disabilities	craniocerebral trauma	0.07865	injury or poisoning	EXUNIQUE	
+34	developmental-disabilities	hypertensive disease	0.06067	biologically active substance	EXUNIQUE	
+34	developmental-disabilities	hypertensive disease	0.06067	disease or syndrome	EXUNIQUE	
+34	developmental-disabilities	hypertensive disease	0.06067	finding	EXUNIQUE	
+34	developmental-disabilities	research outcome	0.04494	finding	EXUNIQUE	
+34	developmental-disabilities	gastrointestinal diseases	0.0382	disease or syndrome	EXUNIQUE	
+35	disorders-of-excessive-somnolence	hypersensitivity	0.16	clinical attribute	EXUNIQUE	
+35	disorders-of-excessive-somnolence	hypersensitivity	0.16	finding	EXUNIQUE	
+35	disorders-of-excessive-somnolence	hypersensitivity	0.16	pathologic function	EXUNIQUE	
+35	disorders-of-excessive-somnolence	immunologic deficiency syndromes	0.12	disease or syndrome	EXUNIQUE	
+35	disorders-of-excessive-somnolence	lung	0.10667	body part, organ, or organ component	EXUNIQUE	
+35	disorders-of-excessive-somnolence	lung	0.10667	disease or syndrome	EXUNIQUE	
+35	disorders-of-excessive-somnolence	myocardial infarction	0.10667	disease or syndrome	EXUNIQUE	
+35	disorders-of-excessive-somnolence	myocardial infarction	0.10667	finding	EXUNIQUE	
+35	disorders-of-excessive-somnolence	adverse reaction to drug	0.09333	injury or poisoning	EXUNIQUE	
+36	disorders-of-sex-development	hypersensitivity	0.10048	clinical attribute	EXUNIQUE	
+36	disorders-of-sex-development	hypersensitivity	0.10048	finding	EXUNIQUE	
+36	disorders-of-sex-development	hypersensitivity	0.10048	pathologic function	EXUNIQUE	
+36	disorders-of-sex-development	hepatic	0.07656	body location or region	EXUNIQUE	
+36	disorders-of-sex-development	ethanol	0.07177	organic chemical	EXUNIQUE	
+36	disorders-of-sex-development	ethanol	0.07177	pharmacologic substance	EXUNIQUE	
+36	disorders-of-sex-development	anaplastic oligodendroglioma	0.05263	neoplastic process	EXUNIQUE	
+36	disorders-of-sex-development	illicit drugs	0.03828	hazardous or poisonous substance	EXUNIQUE	
+36	disorders-of-sex-development	illicit drugs	0.03828	pharmacologic substance	EXUNIQUE	
+37	dissociative-disorders	glaucoma	0.20312	disease or syndrome	EXUNIQUE	
+37	dissociative-disorders	glaucoma	0.20312	finding	EXUNIQUE	
+37	dissociative-disorders	hypersensitivity	0.15625	clinical attribute	EXUNIQUE	
+37	dissociative-disorders	hypersensitivity	0.15625	finding	EXUNIQUE	
+37	dissociative-disorders	hypersensitivity	0.15625	pathologic function	EXUNIQUE	
+37	dissociative-disorders	uveitis	0.14062	disease or syndrome	EXUNIQUE	
+37	dissociative-disorders	uveitis	0.14062	finding	EXUNIQUE	
+37	dissociative-disorders	atrophic	0.10938	disease or syndrome	EXUNIQUE	
+37	dissociative-disorders	atrophic	0.10938	pathologic function	EXUNIQUE	
+37	dissociative-disorders	injury wounds	0.10938	body substance	EXUNIQUE	
+37	dissociative-disorders	injury wounds	0.10938	injury or poisoning	EXUNIQUE	
+38	drinking-behavior	psychotic disorders	0.17512	mental or behavioral dysfunction	EXUNIQUE	
+38	drinking-behavior	suicidal	0.12442	finding	EXUNIQUE	
+38	drinking-behavior	unstable status	0.12442	finding	EXUNIQUE	
+38	drinking-behavior	epilepsy	0.09217	disease or syndrome	EXUNIQUE	
+38	drinking-behavior	benzodiazepines	0.08756	organic chemical	EXUNIQUE	
+38	drinking-behavior	benzodiazepines	0.08756	pharmacologic substance	EXUNIQUE	
+40	dysthymic-disorder	psychotic disorders	0.56061	mental or behavioral dysfunction	EXUNIQUE	
+40	dysthymic-disorder	suicidal	0.40909	finding	EXUNIQUE	
+40	dysthymic-disorder	schizophrenia	0.30303	mental or behavioral dysfunction	EXUNIQUE	
+40	dysthymic-disorder	substance abuse problem	0.24242	mental or behavioral dysfunction	EXUNIQUE	
+40	dysthymic-disorder	mental retardation	0.15152	mental or behavioral dysfunction	EXUNIQUE	
+41	eating-disorders	kidney diseases	0.04348	disease or syndrome	EXUNIQUE	
+41	eating-disorders	claustrophobia	0.03043	mental or behavioral dysfunction	EXUNIQUE	
+41	eating-disorders	suicide	0.03043	finding	EXUNIQUE	
+41	eating-disorders	suicide	0.03043	mental or behavioral dysfunction	EXUNIQUE	
+41	eating-disorders	nervous system disorder	0.03043	disease or syndrome	EXUNIQUE	
+42	erectile-dysfunction	erotic interest	0.12803	finding	EXUNIQUE	
+42	erectile-dysfunction	retinitis pigmentosa	0.12457	body part, organ, or organ component	EXUNIQUE	
+42	erectile-dysfunction	retinitis pigmentosa	0.12457	disease or syndrome	EXUNIQUE	
+42	erectile-dysfunction	substance abuse problem	0.11073	mental or behavioral dysfunction	EXUNIQUE	
+42	erectile-dysfunction	hypotension orthostatic	0.09689	finding	EXUNIQUE	
+42	erectile-dysfunction	congestive heart failure	0.08651	congenital abnormality	EXUNIQUE	
+42	erectile-dysfunction	congestive heart failure	0.08651	disease or syndrome	EXUNIQUE	
+43	food-habits	pharmaceutical preparations	0.21429	pharmacologic substance	EXUNIQUE	
+43	food-habits	unstable status	0.11905	finding	EXUNIQUE	
+43	food-habits	fat protein human	0.10714	biologically active substance	EXUNIQUE	
+43	food-habits	fat protein human	0.10714	pharmacologic substance	EXUNIQUE	
+43	food-habits	fat protein human	0.10714	therapeutic or preventive procedure	EXUNIQUE	
+43	food-habits	chronic disease	0.10714	disease or syndrome	EXUNIQUE	
+43	food-habits	hypertensive disease	0.09524	biologically active substance	EXUNIQUE	
+43	food-habits	hypertensive disease	0.09524	disease or syndrome	EXUNIQUE	
+43	food-habits	hypertensive disease	0.09524	finding	EXUNIQUE	
+44	frontotemporal-dementia	allergy severity - severe	0.28986	finding	EXUNIQUE	
+44	frontotemporal-dementia	ethanol	0.21739	organic chemical	EXUNIQUE	
+44	frontotemporal-dementia	ethanol	0.21739	pharmacologic substance	EXUNIQUE	
+44	frontotemporal-dementia	substance abuse problem	0.18841	mental or behavioral dysfunction	EXUNIQUE	
+44	frontotemporal-dementia	unstable status	0.13043	finding	EXUNIQUE	
+44	frontotemporal-dementia	nervous system disorder	0.11594	disease or syndrome	EXUNIQUE	
+45	frontotemporal-lobar-degeneration	allergy severity - severe	0.34545	finding	EXUNIQUE	
+45	frontotemporal-lobar-degeneration	substance abuse problem	0.21818	mental or behavioral dysfunction	EXUNIQUE	
+45	frontotemporal-lobar-degeneration	ethanol	0.18182	organic chemical	EXUNIQUE	
+45	frontotemporal-lobar-degeneration	ethanol	0.18182	pharmacologic substance	EXUNIQUE	
+45	frontotemporal-lobar-degeneration	unstable status	0.14545	finding	EXUNIQUE	
+45	frontotemporal-lobar-degeneration	nervous system disorder	0.14545	disease or syndrome	EXUNIQUE	
+46	gambling	bipolar disorder	0.18056	mental or behavioral dysfunction	EXUNIQUE	
+46	gambling	unstable status	0.15278	finding	EXUNIQUE	
+46	gambling	substance abuse problem	0.13889	mental or behavioral dysfunction	EXUNIQUE	
+46	gambling	schizophrenia	0.13889	mental or behavioral dysfunction	EXUNIQUE	
+46	gambling	suicidality	0.125	clinical attribute	EXUNIQUE	
+47	habits	dermatologic disorders	0.03581	disease or syndrome	EXUNIQUE	
+48	heroin-dependence	allergy severity - severe	0.22472	finding	EXUNIQUE	
+48	heroin-dependence	benzodiazepines	0.20225	organic chemical	EXUNIQUE	
+48	heroin-dependence	benzodiazepines	0.20225	pharmacologic substance	EXUNIQUE	
+48	heroin-dependence	hypersensitivity	0.19101	clinical attribute	EXUNIQUE	
+48	heroin-dependence	hypersensitivity	0.19101	finding	EXUNIQUE	
+48	heroin-dependence	hypersensitivity	0.19101	pathologic function	EXUNIQUE	
+48	heroin-dependence	alanine transaminase	0.1573	congenital abnormality	EXUNIQUE	
+48	heroin-dependence	alanine transaminase	0.1573	disease or syndrome	EXUNIQUE	
+48	heroin-dependence	alanine transaminase	0.1573	enzyme	EXUNIQUE	
+48	heroin-dependence	aspartate transaminase	0.13483	enzyme	EXUNIQUE	
+49	impulse-control-disorders	psychotic disorders	0.3871	mental or behavioral dysfunction	EXUNIQUE	
+49	impulse-control-disorders	bipolar disorder	0.30108	mental or behavioral dysfunction	EXUNIQUE	
+49	impulse-control-disorders	substance abuse problem	0.26882	mental or behavioral dysfunction	EXUNIQUE	
+49	impulse-control-disorders	unstable status	0.26882	finding	EXUNIQUE	
+49	impulse-control-disorders	suicidality	0.25806	clinical attribute	EXUNIQUE	
+50	impulsive-behavior	heart diseases	0.13362	disease or syndrome	EXUNIQUE	
+50	impulsive-behavior	epilepsy	0.125	disease or syndrome	EXUNIQUE	
+50	impulsive-behavior	hepatic	0.12069	body location or region	EXUNIQUE	
+50	impulsive-behavior	dementia	0.08621	mental or behavioral dysfunction	EXUNIQUE	
+50	impulsive-behavior	craniocerebral trauma	0.07759	injury or poisoning	EXUNIQUE	
+52	marijuana-abuse	kidney	0.14783	body part, organ, or organ component	EXUNIQUE	
+52	marijuana-abuse	epilepsy	0.12609	disease or syndrome	EXUNIQUE	
+52	marijuana-abuse	bipolar disorder	0.12174	mental or behavioral dysfunction	EXUNIQUE	
+52	marijuana-abuse	cardiovascular diseases	0.11739	disease or syndrome	EXUNIQUE	
+52	marijuana-abuse	cardiac arrhythmia	0.07391	finding	EXUNIQUE	
+52	marijuana-abuse	cardiac arrhythmia	0.07391	pathologic function	EXUNIQUE	
+55	mental-fatigue	heart diseases	0.05738	disease or syndrome	EXUNIQUE	
+55	mental-fatigue	kidney diseases	0.04098	disease or syndrome	EXUNIQUE	
+55	mental-fatigue	anticoagulants	0.04098	pharmacologic substance	EXUNIQUE	
+55	mental-fatigue	drug abuse	0.04098	mental or behavioral dysfunction	EXUNIQUE	
+55	mental-fatigue	diabetes mellitus	0.03279	disease or syndrome	EXUNIQUE	
+55	mental-fatigue	diabetes mellitus	0.03279	pharmacologic substance	EXUNIQUE	
+56	mental-retardation	hypersensitivity	0.14642	clinical attribute	EXUNIQUE	
+56	mental-retardation	hypersensitivity	0.14642	finding	EXUNIQUE	
+56	mental-retardation	hypersensitivity	0.14642	pathologic function	EXUNIQUE	
+56	mental-retardation	diabetes mellitus	0.04361	disease or syndrome	EXUNIQUE	
+56	mental-retardation	diabetes mellitus	0.04361	pharmacologic substance	EXUNIQUE	
+56	mental-retardation	injury wounds	0.0405	body substance	EXUNIQUE	
+56	mental-retardation	injury wounds	0.0405	injury or poisoning	EXUNIQUE	
+56	mental-retardation	craniocerebral trauma	0.03738	injury or poisoning	EXUNIQUE	
+56	mental-retardation	hiv	0.03115	disease or syndrome	EXUNIQUE	
+56	mental-retardation	hiv	0.03115	pharmacologic substance	EXUNIQUE	
+56	mental-retardation	hiv	0.03115	virus	EXUNIQUE	
+58	neurocirculatory-asthenia	hypersensitivity	0.17797	clinical attribute	EXUNIQUE	
+58	neurocirculatory-asthenia	hypersensitivity	0.17797	finding	EXUNIQUE	
+58	neurocirculatory-asthenia	hypersensitivity	0.17797	pathologic function	EXUNIQUE	
+58	neurocirculatory-asthenia	substance abuse problem	0.15254	mental or behavioral dysfunction	EXUNIQUE	
+58	neurocirculatory-asthenia	mental disorders	0.15254	mental or behavioral dysfunction	EXUNIQUE	
+58	neurocirculatory-asthenia	active brand of pseudoephedrine-triprolidine	0.14407	organic chemical	EXUNIQUE	
+58	neurocirculatory-asthenia	active brand of pseudoephedrine-triprolidine	0.14407	pharmacologic substance	EXUNIQUE	
+58	neurocirculatory-asthenia	arteriopathic disease	0.11017	disease or syndrome	EXUNIQUE	
+59	obsessive-behavior	suicidality	0.31667	clinical attribute	EXUNIQUE	
+59	obsessive-behavior	substance abuse problem	0.3	mental or behavioral dysfunction	EXUNIQUE	
+59	obsessive-behavior	unstable status	0.21667	finding	EXUNIQUE	
+59	obsessive-behavior	mental retardation	0.21667	mental or behavioral dysfunction	EXUNIQUE	
+59	obsessive-behavior	behavior therapy	0.15	therapeutic or preventive procedure	EXUNIQUE	
+60	obsessive-compulsive-disorder	mental retardation	0.19072	mental or behavioral dysfunction	EXUNIQUE	
+60	obsessive-compulsive-disorder	suicidality	0.14433	clinical attribute	EXUNIQUE	
+60	obsessive-compulsive-disorder	substance dependence	0.13402	mental or behavioral dysfunction	EXUNIQUE	
+60	obsessive-compulsive-disorder	psychotic symptoms	0.08763	sign or symptom	EXUNIQUE	
+60	obsessive-compulsive-disorder	nicotine	0.07216	hazardous or poisonous substance	EXUNIQUE	
+60	obsessive-compulsive-disorder	nicotine	0.07216	organic chemical	EXUNIQUE	
+60	obsessive-compulsive-disorder	nicotine	0.07216	pharmacologic substance	EXUNIQUE	
+61	opioid-related-disorders	hepatic	0.09176	body location or region	EXUNIQUE	
+61	opioid-related-disorders	liver diseases	0.07765	disease or syndrome	EXUNIQUE	
+61	opioid-related-disorders	liver function	0.07059	organ or tissue function	EXUNIQUE	
+61	opioid-related-disorders	epilepsy	0.04941	disease or syndrome	EXUNIQUE	
+61	opioid-related-disorders	cardiac arrhythmia	0.04941	finding	EXUNIQUE	
+61	opioid-related-disorders	cardiac arrhythmia	0.04941	pathologic function	EXUNIQUE	
+62	panic-disorder	psychotic disorders	0.41353	mental or behavioral dysfunction	EXUNIQUE	
+62	panic-disorder	substance dependence	0.16541	mental or behavioral dysfunction	EXUNIQUE	
+62	panic-disorder	epilepsy	0.15038	disease or syndrome	EXUNIQUE	
+62	panic-disorder	hypertensive disease	0.14286	biologically active substance	EXUNIQUE	
+62	panic-disorder	hypertensive disease	0.14286	disease or syndrome	EXUNIQUE	
+62	panic-disorder	hypertensive disease	0.14286	finding	EXUNIQUE	
+62	panic-disorder	hypersensitivity	0.13534	clinical attribute	EXUNIQUE	
+62	panic-disorder	hypersensitivity	0.13534	finding	EXUNIQUE	
+62	panic-disorder	hypersensitivity	0.13534	pathologic function	EXUNIQUE	
+64	personality-disorders	substance dependence	0.12573	mental or behavioral dysfunction	EXUNIQUE	
+64	personality-disorders	suicidality	0.08187	clinical attribute	EXUNIQUE	
+64	personality-disorders	nicotine	0.04386	hazardous or poisonous substance	EXUNIQUE	
+64	personality-disorders	nicotine	0.04386	organic chemical	EXUNIQUE	
+64	personality-disorders	nicotine	0.04386	pharmacologic substance	EXUNIQUE	
+64	personality-disorders	lactation	0.03216	organ or tissue function	EXUNIQUE	
+65	phobic-disorders	psychotic disorders	0.35948	mental or behavioral dysfunction	EXUNIQUE	
+65	phobic-disorders	suicidal	0.30719	finding	EXUNIQUE	
+65	phobic-disorders	substance abuse problem	0.30065	mental or behavioral dysfunction	EXUNIQUE	
+65	phobic-disorders	mental retardation	0.17647	mental or behavioral dysfunction	EXUNIQUE	
+65	phobic-disorders	unstable status	0.17647	finding	EXUNIQUE	
+66	pick-disease-of-the-brain	substance abuse problem	0.175	mental or behavioral dysfunction	EXUNIQUE	
+66	pick-disease-of-the-brain	nervous system disorder	0.1375	disease or syndrome	EXUNIQUE	
+66	pick-disease-of-the-brain	psychotic disorders	0.1125	mental or behavioral dysfunction	EXUNIQUE	
+66	pick-disease-of-the-brain	unstable status	0.1125	finding	EXUNIQUE	
+66	pick-disease-of-the-brain	investigational new drugs	0.0875	pharmacologic substance	EXUNIQUE	
+66	pick-disease-of-the-brain	investigational new drugs	0.0875	therapeutic or preventive procedure	EXUNIQUE	
+69	restless-legs-syndrome	narcolepsy	0.1938	disease or syndrome	EXUNIQUE	
+69	restless-legs-syndrome	hypotension orthostatic	0.15504	finding	EXUNIQUE	
+69	restless-legs-syndrome	unstable status	0.14729	finding	EXUNIQUE	
+69	restless-legs-syndrome	hepatic	0.13178	body location or region	EXUNIQUE	
+69	restless-legs-syndrome	shift worker	0.12403	finding	EXUNIQUE	
+70	schizophrenia	hepatic	0.10138	body location or region	EXUNIQUE	
+70	schizophrenia	anaplastic oligodendroglioma	0.06775	neoplastic process	EXUNIQUE	
+70	schizophrenia	neuroleptic malignant syndrome	0.06479	disease or syndrome	EXUNIQUE	
+70	schizophrenia	malignant syndrome nos	0.06133	disease or syndrome	EXUNIQUE	
+70	schizophrenia	electroconvulsive therapy	0.04451	disease or syndrome	EXUNIQUE	
+70	schizophrenia	electroconvulsive therapy	0.04451	therapeutic or preventive procedure	EXUNIQUE	
+71	schizophrenia-and-disorders-with-psychotic-features	hepatic	0.10086	body location or region	EXUNIQUE	
+71	schizophrenia-and-disorders-with-psychotic-features	anaplastic oligodendroglioma	0.06858	neoplastic process	EXUNIQUE	
+71	schizophrenia-and-disorders-with-psychotic-features	neuroleptic malignant syndrome	0.06606	disease or syndrome	EXUNIQUE	
+71	schizophrenia-and-disorders-with-psychotic-features	malignant syndrome nos	0.06253	disease or syndrome	EXUNIQUE	
+71	schizophrenia-and-disorders-with-psychotic-features	electroconvulsive therapy	0.04539	disease or syndrome	EXUNIQUE	
+71	schizophrenia-and-disorders-with-psychotic-features	electroconvulsive therapy	0.04539	therapeutic or preventive procedure	EXUNIQUE	
+72	self-injurious-behavior	gravidity	0.12281	finding	EXUNIQUE	
+72	self-injurious-behavior	alcohol abuse	0.05848	mental or behavioral dysfunction	EXUNIQUE	
+72	self-injurious-behavior	epilepsy	0.05263	disease or syndrome	EXUNIQUE	
+72	self-injurious-behavior	developmental disabilities	0.05263	mental or behavioral dysfunction	EXUNIQUE	
+72	self-injurious-behavior	anorexia nervosa	0.04678	mental or behavioral dysfunction	EXUNIQUE	
+73	sleep-deprivation	ethanol	0.24	organic chemical	EXUNIQUE	
+73	sleep-deprivation	ethanol	0.24	pharmacologic substance	EXUNIQUE	
+73	sleep-deprivation	sleep apnea syndromes	0.16	disease or syndrome	EXUNIQUE	
+73	sleep-deprivation	psychotic disorders	0.12	mental or behavioral dysfunction	EXUNIQUE	
+73	sleep-deprivation	substance abuse problem	0.12	mental or behavioral dysfunction	EXUNIQUE	
+73	sleep-deprivation	unstable status	0.10667	finding	EXUNIQUE	
+75	sleep-initiation-and-maintenance-disorders	counter brand of terbufos	0.13151	hazardous or poisonous substance	EXUNIQUE	
+75	sleep-initiation-and-maintenance-disorders	drugs non-prescription	0.11781	pharmacologic substance	EXUNIQUE	
+75	sleep-initiation-and-maintenance-disorders	drugs non-prescription	0.11781	therapeutic or preventive procedure	EXUNIQUE	
+75	sleep-initiation-and-maintenance-disorders	anti-anxiety agents	0.09863	pharmacologic substance	EXUNIQUE	
+75	sleep-initiation-and-maintenance-disorders	antihistamines	0.08493	organic chemical	EXUNIQUE	
+75	sleep-initiation-and-maintenance-disorders	antihistamines	0.08493	pharmacologic substance	EXUNIQUE	
+75	sleep-initiation-and-maintenance-disorders	lung diseases obstructive	0.06849	disease or syndrome	EXUNIQUE	
+76	smoking	dermatologic disorders	0.03679	disease or syndrome	EXUNIQUE	
+77	somatoform-disorders	suicidal	0.14458	finding	EXUNIQUE	
+77	somatoform-disorders	hypersensitivity	0.13253	clinical attribute	EXUNIQUE	
+77	somatoform-disorders	hypersensitivity	0.13253	finding	EXUNIQUE	
+77	somatoform-disorders	hypersensitivity	0.13253	pathologic function	EXUNIQUE	
+77	somatoform-disorders	substance abuse problem	0.10241	mental or behavioral dysfunction	EXUNIQUE	
+77	somatoform-disorders	congenital abnormality	0.10241	congenital abnormality	EXUNIQUE	
+77	somatoform-disorders	congenital abnormality	0.10241	disease or syndrome	EXUNIQUE	
+77	somatoform-disorders	nervous system disorder	0.10241	disease or syndrome	EXUNIQUE	
+79	substance-withdrawal-syndrome	hypersensitivity	0.25316	clinical attribute	EXUNIQUE	
+79	substance-withdrawal-syndrome	hypersensitivity	0.25316	finding	EXUNIQUE	
+79	substance-withdrawal-syndrome	hypersensitivity	0.25316	pathologic function	EXUNIQUE	
+79	substance-withdrawal-syndrome	unstable status	0.21519	finding	EXUNIQUE	
+79	substance-withdrawal-syndrome	depressed mood	0.20253	finding	EXUNIQUE	
+79	substance-withdrawal-syndrome	depressed mood	0.20253	mental or behavioral dysfunction	EXUNIQUE	
+79	substance-withdrawal-syndrome	epilepsy	0.1519	disease or syndrome	EXUNIQUE	
+79	substance-withdrawal-syndrome	investigational new drugs	0.12658	pharmacologic substance	EXUNIQUE	
+79	substance-withdrawal-syndrome	investigational new drugs	0.12658	therapeutic or preventive procedure	EXUNIQUE	
+80	suicidal-ideation	bipolar disorder	0.22	mental or behavioral dysfunction	EXUNIQUE	
+80	suicidal-ideation	gravidity	0.12	finding	EXUNIQUE	
+80	suicidal-ideation	dementia	0.12	mental or behavioral dysfunction	EXUNIQUE	
+80	suicidal-ideation	hypertensive disease	0.1	biologically active substance	EXUNIQUE	
+80	suicidal-ideation	hypertensive disease	0.1	disease or syndrome	EXUNIQUE	
+80	suicidal-ideation	hypertensive disease	0.1	finding	EXUNIQUE	
+80	suicidal-ideation	personality disorders	0.1	mental or behavioral dysfunction	EXUNIQUE	
+81	suicide	gravidity	0.10734	finding	EXUNIQUE	
+81	suicide	impaired cognition	0.0791	finding	EXUNIQUE	
+81	suicide	impaired cognition	0.0791	mental or behavioral dysfunction	EXUNIQUE	
+81	suicide	psychotic symptoms	0.06215	sign or symptom	EXUNIQUE	
+81	suicide	alcohol abuse	0.0565	mental or behavioral dysfunction	EXUNIQUE	
+81	suicide	hypersensitivity	0.05085	clinical attribute	EXUNIQUE	
+81	suicide	hypersensitivity	0.05085	finding	EXUNIQUE	
+81	suicide	hypersensitivity	0.05085	pathologic function	EXUNIQUE	
+82	tic-disorders	mental retardation	0.16304	mental or behavioral dysfunction	EXUNIQUE	
+82	tic-disorders	behavior therapy	0.09783	therapeutic or preventive procedure	EXUNIQUE	
+82	tic-disorders	neoplasm metastasis	0.08696	neoplastic process	EXUNIQUE	
+82	tic-disorders	investigational new drugs	0.08696	pharmacologic substance	EXUNIQUE	
+82	tic-disorders	investigational new drugs	0.08696	therapeutic or preventive procedure	EXUNIQUE	
+82	tic-disorders	suicidal	0.07609	finding	EXUNIQUE	
+83	tobacco-use-disorder	lactation	0.0607	organ or tissue function	EXUNIQUE	
+83	tobacco-use-disorder	panic disorder	0.05008	disease or syndrome	EXUNIQUE	
+83	tobacco-use-disorder	panic disorder	0.05008	mental or behavioral dysfunction	EXUNIQUE	
+83	tobacco-use-disorder	dermatologic disorders	0.04249	disease or syndrome	EXUNIQUE	
+83	tobacco-use-disorder	eating disorders	0.03187	mental or behavioral dysfunction	EXUNIQUE	
+84	tourette-syndrome	positive finding	0.1875	finding	EXUNIQUE	
+84	tourette-syndrome	mental retardation	0.175	mental or behavioral dysfunction	EXUNIQUE	
+84	tourette-syndrome	injury wounds	0.1375	body substance	EXUNIQUE	
+84	tourette-syndrome	injury wounds	0.1375	injury or poisoning	EXUNIQUE	
+84	tourette-syndrome	behavior therapy	0.1	therapeutic or preventive procedure	EXUNIQUE	
+84	tourette-syndrome	suicidal	0.0875	finding	EXUNIQUE	

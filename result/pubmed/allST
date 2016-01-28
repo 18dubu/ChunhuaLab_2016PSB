@@ -1,0 +1,143 @@
+acquired abnormality
+acquired abnormality - body part organ or organ component
+acquired abnormality - disease or syndrome
+acquired abnormality - organ or tissue function - organic chemical - pathologic function - pharmacologic substance
+antibiotic - finding - organic chemical
+antibiotic - neoplastic process - organic chemical
+antibiotic - organic chemical
+biologically active substance
+biologically active substance - body part organ or organ component
+biologically active substance - body substance
+biologically active substance - body substance - pharmacologic substance
+biologically active substance - clinical attribute
+biologically active substance - disease or syndrome
+biologically active substance - disease or syndrome - finding
+biologically active substance - disease or syndrome - finding - pharmacologic substance
+biologically active substance - disease or syndrome - pharmacologic substance
+biologically active substance - enzyme - pharmacologic substance
+biologically active substance - finding
+biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure
+biologically active substance - finding - organic chemical
+biologically active substance - hazardous or poisonous substance
+biologically active substance - hazardous or poisonous substance - inorganic chemical - pharmacologic substance
+biologically active substance - hazardous or poisonous substance - pharmacologic substance
+biologically active substance - inorganic chemical - neoplastic process - pharmacologic substance - therapeutic or preventive procedure
+biologically active substance - inorganic chemical - organic chemical
+biologically active substance - inorganic chemical - pharmacologic substance
+biologically active substance - organic chemical - pharmacologic substance
+biologically active substance - pharmacologic substance
+biologically active substance - pharmacologic substance - therapeutic or preventive procedure
+body location or region
+body location or region - body part organ or organ component
+body location or region - body part organ or organ component - body substance
+body location or region - body part organ or organ component - body substance - disease or syndrome
+body location or region - body part organ or organ component - disease or syndrome
+body location or region - body part organ or organ component - neoplastic process
+body location or region - disease or syndrome
+body part organ or organ component
+body part organ or organ component - body substance
+body part organ or organ component - body substance - disease or syndrome
+body part organ or organ component - congenital abnormality - disease or syndrome
+body part organ or organ component - congenital abnormality - disease or syndrome - finding - mental or behavioral dysfunction - neoplastic process - pharmacologic substance
+body part organ or organ component - congenital abnormality - disease or syndrome - organ or tissue function
+body part organ or organ component - diagnostic procedure - therapeutic or preventive procedure
+body part organ or organ component - disease or syndrome
+body part organ or organ component - disease or syndrome - finding
+body part organ or organ component - disease or syndrome - finding - mental or behavioral dysfunction - neoplastic process
+body part organ or organ component - disease or syndrome - finding - therapeutic or preventive procedure
+body part organ or organ component - disease or syndrome - organic chemical - pharmacologic substance
+body part organ or organ component - disease or syndrome - pharmacologic substance
+body part organ or organ component - hazardous or poisonous substance - organic chemical - pharmacologic substance
+body part organ or organ component - organic chemical - pharmacologic substance
+body part organ or organ component - pharmacologic substance
+body part organ or organ component - therapeutic or preventive procedure
+body substance
+body substance - finding
+body substance - finding - pharmacologic substance
+body substance - finding - sign or symptom
+body substance - hazardous or poisonous substance - organic chemical - pharmacologic substance
+body substance - injury or poisoning
+chemical viewed functionally - organic chemical - pharmacologic substance
+clinical attribute
+clinical attribute - diagnostic procedure - disease or syndrome
+clinical attribute - finding
+clinical attribute - finding - pathologic function
+clinical attribute - injury or poisoning
+clinical attribute - organic chemical - pharmacologic substance
+congenital abnormality
+congenital abnormality - diagnostic procedure - disease or syndrome
+congenital abnormality - disease or syndrome
+congenital abnormality - disease or syndrome - enzyme
+congenital abnormality - disease or syndrome - enzyme - sign or symptom
+congenital abnormality - disease or syndrome - pharmacologic substance
+congenital abnormality - inorganic chemical - mental or behavioral dysfunction - pharmacologic substance
+congenital abnormality - mental or behavioral dysfunction
+diagnostic procedure
+diagnostic procedure - disease or syndrome
+diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure
+diagnostic procedure - finding
+diagnostic procedure - finding - laboratory or test result
+diagnostic procedure - finding - organic chemical - pharmacologic substance
+diagnostic procedure - finding - therapeutic or preventive procedure
+diagnostic procedure - laboratory or test result
+diagnostic procedure - therapeutic or preventive procedure
+disease or syndrome
+disease or syndrome - finding
+disease or syndrome - mental or behavioral dysfunction
+disease or syndrome - organ or tissue function
+disease or syndrome - organ or tissue function - pathologic function
+disease or syndrome - organic chemical
+disease or syndrome - organic chemical - pharmacologic substance
+disease or syndrome - organic chemical - pharmacologic substance - therapeutic or preventive procedure
+disease or syndrome - pathologic function
+disease or syndrome - pharmacologic substance
+disease or syndrome - pharmacologic substance - virus
+disease or syndrome - receptor
+disease or syndrome - sign or symptom
+disease or syndrome - therapeutic or preventive procedure
+enzyme
+enzyme - finding - therapeutic or preventive procedure
+enzyme - pharmacologic substance - therapeutic or preventive procedure
+enzyme - therapeutic or preventive procedure
+finding
+finding - individual behavior
+finding - injury or poisoning
+finding - mental or behavioral dysfunction
+finding - organ or tissue function
+finding - organic chemical - pharmacologic substance
+finding - organic chemical - pharmacologic substance - therapeutic or preventive procedure
+finding - pathologic function
+finding - pharmacologic substance - sign or symptom
+finding - sign or symptom
+finding - therapeutic or preventive procedure
+group attribute
+hazardous or poisonous substance
+hazardous or poisonous substance - individual behavior
+hazardous or poisonous substance - injury or poisoning - organic chemical - pharmacologic substance
+hazardous or poisonous substance - organic chemical - pharmacologic substance
+hazardous or poisonous substance - pharmacologic substance
+individual behavior
+individual behavior - therapeutic or preventive procedure
+injury or poisoning
+inorganic chemical
+inorganic chemical - pharmacologic substance
+laboratory or test result
+mental or behavioral dysfunction
+mental or behavioral dysfunction - organic chemical - pharmacologic substance
+mental or behavioral dysfunction - sign or symptom
+mental or behavioral dysfunction - therapeutic or preventive procedure
+neoplastic process
+organ or tissue function
+organ or tissue function - pathologic function
+organ or tissue function - sign or symptom
+organic chemical
+organic chemical - pharmacologic substance
+organic chemical - pharmacologic substance - therapeutic or preventive procedure
+pathologic function
+pathologic function - pharmacologic substance
+pathologic function - therapeutic or preventive procedure
+pharmacologic substance
+pharmacologic substance - therapeutic or preventive procedure
+sign or symptom
+sign or symptom - therapeutic or preventive procedure
+therapeutic or preventive procedure

@@ -1,0 +1,85 @@
+1	adjustment-disorders	allergy severity - severe	0.26971	finding	EXUNIQUE	
+1	adjustment-disorders	gravidity	0.20747	finding	EXUNIQUE	
+15	attention-deficit-disorder-with-hyperactivity	allergy severity - severe	0.25359	finding	EXUNIQUE	
+18	binge-eating-disorder	gravidity	0.42623	finding	EXUNIQUE	
+21	child-behavior-disorders	allergy severity - severe	0.1929	finding	EXUNIQUE	
+30	delirium	allergy severity - severe	0.26081	finding	EXUNIQUE	
+30	delirium	depressed mood	0.18797	finding	EXUNIQUE	
+30	delirium	unstable status	0.16917	finding	EXUNIQUE	
+30	delirium	malignant neoplasms	0.13017	finding	EXUNIQUE	
+44	frontotemporal-dementia	allergy severity - severe	0.28986	finding	EXUNIQUE	
+44	frontotemporal-dementia	gravidity	0.23188	finding	EXUNIQUE	
+46	gambling	allergy severity - severe	0.19444	finding	EXUNIQUE	
+52	marijuana-abuse	gravidity	0.36522	finding	EXUNIQUE	
+66	pick-disease-of-the-brain	allergy severity - severe	0.3	finding	EXUNIQUE	
+69	restless-legs-syndrome	gravidity	0.31008	finding	EXUNIQUE	
+69	restless-legs-syndrome	malignant neoplasms	0.06977	finding	EXUNIQUE	
+69	restless-legs-syndrome	cardiac arrhythmia	0.06977	finding	EXUNIQUE	
+70	schizophrenia	gravidity	0.24382	finding	EXUNIQUE	
+70	schizophrenia	unstable status	0.2003	finding	EXUNIQUE	
+73	sleep-deprivation	depressed mood	0.14667	finding	EXUNIQUE	
+1	adjustment-disorders	feeling hopeless	2.0	finding	INUNIQUE	
+1	adjustment-disorders	suicide attempt	1.0	finding	INUNIQUE	
+2	alcohol-related-disorders	esthesia	5.0	finding	INUNIQUE	
+4	alzheimer-disease	does talk	3.0	finding	INUNIQUE	
+5	anorexia-nervosa	body weight decreased	4.0	finding	INUNIQUE	
+5	anorexia-nervosa	does talk	3.0	finding	INUNIQUE	
+5	anorexia-nervosa	potassium low	2.0	finding	INUNIQUE	
+6	asperger-syndrome	physical findings	2.0	finding	INUNIQUE	
+7	attention-deficit-disorder-with-hyperactivity	rhythm	24.0	finding	INUNIQUE	
+10	bipolar-disorder	feeling hopeless	3.0	finding	INUNIQUE	
+10	bipolar-disorder	deterioration of status	2.0	finding	INUNIQUE	
+12	child-behavior-disorders	parenting caregiver status	2.0	finding	INUNIQUE	
+12	child-behavior-disorders	child neglect behavior	2.0	finding	INUNIQUE	
+13	cocaine-related-disorders	agitation	3.0	finding	INUNIQUE	
+16	delirium	confusion	6.0	finding	INUNIQUE	
+18	depression	does talk	8.0	finding	INUNIQUE	
+18	depression	deterioration of status	5.0	finding	INUNIQUE	
+18	depression	does talk	5.0	finding	INUNIQUE	
+18	depression	does talk	4.0	finding	INUNIQUE	
+19	developmental-disabilities	rhythm	15.0	finding	INUNIQUE	
+1	adjustment-disorders	depressed mood	1.95021	finding	EXCOMMON	
+1	adjustment-disorders	adverse event associated with death	1.97095	finding	EXCOMMON	
+13	asperger-syndrome	fever	0.93103	finding	EXCOMMON	
+13	asperger-syndrome	anxiety disorders	0.94828	finding	EXCOMMON	
+16	autistic-disorder	malignant neoplasms	0.91605	finding	EXCOMMON	
+30	delirium	household composition	0.96992	finding	EXCOMMON	
+30	delirium	disability	0.97039	finding	EXCOMMON	
+44	frontotemporal-dementia	depressed mood	0.86957	finding	EXCOMMON	
+34	developmental-disabilities	depressed mood	0.93258	finding	EXCOMMON	
+34	developmental-disabilities	irritable mood	0.99101	finding	EXCOMMON	
+44	frontotemporal-dementia	neurological observations	0.97101	finding	EXCOMMON	
+52	marijuana-abuse	depressed mood	0.85652	finding	EXCOMMON	
+46	gambling	depressed mood	0.875	finding	EXCOMMON	
+66	pick-disease-of-the-brain	paralysed	1.95	finding	EXCOMMON	
+69	restless-legs-syndrome	electrocardiogram	0.91473	finding	EXCOMMON	
+69	restless-legs-syndrome	neurological observations	0.95349	finding	EXCOMMON	
+69	restless-legs-syndrome	agitation	0.96124	finding	EXCOMMON	
+69	restless-legs-syndrome	physical findings	0.96899	finding	EXCOMMON	
+70	schizophrenia	malignant neoplasms	0.93966	finding	EXCOMMON	
+70	schizophrenia	depressed mood	0.94659	finding	EXCOMMON	
+73	sleep-deprivation	gravidity	0.90667	finding	EXCOMMON	
+73	sleep-deprivation	hearing examination finding	0.96	finding	EXCOMMON	
+73	sleep-deprivation	deafness	0.96	finding	EXCOMMON	
+73	sleep-deprivation	malignant neoplasms	0.96	finding	EXCOMMON	
+1	adjustment-disorders	adverse event associated with death	1.97095	finding	INCOMMON	
+1	adjustment-disorders	depressed mood	1.95021	finding	INCOMMON	
+13	asperger-syndrome	disability	1.94828	finding	INCOMMON	
+15	attention-deficit-disorder-with-hyperactivity	anxiety disorders	4.80383	finding	INCOMMON	
+16	autistic-disorder	anxiety disorders	0.97778	finding	INCOMMON	
+16	autistic-disorder	neurological observations	0.97284	finding	INCOMMON	
+21	child-behavior-disorders	electrocardiogram	1.95216	finding	INCOMMON	
+21	child-behavior-disorders	anxiety disorders	1.89352	finding	INCOMMON	
+30	delirium	hearing examination finding	2.97415	finding	INCOMMON	
+30	delirium	neurological observations	1.94878	finding	INCOMMON	
+30	delirium	anxiety disorders	0.97227	finding	INCOMMON	
+30	delirium	disability	0.97039	finding	INCOMMON	
+44	frontotemporal-dementia	neurological observations	0.97101	finding	INCOMMON	
+46	gambling	malaise	0.98611	finding	INCOMMON	
+46	gambling	neurological observations	0.95833	finding	INCOMMON	
+66	pick-disease-of-the-brain	paralysed	1.95	finding	INCOMMON	
+66	pick-disease-of-the-brain	neurological observations	1.975	finding	INCOMMON	
+69	restless-legs-syndrome	physical findings	0.96899	finding	INCOMMON	
+70	schizophrenia	anxiety disorders	3.98121	finding	INCOMMON	
+73	sleep-deprivation	medical history	19.93333	finding	INCOMMON	
+71	schizophrenia-and-disorders-with-psychotic-features	mass of body structure	3.98739	finding	INCOMMON	

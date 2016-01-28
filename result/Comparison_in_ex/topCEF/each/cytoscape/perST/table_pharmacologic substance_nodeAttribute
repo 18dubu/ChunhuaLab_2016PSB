@@ -1,0 +1,412 @@
+affective-symptoms	DISEASE
+thyroid gland	CEF
+alcohol-drinking	DISEASE
+disulfiram	CEF
+alcohol-related-disorders	DISEASE
+psychoactive substances	CEF
+alcoholism	DISEASE
+psychoactive substances	CEF
+alzheimer-disease	DISEASE
+hiv	CEF
+alzheimer-disease	DISEASE
+anticoagulants	CEF
+alzheimer-disease	DISEASE
+narcotics	CEF
+amphetamine-related-disorders	DISEASE
+monoamine oxidase inhibitors	CEF
+anorexia-nervosa	DISEASE
+diabetes mellitus	CEF
+anorexia-nervosa	DISEASE
+malignant neoplasms	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+anticonvulsants	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+investigational new drugs	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+anticonvulsants	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+investigational new drugs	CEF
+binge-eating-disorder	DISEASE
+pharmaceutical preparations	CEF
+child-behavior-disorders	DISEASE
+febrile convulsions	CEF
+combat-disorders	DISEASE
+antidepressive agents	CEF
+consciousness-disorders	DISEASE
+refusal	CEF
+conversion-disorder	DISEASE
+investigational new drugs	CEF
+disorders-of-sex-development	DISEASE
+ethanol	CEF
+disorders-of-sex-development	DISEASE
+illicit drugs	CEF
+drinking-behavior	DISEASE
+benzodiazepines	CEF
+food-habits	DISEASE
+pharmaceutical preparations	CEF
+food-habits	DISEASE
+fat protein human	CEF
+frontotemporal-dementia	DISEASE
+ethanol	CEF
+frontotemporal-lobar-degeneration	DISEASE
+ethanol	CEF
+heroin-dependence	DISEASE
+benzodiazepines	CEF
+mental-fatigue	DISEASE
+anticoagulants	CEF
+mental-fatigue	DISEASE
+diabetes mellitus	CEF
+mental-retardation	DISEASE
+diabetes mellitus	CEF
+mental-retardation	DISEASE
+hiv	CEF
+neurocirculatory-asthenia	DISEASE
+active brand of pseudoephedrine-triprolidine	CEF
+obsessive-compulsive-disorder	DISEASE
+nicotine	CEF
+personality-disorders	DISEASE
+nicotine	CEF
+pick-disease-of-the-brain	DISEASE
+investigational new drugs	CEF
+sleep-deprivation	DISEASE
+ethanol	CEF
+sleep-initiation-and-maintenance-disorders	DISEASE
+drugs non-prescription	CEF
+sleep-initiation-and-maintenance-disorders	DISEASE
+anti-anxiety agents	CEF
+sleep-initiation-and-maintenance-disorders	DISEASE
+antihistamines	CEF
+substance-withdrawal-syndrome	DISEASE
+investigational new drugs	CEF
+tic-disorders	DISEASE
+investigational new drugs	CEF
+amphetamine-related-disorders	DISEASE
+psychoactive substances	CEF
+amphetamine-related-disorders	DISEASE
+chocolate allergenic extract	CEF
+disorders-of-excessive-somnolence	DISEASE
+spermatocidal agents	CEF
+dissociative-disorders	DISEASE
+folic acid	CEF
+dissociative-disorders	DISEASE
+diethylstilbestrol	CEF
+gambling	DISEASE
+bee pollen	CEF
+heroin-dependence	DISEASE
+progesterone	CEF
+impulse-control-disorders	DISEASE
+chorionic gonadotropin	CEF
+suicidal-ideation	DISEASE
+valproic acid	CEF
+adjustment-disorders	DISEASE
+active brand of pseudoephedrine-triprolidine	CEF
+adjustment-disorders	DISEASE
+pharmacologic substance	CEF
+affective-disorders-psychotic	DISEASE
+ethanol	CEF
+affective-disorders-psychotic	DISEASE
+pharmacologic substance	CEF
+affective-symptoms	DISEASE
+ethanol	CEF
+aggression	DISEASE
+active brand of pseudoephedrine-triprolidine	CEF
+aggression	DISEASE
+pharmacologic substance	CEF
+alcohol-drinking	DISEASE
+pharmacologic substance	CEF
+alcohol-related-disorders	DISEASE
+pharmacologic substance	CEF
+alcoholism	DISEASE
+pharmacologic substance	CEF
+alzheimer-disease	DISEASE
+pharmacologic substance	CEF
+alzheimer-disease	DISEASE
+ethanol	CEF
+amnesia	DISEASE
+active brand of pseudoephedrine-triprolidine	CEF
+amnesia	DISEASE
+pharmacologic substance	CEF
+amphetamine-related-disorders	DISEASE
+pharmacologic substance	CEF
+amphetamine-related-disorders	DISEASE
+psychotropic drugs	CEF
+anorexia-nervosa	DISEASE
+ethanol	CEF
+anxiety-disorders	DISEASE
+ethanol	CEF
+asperger-syndrome	DISEASE
+antipsychotic agents	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+pervasive development disorder	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+pervasive development disorder	CEF
+behavioral-symptoms	DISEASE
+ethanol	CEF
+behavioral-symptoms	DISEASE
+pharmacologic substance	CEF
+binge-eating-disorder	DISEASE
+ethanol	CEF
+binge-eating-disorder	DISEASE
+pharmacologic substance	CEF
+bipolar-disorder	DISEASE
+ethanol	CEF
+bipolar-disorder	DISEASE
+pharmacologic substance	CEF
+borderline-personality-disorder	DISEASE
+pharmacologic substance	CEF
+borderline-personality-disorder	DISEASE
+ethanol	CEF
+borderline-personality-disorder	DISEASE
+active brand of pseudoephedrine-triprolidine	CEF
+cocaine-related-disorders	DISEASE
+ethanol	CEF
+cognition-disorders	DISEASE
+ethanol	CEF
+cognition-disorders	DISEASE
+pharmacologic substance	CEF
+combat-disorders	DISEASE
+ethanol	CEF
+communication-disorders	DISEASE
+pharmacologic substance	CEF
+communication-disorders	DISEASE
+ethanol	CEF
+conduct-disorder	DISEASE
+ethanol	CEF
+conduct-disorder	DISEASE
+pharmacologic substance	CEF
+consciousness-disorders	DISEASE
+ethanol	CEF
+consciousness-disorders	DISEASE
+pharmacologic substance	CEF
+consciousness-disorders	DISEASE
+pharmaceutical preparations	CEF
+conversion-disorder	DISEASE
+active brand of pseudoephedrine-triprolidine	CEF
+conversion-disorder	DISEASE
+pharmacologic substance	CEF
+conversion-disorder	DISEASE
+malignant neoplasms	CEF
+delirium	DISEASE
+ethanol	CEF
+delirium	DISEASE
+pharmacologic substance	CEF
+dementia	DISEASE
+ethanol	CEF
+dementia	DISEASE
+pharmacologic substance	CEF
+depression	DISEASE
+ethanol	CEF
+depressive-disorder	DISEASE
+ethanol	CEF
+depressive-disorder	DISEASE
+pharmacologic substance	CEF
+disorders-of-excessive-somnolence	DISEASE
+ethanol	CEF
+disorders-of-sex-development	DISEASE
+malignant neoplasms	CEF
+disorders-of-sex-development	DISEASE
+pharmacologic substance	CEF
+disorders-of-sex-development	DISEASE
+pharmaceutical preparations	CEF
+disorders-of-sex-development	DISEASE
+diabetes mellitus	CEF
+dissociative-disorders	DISEASE
+pharmacologic substance	CEF
+dissociative-disorders	DISEASE
+active brand of pseudoephedrine-triprolidine	CEF
+drinking-behavior	DISEASE
+pharmacologic substance	CEF
+dyssomnias	DISEASE
+ethanol	CEF
+dysthymic-disorder	DISEASE
+ethanol	CEF
+dysthymic-disorder	DISEASE
+active brand of pseudoephedrine-triprolidine	CEF
+dysthymic-disorder	DISEASE
+pharmacologic substance	CEF
+eating-disorders	DISEASE
+ethanol	CEF
+eating-disorders	DISEASE
+pharmacologic substance	CEF
+food-habits	DISEASE
+ethanol	CEF
+food-habits	DISEASE
+pharmacologic substance	CEF
+frontotemporal-dementia	DISEASE
+pharmacologic substance	CEF
+frontotemporal-lobar-degeneration	DISEASE
+pharmacologic substance	CEF
+gambling	DISEASE
+pharmacologic substance	CEF
+gambling	DISEASE
+ethanol	CEF
+gambling	DISEASE
+active brand of pseudoephedrine-triprolidine	CEF
+habits	DISEASE
+ethanol	CEF
+habits	DISEASE
+pharmacologic substance	CEF
+heroin-dependence	DISEASE
+ethanol	CEF
+heroin-dependence	DISEASE
+active brand of pseudoephedrine-triprolidine	CEF
+impulse-control-disorders	DISEASE
+psychotropic drugs	CEF
+impulse-control-disorders	DISEASE
+pharmacologic substance	CEF
+impulse-control-disorders	DISEASE
+ethanol	CEF
+impulsive-behavior	DISEASE
+ethanol	CEF
+learning-disorders	DISEASE
+pharmacologic substance	CEF
+learning-disorders	DISEASE
+ethanol	CEF
+marijuana-abuse	DISEASE
+ethanol	CEF
+marijuana-abuse	DISEASE
+pharmacologic substance	CEF
+mental-disorders	DISEASE
+ethanol	CEF
+mental-disorders	DISEASE
+pharmacologic substance	CEF
+mental-fatigue	DISEASE
+ethanol	CEF
+mental-fatigue	DISEASE
+pharmacologic substance	CEF
+mental-retardation	DISEASE
+pharmacologic substance	CEF
+mental-retardation	DISEASE
+malignant neoplasms	CEF
+mood-disorders	DISEASE
+ethanol	CEF
+mood-disorders	DISEASE
+pharmacologic substance	CEF
+neurocirculatory-asthenia	DISEASE
+pharmacologic substance	CEF
+obsessive-behavior	DISEASE
+antipsychotic agents	CEF
+opioid-related-disorders	DISEASE
+ethanol	CEF
+opioid-related-disorders	DISEASE
+benzodiazepines	CEF
+panic-disorder	DISEASE
+ethanol	CEF
+parasomnias	DISEASE
+ethanol	CEF
+parasomnias	DISEASE
+pharmacologic substance	CEF
+phobic-disorders	DISEASE
+ethanol	CEF
+phobic-disorders	DISEASE
+psychotropic drugs	CEF
+pick-disease-of-the-brain	DISEASE
+ethanol	CEF
+psychotic-disorders	DISEASE
+ethanol	CEF
+psychotic-disorders	DISEASE
+pharmacologic substance	CEF
+quality-of-life	DISEASE
+pharmacologic substance	CEF
+restless-legs-syndrome	DISEASE
+pharmaceutical preparations	CEF
+schizophrenia	DISEASE
+ethanol	CEF
+schizophrenia	DISEASE
+pharmacologic substance	CEF
+schizophrenia-and-disorders-with-psychotic-features	DISEASE
+ethanol	CEF
+schizophrenia-and-disorders-with-psychotic-features	DISEASE
+pharmacologic substance	CEF
+sleep-deprivation	DISEASE
+pharmacologic substance	CEF
+sleep-deprivation	DISEASE
+pharmaceutical preparations	CEF
+sleep-disorders	DISEASE
+ethanol	CEF
+sleep-disorders	DISEASE
+pharmacologic substance	CEF
+sleep-initiation-and-maintenance-disorders	DISEASE
+ethanol	CEF
+sleep-initiation-and-maintenance-disorders	DISEASE
+pharmacologic substance	CEF
+smoking	DISEASE
+ethanol	CEF
+smoking	DISEASE
+pharmacologic substance	CEF
+somatoform-disorders	DISEASE
+ethanol	CEF
+somatoform-disorders	DISEASE
+malignant neoplasms	CEF
+substance-withdrawal-syndrome	DISEASE
+pharmacologic substance	CEF
+suicidal-ideation	DISEASE
+ethanol	CEF
+suicide	DISEASE
+ethanol	CEF
+tobacco-use-disorder	DISEASE
+ethanol	CEF
+tobacco-use-disorder	DISEASE
+pharmacologic substance	CEF
+alcohol-drinking	DISEASE
+ethanol	CEF
+alcohol-related-disorders	DISEASE
+ethanol	CEF
+alcoholism	DISEASE
+ethanol	CEF
+amphetamine-related-disorders	DISEASE
+methamphetamine	CEF
+asperger-syndrome	DISEASE
+pervasive development disorder	CEF
+autistic-disorder	DISEASE
+pervasive development disorder	CEF
+combat-disorders	DISEASE
+psychotropic drugs	CEF
+combat-disorders	DISEASE
+valproic acid	CEF
+communication-disorders	DISEASE
+malignant neoplasms	CEF
+developmental-disabilities	DISEASE
+pervasive development disorder	CEF
+drinking-behavior	DISEASE
+ethanol	CEF
+gambling	DISEASE
+prostaglandins	CEF
+heroin-dependence	DISEASE
+opiates	CEF
+impulsive-behavior	DISEASE
+opioids	CEF
+marijuana-abuse	DISEASE
+marihuana	CEF
+marijuana-abuse	DISEASE
+cannabis abuse	CEF
+mental-fatigue	DISEASE
+malignant neoplasms	CEF
+neurocirculatory-asthenia	DISEASE
+multiple system atrophy	CEF
+obsessive-compulsive-disorder	DISEASE
+clomipramine	CEF
+opioid-related-disorders	DISEASE
+opioids	CEF
+opioid-related-disorders	DISEASE
+opiates	CEF
+pick-disease-of-the-brain	DISEASE
+cholinesterase inhibitors	CEF
+quality-of-life	DISEASE
+malignant neoplasms	CEF
+schizophrenia	DISEASE
+antipsychotic agents	CEF
+schizophrenia-and-disorders-with-psychotic-features	DISEASE
+antipsychotic agents	CEF
+self-injurious-behavior	DISEASE
+valproic acid	CEF
+sleep-deprivation	DISEASE
+electrocardiogram	CEF
+smoking	DISEASE
+cotinine	CEF
+substance-withdrawal-syndrome	DISEASE
+opioids	CEF
+substance-withdrawal-syndrome	DISEASE
+spermatocidal agents	CEF
+suicide	DISEASE
+valproic acid	CEF

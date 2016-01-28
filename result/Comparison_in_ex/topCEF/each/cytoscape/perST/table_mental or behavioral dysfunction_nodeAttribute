@@ -1,0 +1,730 @@
+adjustment-disorders	DISEASE
+psychotic disorders	CEF
+adjustment-disorders	DISEASE
+substance abuse problem	CEF
+affective-symptoms	DISEASE
+alcohol abuse	CEF
+affective-symptoms	DISEASE
+homicidal	CEF
+aggression	DISEASE
+bipolar disorder	CEF
+amphetamine-related-disorders	DISEASE
+psychotic disorders	CEF
+anorexia-nervosa	DISEASE
+bipolar disorder	CEF
+anxiety-disorders	DISEASE
+mental retardation	CEF
+asperger-syndrome	DISEASE
+substance abuse problem	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+schizoaffective disorder	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+schizoaffective disorder	CEF
+autistic-disorder	DISEASE
+substance abuse problem	CEF
+binge-eating-disorder	DISEASE
+substance abuse problem	CEF
+binge-eating-disorder	DISEASE
+alcohol abuse	CEF
+bipolar-disorder	DISEASE
+delirium dementia amnestic cognitive disorders	CEF
+borderline-personality-disorder	DISEASE
+schizophrenia	CEF
+borderline-personality-disorder	DISEASE
+bipolar disorder	CEF
+borderline-personality-disorder	DISEASE
+psychotic disorders	CEF
+borderline-personality-disorder	DISEASE
+substance dependence	CEF
+child-behavior-disorders	DISEASE
+suicide attempt	CEF
+combat-disorders	DISEASE
+alcoholic intoxication chronic	CEF
+combat-disorders	DISEASE
+mental disorders	CEF
+communication-disorders	DISEASE
+claustrophobia	CEF
+compulsive-behavior	DISEASE
+suicide attempt	CEF
+consciousness-disorders	DISEASE
+mental disorders	CEF
+conversion-disorder	DISEASE
+mental disorders	CEF
+conversion-disorder	DISEASE
+substance abuse problem	CEF
+developmental-disabilities	DISEASE
+substance abuse problem	CEF
+drinking-behavior	DISEASE
+psychotic disorders	CEF
+dysthymic-disorder	DISEASE
+psychotic disorders	CEF
+dysthymic-disorder	DISEASE
+schizophrenia	CEF
+dysthymic-disorder	DISEASE
+substance abuse problem	CEF
+dysthymic-disorder	DISEASE
+mental retardation	CEF
+eating-disorders	DISEASE
+claustrophobia	CEF
+eating-disorders	DISEASE
+suicide	CEF
+erectile-dysfunction	DISEASE
+substance abuse problem	CEF
+frontotemporal-dementia	DISEASE
+substance abuse problem	CEF
+frontotemporal-lobar-degeneration	DISEASE
+substance abuse problem	CEF
+gambling	DISEASE
+bipolar disorder	CEF
+gambling	DISEASE
+substance abuse problem	CEF
+gambling	DISEASE
+schizophrenia	CEF
+impulse-control-disorders	DISEASE
+psychotic disorders	CEF
+impulse-control-disorders	DISEASE
+bipolar disorder	CEF
+impulse-control-disorders	DISEASE
+substance abuse problem	CEF
+impulsive-behavior	DISEASE
+dementia	CEF
+marijuana-abuse	DISEASE
+bipolar disorder	CEF
+mental-fatigue	DISEASE
+drug abuse	CEF
+neurocirculatory-asthenia	DISEASE
+substance abuse problem	CEF
+neurocirculatory-asthenia	DISEASE
+mental disorders	CEF
+obsessive-behavior	DISEASE
+substance abuse problem	CEF
+obsessive-behavior	DISEASE
+mental retardation	CEF
+obsessive-compulsive-disorder	DISEASE
+mental retardation	CEF
+obsessive-compulsive-disorder	DISEASE
+substance dependence	CEF
+panic-disorder	DISEASE
+psychotic disorders	CEF
+panic-disorder	DISEASE
+substance dependence	CEF
+personality-disorders	DISEASE
+substance dependence	CEF
+phobic-disorders	DISEASE
+psychotic disorders	CEF
+phobic-disorders	DISEASE
+substance abuse problem	CEF
+phobic-disorders	DISEASE
+mental retardation	CEF
+pick-disease-of-the-brain	DISEASE
+substance abuse problem	CEF
+pick-disease-of-the-brain	DISEASE
+psychotic disorders	CEF
+self-injurious-behavior	DISEASE
+alcohol abuse	CEF
+self-injurious-behavior	DISEASE
+developmental disabilities	CEF
+self-injurious-behavior	DISEASE
+anorexia nervosa	CEF
+sleep-deprivation	DISEASE
+psychotic disorders	CEF
+sleep-deprivation	DISEASE
+substance abuse problem	CEF
+somatoform-disorders	DISEASE
+substance abuse problem	CEF
+substance-withdrawal-syndrome	DISEASE
+depressed mood	CEF
+suicidal-ideation	DISEASE
+bipolar disorder	CEF
+suicidal-ideation	DISEASE
+dementia	CEF
+suicidal-ideation	DISEASE
+personality disorders	CEF
+suicide	DISEASE
+impaired cognition	CEF
+suicide	DISEASE
+alcohol abuse	CEF
+tic-disorders	DISEASE
+mental retardation	CEF
+tobacco-use-disorder	DISEASE
+panic disorder	CEF
+tobacco-use-disorder	DISEASE
+eating disorders	CEF
+tourette-syndrome	DISEASE
+mental retardation	CEF
+adjustment-disorders	DISEASE
+aggressive behavior	CEF
+amnesia	DISEASE
+communication impairment	CEF
+amnesia	DISEASE
+moderate dementia	CEF
+asperger-syndrome	DISEASE
+phobia social	CEF
+asperger-syndrome	DISEASE
+separation anxiety disorder	CEF
+binge-eating-disorder	DISEASE
+hyperphagia	CEF
+borderline-personality-disorder	DISEASE
+self-injurious behavior	CEF
+combat-disorders	DISEASE
+stress disorders traumatic	CEF
+compulsive-behavior	DISEASE
+opiate addiction	CEF
+compulsive-behavior	DISEASE
+obsessive compulsive behavior	CEF
+dysthymic-disorder	DISEASE
+mental depression	CEF
+frontotemporal-dementia	DISEASE
+semantic dementia	CEF
+frontotemporal-lobar-degeneration	DISEASE
+semantic dementia	CEF
+impulse-control-disorders	DISEASE
+explosive personality disorder	CEF
+impulsive-behavior	DISEASE
+opiate addiction	CEF
+obsessive-behavior	DISEASE
+generalized anxiety disorder	CEF
+obsessive-behavior	DISEASE
+anxiety generalized	CEF
+obsessive-behavior	DISEASE
+phobia social	CEF
+obsessive-behavior	DISEASE
+separation anxiety disorder	CEF
+obsessive-compulsive-disorder	DISEASE
+obsessive compulsive behavior	CEF
+obsessive-compulsive-disorder	DISEASE
+separation anxiety disorder	CEF
+panic-disorder	DISEASE
+panic disorder with agoraphobia	CEF
+personality-disorders	DISEASE
+obsessive compulsive behavior	CEF
+phobic-disorders	DISEASE
+separation anxiety disorder	CEF
+pick-disease-of-the-brain	DISEASE
+semantic dementia	CEF
+self-injurious-behavior	DISEASE
+self-injurious behavior	CEF
+substance-withdrawal-syndrome	DISEASE
+opiate addiction	CEF
+suicidal-ideation	DISEASE
+major depressive disorder	CEF
+suicidal-ideation	DISEASE
+unipolar depression	CEF
+suicidal-ideation	DISEASE
+mental disorders	CEF
+suicide	DISEASE
+major depressive disorder	CEF
+affective-disorders-psychotic	DISEASE
+psychotic disorders	CEF
+affective-disorders-psychotic	DISEASE
+substance abuse problem	CEF
+affective-symptoms	DISEASE
+substance abuse problem	CEF
+alcohol-drinking	DISEASE
+psychotic disorders	CEF
+alcohol-drinking	DISEASE
+mental disorders	CEF
+alcohol-related-disorders	DISEASE
+psychotic disorders	CEF
+alcohol-related-disorders	DISEASE
+mental disorders	CEF
+alcoholism	DISEASE
+psychotic disorders	CEF
+alcoholism	DISEASE
+mental disorders	CEF
+alzheimer-disease	DISEASE
+mental disorders	CEF
+amnesia	DISEASE
+mental disorders	CEF
+amphetamine-related-disorders	DISEASE
+mental disorders	CEF
+anorexia-nervosa	DISEASE
+substance abuse problem	CEF
+anorexia-nervosa	DISEASE
+psychotic disorders	CEF
+anorexia-nervosa	DISEASE
+schizophrenia	CEF
+anxiety-disorders	DISEASE
+psychotic disorders	CEF
+anxiety-disorders	DISEASE
+bipolar disorder	CEF
+anxiety-disorders	DISEASE
+substance abuse problem	CEF
+asperger-syndrome	DISEASE
+psychotic disorders	CEF
+asperger-syndrome	DISEASE
+schizophrenia	CEF
+asperger-syndrome	DISEASE
+bipolar disorder	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+psychotic disorders	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+bipolar disorder	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+pervasive development disorder	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+psychotic disorders	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+bipolar disorder	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+pervasive development disorder	CEF
+autistic-disorder	DISEASE
+psychotic disorders	CEF
+autistic-disorder	DISEASE
+schizophrenia	CEF
+behavioral-symptoms	DISEASE
+psychotic disorders	CEF
+behavioral-symptoms	DISEASE
+bipolar disorder	CEF
+behavioral-symptoms	DISEASE
+substance abuse problem	CEF
+binge-eating-disorder	DISEASE
+psychotic disorders	CEF
+child-behavior-disorders	DISEASE
+psychotic disorders	CEF
+child-behavior-disorders	DISEASE
+bipolar disorder	CEF
+child-behavior-disorders	DISEASE
+developmental disabilities	CEF
+cocaine-related-disorders	DISEASE
+mental disorders	CEF
+cocaine-related-disorders	DISEASE
+psychotic disorders	CEF
+cocaine-related-disorders	DISEASE
+schizophrenia	CEF
+cognition-disorders	DISEASE
+mental disorders	CEF
+combat-disorders	DISEASE
+psychotic disorders	CEF
+combat-disorders	DISEASE
+schizophrenia	CEF
+combat-disorders	DISEASE
+bipolar disorder	CEF
+combat-disorders	DISEASE
+substance dependence	CEF
+communication-disorders	DISEASE
+mental disorders	CEF
+communication-disorders	DISEASE
+substance abuse problem	CEF
+compulsive-behavior	DISEASE
+psychotic disorders	CEF
+compulsive-behavior	DISEASE
+bipolar disorder	CEF
+compulsive-behavior	DISEASE
+schizophrenia	CEF
+conduct-disorder	DISEASE
+psychotic disorders	CEF
+conduct-disorder	DISEASE
+bipolar disorder	CEF
+conduct-disorder	DISEASE
+substance abuse problem	CEF
+delirium	DISEASE
+mental disorders	CEF
+dementia	DISEASE
+mental disorders	CEF
+depression	DISEASE
+psychotic disorders	CEF
+depression	DISEASE
+substance abuse problem	CEF
+depression	DISEASE
+bipolar disorder	CEF
+depressive-disorder	DISEASE
+psychotic disorders	CEF
+depressive-disorder	DISEASE
+substance abuse problem	CEF
+developmental-disabilities	DISEASE
+psychotic disorders	CEF
+developmental-disabilities	DISEASE
+schizophrenia	CEF
+disorders-of-excessive-somnolence	DISEASE
+substance abuse problem	CEF
+drinking-behavior	DISEASE
+mental disorders	CEF
+drinking-behavior	DISEASE
+bipolar disorder	CEF
+dysthymic-disorder	DISEASE
+bipolar disorder	CEF
+eating-disorders	DISEASE
+substance abuse problem	CEF
+eating-disorders	DISEASE
+psychotic disorders	CEF
+food-habits	DISEASE
+mental disorders	CEF
+frontotemporal-dementia	DISEASE
+mental disorders	CEF
+frontotemporal-lobar-degeneration	DISEASE
+mental disorders	CEF
+gambling	DISEASE
+psychotic disorders	CEF
+heroin-dependence	DISEASE
+mental disorders	CEF
+heroin-dependence	DISEASE
+psychotic disorders	CEF
+impulse-control-disorders	DISEASE
+depressed mood	CEF
+impulsive-behavior	DISEASE
+psychotic disorders	CEF
+impulsive-behavior	DISEASE
+mental disorders	CEF
+impulsive-behavior	DISEASE
+schizophrenia	CEF
+learning-disorders	DISEASE
+mental disorders	CEF
+marijuana-abuse	DISEASE
+mental disorders	CEF
+mental-disorders	DISEASE
+psychotic disorders	CEF
+mental-disorders-diagnosed-in-childhood	DISEASE
+psychotic disorders	CEF
+mental-disorders-diagnosed-in-childhood	DISEASE
+bipolar disorder	CEF
+mental-fatigue	DISEASE
+substance abuse problem	CEF
+mood-disorders	DISEASE
+psychotic disorders	CEF
+mood-disorders	DISEASE
+substance abuse problem	CEF
+obsessive-behavior	DISEASE
+bipolar disorder	CEF
+obsessive-behavior	DISEASE
+psychotic disorders	CEF
+obsessive-compulsive-disorder	DISEASE
+psychotic disorders	CEF
+obsessive-compulsive-disorder	DISEASE
+bipolar disorder	CEF
+obsessive-compulsive-disorder	DISEASE
+substance abuse problem	CEF
+obsessive-compulsive-disorder	DISEASE
+schizophrenia	CEF
+opioid-related-disorders	DISEASE
+mental disorders	CEF
+opioid-related-disorders	DISEASE
+psychotic disorders	CEF
+panic-disorder	DISEASE
+bipolar disorder	CEF
+panic-disorder	DISEASE
+schizophrenia	CEF
+personality-disorders	DISEASE
+psychotic disorders	CEF
+personality-disorders	DISEASE
+bipolar disorder	CEF
+personality-disorders	DISEASE
+schizophrenia	CEF
+personality-disorders	DISEASE
+substance abuse problem	CEF
+phobic-disorders	DISEASE
+bipolar disorder	CEF
+phobic-disorders	DISEASE
+schizophrenia	CEF
+pick-disease-of-the-brain	DISEASE
+mental disorders	CEF
+psychotic-disorders	DISEASE
+psychotic disorders	CEF
+quality-of-life	DISEASE
+mental disorders	CEF
+schizophrenia	DISEASE
+substance abuse problem	CEF
+schizophrenia-and-disorders-with-psychotic-features	DISEASE
+substance abuse problem	CEF
+self-injurious-behavior	DISEASE
+psychotic disorders	CEF
+self-injurious-behavior	DISEASE
+schizophrenia	CEF
+self-injurious-behavior	DISEASE
+bipolar disorder	CEF
+sleep-deprivation	DISEASE
+mental disorders	CEF
+somatoform-disorders	DISEASE
+mental disorders	CEF
+somatoform-disorders	DISEASE
+psychotic disorders	CEF
+substance-related-disorders	DISEASE
+mental disorders	CEF
+substance-related-disorders	DISEASE
+psychotic disorders	CEF
+substance-withdrawal-syndrome	DISEASE
+mental disorders	CEF
+suicidal-ideation	DISEASE
+psychotic disorders	CEF
+suicidal-ideation	DISEASE
+schizophrenia	CEF
+suicide	DISEASE
+psychotic disorders	CEF
+suicide	DISEASE
+bipolar disorder	CEF
+tic-disorders	DISEASE
+psychotic disorders	CEF
+tic-disorders	DISEASE
+bipolar disorder	CEF
+tobacco-use-disorder	DISEASE
+mental disorders	CEF
+tourette-syndrome	DISEASE
+psychotic disorders	CEF
+tourette-syndrome	DISEASE
+bipolar disorder	CEF
+tourette-syndrome	DISEASE
+depressed mood	CEF
+affective-disorders-psychotic	DISEASE
+major depressive disorder	CEF
+affective-disorders-psychotic	DISEASE
+depressed mood	CEF
+affective-disorders-psychotic	DISEASE
+depressive episode unspecified	CEF
+affective-disorders-psychotic	DISEASE
+unipolar depression	CEF
+affective-symptoms	DISEASE
+depressed mood	CEF
+affective-symptoms	DISEASE
+bipolar disorder	CEF
+affective-symptoms	DISEASE
+depressive episode unspecified	CEF
+affective-symptoms	DISEASE
+major depressive disorder	CEF
+aggression	DISEASE
+aggressive behavior	CEF
+alcohol-drinking	DISEASE
+heavy drinking	CEF
+alcohol-drinking	DISEASE
+alcohol use disorder	CEF
+alcohol-related-disorders	DISEASE
+alcoholic intoxication chronic	CEF
+alcoholism	DISEASE
+alcoholic intoxication chronic	CEF
+alzheimer-disease	DISEASE
+communication impairment	CEF
+amnesia	DISEASE
+memory impairment	CEF
+amnesia	DISEASE
+impaired cognition	CEF
+anorexia-nervosa	DISEASE
+anorexia nervosa	CEF
+anxiety-disorders	DISEASE
+post-traumatic stress disorder	CEF
+anxiety-disorders	DISEASE
+anxiety disorders	CEF
+anxiety-disorders	DISEASE
+generalized anxiety disorder	CEF
+anxiety-disorders	DISEASE
+anxiety generalized	CEF
+asperger-syndrome	DISEASE
+autistic disorder	CEF
+asperger-syndrome	DISEASE
+pervasive development disorder	CEF
+asperger-syndrome	DISEASE
+autism spectrum disorders	CEF
+asperger-syndrome	DISEASE
+developmental disabilities	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+attention deficit hyperactivity disorder	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+attention deficit disorder	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+attention deficit hyperactivity disorder	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+attention deficit disorder	CEF
+autistic-disorder	DISEASE
+autistic disorder	CEF
+autistic-disorder	DISEASE
+autism spectrum disorders	CEF
+autistic-disorder	DISEASE
+pervasive development disorder	CEF
+autistic-disorder	DISEASE
+developmental disabilities	CEF
+behavioral-symptoms	DISEASE
+major depressive disorder	CEF
+behavioral-symptoms	DISEASE
+depressed mood	CEF
+behavioral-symptoms	DISEASE
+attention deficit hyperactivity disorder	CEF
+behavioral-symptoms	DISEASE
+depressive episode unspecified	CEF
+binge-eating-disorder	DISEASE
+binge eating disorder	CEF
+binge-eating-disorder	DISEASE
+eating disorders	CEF
+binge-eating-disorder	DISEASE
+bulimia nervosa	CEF
+bipolar-disorder	DISEASE
+bipolar disorder	CEF
+bipolar-disorder	DISEASE
+depressed mood	CEF
+bipolar-disorder	DISEASE
+bipolar i disorder	CEF
+bipolar-disorder	DISEASE
+depressive episode unspecified	CEF
+borderline-personality-disorder	DISEASE
+borderline personality disorder	CEF
+borderline-personality-disorder	DISEASE
+personality disorders	CEF
+child-behavior-disorders	DISEASE
+attention deficit hyperactivity disorder	CEF
+child-behavior-disorders	DISEASE
+attention deficit disorder	CEF
+cocaine-related-disorders	DISEASE
+cocaine dependence	CEF
+cognition-disorders	DISEASE
+mild cognitive disorder	CEF
+combat-disorders	DISEASE
+post-traumatic stress disorder	CEF
+communication-disorders	DISEASE
+aphasia	CEF
+compulsive-behavior	DISEASE
+cocaine dependence	CEF
+compulsive-behavior	DISEASE
+obsessive-compulsive disorder	CEF
+compulsive-behavior	DISEASE
+osteochondritis dissecans	CEF
+conduct-disorder	DISEASE
+major depressive disorder	CEF
+conduct-disorder	DISEASE
+attention deficit hyperactivity disorder	CEF
+conduct-disorder	DISEASE
+depressed mood	CEF
+dementia	DISEASE
+mild cognitive disorder	CEF
+depression	DISEASE
+major depressive disorder	CEF
+depression	DISEASE
+depressed mood	CEF
+depression	DISEASE
+unipolar depression	CEF
+depression	DISEASE
+depressive episode unspecified	CEF
+depressive-disorder	DISEASE
+major depressive disorder	CEF
+depressive-disorder	DISEASE
+depressed mood	CEF
+depressive-disorder	DISEASE
+unipolar depression	CEF
+depressive-disorder	DISEASE
+depressive episode unspecified	CEF
+developmental-disabilities	DISEASE
+autistic disorder	CEF
+developmental-disabilities	DISEASE
+autism spectrum disorders	CEF
+developmental-disabilities	DISEASE
+pervasive development disorder	CEF
+developmental-disabilities	DISEASE
+developmental disabilities	CEF
+drinking-behavior	DISEASE
+alcohol abuse	CEF
+drinking-behavior	DISEASE
+heavy drinking	CEF
+dysthymic-disorder	DISEASE
+dysthymic disorder	CEF
+dysthymic-disorder	DISEASE
+major depressive disorder	CEF
+dysthymic-disorder	DISEASE
+unipolar depression	CEF
+eating-disorders	DISEASE
+anorexia nervosa	CEF
+eating-disorders	DISEASE
+binge eating disorder	CEF
+frontotemporal-dementia	DISEASE
+aphasia progressive	CEF
+frontotemporal-lobar-degeneration	DISEASE
+aphasia progressive	CEF
+gambling	DISEASE
+gambling pathological	CEF
+heroin-dependence	DISEASE
+opiate addiction	CEF
+heroin-dependence	DISEASE
+opiates	CEF
+impulse-control-disorders	DISEASE
+gambling pathological	CEF
+impulse-control-disorders	DISEASE
+trichotillomania	CEF
+impulsive-behavior	DISEASE
+cocaine dependence	CEF
+marijuana-abuse	DISEASE
+marihuana	CEF
+marijuana-abuse	DISEASE
+cannabis dependence	CEF
+marijuana-abuse	DISEASE
+cannabis abuse	CEF
+mental-disorders-diagnosed-in-childhood	DISEASE
+attention deficit hyperactivity disorder	CEF
+mental-disorders-diagnosed-in-childhood	DISEASE
+autism spectrum disorders	CEF
+mental-disorders-diagnosed-in-childhood	DISEASE
+autistic disorder	CEF
+mental-retardation	DISEASE
+mental retardation	CEF
+mood-disorders	DISEASE
+major depressive disorder	CEF
+mood-disorders	DISEASE
+depressed mood	CEF
+mood-disorders	DISEASE
+depressive episode unspecified	CEF
+mood-disorders	DISEASE
+unipolar depression	CEF
+obsessive-behavior	DISEASE
+obsessive-compulsive disorder	CEF
+obsessive-behavior	DISEASE
+osteochondritis dissecans	CEF
+obsessive-behavior	DISEASE
+anxiety disorders	CEF
+obsessive-compulsive-disorder	DISEASE
+osteochondritis dissecans	CEF
+obsessive-compulsive-disorder	DISEASE
+obsessive-compulsive disorder	CEF
+opioid-related-disorders	DISEASE
+opiate addiction	CEF
+opioid-related-disorders	DISEASE
+opiates	CEF
+panic-disorder	DISEASE
+generalized anxiety disorder	CEF
+panic-disorder	DISEASE
+panic attacks	CEF
+panic-disorder	DISEASE
+anxiety disorders	CEF
+personality-disorders	DISEASE
+osteochondritis dissecans	CEF
+personality-disorders	DISEASE
+obsessive-compulsive disorder	CEF
+personality-disorders	DISEASE
+borderline personality disorder	CEF
+personality-disorders	DISEASE
+personality disorders	CEF
+phobic-disorders	DISEASE
+phobia social	CEF
+phobic-disorders	DISEASE
+phobic anxiety disorder	CEF
+phobic-disorders	DISEASE
+anxiety disorders	CEF
+phobic-disorders	DISEASE
+social anxiety	CEF
+pick-disease-of-the-brain	DISEASE
+aphasia progressive	CEF
+schizophrenia	DISEASE
+schizophrenia	CEF
+schizophrenia	DISEASE
+schizoaffective disorder	CEF
+schizophrenia-and-disorders-with-psychotic-features	DISEASE
+schizophrenia	CEF
+schizophrenia-and-disorders-with-psychotic-features	DISEASE
+schizoaffective disorder	CEF
+self-injurious-behavior	DISEASE
+suicide attempt	CEF
+self-injurious-behavior	DISEASE
+major depressive disorder	CEF
+somatoform-disorders	DISEASE
+pain disorder	CEF
+substance-related-disorders	DISEASE
+cocaine dependence	CEF
+suicidal-ideation	DISEASE
+suicide attempt	CEF
+suicidal-ideation	DISEASE
+depressed mood	CEF
+suicide	DISEASE
+suicide attempt	CEF
+tic-disorders	DISEASE
+gilles de la tourette syndrome	CEF
+tic-disorders	DISEASE
+tic disorder	CEF
+tobacco-use-disorder	DISEASE
+nicotine dependence	CEF
+tourette-syndrome	DISEASE
+gilles de la tourette syndrome	CEF
+tourette-syndrome	DISEASE
+tic disorder	CEF

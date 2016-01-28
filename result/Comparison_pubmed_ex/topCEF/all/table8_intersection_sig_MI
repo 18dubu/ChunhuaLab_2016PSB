@@ -1,0 +1,1422 @@
+CEF	#Exclusion occurrence	#Pubmed occurrence	Semantic Type
+pharmaceutical preparations	38	42	pharmacologic substance
+ethanol	38	21	organic chemical - pharmacologic substance
+depressed mood	38	8	finding - mental or behavioral dysfunction
+psychotic disorders	38	3	mental or behavioral dysfunction
+mental disorders	38	2	mental or behavioral dysfunction
+schizophrenia	38	2	mental or behavioral dysfunction
+gravidity	38	1	finding
+active brand of pseudoephedrine-triprolidine	38	0	organic chemical - pharmacologic substance
+allergy severity - severe	38	0	finding
+substance abuse problem	38	0	mental or behavioral dysfunction
+unstable status	38	0	finding
+hypersensitivity	37	3	clinical attribute - finding - pathologic function
+bipolar disorder	37	1	mental or behavioral dysfunction
+positive finding	37	0	finding
+hepatic	36	4	body location or region
+antipsychotic agents	35	9	pharmacologic substance
+congenital abnormality	35	2	congenital abnormality - disease or syndrome
+hypertensive disease	35	1	biologically active substance - disease or syndrome - finding
+psychotropic drugs	35	0	pharmacologic substance
+malignant neoplasms	34	10	biologically active substance - finding - neoplastic process - pharmacologic substance - therapeutic or preventive procedure
+electrocardiogram	34	2	diagnostic procedure - finding - organic chemical - pharmacologic substance
+nervous system disorder	33	0	disease or syndrome
+injury wounds	32	2	body substance - injury or poisoning
+heart diseases	32	1	disease or syndrome
+suicidal	32	1	finding
+unipolar depression	31	4	mental or behavioral dysfunction
+antidepressive agents	30	12	pharmacologic substance
+screening for cancer	30	6	diagnostic procedure
+benzodiazepines	30	5	organic chemical - pharmacologic substance
+epilepsy	30	1	disease or syndrome
+major depressive disorder	30	0	mental or behavioral dysfunction
+pharmacotherapy	30	0	therapeutic or preventive procedure
+craniocerebral trauma	29	1	injury or poisoning
+operative surgical procedures	29	1	diagnostic procedure - therapeutic or preventive procedure
+investigational new drugs	27	0	pharmacologic substance - therapeutic or preventive procedure
+magnetic resonance imaging	26	10	diagnostic procedure
+breast	26	0	body part, organ, or organ component
+mental retardation	25	2	mental or behavioral dysfunction
+kidney diseases	25	0	disease or syndrome
+blood pressure finding	24	0	finding
+alcohol abuse	23	5	mental or behavioral dysfunction
+myocardial infarction	23	4	disease or syndrome - finding
+suicide attempt	23	3	finding - mental or behavioral dysfunction
+mood disorders	23	0	mental or behavioral dysfunction
+alcoholic intoxication chronic	22	5	mental or behavioral dysfunction
+impaired cognition	22	0	finding - mental or behavioral dysfunction
+cerebrovascular accident	21	7	disease or syndrome - therapeutic or preventive procedure
+brain injuries	21	4	injury or poisoning
+liver diseases	21	1	disease or syndrome
+cardiovascular diseases	21	0	disease or syndrome
+caffeine	20	5	organic chemical - pharmacologic substance - therapeutic or preventive procedure
+disability	20	5	finding
+drug abuse	20	3	mental or behavioral dysfunction
+neoplasm metastasis	20	1	neoplastic process
+substance dependence	20	0	mental or behavioral dysfunction
+cardiac arrhythmia	19	2	finding - pathologic function
+nervousness	19	1	sign or symptom
+schizoaffective disorder	19	0	mental or behavioral dysfunction
+neurological observations	18	16	finding
+dementia	17	7	mental or behavioral dysfunction
+fluoxetine	17	1	organic chemical - pharmacologic substance
+manic	17	1	finding - mental or behavioral dysfunction
+personality disorders	17	1	mental or behavioral dysfunction
+unconscious state	17	1	disease or syndrome - finding
+post-traumatic stress disorder	17	0	mental or behavioral dysfunction
+suicidality	17	0	clinical attribute
+infantile neuroaxonal dystrophy	16	6	disease or syndrome
+psychotherapy	16	5	therapeutic or preventive procedure
+attention deficit hyperactivity disorder	16	4	disease or syndrome - mental or behavioral dysfunction
+thyroid gland	16	4	body part organ or organ component - disease or syndrome - pharmacologic substance
+hiv	16	2	disease or syndrome - pharmacologic substance - virus
+eating disorders	16	1	mental or behavioral dysfunction
+claustrophobia	16	0	mental or behavioral dysfunction
+psychiatric problem	16	0	mental or behavioral dysfunction
+cognitive therapy	15	17	diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure
+stimulant	15	10	pharmacologic substance
+illicit drugs	15	5	hazardous or poisonous substance - pharmacologic substance
+developmental disabilities	15	2	mental or behavioral dysfunction
+diabetes mellitus	15	0	disease or syndrome - pharmacologic substance
+medical contraindication	15	0	finding
+selective serotonin re-uptake inhibitor	14	5	pharmacologic substance
+consciousness related finding	14	1	finding
+household composition	14	1	finding
+blood vessel	14	0	body part, organ, or organ component - finding
+current therapy	14	0	therapeutic or preventive procedure
+diastole	14	0	clinical attribute
+lactation	14	0	organ or tissue function
+alanine transaminase	13	4	congenital abnormality - disease or syndrome - enzyme
+nicotine	13	2	hazardous or poisonous substance - organic chemical - pharmacologic substance
+anticonvulsants	13	1	pharmacologic substance
+obsessive-compulsive disorder	13	1	disease or syndrome - mental or behavioral dysfunction
+angina pectoris	13	0	sign or symptom
+opioids	13	0	hazardous or poisonous substance - organic chemical - pharmacologic substance
+psychotic symptoms	13	0	sign or symptom
+therapeutic brand of coal tar	13	0	organic chemical - pharmacologic substance - therapeutic or preventive procedure
+behavior therapy	12	4	therapeutic or preventive procedure
+fever	12	4	finding
+pervasive development disorder	12	2	congenital abnormality - inorganic chemical - mental or behavioral dysfunction - pharmacologic substance
+monoamine oxidase inhibitors	12	1	organic chemical - pharmacologic substance
+arteries	12	0	body part, organ, or organ component
+congestive heart failure	12	0	congenital abnormality - disease or syndrome
+contraceptives oral	12	0	pharmacologic substance - therapeutic or preventive procedure
+pathology processes	12	0	pathologic function
+substance use disorders	12	0	mental or behavioral dysfunction
+kidney	11	5	body part organ or organ component
+multiple sclerosis	11	2	body part organ or organ component - disease or syndrome - finding
+disease of diaphragm	11	1	body part organ or organ component - disease or syndrome
+drug dependence	11	1	mental or behavioral dysfunction
+diastolic blood pressure	11	0	clinical attribute - diagnostic procedure - finding
+family history	11	0	congenital abnormality - disease or syndrome - enzyme - finding
+traumatic brain injury	11	0	disease or syndrome - injury or poisoning
+hyperactive behavior	10	6	finding
+cocaine	10	3	hazardous or poisonous substance - injury or poisoning - organic chemical - pharmacologic substance
+marihuana	10	2	mental or behavioral dysfunction - organic chemical - pharmacologic substance
+lung	10	1	body part organ or organ component - disease or syndrome
+anaplastic oligodendroglioma	10	0	neoplastic process
+anti-anxiety agents	10	0	pharmacologic substance
+aspartate transaminase	10	0	enzyme
+implantation procedure	10	0	therapeutic or preventive procedure
+stabilizer - function	9	6	organ or tissue function
+asthma	9	1	disease or syndrome
+lithium	9	1	congenital abnormality - disease or syndrome - pharmacologic substance
+atypia morphology	9	0	finding
+bilirubin	9	0	biologically active substance - laboratory or test result - organic chemical
+opiates	9	0	hazardous or poisonous substance - mental or behavioral dysfunction - pharmacologic substance
+liver function	8	6	organ or tissue function
+chronic disease	8	2	disease or syndrome
+febrile convulsions	8	1	disease or syndrome - pharmacologic substance
+panic disorder	8	1	disease or syndrome - mental or behavioral dysfunction
+suicide risk	8	1	finding
+immunologic deficiency syndromes	8	0	disease or syndrome
+insulin	8	0	pharmacologic substance
+transaminases	8	0	enzyme
+alcohol consumption	7	9	individual behavior
+vitamins	7	8	organic chemical - pharmacologic substance
+risperidone	7	4	organic chemical - pharmacologic substance
+mercury	7	3	hazardous or poisonous substance
+vital signs	7	3	clinical attribute
+brain diseases	7	2	disease or syndrome
+brain neoplasms	7	2	neoplastic process
+drugs non-prescription	7	2	pharmacologic substance - therapeutic or preventive procedure
+anorexia nervosa	7	1	mental or behavioral dysfunction
+movement disorders	7	1	disease or syndrome
+adverse reactions	7	0	antibiotic - biologically active substance - disease or syndrome - finding - organic chemical - pathologic function - pharmacologic substance - receptor
+consumption-archaic term for tb	7	0	disease or syndrome
+creatinine clearance	7	0	finding
+current non-drinker of alcohol	7	0	individual behavior
+delirium dementia amnestic cognitive disorders	7	0	mental or behavioral dysfunction
+heart ventricle	7	0	body part, organ, or organ component
+neuroleptic malignant syndrome	7	0	disease or syndrome
+treatment-psychosocial effects	7	0	finding
+diabetes	6	4	disease or syndrome
+borderline personality disorder	6	2	disease or syndrome - mental or behavioral dysfunction
+limb structure	6	2	body part organ or organ component
+observation of attack	6	2	finding
+counter brand of terbufos	6	1	hazardous or poisonous substance
+encephalopathies	6	1	disease or syndrome - finding
+hyperthyroidism	6	1	disease or syndrome
+tobacco	6	1	hazardous or poisonous substance - organic chemical - pharmacologic substance
+anticoagulants	6	0	pharmacologic substance
+aripiprazole	6	0	organic chemical - pharmacologic substance
+clozapine	6	0	organic chemical - pharmacologic substance
+communicable diseases	6	0	disease or syndrome
+delirium	6	0	mental or behavioral dysfunction
+gastrointestinal diseases	6	0	disease or syndrome
+hiv seropositivity	6	0	finding
+lung diseases	6	0	disease or syndrome
+malignant syndrome nos	6	0	disease or syndrome
+psychoactive substances	6	0	hazardous or poisonous substance - pharmacologic substance
+systemic disease	6	0	disease or syndrome
+attention deficit disorder	5	10	disease or syndrome - mental or behavioral dysfunction
+exercise pain management	5	7	therapeutic or preventive procedure
+violent	5	5	mental or behavioral dysfunction
+electroconvulsive therapy	5	4	disease or syndrome - therapeutic or preventive procedure
+hypothyroidism	5	4	disease or syndrome
+dyskinetic syndrome	5	3	disease or syndrome - finding
+paralysed	5	3	finding
+veins	5	3	body part organ or organ component
+benign rolandic epilepsy	5	2	disease or syndrome - therapeutic or preventive procedure
+dementia vascular	5	2	disease or syndrome
+hemorrhage	5	2	pathologic function - therapeutic or preventive procedure
+olanzapine	5	2	organic chemical - pharmacologic substance
+depressive episode unspecified	5	1	mental or behavioral dysfunction
+psychostimulant	5	1	pharmacologic substance
+unmarried	5	1	finding
+adrenal cortex hormones	5	0	pharmacologic substance
+angina unstable	5	0	disease or syndrome
+bleomycin-cisplatin protocol	5	0	therapeutic or preventive procedure
+cerebrovascular disorders	5	0	pathologic function
+chronic obstructive airway disease	5	0	disease or syndrome
+conduct disorder	5	0	mental or behavioral dysfunction
+experimental drug	5	0	pharmacologic substance
+glaucoma	5	0	disease or syndrome - finding
+injectables	5	0	pharmacologic substance
+laboratory results	5	0	laboratory or test result
+lewy body disease	5	0	disease or syndrome
+neurodegenerative disorders	5	0	disease or syndrome
+test result	5	0	finding
+urine drug screen positive	5	0	laboratory or test result
+behaviorial habits	4	9	individual behavior
+hallucinations	4	8	mental or behavioral dysfunction
+severe depression	4	8	mental or behavioral dysfunction
+narcotics	4	5	biologically active substance - hazardous or poisonous substance - pharmacologic substance
+narcolepsy	4	3	disease or syndrome
+sleep apnea obstructive	4	3	biologically active substance - disease or syndrome
+sleep apnea syndromes	4	3	disease or syndrome
+antihistamines	4	2	organic chemical - pharmacologic substance
+tardive dyskinesia	4	2	disease or syndrome
+endocrine system diseases	4	1	disease or syndrome - finding
+amphetamines	4	0	hazardous or poisonous substance - organic chemical - pharmacologic substance
+antisocial behavior	4	0	mental or behavioral dysfunction
+arteriopathic disease	4	0	disease or syndrome
+bilateral prophylactic mastectomy	4	0	organic chemical - therapeutic or preventive procedure
+bipolar i disorder	4	0	mental or behavioral dysfunction
+body parts - dental	4	0	body part, organ, or organ component
+carbamazepine	4	0	organic chemical - pharmacologic substance
+clonidine	4	0	organic chemical - pharmacologic substance
+cns disorder	4	0	disease or syndrome
+cochlear implant procedure	4	0	therapeutic or preventive procedure
+cochlear structure	4	0	body part, organ, or organ component
+gene therapy	4	0	therapeutic or preventive procedure
+hematological disease	4	0	disease or syndrome
+homicidal	4	0	mental or behavioral dysfunction
+homicidal ideation	4	0	finding
+hypnotics	4	0	pharmacologic substance
+immunodeficiency virus	4	0	virus
+psychiatric care	4	0	therapeutic or preventive procedure
+schizophreniform disorders	4	0	mental or behavioral dysfunction
+serum creatinine level	4	0	laboratory or test result
+therapeutic radiology procedure	4	0	body location or region - finding - neoplastic process - therapeutic or preventive procedure
+venous blood sampling	4	0	diagnostic procedure - therapeutic or preventive procedure
+brain	3	18	body part organ or organ component - disease or syndrome
+heart	3	13	body part organ or organ component - pharmacologic substance
+anemia	3	6	disease or syndrome
+eye	3	6	body part organ or organ component - body substance
+daytime sleepiness	3	5	finding
+thyroid diseases	3	5	body part organ or organ component - disease or syndrome - pharmacologic substance
+depression bipolar	3	4	mental or behavioral dysfunction
+renal function	3	4	organ or tissue function
+research outcome	3	4	finding
+stomach	3	4	body part organ or organ component - disease or syndrome
+fibromyalgia	3	3	disease or syndrome
+intestines	3	3	body part organ or organ component
+liver	3	3	body part organ or organ component - disease or syndrome - organic chemical - pharmacologic substance
+naltrexone	3	2	organic chemical - pharmacologic substance
+shift worker	3	2	finding
+tricyclic antidepressive agents	3	2	pharmacologic substance
+blood coagulation disorders	3	1	disease or syndrome - organ or tissue function - pathologic function
+deafness	3	1	disease or syndrome - finding
+dietary potassium	3	1	inorganic chemical
+disulfiram	3	1	body part organ or organ component - hazardous or poisonous substance - organic chemical - pharmacologic substance
+escitalopram	3	1	organic chemical - pharmacologic substance
+hypnotics and sedatives	3	1	pharmacologic substance
+metabolic diseases	3	1	disease or syndrome
+tuberous sclerosis	3	1	body part organ or organ component - congenital abnormality - disease or syndrome - finding - mental or behavioral dysfunction - neoplastic process - pharmacologic substance
+abnormal degeneration	3	0	pathologic function
+amyotrophic lateral sclerosis	3	0	disease or syndrome - pharmacologic substance
+antimicrobial resistance result	3	0	laboratory or test result
+body excretions	3	0	body substance
+cerebral palsy	3	0	congenital abnormality - disease or syndrome - therapeutic or preventive procedure
+chorea	3	0	disease or syndrome
+chronic pain	3	0	disease or syndrome
+cognition disorders	3	0	mental or behavioral dysfunction
+coronary artery disease	3	0	diagnostic procedure - disease or syndrome - therapeutic or preventive procedure
+dopamine agonists	3	0	pharmacologic substance
+enzymes	3	0	enzyme - organic chemical
+fragile x syndrome	3	0	congenital abnormality - disease or syndrome
+heart atrium	3	0	body part, organ, or organ component
+hematoma subdural	3	0	enzyme - pathologic function
+hepatitis	3	0	disease or syndrome - pharmacologic substance
+hepatitis active	3	0	finding
+lung diseases obstructive	3	0	disease or syndrome
+organic disorders	3	0	disease or syndrome
+polysomnography	3	0	diagnostic procedure
+positive pregnancy test	3	0	laboratory or test result
+prostaglandins	3	0	biologically active substance - pharmacologic substance
+renal insufficiency	3	0	disease or syndrome
+sinoatrial node	3	0	body part, organ, or organ component
+transient ischemic attack	3	0	disease or syndrome
+withdrawal symptoms	3	0	sign or symptom
+therapeutic procedure	2	18	enzyme - finding - therapeutic or preventive procedure
+somnolence	2	10	finding
+tissue damage	2	9	injury or poisoning
+bony process	2	8	body part organ or organ component
+oral region	2	6	body location or region - body part organ or organ component - disease or syndrome
+rheumatoid arthritis	2	5	disease or syndrome - pharmacologic substance
+rhythm	2	5	finding
+alcohol withdrawal syndrome	2	4	disease or syndrome
+general anesthesia	2	4	enzyme - pharmacologic substance - therapeutic or preventive procedure
+tachycardia	2	4	finding
+alcohol withdrawal delirium	2	3	disease or syndrome - receptor
+acamprosate	2	1	organic chemical - pharmacologic substance
+antabuse	2	1	organic chemical - pharmacologic substance
+creatinine	2	1	biologically active substance - finding - organic chemical
+fracture	2	1	finding - injury or poisoning
+fragments	2	1	body substance
+nocturnal myoclonus syndrome	2	1	disease or syndrome
+abnormal movement	2	0	disease or syndrome - finding
+acute hepatitis	2	0	disease or syndrome
+allergic reaction	2	0	pathologic function
+aneurysm	2	0	disease or syndrome
+angle closure glaucoma	2	0	disease or syndrome
+antiemetics	2	0	pharmacologic substance
+antiparkinson agents	2	0	pharmacologic substance
+atrial fibrillation	2	0	finding - pathologic function
+bleeding tendency	2	0	disease or syndrome - pathologic function
+bradycardia	2	0	pathologic function
+cannabinoids	2	0	organic chemical - pharmacologic substance
+cardiac pacing	2	0	therapeutic or preventive procedure
+chemotherapy regimen	2	0	therapeutic or preventive procedure
+chest pain	2	0	sign or symptom
+cyclophosphamide-doxorubicin-etoposide-prednisone	2	0	therapeutic or preventive procedure
+cytochrome p-450 cyp2d6	2	0	enzyme
+cytochrome p450 3a4	2	0	enzyme
+diabetes mellitus insulin-dependent	2	0	disease or syndrome
+fibrillations	2	0	disease or syndrome
+gastrointestinal hemorrhage	2	0	pathologic function
+glucose	2	0	biologically active substance - pharmacologic substance
+heart block	2	0	disease or syndrome
+heart failure	2	0	disease or syndrome
+hematocrit level	2	0	laboratory or test result
+hemoglobin	2	0	biologically active substance - finding
+hepatitis c	2	0	disease or syndrome - virus
+hepatotoxicity	2	0	injury or poisoning
+hiv infections	2	0	disease or syndrome - virus
+hypomania	2	0	mental or behavioral dysfunction
+hypopnea	2	0	finding
+imaging of brain	2	0	diagnostic procedure
+immunosuppressive agents	2	0	pharmacologic substance
+investigational agents	2	0	pharmacologic substance
+lab test abnormal	2	0	finding
+melanoma	2	0	neoplastic process - pharmacologic substance
+myocardial ischemia	2	0	disease or syndrome
+neoplasms intracranial	2	0	neoplastic process
+organic brain syndrome	2	0	disease or syndrome
+osteoporosis	2	0	disease or syndrome - finding
+partum	2	0	clinical attribute
+phosphatidylinositols	2	0	biologically active substance
+prior therapy	2	0	clinical attribute
+progesterone	2	0	pharmacologic substance
+prostate carcinoma	2	0	neoplastic process
+psychiatric symptom	2	0	sign or symptom
+psychotic illness	2	0	finding
+refusal	2	0	organic chemical - pharmacologic substance
+renal impairment	2	0	disease or syndrome - finding
+stem cell transplant	2	0	therapeutic or preventive procedure
+suicidal behavior	2	0	finding
+systolic blood pressure measurement	2	0	clinical attribute - diagnostic procedure
+tissue growth	2	0	organ or tissue function
+transplanted organ	2	0	body part, organ, or organ component - therapeutic or preventive procedure
+valproate	2	0	pharmacologic substance
+vascular diseases	2	0	disease or syndrome
+withdrawal convulsions	2	0	pathologic function
+physical findings	1	49	finding
+mental status adverse event	1	6	finding
+dehydration	1	4	disease or syndrome - finding
+oxygen	1	4	pharmacologic substance
+cimetidine	1	3	organic chemical - pharmacologic substance
+diarrhea	1	3	finding - sign or symptom
+face	1	3	body location or region - disease or syndrome
+inflammation	1	3	pathologic function
+minerals	1	3	inorganic chemical
+cholesterol	1	2	biologically active substance
+liver failure	1	2	disease or syndrome
+night terrors	1	2	mental or behavioral dysfunction
+rapid eye movement	1	2	organ or tissue function
+sleep disturbances	1	2	disease or syndrome - sign or symptom
+somnambulism	1	2	disease or syndrome
+autoimmune diseases	1	1	disease or syndrome
+bulimia	1	1	mental or behavioral dysfunction
+comatose	1	1	congenital abnormality - disease or syndrome
+dislocations	1	1	injury or poisoning
+dopamine antagonists	1	1	pharmacologic substance
+hyperparathyroidism	1	1	disease or syndrome
+hypotension	1	1	finding - pathologic function
+hypotension orthostatic	1	1	finding
+manic episode	1	1	mental or behavioral dysfunction
+myoclonus	1	1	sign or symptom
+naloxone	1	1	organic chemical - pharmacologic substance
+peripheral neuropathy	1	1	disease or syndrome
+tranquilizing agents	1	1	pharmacologic substance
+vertebral column	1	1	body part organ or organ component
+abnormal behavior	1	0	mental or behavioral dysfunction
+acetylcholinesterase inhibitors	1	0	organic chemical - pharmacologic substance
+adrenergic beta-antagonists	1	0	pharmacologic substance
+adverse reaction to drug	1	0	injury or poisoning
+alkaline phosphatase	1	0	enzyme - finding - therapeutic or preventive procedure
+amnesia	1	0	mental or behavioral dysfunction - sign or symptom
+anti-obesity agents	1	0	pharmacologic substance
+anticonvulsant therapy	1	0	therapeutic or preventive procedure
+asymptomatic	1	0	finding
+barbiturates	1	0	injury or poisoning - organic chemical - pharmacologic substance
+beck depression inventory	1	0	diagnostic procedure
+body site modifier - external	1	0	body location or region
+bone metabolism	1	0	organ or tissue function
+budipine	1	0	organic chemical - pharmacologic substance
+butyrophenones	1	0	organic chemical - pharmacologic substance
+carbonate dehydratase	1	0	enzyme
+carbonic anhydrase inhibitors	1	0	pharmacologic substance
+cardiac dysfunction	1	0	finding
+cardiac symptom	1	0	sign or symptom
+catechol o-methyltransferase	1	0	enzyme
+complete atrioventricular block	1	0	disease or syndrome
+concomitant therapy	1	0	therapeutic or preventive procedure
+contact dermatitis	1	0	disease or syndrome
+cystic fibrosis	1	0	disease or syndrome - organic chemical - pharmacologic substance - therapeutic or preventive procedure
+cytochrome p-450 cyp1a2	1	0	enzyme
+decreased translucency	1	0	finding
+delusional disorder	1	0	mental or behavioral dysfunction
+dementia progressive	1	0	disease or syndrome
+dermatologic disorders	1	0	disease or syndrome
+diabetic neuropathies	1	0	disease or syndrome
+disorder of eye	1	0	disease or syndrome
+domperidone	1	0	organic chemical - pharmacologic substance
+dopaminergic agents	1	0	pharmacologic substance
+doxorubicin-fluorouracil-mitomycin-vincristine protocol	1	0	therapeutic or preventive procedure
+drug screen positive	1	0	laboratory or test result
+dystonia	1	0	disease or syndrome - sign or symptom
+electrocardiogram abnormal	1	0	finding
+epilepsies myoclonic	1	0	disease or syndrome
+estrogens	1	0	pharmacologic substance
+factitious disorders	1	0	mental or behavioral dysfunction
+fibrosis	1	0	pathologic function
+fmri	1	0	diagnostic procedure
+folic acid deficiency	1	0	disease or syndrome
+hemochromatosis	1	0	disease or syndrome
+hemodynamic instability	1	0	disease or syndrome
+hemodynamics	1	0	organ or tissue function
+hepatic impairment	1	0	disease or syndrome
+hepatitis b surface antigens	1	0	pharmacologic substance
+hepatitis c virus	1	0	virus
+hypokalemia	1	0	disease or syndrome - finding
+immunotherapy	1	0	therapeutic or preventive procedure
+impulse control disorders	1	0	mental or behavioral dysfunction
+individual therapy	1	0	therapeutic or preventive procedure
+inflammatory bowel diseases	1	0	disease or syndrome
+instability	1	0	finding
+integrated neuromusculoskeletal release	1	0	therapeutic or preventive procedure
+intestinal diseases	1	0	disease or syndrome
+kidney failure	1	0	disease or syndrome - finding
+knee surgery	1	0	therapeutic or preventive procedure
+lameness	1	0	finding
+ligamentous	1	0	body location or region
+litigation affecting health status	1	0	finding
+liver abnormal	1	0	finding
+liver dysfunction	1	0	pathologic function
+lupus vulgaris	1	0	disease or syndrome
+microcytic anemia	1	0	disease or syndrome
+muscular fasciculation	1	0	sign or symptom
+neoplastic disease	1	0	neoplastic process
+nicotine replacement	1	0	therapeutic or preventive procedure
+non-english speaking	1	0	finding
+normal menstruation - observation	1	0	finding
+painful legs and moving toes	1	0	sign or symptom
+paresis	1	0	sign or symptom
+patellar dislocation	1	0	injury or poisoning
+peripheral vascular diseases	1	0	disease or syndrome
+phosphoric monoester hydrolases	1	0	enzyme
+physical disorders	1	0	disease or syndrome
+plasma	1	0	body substance
+polyneuropathy	1	0	disease or syndrome
+protection	1	0	finding
+psychotic episodes	1	0	mental or behavioral dysfunction
+pulmonary emphysema	1	0	disease or syndrome - pathologic function
+purine-nucleoside phosphorylase	1	0	enzyme
+radiculopathy	1	0	disease or syndrome
+replacement therapy	1	0	therapeutic or preventive procedure
+retina	1	0	body part, organ, or organ component - disease or syndrome - organic chemical - pharmacologic substance
+retinal diseases	1	0	disease or syndrome - finding
+skin hypersensitivity	1	0	disease or syndrome
+sleep deprivation	1	0	finding
+spinal cord diseases	1	0	disease or syndrome
+status epilepticus	1	0	disease or syndrome
+surgical and medical procedures	1	0	diagnostic procedure - therapeutic or preventive procedure
+sympathomimetics	1	0	disease or syndrome - pharmacologic substance
+systemic infection	1	0	disease or syndrome
+tattoo	1	0	finding
+tendon structure	1	0	body part, organ, or organ component
+tetrahydrocannabinol	1	0	organic chemical - pharmacologic substance
+theophylline	1	0	biologically active substance - organic chemical - pharmacologic substance
+therapeutic diet	1	0	finding
+thyroxine	1	0	body part, organ, or organ component - finding - organic chemical - pharmacologic substance
+trunk structure	1	0	body location or region
+ulcer	1	0	finding - pathologic function
+uremia	1	0	disease or syndrome - finding
+urethra	1	0	body part, organ, or organ component - body substance - disease or syndrome
+uveitis	1	0	disease or syndrome - finding
+varicosity	1	0	disease or syndrome
+vitamin d-binding protein	1	0	biologically active substance - diagnostic procedure
+prophylactic treatment	0	33	therapeutic or preventive procedure
+anxiety disorders	0	26	finding - mental or behavioral dysfunction
+support - dental	0	22	clinical attribute - organic chemical - pharmacologic substance
+pharmacologic substance	0	21	pharmacologic substance - therapeutic or preventive procedure
+agitation	0	19	finding - sign or symptom
+deterioration of status	0	19	finding
+esthesia	0	19	finding - organ or tissue function
+does talk	0	17	finding
+skills	0	16	individual behavior
+adverse event associated with death	0	13	finding
+confusion	0	13	finding - mental or behavioral dysfunction
+multiple endocrine neoplasia	0	13	antibiotic - neoplastic process - organic chemical
+fatigue	0	11	sign or symptom
+as if personality	0	10	mental or behavioral dysfunction
+memory observations	0	10	finding
+mild adverse event	0	10	finding
+perform	0	10	pharmacologic substance
+stress	0	10	finding - organic chemical - pharmacologic substance
+weight gain	0	10	finding - sign or symptom
+acquired immunodeficiency syndrome	0	9	disease or syndrome
+body fluids	0	9	biologically active substance - body substance - pharmacologic substance
+delusions	0	9	mental or behavioral dysfunction
+does play	0	9	finding
+hand	0	9	body part organ or organ component
+irritable mood	0	9	finding
+suicide	0	9	finding - mental or behavioral dysfunction
+asleep	0	8	finding
+educational status	0	8	finding - individual behavior
+hearing examination finding	0	8	finding
+leg	0	8	body location or region
+sleeplessness	0	8	finding - sign or symptom
+ask question	0	7	finding
+expression procedure	0	7	therapeutic or preventive procedure
+falls	0	7	finding - injury or poisoning
+foot	0	7	body part organ or organ component
+mood swings	0	7	mental or behavioral dysfunction - sign or symptom
+other drugs	0	7	pharmacologic substance
+recreational drugs	0	7	hazardous or poisonous substance
+anxiety depression	0	6	mental or behavioral dysfunction
+brain function	0	6	organ or tissue function
+cat scan of head	0	6	diagnostic procedure
+change in mental status	0	6	sign or symptom
+drowsiness	0	6	finding
+feeling hopeless	0	6	finding
+malnutrition	0	6	disease or syndrome
+nutrition disorders	0	6	disease or syndrome
+seizures	0	6	finding - sign or symptom
+short period	0	6	finding
+sleep disorders	0	6	disease or syndrome - sign or symptom
+vitality	0	6	finding
+able to balance	0	5	finding
+anorexia	0	5	disease or syndrome - finding
+cerebrospinal fluid	0	5	biologically active substance - body substance - pharmacologic substance
+coloring excipient	0	5	pharmacologic substance
+core specimen	0	5	body substance
+depressive symptoms	0	5	sign or symptom
+diazepam	0	5	organic chemical - pharmacologic substance
+difficulty reading	0	5	finding
+dizziness	0	5	finding - sign or symptom
+electroencephalography	0	5	diagnostic procedure - finding - laboratory or test result
+haloperidol	0	5	organic chemical - pharmacologic substance
+headache	0	5	sign or symptom
+heart rate	0	5	clinical attribute
+incontinence	0	5	disease or syndrome
+isolation procedure	0	5	therapeutic or preventive procedure
+language problems	0	5	mental or behavioral dysfunction
+malaise	0	5	finding - sign or symptom
+nausea	0	5	finding - sign or symptom
+neurologic examination	0	5	diagnostic procedure
+precipitating factors	0	5	clinical attribute
+problem behavior	0	5	finding - mental or behavioral dysfunction
+proteins	0	5	biologically active substance
+sedatives	0	5	pharmacologic substance
+set protein human	0	5	biologically active substance
+target lesion identification	0	5	diagnostic procedure
+tremor	0	5	finding - sign or symptom
+upper arm	0	5	body location or region - body part organ or organ component - neoplastic process
+vitamin deficiency	0	5	disease or syndrome
+worthlessness	0	5	finding
+ammonia level finding	0	4	laboratory or test result
+anatomic border	0	4	body location or region
+anatomic site	0	4	body location or region
+anterior segmental vein	0	4	body part organ or organ component
+aplasia cutis congenita	0	4	congenital abnormality - disease or syndrome
+app protein human	0	4	biologically active substance - disease or syndrome - finding - pharmacologic substance
+blank	0	4	finding
+body weight decreased	0	4	finding
+cataract adverse event	0	4	finding
+central nervous system depressants	0	4	pharmacologic substance
+chemical probe	0	4	chemical viewed functionally - organic chemical - pharmacologic substance
+chest	0	4	body location or region - disease or syndrome
+citalopram	0	4	organic chemical - pharmacologic substance
+coffin-siris syndrome	0	4	congenital abnormality - disease or syndrome
+colostrum	0	4	body substance - finding - pharmacologic substance
+compact pattern	0	4	finding
+copper	0	4	biologically active substance - organic chemical - pharmacologic substance
+craniodiaphyseal dysplasia	0	4	congenital abnormality
+dangerous behavior	0	4	individual behavior
+date allergenic extract	0	4	pharmacologic substance
+diastrophic dysplasia	0	4	congenital abnormality - disease or syndrome
+diet fat-restricted	0	4	therapeutic or preventive procedure
+discontinued	0	4	body part organ or organ component - disease or syndrome - finding - therapeutic or preventive procedure
+disrupted sleep	0	4	finding
+dna	0	4	biologically active substance
+does skip	0	4	biologically active substance - finding
+doxorubicin	0	4	antibiotic - finding - organic chemical
+dry skin	0	4	finding - pharmacologic substance - sign or symptom
+electrolytes	0	4	inorganic chemical - pharmacologic substance
+euphoria adverse event	0	4	finding
+fibronectins	0	4	biologically active substance
+finding of hormone level	0	4	laboratory or test result
+fluorouracil/melphalan	0	4	therapeutic or preventive procedure
+forgetting	0	4	mental or behavioral dysfunction
+formycin triphosphate	0	4	pharmacologic substance
+gtpase-activating proteins	0	4	biologically active substance
+hallucinations visual	0	4	sign or symptom
+heart beat	0	4	organ or tissue function
+heavy drinking	0	4	mental or behavioral dysfunction
+histone h3	0	4	biologically active substance
+hypersomnia	0	4	sign or symptom
+hyposomnia	0	4	pathologic function
+hypoxia	0	4	finding - pathologic function
+immunoconjugates	0	4	hazardous or poisonous substance - organic chemical - pharmacologic substance
+influenza	0	4	disease or syndrome - pharmacologic substance
+intoxication	0	4	finding
+js	0	4	body part organ or organ component
+level	0	4	pharmacologic substance
+life threatening	0	4	finding
+low self-esteem	0	4	finding
+matrix attachment regions	0	4	biologically active substance - clinical attribute
+may-hegglin anomaly	0	4	finding - organic chemical - pharmacologic substance - therapeutic or preventive procedure
+medical history	0	4	finding
+muscular dystrophy	0	4	body part organ or organ component - congenital abnormality - disease or syndrome
+numbness	0	4	finding - sign or symptom
+observation result	0	4	finding
+paramyotonia congenita of von eulenburg	0	4	disease or syndrome
+parotid double-band protein	0	4	biologically active substance
+paroxysmal atrial fibrillation	0	4	disease or syndrome - therapeutic or preventive procedure
+physical therapy exercises	0	4	therapeutic or preventive procedure
+prealbumin	0	4	biologically active substance
+pulse rate	0	4	clinical attribute
+rel protein	0	4	biologically active substance
+reuptake inhibitors	0	4	pharmacologic substance
+russell-silver syndrome	0	4	congenital abnormality - diagnostic procedure - disease or syndrome
+scanning	0	4	diagnostic procedure - finding
+serotonin uptake inhibitors	0	4	pharmacologic substance
+signs and symptoms	0	4	sign or symptom
+stat protein	0	4	biologically active substance - finding
+surgical margins	0	4	body part organ or organ component
+tension	0	4	mental or behavioral dysfunction - sign or symptom
+thrombasthenia	0	4	disease or syndrome
+thumb structure	0	4	body part organ or organ component
+thymidine	0	4	biologically active substance - enzyme - pharmacologic substance
+treated with	0	4	therapeutic or preventive procedure
+ultrasonography	0	4	diagnostic procedure
+upper respiratory infections	0	4	disease or syndrome
+urinary bladder	0	4	body part organ or organ component
+vitamin b 12	0	4	organic chemical - pharmacologic substance
+vitamin diseases	0	4	disease or syndrome
+weakness	0	4	sign or symptom
+abdomen	0	3	body location or region
+acyl-coa thioester hydrolase long-chain 1	0	3	enzyme - therapeutic or preventive procedure
+aggressive behavior	0	3	mental or behavioral dysfunction
+analgesics	0	3	organic chemical - pharmacologic substance
+antisocial personality disorder	0	3	mental or behavioral dysfunction
+apical segmental bronchus	0	3	body part organ or organ component
+autistic disorder	0	3	mental or behavioral dysfunction
+blood gas	0	3	organ or tissue function
+body part	0	3	body location or region - body part organ or organ component
+carney complex type 1	0	3	disease or syndrome
+cessation of smoking	0	3	finding - individual behavior
+change of medication	0	3	therapeutic or preventive procedure
+choice behavior	0	3	individual behavior
+current drinker	0	3	individual behavior
+disorientation	0	3	finding - mental or behavioral dysfunction
+donepezil	0	3	organic chemical - pharmacologic substance
+easily distracted	0	3	finding
+electroencephalogram	0	3	diagnostic procedure - laboratory or test result
+exelon	0	3	organic chemical - pharmacologic substance
+feeling tired	0	3	sign or symptom
+flatulence	0	3	finding - sign or symptom
+forgetfulness	0	3	sign or symptom
+galantamine	0	3	organic chemical - pharmacologic substance
+heart rhythm	0	3	organ or tissue function - pathologic function
+impulsive behavior	0	3	individual behavior
+infection of kidney	0	3	disease or syndrome
+infectious mononucleosis	0	3	disease or syndrome
+initial insomnia	0	3	mental or behavioral dysfunction
+learning disabilities	0	3	mental or behavioral dysfunction
+learning disorders	0	3	mental or behavioral dysfunction
+lorazepam	0	3	organic chemical - pharmacologic substance
+loss of interest	0	3	mental or behavioral dysfunction
+male gender	0	3	finding
+memantine	0	3	organic chemical - pharmacologic substance
+methamphetamine	0	3	body substance - hazardous or poisonous substance - organic chemical - pharmacologic substance
+mild cognitive disorder	0	3	mental or behavioral dysfunction
+morphine	0	3	organic chemical - pharmacologic substance
+muscle cramp	0	3	sign or symptom
+namenda	0	3	organic chemical - pharmacologic substance
+neurological problem	0	3	finding
+norepinephrine	0	3	organic chemical - pharmacologic substance
+obesity	0	3	disease or syndrome - finding
+pneumonia	0	3	disease or syndrome
+pressure ulcer	0	3	disease or syndrome
+pupil	0	3	body part organ or organ component
+razadyne	0	3	organic chemical - pharmacologic substance
+restless legs syndrome	0	3	disease or syndrome
+rivastigmine	0	3	organic chemical - pharmacologic substance
+schizophrenia childhood	0	3	mental or behavioral dysfunction
+sedation	0	3	sign or symptom - therapeutic or preventive procedure
+sexual intercourse - finding	0	3	finding
+sleep pattern	0	3	finding
+social interaction	0	3	finding
+sodium	0	3	biologically active substance - inorganic chemical - pharmacologic substance
+sugars	0	3	pharmacologic substance
+swallowing problems	0	3	sign or symptom
+sweating	0	3	body substance - finding
+symptoms signs and ill-defined conditions	0	3	sign or symptom
+tests and testing	0	3	diagnostic procedure
+throat clearing	0	3	organ or tissue function
+touch sensation	0	3	organ or tissue function
+urinary tract infection	0	3	disease or syndrome
+verbal auditory hallucinations	0	3	finding - sign or symptom
+very low	0	3	finding
+water	0	3	inorganic chemical - pharmacologic substance
+worried	0	3	finding
+xerostomia	0	3	sign or symptom
+ability to balance	0	2	finding
+abnormal protein	0	2	biologically active substance
+abnormal sensation	0	2	sign or symptom
+ache	0	2	congenital abnormality - disease or syndrome - enzyme - sign or symptom
+alcoholic neuropathy	0	2	disease or syndrome
+alternative therapies	0	2	therapeutic or preventive procedure
+amino acids	0	2	biologically active substance - disease or syndrome - pharmacologic substance
+amniotic fluid	0	2	body substance
+anatomic node	0	2	body part organ or organ component
+anatomical layer	0	2	body part organ or organ component
+anticholinergic agents	0	2	pharmacologic substance
+arthritis	0	2	disease or syndrome
+aspirin	0	2	organic chemical - pharmacologic substance
+autism spectrum disorders	0	2	congenital abnormality - mental or behavioral dysfunction
+awake	0	2	finding
+bathing	0	2	finding - therapeutic or preventive procedure
+binge eating disorder	0	2	mental or behavioral dysfunction
+birth of child	0	2	finding
+blood clot	0	2	acquired abnormality - organ or tissue function - organic chemical - pathologic function - pharmacologic substance
+brain scan	0	2	diagnostic procedure
+calcium level result	0	2	laboratory or test result
+carbon dioxide increased	0	2	finding
+cardiopulmonary resuscitation	0	2	therapeutic or preventive procedure
+childhood and adolescent relationship problem	0	2	mental or behavioral dysfunction
+chills	0	2	sign or symptom
+clinical depression	0	2	mental or behavioral dysfunction
+cocaine withdrawal	0	2	disease or syndrome
+common cold	0	2	disease or syndrome - finding
+complementary and alternative therapy	0	2	therapeutic or preventive procedure
+constipation	0	2	finding - sign or symptom
+craving	0	2	individual behavior
+crying	0	2	individual behavior
+cut of back	0	2	injury or poisoning
+distraction training	0	2	therapeutic or preventive procedure
+diuretics	0	2	pharmacologic substance
+dyspnea	0	2	sign or symptom
+ear structure	0	2	body part organ or organ component - body substance
+early awakening	0	2	sign or symptom
+eating habit	0	2	individual behavior
+eating problem	0	2	finding
+electrolyte levels	0	2	laboratory or test result
+emotional distress	0	2	mental or behavioral dysfunction
+emotional stress	0	2	mental or behavioral dysfunction
+emotional support	0	2	therapeutic or preventive procedure
+esophagus	0	2	body part organ or organ component - disease or syndrome
+excessive daytime somnolence	0	2	sign or symptom
+excessive drinking	0	2	mental or behavioral dysfunction
+family conflict	0	2	finding
+family counseling	0	2	therapeutic or preventive procedure
+fasting	0	2	finding
+favor	0	2	organic chemical - pharmacologic substance
+feeling relief	0	2	finding - organic chemical - pharmacologic substance
+feeling tense	0	2	mental or behavioral dysfunction - sign or symptom
+female	0	2	finding
+fingers	0	2	body location or region
+folic acid	0	2	disease or syndrome - organic chemical - pharmacologic substance - therapeutic or preventive procedure
+health advice	0	2	finding
+heroin	0	2	hazardous or poisonous substance - organic chemical - pharmacologic substance
+hot flushes	0	2	sign or symptom
+hydrocephalus normal pressure	0	2	disease or syndrome
+hypercholesterolemia result	0	2	finding
+hypersomnolence idiopathic	0	2	disease or syndrome
+ibuprofen	0	2	organic chemical - pharmacologic substance
+imipramine	0	2	organic chemical - pharmacologic substance
+increased frequency of micturition	0	2	finding
+interventional procedure	0	2	diagnostic procedure - therapeutic or preventive procedure
+intravenous infusion procedures	0	2	therapeutic or preventive procedure
+iron deficiency anemia	0	2	disease or syndrome
+jet lag syndrome	0	2	disease or syndrome
+laxatives	0	2	pharmacologic substance
+liver cirrhosis	0	2	disease or syndrome
+living situation	0	2	finding
+loneliness	0	2	finding
+loss of job	0	2	finding
+loss of self-esteem	0	2	finding
+lumbar region	0	2	body location or region
+lymph nodes	0	2	body part organ or organ component
+mackerel allergenic extract	0	2	pharmacologic substance
+massage therapy	0	2	therapeutic or preventive procedure
+meditation therapy	0	2	therapeutic or preventive procedure
+memory loss	0	2	mental or behavioral dysfunction - sign or symptom
+mental tests	0	2	diagnostic procedure
+middle insomnia	0	2	mental or behavioral dysfunction
+mild depression	0	2	mental or behavioral dysfunction
+more common in women	0	2	finding
+mri of head	0	2	diagnostic procedure
+muscle function	0	2	finding - organ or tissue function
+n-(4-aminophenethyl)spiroperidol	0	2	organic chemical
+nausea and vomiting	0	2	sign or symptom
+neuropsychological tests	0	2	diagnostic procedure
+nightmares	0	2	mental or behavioral dysfunction
+observation - diagnostic procedure	0	2	diagnostic procedure
+obsessions	0	2	mental or behavioral dysfunction
+obsessive compulsive behavior	0	2	mental or behavioral dysfunction
+omega-3 fatty acids	0	2	biologically active substance - pharmacologic substance
+orange allergenic extract	0	2	pharmacologic substance
+osteochondritis dissecans	0	2	disease or syndrome - mental or behavioral dysfunction
+other eating disorders	0	2	mental or behavioral dysfunction
+other sleep disorders	0	2	mental or behavioral dysfunction
+outbursts	0	2	mental or behavioral dysfunction
+overdose	0	2	injury or poisoning
+oxycodone	0	2	organic chemical - pharmacologic substance
+pain or discomfort	0	2	sign or symptom
+pallor	0	2	finding - sign or symptom
+palpitations	0	2	finding
+paranoia	0	2	mental or behavioral dysfunction
+parasomnia	0	2	disease or syndrome
+pharyngeal structure	0	2	body location or region - body part organ or organ component - body substance
+pick disease of the brain	0	2	disease or syndrome
+plain x-ray	0	2	diagnostic procedure
+poisoning	0	2	injury or poisoning
+poisons	0	2	hazardous or poisonous substance
+poverty	0	2	group attribute
+premature birth	0	2	pathologic function
+prevention in the home	0	2	therapeutic or preventive procedure
+progressive supranuclear palsy	0	2	biologically active substance - disease or syndrome
+psychiatric assessment	0	2	diagnostic procedure
+puncture procedure	0	2	diagnostic procedure - finding - therapeutic or preventive procedure
+quetiapine	0	2	organic chemical - pharmacologic substance
+reality orientation	0	2	therapeutic or preventive procedure
+recurrent disease	0	2	disease or syndrome
+reduction - action	0	2	therapeutic or preventive procedure
+reflex action	0	2	finding - organ or tissue function
+repetitive behaviors	0	2	finding
+respiratory abnormality unspecified	0	2	sign or symptom
+respiratory air	0	2	body substance
+respiratory rate	0	2	clinical attribute
+ritual compulsion	0	2	mental or behavioral dysfunction
+role playing therapy	0	2	mental or behavioral dysfunction - therapeutic or preventive procedure
+rozerem	0	2	organic chemical - pharmacologic substance
+salmon allergenic extract	0	2	pharmacologic substance
+seasonal affective disorder	0	2	finding - mental or behavioral dysfunction
+set of muscles	0	2	body part organ or organ component
+severe dementia	0	2	mental or behavioral dysfunction
+skeletal bone	0	2	body location or region - body part organ or organ component - body substance - disease or syndrome
+skin diseases infectious	0	2	disease or syndrome
+sleep apnea central	0	2	disease or syndrome
+sleep state misperception	0	2	mental or behavioral dysfunction
+smoking	0	2	hazardous or poisonous substance - individual behavior
+sonata	0	2	organic chemical - pharmacologic substance
+source	0	2	finding
+spell	0	2	finding
+stress management skills	0	2	individual behavior
+superior segmental bronchus	0	2	body part organ or organ component
+swelling	0	2	finding - pathologic function
+syncope	0	2	sign or symptom
+thiamine	0	2	organic chemical - pharmacologic substance
+thyrotropin	0	2	pharmacologic substance
+tic motor	0	2	sign or symptom
+tic vocal	0	2	sign or symptom
+toes	0	2	body part organ or organ component
+tract	0	2	body part organ or organ component
+tsh - thyroid stimulating hormone level result	0	2	laboratory or test result
+tuna allergenic extract	0	2	pharmacologic substance - therapeutic or preventive procedure
+unable to concentrate	0	2	finding
+unemployment	0	2	finding
+unhappy	0	2	finding
+unspecified deficiency anemia	0	2	disease or syndrome
+upset stomach	0	2	sign or symptom
+urinary incontinence	0	2	finding - pathologic function
+urinary tract	0	2	body part organ or organ component
+uterine fibroids	0	2	neoplastic process
+vaccines	0	2	pharmacologic substance
+valium	0	2	organic chemical - pharmacologic substance
+violence	0	2	mental or behavioral dysfunction
+vitamin b6	0	2	organic chemical - pharmacologic substance
+withdrawn	0	2	finding
+abdominal mass	0	1	finding
+abnormal eye movements	0	1	finding
+abnormal result	0	1	finding
+active ingredient	0	1	pharmacologic substance
+activity level	0	1	finding
+actual positive ability to communicate	0	1	finding
+acute insulin response	0	1	finding
+acute psychosis	0	1	mental or behavioral dysfunction
+addicted to cocaine	0	1	mental or behavioral dysfunction
+administration of enema	0	1	therapeutic or preventive procedure
+advil	0	1	organic chemical - pharmacologic substance
+aggressive reaction	0	1	mental or behavioral dysfunction
+agoraphobia	0	1	mental or behavioral dysfunction
+aids with tuberculosis	0	1	disease or syndrome
+aim	0	1	pharmacologic substance - therapeutic or preventive procedure
+albumins	0	1	biologically active substance
+alcohol abstinence	0	1	individual behavior
+alcohol craving	0	1	finding
+alcohol problem	0	1	mental or behavioral dysfunction
+alcohol rehabilitation	0	1	therapeutic or preventive procedure
+alcoholic liver diseases	0	1	disease or syndrome
+amantadine	0	1	organic chemical - pharmacologic substance
+ambiguous genitalia	0	1	congenital abnormality
+amnesia anterograde	0	1	mental or behavioral dysfunction
+amph protein human	0	1	biologically active substance - pharmacologic substance
+anatomic valve	0	1	body part organ or organ component
+anemia of diabetes	0	1	disease or syndrome
+ankle	0	1	body location or region - body part organ or organ component
+anti-infective agents	0	1	pharmacologic substance
+anti-inflammatory agents non-steroidal	0	1	pharmacologic substance
+antihypertensive agents	0	1	pathologic function - pharmacologic substance
+antioxidants	0	1	pharmacologic substance
+antiplatelet agents	0	1	pharmacologic substance
+antrypol	0	1	organic chemical - pharmacologic substance
+aphasia	0	1	mental or behavioral dysfunction
+apnea	0	1	finding - pathologic function
+apolipoprotein e	0	1	biologically active substance
+aricept	0	1	organic chemical - pharmacologic substance
+arthritis juvenile rheumatoid	0	1	disease or syndrome
+ativan	0	1	organic chemical - pharmacologic substance
+atrophic	0	1	disease or syndrome - pathologic function
+atypical autism	0	1	mental or behavioral dysfunction
+atypical depressive disorder	0	1	mental or behavioral dysfunction
+autistic psychopathy	0	1	disease or syndrome
+autonomic nerve structure	0	1	body part organ or organ component
+avoidant personality disorder	0	1	mental or behavioral dysfunction
+baby blues	0	1	mental or behavioral dysfunction
+back	0	1	body location or region
+bacterial endocarditis	0	1	disease or syndrome
+bad dreams	0	1	sign or symptom
+balanced diet	0	1	therapeutic or preventive procedure
+barley preparation	0	1	pharmacologic substance
+basic learning problem in reading	0	1	mental or behavioral dysfunction
+behavior adaptive	0	1	individual behavior
+behavior showing increased motor activity	0	1	finding
+bethanechol	0	1	organic chemical - pharmacologic substance
+biofeedback training	0	1	therapeutic or preventive procedure
+biotin	0	1	organic chemical - pharmacologic substance
+blackout - symptom	0	1	mental or behavioral dysfunction - sign or symptom
+bladder emptying	0	1	clinical attribute
+blind vision	0	1	disease or syndrome
+blinking	0	1	organ or tissue function
+blood alcohol level result	0	1	finding
+blood magnesium level observed	0	1	laboratory or test result
+blood pressure problem	0	1	finding
+blood supply aspects	0	1	body part organ or organ component - congenital abnormality - disease or syndrome - organ or tissue function
+blood urea nitrogen	0	1	biologically active substance - inorganic chemical - organic chemical
+blurred vision	0	1	sign or symptom
+bone density	0	1	clinical attribute - diagnostic procedure - disease or syndrome
+bone mineral density test	0	1	clinical attribute - diagnostic procedure - disease or syndrome
+bone structure of acetabulum	0	1	body part organ or organ component
+both legs	0	1	body part organ or organ component
+brain tissue	0	1	body part organ or organ component
+breast development	0	1	finding
+breech position	0	1	finding
+bromocriptine	0	1	organic chemical - pharmacologic substance
+bullying	0	1	mental or behavioral dysfunction
+burn injury	0	1	finding - injury or poisoning
+buttocks	0	1	body location or region
+calcium	0	1	biologically active substance - inorganic chemical - neoplastic process - pharmacologic substance - therapeutic or preventive procedure
+calcium channel blockers	0	1	pharmacologic substance
+cannabis intoxication	0	1	injury or poisoning
+cardiac arrest	0	1	disease or syndrome - finding
+cardiac conduction	0	1	organ or tissue function
+cardiomyopathies	0	1	disease or syndrome
+cardiomyopathy alcoholic	0	1	disease or syndrome
+carotenoids	0	1	biologically active substance - organic chemical - pharmacologic substance
+caseins	0	1	biologically active substance - pharmacologic substance
+casts body substance	0	1	biologically active substance - body substance
+catch - finding of sensory dimension of pain	0	1	sign or symptom
+catheterization	0	1	finding - therapeutic or preventive procedure
+celexa	0	1	organic chemical - pharmacologic substance
+cervix uteri	0	1	body part organ or organ component - body substance - disease or syndrome
+changes in appetite	0	1	finding
+cheek structure	0	1	body location or region
+chest x-ray	0	1	diagnostic procedure
+child neglect behavior	0	1	finding - mental or behavioral dysfunction
+choking sensation	0	1	sign or symptom
+chronic depressive personality disorder	0	1	mental or behavioral dysfunction
+chronic fatigue syndrome	0	1	disease or syndrome
+chronic pain syndrome	0	1	disease or syndrome
+cirrhosis	0	1	disease or syndrome
+clammy skin	0	1	sign or symptom
+clinoril	0	1	organic chemical - pharmacologic substance
+clitoris	0	1	body part organ or organ component
+cloaca chamber	0	1	body part organ or organ component
+clonazepam	0	1	organic chemical - pharmacologic substance
+clopidogrel	0	1	organic chemical - pharmacologic substance
+clumsiness	0	1	sign or symptom
+cocaine intoxication	0	1	mental or behavioral dysfunction
+codeine	0	1	organic chemical - pharmacologic substance
+colonic diseases	0	1	disease or syndrome
+commit lozenge	0	1	organic chemical - pharmacologic substance
+congenital adrenal hyperplasia	0	1	congenital abnormality - disease or syndrome
+congenital chromosomal disease	0	1	disease or syndrome
+consciousness clear	0	1	finding - organic chemical - pharmacologic substance
+coping behavior	0	1	individual behavior - therapeutic or preventive procedure
+coumadin	0	1	organic chemical - pharmacologic substance
+curiosity	0	1	individual behavior
+cymbalta	0	1	organic chemical - pharmacologic substance
+cysteinyl-trna synthetase cytoplasmic	0	1	enzyme
+cystography	0	1	diagnostic procedure
+decrease in appetite	0	1	sign or symptom
+decreased attention span	0	1	finding
+deep brain stimulation	0	1	therapeutic or preventive procedure
+defiance	0	1	individual behavior
+dehydroepiandrosterone	0	1	pharmacologic substance
+dental caries	0	1	disease or syndrome
+dental problem	0	1	finding
+dependent personality disorder	0	1	mental or behavioral dysfunction
+depression and suicide	0	1	mental or behavioral dysfunction
+depression postpartum	0	1	mental or behavioral dysfunction
+desvenlafaxine	0	1	organic chemical - pharmacologic substance
+diagnostic tests	0	1	diagnostic procedure
+diarrhea and vomiting	0	1	sign or symptom
+dietary supplementation	0	1	therapeutic or preventive procedure
+diethylstilbestrol	0	1	disease or syndrome - organic chemical - pharmacologic substance
+dieting	0	1	finding
+difficulty speaking	0	1	sign or symptom
+difficulty thinking	0	1	finding
+difficulty walking	0	1	finding - sign or symptom
+disease screening	0	1	diagnostic procedure
+disorder of written expression	0	1	mental or behavioral dysfunction
+disorders of porphyrin metabolism	0	1	disease or syndrome
+disorganized speech	0	1	finding
+disorganized thinking	0	1	finding
+distractibility	0	1	finding
+divalproex sodium	0	1	organic chemical - pharmacologic substance
+do you snore	0	1	clinical attribute
+doconexent	0	1	pharmacologic substance
+docosahexaenoic acid	0	1	biologically active substance - pharmacologic substance
+does carry	0	1	finding
+does climb	0	1	finding
+does communicate	0	1	finding
+does move	0	1	finding
+dropped beats - heart	0	1	finding
+drug withdrawal syndrome	0	1	disease or syndrome
+duloxetine	0	1	organic chemical - pharmacologic substance
+dyslexia	0	1	mental or behavioral dysfunction
+dysthymic disorder	0	1	mental or behavioral dysfunction
+dystonia dopa-responsive	0	1	disease or syndrome
+eating pattern	0	1	individual behavior
+effexor	0	1	organic chemical - pharmacologic substance
+eflornithine	0	1	pharmacologic substance
+elder extract	0	1	organic chemical - pharmacologic substance
+electromyography	0	1	diagnostic procedure
+emotional problems	0	1	mental or behavioral dysfunction
+emotional trauma	0	1	mental or behavioral dysfunction
+emotional upset	0	1	mental or behavioral dysfunction
+emotional well-being	0	1	clinical attribute - finding
+empathy	0	1	individual behavior
+employed	0	1	finding
+encephalitis	0	1	disease or syndrome
+encounter due to puberty	0	1	finding
+endometriosis site unspecified	0	1	disease or syndrome
+entire hair of pubis	0	1	body part organ or organ component
+erectile dysfunction	0	1	disease or syndrome - finding
+esophageal carcinoma	0	1	neoplastic process
+excessive blinking	0	1	finding
+excitability	0	1	sign or symptom
+eye problem	0	1	finding
+eyebrow structure	0	1	body part organ or organ component
+facial expression	0	1	finding
+facial tics	0	1	disease or syndrome
+failure to gain weight	0	1	finding - sign or symptom
+failure to thrive	0	1	disease or syndrome
+fallopian tubes	0	1	body part organ or organ component - disease or syndrome
+family problems	0	1	finding
+family support	0	1	therapeutic or preventive procedure
+fatty acid glycerol esters	0	1	biologically active substance - pharmacologic substance - therapeutic or preventive procedure
+fear and anxiety	0	1	mental or behavioral dysfunction
+fear of crowds	0	1	mental or behavioral dysfunction
+feces	0	1	body substance
+feeling detached	0	1	sign or symptom
+feeling jittery	0	1	sign or symptom
+femur	0	1	body part organ or organ component
+fiber	0	1	organic chemical - pharmacologic substance
+fidgeting	0	1	finding
+finding	0	1	finding - sign or symptom
+finding of blood glucose level	0	1	laboratory or test result
+finding of creatine kinase level	0	1	finding
+finding of serum electrolyte levels	0	1	finding
+finding of vitamin b12 level	0	1	laboratory or test result
+fine hair	0	1	finding
+firesetting behavior	0	1	mental or behavioral dysfunction
+fish extract	0	1	organic chemical
+fixation - action	0	1	therapeutic or preventive procedure
+fludrocortisone	0	1	pharmacologic substance
+fluvoxamine	0	1	organic chemical - pharmacologic substance
+fly bite	0	1	injury or poisoning
+focal dystonia	0	1	disease or syndrome
+foot problem	0	1	finding
+frontal lobe	0	1	body location or region - body part organ or organ component
+fused labia	0	1	finding
+gabapentin	0	1	organic chemical - pharmacologic substance
+gambler	0	1	individual behavior
+gambling	0	1	individual behavior
+gambling pathological	0	1	mental or behavioral dysfunction
+gastric distention	0	1	sign or symptom
+gilles de la tourette syndrome	0	1	body part organ or organ component - disease or syndrome - finding - mental or behavioral dysfunction - neoplastic process
+gingiva	0	1	body part organ or organ component - pharmacologic substance
+ginkgo biloba extract	0	1	organic chemical - pharmacologic substance
+gland	0	1	body part organ or organ component
+glucose level - finding	0	1	laboratory or test result
+grandiosity	0	1	mental or behavioral dysfunction
+group size	0	1	group attribute
+hallucinations auditory	0	1	sign or symptom
+hallucinogens	0	1	hazardous or poisonous substance - pharmacologic substance
+hardening of the arteries	0	1	finding
+hazards in the home	0	1	finding
+health conditions	0	1	finding
+heart problem	0	1	sign or symptom
+heat stress disorders	0	1	injury or poisoning
+hematologic agents	0	1	pharmacologic substance
+hip bone	0	1	body part organ or organ component
+hip dislocation	0	1	injury or poisoning
+hip dysplasia	0	1	congenital abnormality
+hip region structure	0	1	biologically active substance - body part organ or organ component
+history of recreational running	0	1	finding
+hole finding	0	1	finding
+hours of sleep	0	1	finding
+humor therapy	0	1	therapeutic or preventive procedure
+hydrocodone	0	1	organic chemical - pharmacologic substance
+hydrocortisone	0	1	pharmacologic substance
+hydroxymethylglutaryl-coa reductase inhibitors	0	1	organic chemical - pharmacologic substance
+hymen imperforate	0	1	congenital abnormality
+hypersensitivity desensitization	0	1	therapeutic or preventive procedure
+hypesthesia	0	1	finding
+hypoglycemia	0	1	disease or syndrome
+icterus	0	1	finding - pathologic function
+identity	0	1	finding
+immobile	0	1	body substance - finding
+immobilization	0	1	therapeutic or preventive procedure
+impaired perception	0	1	mental or behavioral dysfunction
+impending doom	0	1	sign or symptom
+inattention	0	1	mental or behavioral dysfunction
+incised wound	0	1	injury or poisoning
+incoherent	0	1	finding
+increased sweating	0	1	sign or symptom
+increased thirst	0	1	sign or symptom
+indifferent mood	0	1	sign or symptom
+indocin	0	1	organic chemical - pharmacologic substance
+indomethacin	0	1	organic chemical - pharmacologic substance
+infarction	0	1	pathologic function
+infertility	0	1	diagnostic procedure - disease or syndrome
+inguinal region	0	1	body location or region
+injection of therapeutic agent	0	1	therapeutic or preventive procedure
+injection procedure	0	1	therapeutic or preventive procedure
+injury due to exposure to external cause	0	1	clinical attribute - injury or poisoning
+insect extract	0	1	pharmacologic substance
+insulin use	0	1	finding
+intestines small	0	1	body part organ or organ component - disease or syndrome
+intolerant of heat	0	1	pathologic function
+intra-operative neurophysiologic monitoring	0	1	therapeutic or preventive procedure
+intubation intratracheal	0	1	therapeutic or preventive procedure
+involved in group activities	0	1	finding
+iron deficiency	0	1	disease or syndrome
+iron supplement	0	1	pharmacologic substance
+irregular heart beat	0	1	finding - pathologic function
+ixel	0	1	organic chemical - pharmacologic substance
+jerky movement	0	1	finding
+jumpy	0	1	finding
+knee	0	1	body part organ or organ component
+labium	0	1	body part organ or organ component
+lack of motivation	0	1	finding
+lack of water	0	1	finding - injury or poisoning
+lead	0	1	biologically active substance - hazardous or poisonous substance - inorganic chemical - pharmacologic substance
+learning difficulties	0	1	finding
+learning problems	0	1	mental or behavioral dysfunction
+legal problems	0	1	finding
+lethargy	0	1	sign or symptom
+level of consciousness	0	1	finding
+lexapro	0	1	organic chemical - pharmacologic substance
+lidocaine	0	1	organic chemical - pharmacologic substance
+life span	0	1	group attribute
+lightheadedness	0	1	sign or symptom
+linoleic acid	0	1	biologically active substance - pharmacologic substance
+literacy skills	0	1	individual behavior
+liver damage	0	1	pathologic function
+loss of body fat	0	1	finding
+loss of developmental milestones	0	1	finding
+loss of independence	0	1	finding
+loss of pulse	0	1	finding
+low-density lipoproteins	0	1	biologically active substance
+lower back structure	0	1	body part organ or organ component
+lower body	0	1	body part organ or organ component
+lower extremity	0	1	body location or region
+lupus erythematosus systemic	0	1	disease or syndrome
+luvox	0	1	organic chemical - pharmacologic substance
+lymphadenopathy	0	1	disease or syndrome - finding
+lymphoid interstitial pneumonia	0	1	body part organ or organ component - disease or syndrome
+male genital organs	0	1	body part organ or organ component
+marijuana smoking	0	1	individual behavior
+marital conflict	0	1	finding
+marriage life event	0	1	finding
+mass of body structure	0	1	finding
+mechanical detachment	0	1	pathologic function
+melarsoprol	0	1	organic chemical - pharmacologic substance
+memory impairment	0	1	finding - mental or behavioral dysfunction
+memory lapses	0	1	mental or behavioral dysfunction
+meninges	0	1	body part organ or organ component - disease or syndrome
+mental problem	0	1	finding
+mercury poisoning	0	1	injury or poisoning
+methadone	0	1	organic chemical - pharmacologic substance
+miosis disorder	0	1	finding - organ or tissue function
+mirapex	0	1	organic chemical - pharmacologic substance
+moira protein drosophila	0	1	biologically active substance
+monoclonal antibody b3	0	1	body part organ or organ component - pharmacologic substance
+more common in females	0	1	finding
+morular metaplasia of the endometrium	0	1	finding
+motrin	0	1	organic chemical - pharmacologic substance
+mri brain procedure	0	1	diagnostic procedure
+multi-infarct dementia	0	1	disease or syndrome
+multivitamin preparation	0	1	organic chemical - pharmacologic substance
+muscle hypertonia	0	1	sign or symptom
+muscle movement	0	1	finding
+muscle of orbit	0	1	body part organ or organ component
+muscle relaxation phase	0	1	disease or syndrome - organ or tissue function
+muscle rigidity	0	1	sign or symptom
+muscle strength	0	1	organ or tissue function
+muscle tonus	0	1	finding - organ or tissue function
+muscle weakness	0	1	sign or symptom
+muscular atrophy	0	1	disease or syndrome
+mutism	0	1	disease or syndrome
+myalgia	0	1	finding - sign or symptom
+myasthenia gravis	0	1	disease or syndrome
+mydriasis	0	1	organ or tissue function - sign or symptom
+myocardial dysfunction	0	1	pathologic function
+narcissistic personality disorder	0	1	mental or behavioral dysfunction
+narcotic antagonists	0	1	pharmacologic substance
+natural remedies	0	1	therapeutic or preventive procedure
+nerve conduction function	0	1	organ or tissue function
+nerve conduction study	0	1	diagnostic procedure
+nerve damage	0	1	injury or poisoning
+nervous system physiological phenomena	0	1	organ or tissue function
+neurofibrillary tangles	0	1	acquired abnormality
+niacin	0	1	organic chemical - pharmacologic substance
+niacinamide	0	1	organic chemical - pharmacologic substance
+nicotine withdrawal	0	1	mental or behavioral dysfunction
+nodule	0	1	acquired abnormality - body part organ or organ component
+normal development	0	1	finding
+normal intelligence	0	1	finding
+nose	0	1	body part organ or organ component - disease or syndrome
+number of patients	0	1	finding
+nutrition assessment	0	1	diagnostic procedure
+obsessive thoughts	0	1	mental or behavioral dysfunction
+obsessive-compulsive personality	0	1	mental or behavioral dysfunction
+ovary	0	1	body part organ or organ component - disease or syndrome
+overweight	0	1	sign or symptom
+pain disorder	0	1	mental or behavioral dysfunction
+pain level	0	1	finding
+painkillers	0	1	pharmacologic substance
+pancreas	0	1	body part organ or organ component - disease or syndrome - organic chemical - pharmacologic substance
+panic attacks	0	1	mental or behavioral dysfunction
+panic disorder with agoraphobia	0	1	mental or behavioral dysfunction
+panic symptoms	0	1	sign or symptom
+pantothenic acid	0	1	organic chemical - pharmacologic substance
+paranoid personality disorder	0	1	mental or behavioral dysfunction
+parenting caregiver status	0	1	finding
+paroxetine	0	1	organic chemical - pharmacologic substance
+pathological jealousy	0	1	mental or behavioral dysfunction
+paxil	0	1	organic chemical - pharmacologic substance
+pellagra	0	1	disease or syndrome
+pentamidine	0	1	organic chemical - pharmacologic substance
+peripheral nerves	0	1	body part organ or organ component
+perseveration	0	1	mental or behavioral dysfunction
+personal failure	0	1	individual behavior
+personality tests	0	1	diagnostic procedure
+phlegm	0	1	body substance
+phosphate ion	0	1	inorganic chemical - pharmacologic substance
+phosphate level result	0	1	laboratory or test result
+phosphotransferases	0	1	enzyme
+physical function	0	1	finding
+physical therapy	0	1	body part organ or organ component - therapeutic or preventive procedure
+physical violence	0	1	mental or behavioral dysfunction
+physically active	0	1	finding
+pins and needles	0	1	sign or symptom
+plavix	0	1	organic chemical - pharmacologic substance
+polyunsaturated fatty acids	0	1	biologically active substance
+poor communication	0	1	finding
+poor coordination	0	1	finding
+positioning - therapy	0	1	therapeutic or preventive procedure
+positive reinforcement	0	1	therapeutic or preventive procedure
+potassium low	0	1	finding
+pounding heart	0	1	sign or symptom
+power of attorney	0	1	finding
+pregabalin	0	1	pharmacologic substance
+premenstrual dysphoric disorder	0	1	mental or behavioral dysfunction
+prescription drugs	0	1	pharmacologic substance
+prevention of disorder	0	1	therapeutic or preventive procedure
+pristiq	0	1	organic chemical - pharmacologic substance
+problem-solving skills	0	1	individual behavior
+problems with speech	0	1	finding
+procedures on peripheral nervous system	0	1	therapeutic or preventive procedure
+protein-energy malnutrition	0	1	pathologic function
+proven venom	0	1	biologically active substance - pharmacologic substance
+prozac	0	1	organic chemical - pharmacologic substance
+pruritus of both hands	0	1	sign or symptom
+pseudopsychopathic schizophrenia	0	1	mental or behavioral dysfunction
+psychological assessment	0	1	diagnostic procedure
+psychological counseling	0	1	therapeutic or preventive procedure
+psychological distress	0	1	mental or behavioral dysfunction
+psychotic depression	0	1	mental or behavioral dysfunction
+pulmonary resonance	0	1	finding
+pyridoxine	0	1	organic chemical - pharmacologic substance
+quality of sleep	0	1	finding
+racing thoughts	0	1	mental or behavioral dysfunction
+radioisotope function study of liver	0	1	diagnostic procedure
+rectum and vagina	0	1	body part organ or organ component
+redness of eye	0	1	sign or symptom
+reflex abnormal	0	1	sign or symptom
+rehabilitation therapy	0	1	therapeutic or preventive procedure
+reinforcement surgical repair	0	1	therapeutic or preventive procedure
+relaxation techniques	0	1	therapeutic or preventive procedure
+requip	0	1	organic chemical - pharmacologic substance
+responsibility	0	1	individual behavior
+retirement	0	1	finding
+retrograde amnesia	0	1	mental or behavioral dysfunction
+ropinirole	0	1	organic chemical - pharmacologic substance
+rye allergenic extract	0	1	pharmacologic substance
+saliva	0	1	body substance
+savella	0	1	organic chemical - pharmacologic substance
+schizoid personality disorder	0	1	mental or behavioral dysfunction
+schizophrenia disorganized	0	1	mental or behavioral dysfunction
+schizotypal personality disorder	0	1	mental or behavioral dysfunction
+screening for disorder	0	1	diagnostic procedure
+secretin	0	1	pharmacologic substance
+sedated state	0	1	finding
+self care hygiene	0	1	finding
+senile plaques	0	1	acquired abnormality - disease or syndrome
+seriousness	0	1	individual behavior
+serotonin	0	1	organic chemical
+sertraline	0	1	organic chemical - pharmacologic substance
+serum magnesium finding	0	1	finding
+sesnory integration therapy	0	1	therapeutic or preventive procedure
+sexual abuse	0	1	mental or behavioral dysfunction
+sexually transmitted diseases	0	1	disease or syndrome - organic chemical - pharmacologic substance
+shakiness	0	1	pathologic function
+shaky feelings	0	1	finding - mental or behavioral dysfunction
+short attention span	0	1	finding
+shoulder	0	1	body location or region
+shoulder shrugging	0	1	therapeutic or preventive procedure
+sinemet	0	1	organic chemical - pharmacologic substance
+skin integrity impairment	0	1	finding
+skin irritation	0	1	sign or symptom
+smear test	0	1	diagnostic procedure
+smoke	0	1	hazardous or poisonous substance - individual behavior
+smokeless	0	1	organic chemical - pharmacologic substance
+smoker	0	1	finding
+smoking tobacco	0	1	hazardous or poisonous substance - individual behavior
+sobriety	0	1	individual behavior
+social problems	0	1	finding
+social warmth	0	1	finding
+sodium chloride	0	1	biologically active substance - inorganic chemical - pharmacologic substance
+spasm	0	1	sign or symptom
+specimen type - whole body	0	1	body substance
+speech and language	0	1	finding
+spinal puncture	0	1	body part organ or organ component - diagnostic procedure - therapeutic or preventive procedure
+spoken language	0	1	finding
+spontaneous abortion	0	1	disease or syndrome
+squealing	0	1	individual behavior
+stabilization	0	1	therapeutic or preventive procedure
+stimulation procedure	0	1	therapeutic or preventive procedure
+stomach ache	0	1	finding - sign or symptom
+stretching exercises	0	1	therapeutic or preventive procedure
+structure of hymen	0	1	body part organ or organ component
+stupor	0	1	finding
+sudden death	0	1	pathologic function
+suicidal intent	0	1	finding
+suicide prevention	0	1	therapeutic or preventive procedure
+sulindac	0	1	organic chemical - pharmacologic substance
+synthetic opioids	0	1	organic chemical
+tachypnea	0	1	sign or symptom
+tantrums	0	1	mental or behavioral dysfunction
+tars	0	1	disease or syndrome - organic chemical
+taste perception	0	1	organ or tissue function
+temporal and frontal lobes	0	1	body location or region
+testosterone	0	1	pharmacologic substance
+thiamine deficiency	0	1	disease or syndrome
+thigh structure	0	1	body location or region
+thimerosal	0	1	organic chemical - pharmacologic substance
+thyroid carcinoma	0	1	neoplastic process
+thyroid lymph node	0	1	body part organ or organ component
+thyrotoxicosis	0	1	disease or syndrome
+tobacco and nicotine	0	1	organic chemical - pharmacologic substance
+tobacco user	0	1	finding
+today	0	1	antibiotic - organic chemical
+tongue	0	1	body location or region - body part organ or organ component
+tonic - clonic seizures	0	1	disease or syndrome - sign or symptom
+total protein result	0	1	laboratory or test result
+toxin	0	1	biologically active substance - hazardous or poisonous substance
+transplantation of liver	0	1	body part organ or organ component - therapeutic or preventive procedure
+treatment options	0	1	therapeutic or preventive procedure
+trembling	0	1	sign or symptom
+tremor muscle	0	1	sign or symptom
+triacetyluridine	0	1	pharmacologic substance
+truancy	0	1	individual behavior
+unable to move	0	1	finding
+upper gastrointestinal series	0	1	diagnostic procedure
+uterine anomalies	0	1	congenital abnormality
+utero-cervical	0	1	body location or region
+uterus	0	1	body part organ or organ component - disease or syndrome
+vagina carcinoma	0	1	neoplastic process
+valproic acid	0	1	body part organ or organ component - organic chemical - pharmacologic substance
+venlafaxine	0	1	organic chemical - pharmacologic substance
+very high	0	1	finding
+victim of physical abuse	0	1	finding
+violent thoughts	0	1	mental or behavioral dysfunction
+vitamin b 12 deficiency	0	1	disease or syndrome
+vivitrol	0	1	organic chemical - pharmacologic substance
+voiding urethrocystography	0	1	diagnostic procedure
+vomiting	0	1	body substance - finding - sign or symptom
+warfarin	0	1	hazardous or poisonous substance - organic chemical - pharmacologic substance
+weight maintenance regimen	0	1	therapeutic or preventive procedure
+wheat preparation	0	1	pharmacologic substance
+x-ray computed tomography	0	1	diagnostic procedure - enzyme - hazardous or poisonous substance - therapeutic or preventive procedure
+yoga	0	1	therapeutic or preventive procedure
+zoloft	0	1	organic chemical - pharmacologic substance

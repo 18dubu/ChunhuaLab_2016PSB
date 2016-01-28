@@ -1,0 +1,198 @@
+1	adjustment-disorders	hiv negative finding	0.07054	finding
+1	adjustment-disorders	reticulosarcoma	0.03734	neoplastic process
+1	adjustment-disorders	aggressive behavior	0.03734	mental or behavioral dysfunction
+1	adjustment-disorders	lymphoma non-hodgkin	0.0332	neoplastic process
+1	adjustment-disorders	acute respiratory failure	0.0332	disease or syndrome
+3	affective-symptoms	structured diagnostic interview	0.03	diagnostic procedure
+4	aggression	biological response modifier therapy	0.09043	therapeutic or preventive procedure
+4	aggression	combined modality therapy	0.08777	therapeutic or preventive procedure
+4	aggression	patient characteristics	0.08511	clinical attribute
+4	aggression	reticulosarcoma	0.07447	neoplastic process
+4	aggression	hiv negative finding	0.06383	finding
+7	alcoholism	personal satisfaction	0.03214	finding
+9	amnesia	mini-mental status exam	0.27941	diagnostic procedure
+9	amnesia	moderate adverse event	0.07353	finding
+9	amnesia	communication impairment	0.07353	finding - mental or behavioral dysfunction
+9	amnesia	general health	0.07353	finding
+9	amnesia	moderate dementia	0.07353	mental or behavioral dysfunction
+10	amphetamine-related-disorders	body mass index	0.2	clinical attribute - diagnostic procedure
+10	amphetamine-related-disorders	pregnancy test negative	0.12	finding - laboratory or test result
+10	amphetamine-related-disorders	psychoactive substances	0.12	hazardous or poisonous substance - pharmacologic substance
+10	amphetamine-related-disorders	xanthine	0.12	biologically active substance
+10	amphetamine-related-disorders	chocolate allergenic extract	0.1	pharmacologic substance
+11	anorexia-nervosa	amenorrhea	0.19388	disease or syndrome
+11	anorexia-nervosa	actual effective weight	0.04082	finding
+13	asperger-syndrome	asperger syndrome	0.2069	disease or syndrome
+13	asperger-syndrome	observation - diagnostic procedure	0.13793	diagnostic procedure
+13	asperger-syndrome	phobia social	0.12069	mental or behavioral dysfunction
+13	asperger-syndrome	diastasis	0.12069	pathologic function
+13	asperger-syndrome	separation anxiety disorder	0.12069	mental or behavioral dysfunction
+14	attention-deficit-and-disruptive-behavior-disorders	personal satisfaction	0.03692	finding
+14	attention-deficit-and-disruptive-behavior-disorders	normal intelligence	0.03538	finding
+15	attention-deficit-disorder-with-hyperactivity	personal satisfaction	0.03828	finding
+15	attention-deficit-disorder-with-hyperactivity	normal intelligence	0.03668	finding
+16	autistic-disorder	observation - diagnostic procedure	0.15802	diagnostic procedure
+16	autistic-disorder	revision procedure	0.09877	therapeutic or preventive procedure
+18	binge-eating-disorder	hunger	0.08197	sign or symptom
+18	binge-eating-disorder	recurrent episodes of binge eating	0.07377	finding
+18	binge-eating-disorder	esthesia	0.06557	finding - organ or tissue function
+18	binge-eating-disorder	hyperphagia	0.06557	mental or behavioral dysfunction - therapeutic or preventive procedure
+18	binge-eating-disorder	general health	0.04918	finding
+20	borderline-personality-disorder	negative finding	0.0597	finding
+20	borderline-personality-disorder	self-injurious behavior	0.04478	mental or behavioral dysfunction
+20	borderline-personality-disorder	personality inventories	0.04478	diagnostic procedure
+20	borderline-personality-disorder	multiple endocrine neoplasia	0.04478	antibiotic - neoplastic process - organic chemical
+22	cocaine-related-disorders	pregnancy test negative	0.07692	finding - laboratory or test result
+22	cocaine-related-disorders	personal satisfaction	0.04945	finding
+22	cocaine-related-disorders	urine sample	0.03846	body substance
+22	cocaine-related-disorders	general health	0.03571	finding
+24	combat-disorders	stress disorders traumatic	0.12766	mental or behavioral dysfunction
+24	combat-disorders	rehabilitation therapy	0.04255	therapeutic or preventive procedure
+24	combat-disorders	combat exposure	0.04255	finding
+24	combat-disorders	body fluid discharge	0.03191	body substance - therapeutic or preventive procedure
+24	combat-disorders	pregnancy test negative	0.03191	finding - laboratory or test result
+26	compulsive-behavior	opiate addiction	0.08642	mental or behavioral dysfunction
+26	compulsive-behavior	obsessive compulsive behavior	0.03704	mental or behavioral dysfunction
+26	compulsive-behavior	pregnancy test negative	0.03704	finding - laboratory or test result
+28	consciousness-disorders	presyncope	0.03955	sign or symptom
+29	conversion-disorder	pregnancy test negative	0.03315	finding - laboratory or test result
+34	developmental-disabilities	observation - diagnostic procedure	0.14382	diagnostic procedure
+34	developmental-disabilities	revision procedure	0.09213	therapeutic or preventive procedure
+35	disorders-of-excessive-somnolence	endometrial stromal sarcoma	0.21333	neoplastic process
+35	disorders-of-excessive-somnolence	personal satisfaction	0.2	finding
+35	disorders-of-excessive-somnolence	spermatocidal agents	0.2	pharmacologic substance
+35	disorders-of-excessive-somnolence	negative finding	0.13333	finding
+35	disorders-of-excessive-somnolence	multiple sleep latency test	0.12	diagnostic procedure
+36	disorders-of-sex-development	pregnancy test negative	0.03828	finding - laboratory or test result
+36	disorders-of-sex-development	hypothalamic structure	0.03349	body part, organ, or organ component
+36	disorders-of-sex-development	hiv-1	0.03349	virus
+36	disorders-of-sex-development	mass of body structure	0.03349	finding
+37	dissociative-disorders	relate - vinyl resin	0.07812	organic chemical
+37	dissociative-disorders	folic acid	0.07812	disease or syndrome - organic chemical - pharmacologic substance - therapeutic or preventive procedure
+37	dissociative-disorders	retinal pigment epithelial detachment	0.0625	disease or syndrome
+37	dissociative-disorders	diethylstilbestrol	0.0625	disease or syndrome - organic chemical - pharmacologic substance
+37	dissociative-disorders	tractional retinal detachment	0.04688	finding
+38	drinking-behavior	smoker	0.03687	finding
+40	dysthymic-disorder	tropical spastic paraparesis	0.07576	disease or syndrome - therapeutic or preventive procedure
+40	dysthymic-disorder	depression scale	0.06061	diagnostic procedure
+40	dysthymic-disorder	depression score	0.06061	clinical attribute
+40	dysthymic-disorder	personality inventories	0.06061	diagnostic procedure
+40	dysthymic-disorder	mental depression	0.06061	finding - mental or behavioral dysfunction
+41	eating-disorders	amenorrhea	0.0413	disease or syndrome
+42	erectile-dysfunction	sexually active	0.04844	finding
+42	erectile-dysfunction	weighing patient	0.03806	diagnostic procedure - finding
+42	erectile-dysfunction	nerve sparing	0.03114	therapeutic or preventive procedure
+42	erectile-dysfunction	vagina	0.03114	body part, organ, or organ component - disease or syndrome
+44	frontotemporal-dementia	primary amyloidosis	0.07246	disease or syndrome
+44	frontotemporal-dementia	carbon monoxide diffusing capability test	0.07246	diagnostic procedure
+44	frontotemporal-dementia	semantic dementia	0.05797	mental or behavioral dysfunction
+44	frontotemporal-dementia	hearing examination finding	0.05797	finding
+44	frontotemporal-dementia	niemann-pick diseases	0.05797	disease or syndrome
+45	frontotemporal-lobar-degeneration	semantic dementia	0.07273	mental or behavioral dysfunction
+45	frontotemporal-lobar-degeneration	personality inventories	0.07273	diagnostic procedure
+45	frontotemporal-lobar-degeneration	primary amyloidosis	0.07273	disease or syndrome
+45	frontotemporal-lobar-degeneration	hearing examination finding	0.07273	finding
+45	frontotemporal-lobar-degeneration	mild adverse event	0.07273	finding
+46	gambling	bee pollen	0.125	organic chemical - pharmacologic substance
+46	gambling	skin prick test	0.11111	diagnostic procedure
+46	gambling	moderate adverse event	0.08333	finding
+46	gambling	puncture wound	0.06944	diagnostic procedure - finding - therapeutic or preventive procedure
+46	gambling	electrocorticogram	0.05556	diagnostic procedure
+48	heroin-dependence	negative finding	0.08989	finding
+48	heroin-dependence	relate - vinyl resin	0.06742	organic chemical
+48	heroin-dependence	cataract anterior polar	0.04494	acquired abnormality - disease or syndrome - therapeutic or preventive procedure
+48	heroin-dependence	infusion of drug	0.04494	therapeutic or preventive procedure
+48	heroin-dependence	progesterone	0.03371	pharmacologic substance
+49	impulse-control-disorders	multiple endocrine neoplasia	0.13978	antibiotic - neoplastic process - organic chemical
+49	impulse-control-disorders	hair	0.06452	body part, organ, or organ component
+49	impulse-control-disorders	chorionic gonadotropin	0.03226	disease or syndrome - pharmacologic substance
+49	impulse-control-disorders	explosive personality disorder	0.03226	mental or behavioral dysfunction
+49	impulse-control-disorders	progressive disease	0.03226	disease or syndrome - finding - neoplastic process
+50	impulsive-behavior	opiate addiction	0.09052	mental or behavioral dysfunction
+50	impulsive-behavior	pregnancy test negative	0.04741	finding - laboratory or test result
+50	impulsive-behavior	personal satisfaction	0.03017	finding
+52	marijuana-abuse	postural orthostatic tachycardia syndrome	0.05652	disease or syndrome
+52	marijuana-abuse	autonomic dysfunction	0.03913	pathologic function
+52	marijuana-abuse	deterioration of status	0.03478	finding
+54	mental-disorders-diagnosed-in-childhood	observation - diagnostic procedure	0.05657	diagnostic procedure
+55	mental-fatigue	hormone therapy	0.08197	therapeutic or preventive procedure
+55	mental-fatigue	ecog performance status	0.08197	clinical attribute
+55	mental-fatigue	pharmaceutical adjuvants	0.06557	chemical viewed functionally
+55	mental-fatigue	hormone receptor	0.04918	receptor
+55	mental-fatigue	karnofsky performance status	0.04918	diagnostic procedure
+56	mental-retardation	karyotype result	0.05296	laboratory or test result
+56	mental-retardation	weeks pregnant	0.03427	finding
+58	neurocirculatory-asthenia	lightheadedness	0.09322	sign or symptom
+58	neurocirculatory-asthenia	dizziness	0.08475	finding - sign or symptom
+58	neurocirculatory-asthenia	pure autonomic failure	0.08475	disease or syndrome
+58	neurocirculatory-asthenia	falls	0.08475	finding - injury or poisoning
+58	neurocirculatory-asthenia	deterioration of status	0.07627	finding
+59	obsessive-behavior	generalized anxiety disorder	0.15	mental or behavioral dysfunction
+59	obsessive-behavior	anxiety generalized	0.13333	mental or behavioral dysfunction
+59	obsessive-behavior	phobia social	0.1	mental or behavioral dysfunction
+59	obsessive-behavior	diastasis	0.08333	pathologic function
+59	obsessive-behavior	separation anxiety disorder	0.08333	mental or behavioral dysfunction
+60	obsessive-compulsive-disorder	obsessive compulsive behavior	0.0567	mental or behavioral dysfunction
+60	obsessive-compulsive-disorder	multiple endocrine neoplasia	0.0567	antibiotic - neoplastic process - organic chemical
+60	obsessive-compulsive-disorder	diastasis	0.04639	pathologic function
+60	obsessive-compulsive-disorder	separation anxiety disorder	0.04639	mental or behavioral dysfunction
+60	obsessive-compulsive-disorder	severity of symptoms	0.04124	finding
+61	opioid-related-disorders	personal satisfaction	0.03765	finding
+62	panic-disorder	panic disorder with agoraphobia	0.07519	mental or behavioral dysfunction
+62	panic-disorder	negative finding	0.06015	finding
+62	panic-disorder	contraception barrier	0.04511	therapeutic or preventive procedure
+62	panic-disorder	pregnancy test negative	0.03008	finding - laboratory or test result
+64	personality-disorders	multiple endocrine neoplasia	0.03801	antibiotic - neoplastic process - organic chemical
+64	personality-disorders	obsessive compulsive behavior	0.03216	mental or behavioral dysfunction
+65	phobic-disorders	separation anxiety disorder	0.12418	mental or behavioral dysfunction
+65	phobic-disorders	diastasis	0.12418	pathologic function
+65	phobic-disorders	negative finding	0.08497	finding
+66	pick-disease-of-the-brain	carbon monoxide diffusing capability test	0.0625	diagnostic procedure
+66	pick-disease-of-the-brain	hearing examination finding	0.05	finding
+66	pick-disease-of-the-brain	semantic dementia	0.05	mental or behavioral dysfunction
+66	pick-disease-of-the-brain	personality inventories	0.05	diagnostic procedure
+66	pick-disease-of-the-brain	niemann-pick diseases	0.05	disease or syndrome
+69	restless-legs-syndrome	esthesia	0.10853	finding - organ or tissue function
+69	restless-legs-syndrome	deterioration of status	0.09302	finding
+69	restless-legs-syndrome	treatment protocols	0.07752	therapeutic or preventive procedure
+69	restless-legs-syndrome	body part	0.04651	body location or region - body part, organ, or organ component
+69	restless-legs-syndrome	malaise	0.03876	finding - sign or symptom
+72	self-injurious-behavior	self-injurious behavior	0.04094	mental or behavioral dysfunction
+72	self-injurious-behavior	self-harm	0.03509	finding
+73	sleep-deprivation	mini-mental status exam	0.06667	diagnostic procedure
+73	sleep-deprivation	personal satisfaction	0.05333	finding
+73	sleep-deprivation	multiple endocrine neoplasia	0.05333	antibiotic - neoplastic process - organic chemical
+73	sleep-deprivation	asleep	0.04	finding
+75	sleep-initiation-and-maintenance-disorders	fatigue	0.0411	sign or symptom
+75	sleep-initiation-and-maintenance-disorders	sexually active	0.03836	finding
+75	sleep-initiation-and-maintenance-disorders	personal satisfaction	0.03288	finding
+77	somatoform-disorders	visual analog pain scale	0.10241	diagnostic procedure
+77	somatoform-disorders	palpation	0.06627	diagnostic procedure
+77	somatoform-disorders	national origin	0.04819	clinical attribute
+77	somatoform-disorders	insidious onset of symptoms	0.04217	finding
+77	somatoform-disorders	sitting position	0.03614	finding
+78	substance-related-disorders	personal satisfaction	0.03419	finding
+79	substance-withdrawal-syndrome	opiate addiction	0.11392	mental or behavioral dysfunction
+79	substance-withdrawal-syndrome	body mass index	0.07595	clinical attribute - diagnostic procedure
+79	substance-withdrawal-syndrome	personal satisfaction	0.07595	finding
+79	substance-withdrawal-syndrome	mass of body structure	0.06329	finding
+79	substance-withdrawal-syndrome	general health	0.05063	finding
+80	suicidal-ideation	major depressive disorder	0.16	mental or behavioral dysfunction
+80	suicidal-ideation	mini-mental status exam	0.1	diagnostic procedure
+80	suicidal-ideation	valproic acid	0.1	body part, organ, or organ component - organic chemical - pharmacologic substance
+80	suicidal-ideation	unipolar depression	0.06	mental or behavioral dysfunction
+80	suicidal-ideation	mental disorders	0.06	mental or behavioral dysfunction
+81	suicide	major depressive disorder	0.07345	mental or behavioral dysfunction
+81	suicide	recurrent disease	0.03955	disease or syndrome
+82	tic-disorders	tic vocal	0.08696	sign or symptom
+82	tic-disorders	hoxa10 protein human	0.05435	biologically active substance - body location or region
+82	tic-disorders	integumentary scale	0.04348	body part, organ, or organ component
+82	tic-disorders	severity of symptoms	0.04348	finding
+82	tic-disorders	personal satisfaction	0.04348	finding
+83	tobacco-use-disorder	personal satisfaction	0.05918	finding
+83	tobacco-use-disorder	current every day smoker	0.03035	finding
+84	tourette-syndrome	tic vocal	0.0875	sign or symptom
+84	tourette-syndrome	treatment protocols	0.0625	therapeutic or preventive procedure
+84	tourette-syndrome	hoxa10 protein human	0.0625	biologically active substance - body location or region
+84	tourette-syndrome	integumentary scale	0.05	body part, organ, or organ component
+84	tourette-syndrome	pregnancy test negative	0.05	finding - laboratory or test result

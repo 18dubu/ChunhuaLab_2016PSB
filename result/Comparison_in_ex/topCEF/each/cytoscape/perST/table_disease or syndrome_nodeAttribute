@@ -1,0 +1,368 @@
+adjustment-disorders	DISEASE
+hemodynamic instability	CEF
+affective-symptoms	DISEASE
+electroconvulsive therapy	CEF
+affective-symptoms	DISEASE
+thyroid gland	CEF
+alcohol-drinking	DISEASE
+epilepsy	CEF
+alcohol-related-disorders	DISEASE
+nervous system disorder	CEF
+alcohol-related-disorders	DISEASE
+alcohol withdrawal delirium	CEF
+alcoholism	DISEASE
+nervous system disorder	CEF
+alcoholism	DISEASE
+alcohol withdrawal delirium	CEF
+alcoholism	DISEASE
+congenital abnormality	CEF
+alzheimer-disease	DISEASE
+immunologic deficiency syndromes	CEF
+alzheimer-disease	DISEASE
+hiv	CEF
+amnesia	DISEASE
+epilepsy	CEF
+amnesia	DISEASE
+cerebrovascular accident	CEF
+amphetamine-related-disorders	DISEASE
+hypertensive disease	CEF
+amphetamine-related-disorders	DISEASE
+nervous system disorder	CEF
+anorexia-nervosa	DISEASE
+diabetes mellitus	CEF
+asperger-syndrome	DISEASE
+nervous system disorder	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+brain diseases	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+organic disorders	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+brain diseases	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+organic disorders	CEF
+autistic-disorder	DISEASE
+hypertensive disease	CEF
+autistic-disorder	DISEASE
+gastrointestinal diseases	CEF
+child-behavior-disorders	DISEASE
+febrile convulsions	CEF
+child-behavior-disorders	DISEASE
+family history	CEF
+cocaine-related-disorders	DISEASE
+hypertensive disease	CEF
+cocaine-related-disorders	DISEASE
+epilepsy	CEF
+cocaine-related-disorders	DISEASE
+heart diseases	CEF
+cocaine-related-disorders	DISEASE
+myocardial infarction	CEF
+combat-disorders	DISEASE
+cerebrovascular accident	CEF
+compulsive-behavior	DISEASE
+heart diseases	CEF
+conversion-disorder	DISEASE
+glaucoma	CEF
+delirium	DISEASE
+immunologic deficiency syndromes	CEF
+dementia	DISEASE
+immunologic deficiency syndromes	CEF
+developmental-disabilities	DISEASE
+hypertensive disease	CEF
+developmental-disabilities	DISEASE
+gastrointestinal diseases	CEF
+disorders-of-excessive-somnolence	DISEASE
+immunologic deficiency syndromes	CEF
+disorders-of-excessive-somnolence	DISEASE
+lung	CEF
+disorders-of-excessive-somnolence	DISEASE
+myocardial infarction	CEF
+dissociative-disorders	DISEASE
+glaucoma	CEF
+dissociative-disorders	DISEASE
+uveitis	CEF
+dissociative-disorders	DISEASE
+atrophic	CEF
+drinking-behavior	DISEASE
+epilepsy	CEF
+eating-disorders	DISEASE
+kidney diseases	CEF
+eating-disorders	DISEASE
+nervous system disorder	CEF
+erectile-dysfunction	DISEASE
+retinitis pigmentosa	CEF
+erectile-dysfunction	DISEASE
+congestive heart failure	CEF
+food-habits	DISEASE
+chronic disease	CEF
+food-habits	DISEASE
+hypertensive disease	CEF
+frontotemporal-dementia	DISEASE
+nervous system disorder	CEF
+frontotemporal-lobar-degeneration	DISEASE
+nervous system disorder	CEF
+habits	DISEASE
+dermatologic disorders	CEF
+heroin-dependence	DISEASE
+alanine transaminase	CEF
+impulsive-behavior	DISEASE
+heart diseases	CEF
+impulsive-behavior	DISEASE
+epilepsy	CEF
+marijuana-abuse	DISEASE
+epilepsy	CEF
+marijuana-abuse	DISEASE
+cardiovascular diseases	CEF
+mental-fatigue	DISEASE
+heart diseases	CEF
+mental-fatigue	DISEASE
+kidney diseases	CEF
+mental-fatigue	DISEASE
+diabetes mellitus	CEF
+mental-retardation	DISEASE
+diabetes mellitus	CEF
+mental-retardation	DISEASE
+hiv	CEF
+neurocirculatory-asthenia	DISEASE
+arteriopathic disease	CEF
+opioid-related-disorders	DISEASE
+liver diseases	CEF
+opioid-related-disorders	DISEASE
+epilepsy	CEF
+panic-disorder	DISEASE
+epilepsy	CEF
+panic-disorder	DISEASE
+hypertensive disease	CEF
+pick-disease-of-the-brain	DISEASE
+nervous system disorder	CEF
+restless-legs-syndrome	DISEASE
+narcolepsy	CEF
+schizophrenia	DISEASE
+neuroleptic malignant syndrome	CEF
+schizophrenia	DISEASE
+malignant syndrome nos	CEF
+schizophrenia	DISEASE
+electroconvulsive therapy	CEF
+schizophrenia-and-disorders-with-psychotic-features	DISEASE
+neuroleptic malignant syndrome	CEF
+schizophrenia-and-disorders-with-psychotic-features	DISEASE
+malignant syndrome nos	CEF
+schizophrenia-and-disorders-with-psychotic-features	DISEASE
+electroconvulsive therapy	CEF
+self-injurious-behavior	DISEASE
+epilepsy	CEF
+sleep-deprivation	DISEASE
+sleep apnea syndromes	CEF
+sleep-initiation-and-maintenance-disorders	DISEASE
+lung diseases obstructive	CEF
+smoking	DISEASE
+dermatologic disorders	CEF
+somatoform-disorders	DISEASE
+congenital abnormality	CEF
+somatoform-disorders	DISEASE
+nervous system disorder	CEF
+substance-withdrawal-syndrome	DISEASE
+epilepsy	CEF
+suicidal-ideation	DISEASE
+hypertensive disease	CEF
+tobacco-use-disorder	DISEASE
+panic disorder	CEF
+tobacco-use-disorder	DISEASE
+dermatologic disorders	CEF
+adjustment-disorders	DISEASE
+acute respiratory failure	CEF
+anorexia-nervosa	DISEASE
+amenorrhea	CEF
+asperger-syndrome	DISEASE
+asperger syndrome	CEF
+dissociative-disorders	DISEASE
+folic acid	CEF
+dissociative-disorders	DISEASE
+retinal pigment epithelial detachment	CEF
+dissociative-disorders	DISEASE
+diethylstilbestrol	CEF
+dysthymic-disorder	DISEASE
+tropical spastic paraparesis	CEF
+eating-disorders	DISEASE
+amenorrhea	CEF
+erectile-dysfunction	DISEASE
+vagina	CEF
+frontotemporal-dementia	DISEASE
+primary amyloidosis	CEF
+frontotemporal-dementia	DISEASE
+niemann-pick diseases	CEF
+frontotemporal-lobar-degeneration	DISEASE
+primary amyloidosis	CEF
+heroin-dependence	DISEASE
+cataract anterior polar	CEF
+impulse-control-disorders	DISEASE
+chorionic gonadotropin	CEF
+impulse-control-disorders	DISEASE
+progressive disease	CEF
+marijuana-abuse	DISEASE
+postural orthostatic tachycardia syndrome	CEF
+neurocirculatory-asthenia	DISEASE
+pure autonomic failure	CEF
+pick-disease-of-the-brain	DISEASE
+niemann-pick diseases	CEF
+suicide	DISEASE
+recurrent disease	CEF
+asperger-syndrome	DISEASE
+epilepsy	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+epilepsy	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+epilepsy	CEF
+autistic-disorder	DISEASE
+epilepsy	CEF
+child-behavior-disorders	DISEASE
+epilepsy	CEF
+consciousness-disorders	DISEASE
+epilepsy	CEF
+developmental-disabilities	DISEASE
+epilepsy	CEF
+disorders-of-sex-development	DISEASE
+diabetes mellitus	CEF
+dissociative-disorders	DISEASE
+glycogen storage disease type ii	CEF
+dyssomnias	DISEASE
+sleep disorders	CEF
+erectile-dysfunction	DISEASE
+myocardial infarction	CEF
+erectile-dysfunction	DISEASE
+congenital abnormality	CEF
+erectile-dysfunction	DISEASE
+cerebrovascular accident	CEF
+frontotemporal-dementia	DISEASE
+congenital abnormality	CEF
+frontotemporal-dementia	DISEASE
+cerebrovascular accident	CEF
+frontotemporal-lobar-degeneration	DISEASE
+congenital abnormality	CEF
+frontotemporal-lobar-degeneration	DISEASE
+cerebrovascular accident	CEF
+marijuana-abuse	DISEASE
+hypertensive disease	CEF
+mental-disorders-diagnosed-in-childhood	DISEASE
+epilepsy	CEF
+neurocirculatory-asthenia	DISEASE
+hypertensive disease	CEF
+pick-disease-of-the-brain	DISEASE
+congenital abnormality	CEF
+restless-legs-syndrome	DISEASE
+sleep disorders	CEF
+restless-legs-syndrome	DISEASE
+sleep apnea syndromes	CEF
+sleep-deprivation	DISEASE
+sleep disorders	CEF
+sleep-initiation-and-maintenance-disorders	DISEASE
+sleep apnea syndromes	CEF
+sleep-initiation-and-maintenance-disorders	DISEASE
+restless legs syndrome	CEF
+substance-withdrawal-syndrome	DISEASE
+congenital abnormality	CEF
+tic-disorders	DISEASE
+nervous system disorder	CEF
+tourette-syndrome	DISEASE
+nervous system disorder	CEF
+tourette-syndrome	DISEASE
+epilepsy	CEF
+alzheimer-disease	DISEASE
+dactinomycin	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+attention deficit hyperactivity disorder	CEF
+attention-deficit-and-disruptive-behavior-disorders	DISEASE
+attention deficit disorder	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+attention deficit hyperactivity disorder	CEF
+attention-deficit-disorder-with-hyperactivity	DISEASE
+attention deficit disorder	CEF
+behavioral-symptoms	DISEASE
+attention deficit hyperactivity disorder	CEF
+borderline-personality-disorder	DISEASE
+borderline personality disorder	CEF
+borderline-personality-disorder	DISEASE
+severe combined immunodeficiency	CEF
+child-behavior-disorders	DISEASE
+attention deficit hyperactivity disorder	CEF
+child-behavior-disorders	DISEASE
+attention deficit disorder	CEF
+cognition-disorders	DISEASE
+dactinomycin	CEF
+compulsive-behavior	DISEASE
+obsessive-compulsive disorder	CEF
+compulsive-behavior	DISEASE
+osteochondritis dissecans	CEF
+conduct-disorder	DISEASE
+attention deficit hyperactivity disorder	CEF
+consciousness-disorders	DISEASE
+comatose	CEF
+delirium	DISEASE
+dactinomycin	CEF
+dementia	DISEASE
+dactinomycin	CEF
+disorders-of-sex-development	DISEASE
+turner syndrome	CEF
+disorders-of-sex-development	DISEASE
+skeletal bone	CEF
+dissociative-disorders	DISEASE
+rhegmatogenous retinal detachment	CEF
+dyssomnias	DISEASE
+sleep apnea obstructive	CEF
+dyssomnias	DISEASE
+primary insomnia	CEF
+erectile-dysfunction	DISEASE
+erectile dysfunction	CEF
+food-habits	DISEASE
+obesity	CEF
+frontotemporal-dementia	DISEASE
+frontotemporal dementia	CEF
+frontotemporal-lobar-degeneration	DISEASE
+frontotemporal dementia	CEF
+learning-disorders	DISEASE
+diabetes mellitus non-insulin-dependent	CEF
+mental-disorders-diagnosed-in-childhood	DISEASE
+attention deficit hyperactivity disorder	CEF
+mental-retardation	DISEASE
+trisomy	CEF
+neurocirculatory-asthenia	DISEASE
+postural orthostatic tachycardia syndrome	CEF
+neurocirculatory-asthenia	DISEASE
+multiple system atrophy	CEF
+obsessive-behavior	DISEASE
+obsessive-compulsive disorder	CEF
+obsessive-behavior	DISEASE
+osteochondritis dissecans	CEF
+obsessive-compulsive-disorder	DISEASE
+osteochondritis dissecans	CEF
+obsessive-compulsive-disorder	DISEASE
+obsessive-compulsive disorder	CEF
+parasomnias	DISEASE
+sleep apnea obstructive	CEF
+parasomnias	DISEASE
+primary insomnia	CEF
+personality-disorders	DISEASE
+osteochondritis dissecans	CEF
+personality-disorders	DISEASE
+obsessive-compulsive disorder	CEF
+personality-disorders	DISEASE
+borderline personality disorder	CEF
+pick-disease-of-the-brain	DISEASE
+frontotemporal dementia	CEF
+restless-legs-syndrome	DISEASE
+restless legs syndrome	CEF
+sleep-disorders	DISEASE
+sleep apnea obstructive	CEF
+sleep-disorders	DISEASE
+primary insomnia	CEF
+sleep-initiation-and-maintenance-disorders	DISEASE
+primary insomnia	CEF
+somatoform-disorders	DISEASE
+complex regional pain syndromes	CEF
+substance-withdrawal-syndrome	DISEASE
+disease of diaphragm	CEF
+suicidal-ideation	DISEASE
+severe combined immunodeficiency	CEF
+tic-disorders	DISEASE
+gilles de la tourette syndrome	CEF
+tourette-syndrome	DISEASE
+gilles de la tourette syndrome	CEF
