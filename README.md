@@ -11,7 +11,7 @@ Code and Data for [2016 PSB publication](http://www.ncbi.nlm.nih.gov/pubmed/2677
     * contains the processed data from CT.GOV
   * ./pubmed_matched show
     * matched diseases for both CT.GOV and PubMed datasets (semi-automatic matching)
-  * 
+  
 2 ./script
   * all scripts (mainly python and R) used by this project
   * rawDataProcessing.py main script
@@ -25,24 +25,6 @@ Code and Data for [2016 PSB publication](http://www.ncbi.nlm.nih.gov/pubmed/2677
 
 ### Data Pre-Processing
 
-####step1: using locally saved drugs.com data to find all drug list
-  * `tfidf.drugList_occursAtLeastOnceInAllYears()`
-
-####step2: map drugs.com name to PDR to ensure drugs can be mapped to BBW info
-  * `tfidf.drugList_findBBWInfo(candiDrugList)`
-
-####step3: map drugs.com-PDR name to NDC and marketing information
-  * `map.mappingMarketingDate_fromDrugList(candiDrugList_BBW.keys(), fh_ndc_source)`
-  * `map.mappingMarketingDate_fromDrugList(candiDrugList_robust.keys(), fh_ndc_source)`
-  * `map.mappingMarketingDate_fromDrugList(candiDrugList, fh_ndc_source)`
-
-####step4: mapping drugs to NDC for marketing date
-  * `ctgov.retrieveOnlineDrugTrialInfo_fromDrugNameAndMarketingDateDic(candiDrugList_BBW_dated, fh_ctgov_drugTrialContent_csv+'_BBW', fh_ctgov_drugTrialContent_tab+'_BBW', fh_ctgov_drugTrialList_tab+'_BBW', fh_ctgov_drugTrialTmp+'_BBW')`
-  * `ctgov.retrieveOnlineDrugTrialInfo_fromDrugNameAndMarketingDateDic(candiDrugList_robust_dated, fh_ctgov_drugTrialContent_csv+'_ROBUST', fh_ctgov_drugTrialContent_tab+'_ROBUST', fh_ctgov_drugTrialList_tab+'_ROBUST', fh_ctgov_drugTrialTmp+'_ROBUST')`
-
-####step5: find eligibile drugs with lower limit trial numbers per period
-  * `tfidf.selectEligibleDrugs(ctList_robust_pre, ctList_robust_post, para_lowerLimit_CTperPerid)`
-  * `tfidf.selectEligibleDrugs(ctList_BBW_pre, ctList_BBW_post, para_lowerLimit_CTperPerid)`
 
 ### Data Analysis (R)
 
@@ -57,13 +39,15 @@ Take the following steps:
   * group=ex
 
 source("./networkAnalysis.R")
-> There are duplicated entries in the edgelist:pubmed
+> There are duplicated entries in the edgelist:pubmed 
+
 
 > see overlap
-Rscript Comparison_overlap.R
-> source won't plot, need run as bash
+
+Rscript Comparison_overlap.R, source won't plot, need run as bash
 
 > see top table FOR BOTH OVERAL AND PER DISEASE
+
 source('./Comparison_topCEF.R)
 
 
